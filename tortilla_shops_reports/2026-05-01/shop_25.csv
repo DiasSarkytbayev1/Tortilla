@@ -1,0 +1,301 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+25,35723d0e-01f4-4119-b206-4aaa8c91827b,Concha Macías Montesinos,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:37:15.996456,without_onion,13.06,4
+25,f3f077f0-6f02-44ba-9316-8e5edf314cd6,Jimena de Almansa,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:04:18.962180,without_onion,10.41,4
+25,c1a37733-4265-475e-bf43-41f855b9257c,Óscar Chico Anaya,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:24:33.350203,vegan,,3
+25,08dd340a-b042-402b-b485-cd7321ada4c6,Sabas Chico Vega,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:04:58.042022,vegan,,4
+25,73a9445d-b3f2-4f3f-8592-b5c6e513bd4f,Leticia Miranda Alcázar,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:47:12.639693,without_onion,,4
+25,7b19056b-b3aa-4cf2-91d1-84606980b30c,Leire Loida Nogués Álamo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:00:27.303572,with_onion,,3
+25,ab06f15d-716d-4dc7-9cee-46a9b4f01f5f,Sarita Manzanares Castejón,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:36:50.240703,with_onion,N/A,5
+25,181c7f5d-a3e3-4caa-9c3a-898be6a6eeb5,Nacho Pons Neira,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 11:18:39.059314,vegan,N/A,4
+25,f7fd9854-73b5-48bc-9c24-d0f74f73b0eb,Emilio Valenciano Fabregat,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:10:11.616112,classic,,4
+25,d0c4a58d-c5f3-419a-82d1-4ae15def3acd,Chelo del Rodrigo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:23:39.709666,with_onion,,2
+25,c85b4a80-0b4d-4527-a79a-4f316ce0afb9,Edelmiro Lupe Morán Pacheco,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:44:57.418846,with_onion,N/A,4
+25,3d3e00ff-789e-499d-a23f-f21e9573005c,Amando Blanch-Cañete,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:21:13.933622,vegan,13.44,5
+25,108625d9-06fd-41a8-81e2-1c59bdf3d8cc,Manuelita Durán,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:28:55.857771,vegan,12.59,5
+25,d157544a-e6c9-4103-8f63-0e44161e64b4,Hernando Alcalá Bernad,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:44:56.161308,vegan,6.62,2
+25,f2ce75d0-f994-4b4d-99cb-aac5229d446a,Azahar Artigas Carbonell,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:25:06.247062,classic,,3
+25,28a85b6d-4437-4f4f-bfd3-1bb4533c2bd4,Fabiola Anglada Lorenzo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:19:44.630283,vegan,N/A,2
+25,b4272a5c-3069-4ca2-8a61-f5de8417843f,Isaura Terrón Cárdenas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:42:55.154219,without_onion,7.47,4
+25,33e05d2b-07c1-4020-a816-e594169a07f8,Natalio Trinidad Bello Sainz,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:27:09.589619,vegan,,5
+25,caf56207-10ec-41ce-a57d-bee6a2e54c55,Ulises Modesto Cuéllar Niño,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 01:02:34.116222,vegan,N/A,1
+25,37961edf-a4c4-4932-84ef-8fb67deb9fda,Agustín Noé Bastida Ortuño,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:51:30.609578,without_onion,,3
+25,b57e9032-c7d4-4d52-9fd3-a98415e5be48,Fausto del Canals,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:12:06.849354,classic,12.75,4
+25,191c2c6c-37ae-4f2b-b571-5729420967f2,Bernabé Peinado-Iñiguez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 05:28:21.739445,without_onion,8.68,3
+25,955cd75e-c3a5-4114-bf19-0138f17ce222,Jose Carlos del Gámez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:30:15.610835,vegan,N/A,4
+25,695e1d71-d6a4-4b97-9a6a-ac28007455a8,Odalys Talavera Dominguez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:43:38.762483,classic,N/A,4
+25,3264951a-533e-45a7-820c-c503f5ed97ca,Natalio Rivas Chaves,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:01:21.653126,with_onion,N/A,3
+25,151f69d4-b2a9-49d1-8d94-7c8ab7659e47,Jacinto Valderrama Ballesteros,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:33:07.530451,with_onion,N/A,4
+25,aea9f3b7-1b72-4f9a-90ae-c65de8cc80a6,Alicia Requena Verdú,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 11:41:25.624965,with_onion,N/A,5
+25,d8364151-e9e2-45f5-9526-047092d3c477,Julián Cal Arrieta,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:19:54.275676,with_onion,,4
+25,b58ffe9d-e4fb-4249-a4a0-b155e9168d31,Fulgencio Ruy Zamora Coronado,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:33:57.459015,vegan,N/A,4
+25,b889f8a9-7bce-4e41-af68-299c80d104e5,Eloy Tudela-Bravo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:43:35.014770,vegan,N/A,4
+25,61d934f6-57ff-44c9-851e-808edea06f7b,Alejo Casal-Román,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:04:08.056256,classic,,1
+25,26faa38b-9c8f-4cf4-914c-832ec78573bf,Rocío Falcó Correa,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:34:14.736067,classic,,1
+25,0a1cc029-c743-4cdd-9fa8-d0386d63a972,Ximena Rueda Gomila,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:38:50.873578,without_onion,N/A,5
+25,f8ee8612-98e0-4aeb-a67b-fcbc7eb97aff,Perlita Vergara Soria,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 11:55:51.942609,classic,8.76,1
+25,0d9e73a8-1317-4be2-b1d7-c28fce303019,Felipe de Saez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:04:17.835485,with_onion,,3
+25,1aba33f1-e5c5-4332-b73b-84e90035ed36,Rosa María Fábregas Arana,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:19:13.407925,without_onion,,1
+25,fffd7861-8ee4-484b-8a1a-b844b4a9f07e,Arcelia Lucas Cobos,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 05:36:25.273643,vegan,N/A,4
+25,7c705746-baa9-4c45-8fe6-919375f00e3f,Camila Macías Solís,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 11:01:28.480571,vegan,N/A,5
+25,bd4ec326-fcf1-40a6-bf8c-dd152507a2da,Olga Arce Esteve,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 02:22:03.492436,classic,,2
+25,543e0bcd-6591-4859-9b4a-d3eda256005a,Severiano Pinto Cabeza,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:47:17.237265,with_onion,N/A,1
+25,3f99a43c-4767-4f3e-85b1-c30927c7204d,Dani de Tormo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 05:46:16.569548,classic,N/A,4
+25,f7e03e06-2479-4bdd-87c0-a0cc0b5224b6,Florinda del Cases,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:19:54.601873,vegan,N/A,1
+25,620a782a-fc5d-4acd-8711-d47804afff13,Leocadia Farré Zurita,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:39:20.113934,classic,,2
+25,686b7b84-cc3d-4e10-811c-a447deac553d,Pastor Moll Fajardo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:27:55.271579,classic,N/A,4
+25,4290ef32-63e7-460b-9b76-9f7e059ecb32,Martín Bonilla-Martínez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 05:13:49.556197,classic,,4
+25,4245ac5a-3ade-4c95-a78f-c2ea7ad570c3,Rocío Saldaña Lasa,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:52:10.799723,vegan,,1
+25,655fb9d1-a064-4ebe-8265-4bddc61933d2,Patricio Jerónimo Arjona Mas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 02:22:17.979922,vegan,13.14,1
+25,0833c37d-c05c-49f0-8c75-a6e2cf2fd323,Bienvenida Azahar Barberá Macias,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:37:05.137253,classic,,2
+25,c156db28-cbfe-4f1b-a512-65ec5cd2119e,Rafa Ruy Barceló Roldan,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:37:06.473280,with_onion,,5
+25,b24416d4-2438-4889-8e9b-46112c92dd9d,Goyo Reyes-Valera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:58:36.520133,classic,N/A,1
+25,0fa1b84d-9f83-481d-b20a-363b2e29bd02,Gema Sobrino,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 15:13:28.774197,classic,7.55,5
+25,f1f936d6-4dfa-467d-961c-0f97a567ef98,Prudencia Azucena Crespo Almagro,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 02:34:26.890783,classic,N/A,1
+25,7f1d96bb-9883-4d74-a0ee-8e93ee516c75,Elba Tejedor,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:41:37.701956,without_onion,N/A,5
+25,696e5b96-f21a-4d04-be12-3ef5faf36e7c,Américo Nebot,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:53:43.149764,without_onion,14.34,5
+25,5a27edae-bf86-4561-9f9b-2c2abbc863b5,Lucila de Iglesias,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:20:06.044855,vegan,N/A,5
+25,31fd4223-0cc0-4a18-98d4-09fe2b0b567e,Clímaco del Soler,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:32:58.186698,classic,N/A,3
+25,3dba8e10-12b7-40a2-9283-4e3994248612,Patricio Grande-Torrens,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:28:11.750411,classic,8.44,1
+25,8c8dc181-7ba9-4d3d-b234-f414b52b110a,Ramón Andreu Talavera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:03:55.154813,classic,8.17,4
+25,267f1a1d-d0a2-420d-b1c7-aedde7624525,Tito Caparrós Polo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:27:12.362463,with_onion,,4
+25,a5c36dd6-aab3-44e8-b4f7-e3a9678815bd,Leandra Domitila Castelló Casares,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:25:47.006520,with_onion,8.84,1
+25,a3ff7c44-cc45-4a97-b0b2-bb1b674802d5,Pánfilo Delgado Barberá,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:47:42.740150,with_onion,,1
+25,418ad817-627a-47c2-b6af-5d3869637cf9,Lourdes Corral Aliaga,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:40:57.977274,classic,,2
+25,eb97c2c3-ac9b-400b-a392-79d6e726141b,Graciana Arcos Castañeda,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:51:09.299096,vegan,N/A,3
+25,22f31158-fcff-4c06-b194-68bde7721aaf,Fabián Ferrández Otero,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:47:03.188448,vegan,,4
+25,e3dd5481-f8d4-4569-8948-30f84a013b4d,Marisa Sola Jerez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:42:16.665185,with_onion,,3
+25,3b96541b-5924-47a9-a9e2-08d2e1bccaba,Epifanio Araujo-Feijoo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:40:52.411368,with_onion,N/A,4
+25,40c03d0a-b641-4995-b665-ba751014bb45,Aránzazu Carrión-Vera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 05:51:53.982369,with_onion,N/A,4
+25,1670e9d6-a498-44c4-8dde-c6304b64d2d6,Jacobo Aparicio Murcia,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:34:29.691168,classic,N/A,4
+25,a4cdedc3-a51a-476b-840d-8bc5d6bd4366,Sandalio Laguna Valderrama,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:27:39.874096,classic,8.66,5
+25,a27684a9-91c7-47ce-beab-f4f496ad06df,Fernando Guerrero Solé,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:00:05.701062,without_onion,,4
+25,83671b37-d859-4dac-93cf-d329ec634d6d,Malena Priego Juan,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:39:14.974025,with_onion,,4
+25,9e2b56eb-9c0d-439f-bccd-8c91e57ad5f3,Malena Verdejo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:44:04.275570,without_onion,,3
+25,069b247e-5684-4f84-82b6-7fdf5dc62630,Alonso Donato Esteve Bravo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:59:41.025038,vegan,,5
+25,f350ec06-7acf-41ce-a275-57a55e59fc9e,Sarita de Benet,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:27:32.428119,with_onion,5.05,3
+25,25e6e89e-d29f-40b4-a622-10eae8af0cc0,Nicolasa Carro Baños,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:27:46.284651,classic,12.11,2
+25,6ef302f0-f1c8-4af2-8c48-8515ccf39e85,Fito Cabrero Bauzà,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:04:17.161796,vegan,7.59,5
+25,5e4bb5f2-3205-4466-9588-7f1a0d4a72ec,Eustaquio Verdugo Barreda,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:43:30.370641,with_onion,6.52,2
+25,48e79f1b-7d86-4f9a-aeec-3f2e377bf015,Imelda Arnau Criado,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:17:58.002591,with_onion,N/A,1
+25,15dd2b5f-2c79-4c4c-aa01-ac9626e66436,Cristian Solé Sierra,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:11:32.618579,classic,10.68,1
+25,d5defa21-cc78-4d3c-823d-b812b166d283,Alexandra Mendoza,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:36:12.111752,with_onion,N/A,1
+25,f05edd92-f9eb-4ccf-9327-3926cae5a9d9,Plácido Severo Quero Vidal,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:33:33.857000,without_onion,N/A,5
+25,0bcb237e-1b1e-464d-9667-37e113ace85d,Florencia Sierra Ferreras,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:12:02.392098,classic,N/A,4
+25,37804652-50d3-41c8-a01f-4174164347fd,María Dolores Mascaró,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:17:37.162059,without_onion,13.55,1
+25,a57124a3-cf82-4fd8-bd49-229aac46b721,María José Gaya,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 15:43:19.516086,vegan,,4
+25,341dea42-dd17-4d74-8306-87ea78051134,Octavia Criado Galvez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:09:42.186815,without_onion,14.7,3
+25,8e1327a4-0fdb-41a8-93a8-e04771ed07d9,Pacífica Cabo Andreu,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:27:10.069128,vegan,12.89,3
+25,75ce4c6f-98bf-4fc0-a4e1-5128610d4093,Herminio Feliu Jordá,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:40:51.829631,vegan,N/A,5
+25,9268c4b7-148e-466b-a880-1f46e8381086,Alma Amor Balaguer,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:00:23.967676,vegan,,2
+25,903abc0a-5ec7-440d-9884-6a354754046c,Susanita Consuelo Castell Fabregat,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 15:09:28.612698,with_onion,,5
+25,614b7efb-f3c2-4227-8e52-0f7b637fe411,Narcisa Muro Reig,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 01:35:24.725077,vegan,,2
+25,1773cc91-cc78-4697-ba2e-1b1f58ebd165,Anacleto Zapata Jara,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:25:55.894632,with_onion,N/A,1
+25,22779d03-b602-41e8-a03b-f84c532f29b8,Adelardo de Losa,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:58:59.883134,classic,6.52,3
+25,01e60483-a0c4-46fd-ae47-4ef3cfa13ec5,Ainoa Caparrós Araujo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:33:49.877338,vegan,5.51,5
+25,6e4cb597-05c5-44fb-949b-dfd91c58911e,Iván Rodriguez-Vilanova,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:03:12.079557,without_onion,N/A,3
+25,d72906a6-47b1-4f43-a99c-1ed8eae8ab77,Encarnacion Estévez Cabeza,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:27:30.571892,without_onion,,1
+25,aad82fed-707a-4b8e-8a3f-6cd4aa100557,Conrado Batalla,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:35:32.572744,classic,12.17,5
+25,f1b1a13e-b870-4516-8ca0-026ea4b46f41,César Carballo Campos,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:29:44.957303,classic,13.66,3
+25,a1cdc644-61c4-4a8a-8853-f6cc717e6307,Dalila Téllez Estrada,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:31:27.707536,without_onion,8.0,5
+25,f542805c-ee2b-4bdd-b838-6b3a492fa262,Cándido Prats Sedano,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:50:41.658822,with_onion,N/A,2
+25,1d21f313-d51d-4c26-bafa-ea847cb1c145,Evangelina Cuenca Baró,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:26:47.678506,with_onion,,4
+25,b6101673-e750-49bd-aed6-86e3bc5b5b41,Julio Goicoechea Bautista,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:56:57.158085,classic,12.85,5
+25,927f1139-d25a-4b40-b560-78fbbb451686,Abigaíl Tena Arenas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:30:25.607401,classic,12.77,1
+25,3f52833a-05fd-4fd9-bf05-4d063083f21c,Salomé Ibañez-Porras,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:52:53.805831,vegan,13.18,3
+25,43e094f4-1015-4bac-b341-3b353b1318dd,Delfina Barral-Gil,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:29:35.299676,classic,6.31,3
+25,3e28eb88-7d32-49ca-8e99-6fb18f20f543,Inocencio Carretero Escobar,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:04:09.755912,without_onion,N/A,2
+25,bf877e18-5141-471c-ab66-4fbb4823000f,Tecla Campoy-Julián,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:55:21.363687,classic,N/A,2
+25,fadf4873-3631-4b14-8d1c-bb7c32bf6a2c,Lupe Lara Vilar,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:52:28.367491,with_onion,9.13,1
+25,5f5b0f12-fbc7-423b-9528-7ca2ebb5dd4b,Gema Gloria Simó Ferrera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:30:39.977400,vegan,N/A,1
+25,4f2b80b5-a7d5-405b-a96c-f91680125d2b,Adolfo Barriga-Adán,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:35:14.874298,with_onion,,4
+25,a7a60205-4540-4151-907f-01068b79957c,Ciriaco Medina Escolano,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 11:03:55.181629,with_onion,10.03,3
+25,490e9aa4-1d80-4741-bec7-10d7eb05cc50,Alex Ambrosio González Rico,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:20:08.011208,with_onion,,1
+25,2e9526cc-5093-451c-aa8b-bc793be1764c,Patricio Che Valentín Santos,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:36:07.741741,vegan,13.12,1
+25,1da7067b-3485-49c0-899a-8adbf70ecb43,Áurea Toro Galván,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:11:27.731103,with_onion,,5
+25,e233f13d-3ba0-466d-8a30-db1fc1426b6e,Miguel Arce Mayoral,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:59:34.194889,classic,,1
+25,182ecc46-0d3f-43ef-a253-f1fd229aef23,Gerardo Cecilio Salamanca Armas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:20:33.089468,vegan,N/A,3
+25,b860fd10-19ca-4338-93ed-485be197d278,Nereida Roca Morillo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:30:43.285491,without_onion,N/A,2
+25,d6273514-3d45-4916-b2f1-06b0d0e4bd1d,Pánfilo Abril Folch,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:09:12.004200,with_onion,N/A,2
+25,d39fec97-ca10-4c9c-a7b1-60da6ae42261,Julián Lobo-Salvador,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 15:49:11.851200,classic,11.51,3
+25,f04f4d97-5574-4880-bd31-2292bf158582,Abraham Mateo Carro,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:04:36.854449,without_onion,9.63,5
+25,1703de7a-8614-4246-a30c-8fcd7a9c3af9,Nando Ureña Aguiló,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:49:05.309130,vegan,N/A,1
+25,81d6f030-cfbc-458c-87fa-49c074be9fc3,Rosalina del Jordán,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:51:19.826081,with_onion,N/A,3
+25,a24aa198-d7e5-4189-903a-fc68ea5956c0,Teodoro Rojas-Pérez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:01:29.628700,vegan,,5
+25,97943d0d-4630-4288-94f6-db71479ade41,Catalina Castrillo-Soria,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:29:30.817974,with_onion,,3
+25,c526c781-e7b1-4862-8a63-7ae62cf86502,Anastasia Valdés Quintana,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:46:46.210600,with_onion,6.35,5
+25,0327ab55-f2a3-42e0-bdc9-b547c9908b6e,Pastor Prada Palau,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 01:50:15.866814,vegan,,2
+25,759903b9-ea87-491b-9640-ca82fda2fd51,Blas Vives Casanovas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:47:22.753001,with_onion,,5
+25,7ed54616-b82f-4959-90fc-8bccce8b3e9f,Tomás Lastra Ángel,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:35:56.302510,classic,13.19,1
+25,f5f4a404-a20f-4171-bb8d-0896b2753a00,Purificación Bárcena Ibañez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:01:58.338595,without_onion,,5
+25,810f4518-9408-40d7-a34d-7efd2bba4251,Flavio Cases,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:48:42.445793,classic,,5
+25,1a6209d5-4283-4177-a6a2-9a09ddbc07fb,Nicolás Aguirre,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:40:00.636751,classic,,3
+25,730d0bcf-19a3-496e-9ddb-227b4607c735,Palmira Bartolomé Campillo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:52:20.391834,classic,5.84,4
+25,eb8c929e-e563-435c-95a5-da469bec8f2d,Amílcar Prada Porcel,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 02:55:05.809837,classic,N/A,3
+25,86198730-ab34-4317-ac97-7323de54a09c,Crescencia Suarez Rodríguez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:42:02.650819,vegan,N/A,4
+25,cd628f24-a9b5-4d8d-9c38-3eb8f7ae52dc,Ariel Guerrero-Artigas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:46:25.799792,vegan,11.73,2
+25,299837e8-f6f2-4f5f-b44c-6b52dc914441,Goyo Araujo Lago,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:32:12.737965,classic,N/A,2
+25,95695d52-7bdd-41fd-8d22-2654b149d90d,Jose Ramón Adalberto Mur Otero,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:15:17.855214,without_onion,6.8,2
+25,abe9759f-518d-418a-8b7e-6a61fe570f27,Charo Corbacho Company,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:26:36.859065,with_onion,N/A,5
+25,b6f10c2f-5519-4f07-876f-f1a4192788cb,María Belén Portero Losada,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:57:59.262476,with_onion,,5
+25,9adf99f5-33a1-45b9-9f90-dbb21f73d962,Nazaret Gomez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:49:10.685713,without_onion,11.66,3
+25,0af8c001-48c4-47c9-9f78-3397bb71f93a,Damián Jurado,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:53:52.202988,with_onion,,1
+25,7bb8fc27-a39b-4b88-bd84-dcfc6fd4a3a3,Ale Mata-Font,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:55:15.836103,classic,13.38,2
+25,0203ecb5-95b2-4c08-963d-54db9d60c548,Carmelita Noguera Solé,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 01:23:39.673051,classic,12.57,2
+25,480f1aae-1a6b-4343-b905-962dc107b557,Nadia Josefina Diaz Jiménez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 05:51:12.287665,classic,,5
+25,ce91a774-42b8-43bb-aa35-258e5a550558,Moisés Monreal Palomares,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:51:00.832108,with_onion,,1
+25,dc94212d-e9a6-4391-9576-123d8b37667b,Camila Taboada-Martin,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:03:30.504397,without_onion,,1
+25,ddb7fea2-41e4-4382-b4c6-d9733192ec4a,Hernán Néstor Monreal Palmer,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:51:41.443591,vegan,,5
+25,902abc06-9aa3-425e-95dc-68b73119b561,Amor Manuela Calzada Roig,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:35:20.715431,with_onion,13.13,4
+25,89d61942-4a5b-4cb5-b27b-520b6638d210,Ciriaco Caparrós Ángel,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:30:33.509290,without_onion,14.15,5
+25,beba97cc-56ac-418f-8624-da6ba9cd9c33,Evita Méndez Iglesia,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 15:43:07.106126,vegan,,5
+25,124bb0a4-cf46-44aa-b88e-16aa3866f44f,Paula Monreal Osorio,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:12:15.254905,classic,N/A,3
+25,8df4e295-2dc9-48fe-b836-47bd319a928e,Raquel Bueno Barrena,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:43:09.367694,vegan,6.75,4
+25,c8756928-0719-4cc8-b33c-41c5ca66ab85,Fidela Bayo Sabater,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:52:10.244835,vegan,,5
+25,ec8b1bc3-8f57-4029-b6fc-f0fc392eb1b6,Gregorio Alba Estevez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:19:08.971565,classic,11.6,3
+25,71ed390a-bb1a-4abe-9b06-d7b949313620,Morena Pons Belda,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:43:45.433972,vegan,14.88,1
+25,c6dc9782-fd37-4838-aeab-e25935758477,Francisca Camila Sureda Peiró,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:03:27.665188,vegan,8.54,1
+25,53f579ab-8225-41c8-bd5a-f0dd7f3b4781,Cayetana Pozo Carro,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:20:14.219209,classic,,3
+25,880760b3-1649-46f6-ac60-5cd27508c4d0,Juanito Pablo Tapia,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:51:28.977991,with_onion,N/A,4
+25,043a0d80-c42d-4e13-8d2d-153ee63e5b0a,Dolores Blanca Blanch,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 15:46:10.427718,classic,,3
+25,d7bf548d-8bce-453f-9404-96d25cf06dd9,María Manuela de Mercader,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:18:50.202701,without_onion,11.47,3
+25,0b44b3e9-b3c2-41de-93ed-bd9c87bb6b3a,Celso Prado,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:24:59.026636,vegan,12.84,4
+25,c194186a-0111-4360-87f5-5d6dd5764a8f,Andrés Felipe José María Jordá Benavent,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:27:28.841785,with_onion,5.25,5
+25,16e6b3a8-1e2a-4f70-b2f9-e16ec89311fe,Fermín Torrent Alegria,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:16:27.314824,vegan,N/A,1
+25,b90acd7f-10d8-425b-a6e0-67cc710a387e,Benigno Mora Roig,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:41:08.926029,without_onion,N/A,4
+25,7108b5d9-a86b-4fea-94bf-fd23cbb47c79,Nadia Catalina Cuéllar Folch,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:28:21.941221,with_onion,,4
+25,5e545cf8-62d0-4d72-9f5d-731c1208951c,Lupe Herrera Esteve,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:15:42.408698,classic,,2
+25,0f8cd4e4-857d-4744-b0f0-93a308553d51,Claudio Gutiérrez Barrera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:21:18.844786,without_onion,N/A,4
+25,e4a9947f-0508-408c-ae5d-65f75aec1582,Alcides Pinedo Landa,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:24:58.945547,without_onion,5.19,5
+25,0df54ee9-71be-4705-890c-c4c12473a050,Esther Palau-Casanovas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:05:11.130331,without_onion,11.48,4
+25,446f2b92-6f38-4474-b28a-db2230937b63,Erasmo Tristán Miranda Gomis,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:33:03.691566,without_onion,12.07,1
+25,d82de324-373e-46a4-a4ec-43014bf7fffc,Dulce Fábregas Grau,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:55:14.656528,with_onion,10.92,5
+25,b0d7a52a-d6b4-40ac-84a7-d7d1d1165228,Mayte Santamaría Téllez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:55:27.136708,vegan,,2
+25,eb1a658d-5128-4a24-90cb-edadb6dbb762,Aurelio Cabello,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:34:02.209156,classic,,1
+25,72cbe0c4-99ed-4fcc-9762-ae006afac55d,Esperanza Moll,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:53:01.694550,vegan,,1
+25,191a7541-f386-4353-823d-06ffc580261e,Palmira Ramírez Blazquez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:20:16.876942,with_onion,N/A,3
+25,1265c764-26ca-4124-8e83-0ea7ac59b7a8,Ramona del Jiménez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:42:27.930102,with_onion,5.89,4
+25,631114da-bd96-49a2-a047-68d1c675ea92,Duilio Viñas Calderón,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:39:54.647428,with_onion,,2
+25,91cded54-e08e-4217-b500-09ae0ca6ebca,Valentina Crescencia Marquez Romero,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 05:40:38.098650,classic,,2
+25,edbd0655-3f16-4a95-9028-6455d6898147,Fidela Rios-Gallo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:23:17.704346,classic,10.57,4
+25,305bb4e9-f4dd-44a6-acdc-f2d7feb333bf,Luz Colom,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:04:08.094408,vegan,,4
+25,17742e3a-8ac5-417e-a168-568be38e12bc,Juan Antonio Chema Porta Quintanilla,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:43:02.506454,with_onion,8.9,4
+25,167c56b0-150d-4e3b-a1a7-5d59c1159aac,Haroldo de Alberola,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:39:41.060112,classic,,5
+25,109a02d0-33f1-4242-a141-ef1b167eec21,María Del Carmen Doménech,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:12:41.570089,classic,11.8,3
+25,c53eb8f5-cd2e-4606-bda9-8ca994f8832e,Marcia de Corbacho,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:08:21.069122,with_onion,,1
+25,3474be2a-5ae9-4f98-b19f-e48ab44f96fb,Pedro Saavedra Artigas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:34:38.963884,with_onion,N/A,4
+25,41dde686-df88-4f00-b390-2d992dba1b01,Consuela Navarrete-Pera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:05:40.630099,vegan,,4
+25,cfa4121c-5ede-4cca-80cd-f65dd89ccc93,Luis Miguel del Vergara,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 02:04:21.234561,with_onion,,5
+25,84f084d6-2212-482a-a096-c38a2d1a6214,Herminio de Benitez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:00:46.254149,vegan,N/A,5
+25,84c14872-99db-420b-be36-11435012da17,Eloy Rojas Ureña,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:08:52.731658,classic,,2
+25,c7439088-6f8c-41fa-b11f-f676f8bea9bd,Rosario del Herrero,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:26:20.419742,without_onion,8.35,1
+25,9b26c06b-d33c-4bd0-aba9-e69987925c09,Mayte del Alonso,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:24:55.468555,classic,N/A,1
+25,fb3ce1f3-48e1-45fb-92ce-a800171b29c6,Casandra del Ruano,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 11:57:44.004364,classic,N/A,3
+25,d77143c3-12ea-437e-96f1-d3b7590f5a82,Eugenia Varela Ródenas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:25:38.102176,classic,11.92,1
+25,d053b24a-c0a6-4daf-8147-22e01c8d69f3,Lisandro Vega Cortés,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:16:30.430206,without_onion,N/A,5
+25,9fae3774-5234-4e7f-8c1d-570567d93ee6,Asdrubal del Esteve,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:40:12.892013,classic,11.67,3
+25,536c9484-3b6e-486d-9707-5c2761fb259c,Yéssica Peláez Cano,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:21:29.033630,with_onion,,5
+25,fe32fcef-4d95-4065-92fc-44798433e3c5,Felicia Cañizares Casal,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:30:25.227722,with_onion,11.87,2
+25,605481e4-bfb7-4739-ba4e-7bfd55905c43,Sandra del Guerra,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:23:37.130178,with_onion,,5
+25,b401888b-472b-4a59-aa49-b43081dfa040,Jafet del Serna,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:34:16.750198,classic,N/A,1
+25,9dc8fad0-749d-4937-a98e-af5c3fd366ee,Teófilo Montoya Cabeza,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:22:52.905134,with_onion,N/A,1
+25,240f17eb-cdde-44a9-982b-57736efc44bd,Francisco Jose Company Talavera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:26:59.446739,with_onion,,1
+25,73a55577-b407-4ace-9c08-8148c91ec8ff,Irene Figueras Rocamora,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:33:32.572189,classic,N/A,3
+25,83ea4f95-348a-4642-afae-5d31bf15e509,Yésica Gutierrez Rosa,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:08:39.888277,with_onion,,1
+25,d7f4b400-e976-4b3d-89b5-204e343f224b,Susanita Espinosa Contreras,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:49:05.098475,vegan,,1
+25,25e30d7e-87b7-4aad-83c7-0f0228a5e990,Noa Amanda Murcia Armengol,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:59:00.704245,vegan,11.53,2
+25,9cfd5d32-e6a6-4288-85f8-2a158cb886b9,Leticia Santiago Alvarez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:40:31.821714,vegan,,5
+25,1ebdfbbc-786d-49d4-ae98-9789632eafcb,Wilfredo Vives Esteve,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:15:59.827149,with_onion,,1
+25,c9594f39-29bf-4af3-b58d-69a2df33c6d1,Silvia del Parra,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 15:54:14.656425,without_onion,,4
+25,30ba990f-dc17-4002-a006-9658d4b15e2d,Cruz Alcaraz Expósito,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:19:36.037142,vegan,,1
+25,9352ee1e-4182-40cc-ac9f-99587f6b6f90,Tamara Navas Soler,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:20:44.686995,classic,12.69,3
+25,187b19d7-9113-4802-9862-2f18bad90822,Renata Durán-Morell,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 15:06:28.338557,vegan,10.78,4
+25,23dc33fc-a842-4270-bf0a-8dc5d675bd62,Porfirio Ávila Manuel,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:36:52.543064,with_onion,N/A,4
+25,98b51135-1dee-4a35-839e-ea48519159e9,Áurea Rueda Solera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:06:18.298294,vegan,,4
+25,d820ed00-dc32-4cf2-904b-3e9caacb81c0,Bautista Jover Vázquez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:44:01.661204,vegan,13.19,4
+25,eeede692-fd91-4273-b21e-fc4039397c97,Héctor Barrio-González,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:37:06.718642,with_onion,,4
+25,fc56e05d-b30c-41c4-9b7a-ad8ad27f606a,Sergio Gimenez Crespi,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:38:13.409032,vegan,N/A,3
+25,6477eede-ee95-47d7-890d-14a1a2b6cac5,Maximiliano Juan Luis Cid Nadal,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:35:43.314936,without_onion,5.31,4
+25,4f9fb2f1-26cb-4bd2-9ad3-1c75dd3c99ad,Calixto Abella Barberá,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:24:49.268863,vegan,14.69,1
+25,b1c8dc29-5262-4b9c-8c7f-d8e5a8f1884d,Román Hector Lobato Cabo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:30:54.936039,vegan,13.38,4
+25,95982c53-4022-4db8-8a02-58b69b10cc39,Jordán Perera Cerdá,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:47:19.842834,classic,N/A,1
+25,880f90be-dd6f-4ae6-8c1b-803d4863c480,Paca de Alvarado,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:53:15.901476,without_onion,11.41,4
+25,3976a176-a831-492e-9e73-7bb5608ee87e,Rómulo Aparicio Mayol,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:05:43.266882,vegan,,5
+25,f3e8fcb3-4b43-4e47-9c8a-62ba68867ce1,Leocadio Perea Sanabria,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 11:50:00.543667,with_onion,,3
+25,2a83accb-8ad6-440f-92c2-bae8c34a336b,Eloy Cebrián Barriga Porta,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:13:07.220797,classic,9.03,4
+25,e2bc06ef-6471-40a2-b557-d50d868bd0d1,Lupe Botella Sotelo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:57:28.709236,without_onion,N/A,5
+25,35e6c4fc-161c-4c60-9a77-32aabb9390b1,Mayte Cañas Benavides,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:40:40.165805,without_onion,N/A,2
+25,0ef873be-2efb-462f-9e2a-1dcab6a08fd7,Cipriano Ballesteros Páez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 18:53:59.601498,classic,N/A,5
+25,79462b59-946f-4308-8e0a-12e2e8f8f3a3,Noemí Bejarano,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:13:15.303259,without_onion,N/A,1
+25,13ef4e66-97f8-4f35-a152-b7260a7c7316,Carmela Aguilera Amorós,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:20:19.500751,without_onion,N/A,4
+25,bc19f1a2-e5b0-41e5-b91e-10e578ecb8ec,Simón Solera Egea,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:55:28.697302,classic,N/A,3
+25,df557ef4-fec4-43dd-86a2-ed579d4a3efc,Pablo Figueras Maestre,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 15:37:27.301734,with_onion,N/A,2
+25,ba542e19-efda-493a-addd-80d27a0424d7,Hermenegildo Cortes Barrios,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:01:57.722755,with_onion,,4
+25,51f65d8b-51f2-4969-9456-6ff77d11564d,Xiomara Valencia Conde,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:07:56.692884,with_onion,,2
+25,4734b420-bf24-4ccf-97c9-65113d0353cc,Efraín Hernandez Asenjo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:18:39.909298,vegan,,4
+25,767ff0e4-e913-40a7-882c-93d356a255b1,María Alarcón Ripoll,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:02:22.627830,with_onion,10.84,4
+25,1bd80010-3add-4e80-8cd4-afb98c5d0269,Venceslás Nebot Alcántara,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:41:09.258552,vegan,N/A,5
+25,0d5ccb1e-5968-4234-9934-cd86950bd1ad,Javi Salazar Reina,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:57:32.894825,vegan,13.42,1
+25,ed611bda-c523-4cc7-84d4-3f10bc5c8883,Ruy Reinaldo Marquez Ledesma,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:17:51.239484,vegan,8.03,2
+25,bc7b6c4e-ee43-42f7-8a3c-e972500e92db,Alicia Ferrero Ros,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:42:25.046864,classic,,3
+25,29fcbc5f-856e-421b-946f-f23703146480,Cristian Barco Mateu,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:16:52.725518,classic,9.38,2
+25,9c94ce54-fe83-481b-ae67-67b0459e664f,José Antonio del Arenas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:23:10.014758,without_onion,,2
+25,928f38de-88d9-4a27-8f23-6666059e49e5,Patricia Padilla Recio,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:25:00.605533,vegan,10.81,5
+25,3175c1e3-b9af-4ad8-bbff-74d1c3e8b147,Pili Berrocal,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:10:06.995920,vegan,N/A,5
+25,d850647c-1849-48b9-b775-a69d2fcc19d2,Jonatan Manjón Gonzalez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:11:38.894180,classic,9.07,2
+25,58d4cd18-e73c-4195-aaf3-68b5f4d01a24,Javiera Fuster Narváez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:52:13.218172,with_onion,N/A,4
+25,dea7006a-7fd5-48bb-9a62-17a53884f153,Lucila Piña Díez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:41:57.934474,without_onion,,3
+25,e7675c4e-bbe3-450f-b5ae-ad298d27e6e5,Fidela Sala Lamas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:12:55.658305,without_onion,,3
+25,ef1c44da-6707-492b-b38b-27fb80369808,Fabiana Hoyos Espejo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:01:29.140536,without_onion,,2
+25,d7f50bbe-b981-455e-8629-3ddb4cb21097,Isidoro Villegas Borja,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:37:11.053103,without_onion,,2
+25,e3d50be5-6c8c-4180-9f8b-6288e609fb28,Vera Antón-Morales,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:03:06.360777,classic,10.7,5
+25,bec23142-bb65-4fc9-ac1c-b6f8d4742876,Belen Viviana Hernández Santiago,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:21:28.870448,classic,,5
+25,5c6df478-1cd5-4f14-9a1a-ca612ce1e013,Tito Bautista,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:13:41.940882,with_onion,,2
+25,d5b288dd-ff60-444f-9cbd-98edaa8a46c4,Guadalupe del Mendoza,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:26:36.859754,classic,14.3,4
+25,ff58f830-dfb8-44dd-99d8-b03d2d729ef2,Lola Porcel Pinto,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:26:15.468055,without_onion,,3
+25,dadaa69c-51e7-4fef-ad08-05fdcdf6cbde,Selena Valderrama Perea,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 02:29:18.272639,with_onion,,2
+25,2b83a20c-cd86-42f9-ad55-72c4326d5499,Yago Torrens Villa,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:08:03.525902,without_onion,,4
+25,0242999b-5a1e-49fe-b7c0-bd736213fdd3,Azahara Padilla Quintana,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:46:18.204684,classic,,4
+25,519e3108-5347-4b38-9a5c-11e054a081de,Carina Armas Giménez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 02:48:18.183304,with_onion,13.15,4
+25,310eea9a-a9a1-4a2a-9dec-dd25068af40b,Jimena Ariza Mayol,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 04:16:45.159242,classic,N/A,5
+25,c201772e-7d7c-4685-b042-411fd04c975d,Gracia Nogués,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:24:07.471297,classic,,2
+25,8c03a40b-e3f6-46ee-8a26-a71b3900812d,Belen Segarra Bermudez,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:07:33.129375,vegan,11.28,1
+25,33497bbd-278c-4884-9503-81c9ee1d0e9e,Ámbar Barrena-Cardona,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 17:23:14.181125,without_onion,,4
+25,707d8d3c-df43-4f8d-872c-0df52267f264,Blas Catalá-Sanmartín,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:40:17.204570,classic,8.33,3
+25,facb6442-827a-4b45-b9a4-01cf22d29f45,María Orozco Álamo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:00:52.002779,classic,7.72,2
+25,1e2ca0aa-bab9-415d-b844-6ac3533de34a,Javi Llano Fuster,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:05:14.053082,with_onion,11.99,2
+25,b5e81238-68b2-4d30-b30a-e9ddddc68d69,María Teresa Fabiana Alemán Cantero,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:55:46.215544,vegan,8.27,1
+25,316becd8-4733-4c49-8d06-30281add8754,Adalberto Román Granados,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 21:17:08.840298,without_onion,,3
+25,514abd39-014e-45a8-ac67-666e812a0aea,Alicia Bibiana Canales Carrera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 07:23:28.252474,classic,N/A,5
+25,ce82b680-74f3-413f-b5f9-3e5dca47b4ef,Azahara Gordillo Iglesia,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:35:52.588193,without_onion,N/A,4
+25,54d3e27c-fe9a-4966-bf93-d7ddd2c4c3db,Nazaret de Santamaria,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:55:39.606280,classic,10.8,3
+25,bf3a8ea7-6473-4e07-a379-30ee67f15912,Rodolfo Vicente Manzano,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:06:30.704036,with_onion,,1
+25,af268fdf-5b4a-4eec-8ceb-0069682dc614,Andrea del Iriarte,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 19:01:30.752339,without_onion,,5
+25,8f6707bf-ed29-47e7-aafb-9a76775b9642,Tatiana Peláez Palacios,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:43:35.344917,classic,9.58,1
+25,d0e7adc5-fc26-4e16-be21-6ff1f3cc5eb7,Vito del Vallés,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:15:51.087662,with_onion,N/A,3
+25,8765815f-ffb2-43ab-8afb-2067ee2fee02,Eric Solana Vicente,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:24:04.761348,with_onion,N/A,2
+25,1cfa46c1-952c-4ddc-83b1-e6df08849b27,Modesto Roselló Briones,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 13:43:32.899695,vegan,N/A,1
+25,f2933527-58a9-4d34-a9de-10b534c57f77,Hilda Espinosa Bosch,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:51:58.551330,with_onion,10.84,5
+25,98af646a-f0ab-4146-b9d7-2650c4666d97,Ambrosio Gordillo Oliveras,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 02:12:43.042869,vegan,5.07,2
+25,d5699474-8904-4916-a981-bccb054105a6,Octavio Bayona Giralt,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:07:59.136874,classic,,5
+25,9e1da5e5-cc28-4bc4-b1a8-e2922c0a6c67,Xiomara Tello Pi,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 23:01:47.851363,without_onion,12.83,4
+25,2a89dea3-cde8-46ea-aaec-5d9283678c56,Simón Diego-Lillo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:41:26.504910,with_onion,,3
+25,85f7833e-0a51-47e0-b52c-3507b0521dd2,Félix Hurtado Torrent,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:22:57.797152,vegan,,3
+25,2a4efa65-ab6b-4137-8577-7fd2bd42e87a,Rosa María Canales Sainz,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 22:34:05.142378,vegan,,2
+25,cbb3f146-a793-4ccc-9c53-a88b16d45235,Quique Sacristán Pol,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:16:27.036925,classic,N/A,4
+25,4331a85e-e18d-49b9-ad11-76dc1fada443,Noé Mariscal Rosell,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:57:06.034855,vegan,,5
+25,e70f57bc-748a-47eb-b44c-9fb0396ba1d3,Pascuala Casanovas Cantón,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 01:14:30.274454,without_onion,N/A,5
+25,0d33e686-d8ba-495b-93b0-7845670985a9,Heriberto Millán Pereira,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:13:27.989188,vegan,,2
+25,c917beb2-0797-410a-a5de-b667e26136b6,Chus Huertas-Mateo,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:57:03.327222,vegan,N/A,4
+25,92e61e30-8ac6-466a-9950-576a4f05a55f,Nidia Oliva Gabaldón,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:23:37.372523,classic,N/A,1
+25,3304491c-4c28-41ac-82b5-846c7b54740c,José Mayo Sancho,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 11:50:16.704968,without_onion,N/A,4
+25,74166f6e-e831-44b4-af85-33d8829ae417,Sabas Gracia Bayón,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:36:31.102058,without_onion,N/A,3
+25,ac5b11a7-01db-49fe-937f-ea04db89ae01,Regina Cerro Blasco,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 03:37:26.857582,with_onion,6.19,2
+25,69e0c2e0-3f46-4291-8676-b9dbcc1509d7,Arturo Raúl Segovia Valero,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 20:23:21.174174,classic,6.54,1
+25,8682ab95-bba4-46ac-9c1a-7dc93d5edc80,José María del Herrera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 14:19:07.570891,with_onion,14.87,2
+25,e0dfde33-4301-4333-b2d2-95dde375e34a,Luisina Pont Tomas,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 16:45:36.381199,with_onion,,1
+25,c0673cc0-5828-4059-b076-3db67ef02505,Adelina Verdugo Salvador,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 09:17:30.715972,with_onion,N/A,4
+25,abe4e2af-a95c-462a-ac6a-5107f5f08357,Ale Recio Bosch,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 00:43:59.974485,with_onion,5.61,3
+25,8dbfce11-00a2-4282-bf78-9f785a67cd8c,Juan Pablo Ocaña Montoya,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 06:46:54.574212,vegan,N/A,1
+25,a84fcedf-d27f-4fce-bd0f-37ed2e464764,Lorena Feliu,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 12:27:45.898885,with_onion,N/A,4
+25,52d003cf-c9c0-42c0-a4ca-ea80c31eb8c3,Teo Echeverría Godoy,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 10:51:24.324807,vegan,,1
+25,c4d609a4-9d2a-4868-b25f-79b5913fbf57,Celestino del Ribera,Alicante,"Vial Gregorio Mate 5 Piso 0 , Palencia, 07306",2026-05-01 08:06:32.389470,with_onion,,4

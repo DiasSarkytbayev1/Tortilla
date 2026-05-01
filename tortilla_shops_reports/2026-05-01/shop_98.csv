@@ -1,0 +1,488 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+98,7dbad654-726c-463b-8701-86ad8ea20a9a,Dimas Ochoa,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:02:52.620598,without_onion,,4
+98,423d01d3-6517-4a94-b202-2096117ef57e,Poncio Corominas Ferrándiz,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:23:59.012838,vegan,11.29,3
+98,2d7c6326-070d-4364-8f8b-78f9c56ae9f2,Rosa Palau Roselló,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:15:57.622546,vegan,9.66,5
+98,62b4c2d1-4f45-472f-b592-cadc3211e2d3,Eladio del Montaña,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:28:43.625846,without_onion,7.83,5
+98,de8b1b02-9a4f-4163-93a4-dbdb22b4466a,Herminia Paz Espada Linares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:36:08.181850,vegan,N/A,1
+98,1436444d-58e0-46eb-bd35-d91f257ea69f,Alejandra Tapia,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:47:31.767175,classic,N/A,1
+98,842346d9-c4b4-492d-ba9c-1b4197ac2bd0,Cándido Aparicio Pomares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:42:06.692580,with_onion,,4
+98,06296f6d-d702-4606-8d87-4c56e85c6a24,Hernán Araujo Valderrama,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:11:34.154069,without_onion,N/A,5
+98,307cd3ae-7cd2-4ab1-8dd3-276c266d0880,Nacho Adadia Bejarano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:46:25.165096,with_onion,N/A,3
+98,b970a0ee-a2bf-490d-b6ac-a12926fb482e,Nacho Aroca Mariño,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:02:01.343585,without_onion,,5
+98,53150dd8-0a66-498a-a737-6d7cb41e0e76,Anselmo Abad-Arrieta,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:54:08.074344,with_onion,N/A,4
+98,1d58c767-a311-41c7-b91a-1ffc8848ac31,Vicenta del Aguirre,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:22:59.643097,with_onion,N/A,4
+98,394ff420-a31e-4c55-a6fb-49b70ce5b597,Marianela Iborra Correa,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:45:29.987508,with_onion,N/A,1
+98,8e67fd7b-8184-4bb7-b643-7afb703938fe,Carmen de Cabeza,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:31:16.714481,without_onion,N/A,4
+98,3a603286-fa79-40e8-bb5e-182031b7f8fe,Agustín Tello Font,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:59:16.749061,classic,11.42,2
+98,40dc0d79-76ac-4982-bf26-dab7739504bc,Milagros Batalla Juárez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:09:12.881069,without_onion,,3
+98,e2e30da3-108b-4b0f-a65a-d0c32b4b5f7b,Victoriano Amo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:57:25.124584,vegan,N/A,1
+98,3008008b-0137-49d9-b6a4-70afd8f82459,Iker Quevedo Verdú,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:44:18.145265,vegan,12.83,1
+98,a3c8d71e-cf4f-4192-8389-9fad94a2ef89,Benigna Carmelita Pacheco Báez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:38:06.879160,with_onion,N/A,3
+98,1ef668f6-4cf5-4e4c-9ae8-70b2e96fc6d9,Wilfredo Garay,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:16:55.503722,vegan,13.38,2
+98,a4f3affc-9273-4403-abfc-5525f2c3fc58,Juan Manuel de Murcia,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:01:04.563742,with_onion,9.16,5
+98,9c946433-58e2-4d4c-980d-f9de55e86ff5,Gloria Tenorio Rodrigo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:32:00.376608,without_onion,N/A,5
+98,0fbc46b6-4237-4469-9507-5b4a7ad90c45,Alma Cámara-Gisbert,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:33:31.257327,vegan,,4
+98,235c3adb-4f9b-4a59-bf1e-916d32e33649,Pascuala Palau Cervera,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:57:56.870800,without_onion,10.12,1
+98,be817aa7-9384-458b-a296-ceefb256cad6,Maristela Alonso Esteve,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:52:53.492212,with_onion,12.24,2
+98,eaaaa519-0345-4181-82e3-9af42cb6d91a,Pastora Clementina Seco Paz,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:51:29.311780,classic,5.26,3
+98,acec4408-276e-4af8-8a7d-3848685648bc,Aura Baños Cabrero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:55:45.341194,without_onion,N/A,1
+98,d59253f6-fadb-4bed-a14a-cf061e988d6b,Néstor Danilo Español Carrión,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:05:20.489838,classic,N/A,3
+98,d9483d7a-a3cb-4b31-b427-8ecee9c757cc,Trinidad Gálvez Egea,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:08:23.257913,classic,7.17,5
+98,8b7fa4a8-ac21-460e-a76c-b30c980426d8,Macarena de Marín,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:42:58.119810,classic,10.68,3
+98,d9dc77e7-1456-4757-a02b-6efec236c7b6,Albert Gonzalez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:18:28.597580,without_onion,N/A,2
+98,ae66fb10-94c5-4d65-b1c9-0c3d610086da,Pelayo Lasa-Valencia,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:51:57.495472,classic,12.8,1
+98,012b36b4-3744-4ad0-ad42-a2fe908a78fb,Andrés Sanjuan,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:32:07.018836,with_onion,N/A,5
+98,6f17af4f-d7e3-4897-ab13-5439f40ad1ea,Alcides Puerta Casado,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:25:22.749197,classic,N/A,5
+98,bd69092f-7887-4f11-a63f-c087e745c5ab,Eustaquio Briones Cornejo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:49:37.091931,vegan,N/A,3
+98,19c4279b-692f-4f1c-975b-a824d875a4ff,Eduardo Robledo-Batalla,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:48:04.374572,vegan,N/A,1
+98,eec23d1e-652b-444f-901c-1050fae8d750,Ambrosio de Guardia,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:24:53.319806,without_onion,N/A,2
+98,5265ed2b-6981-4726-a37e-3c56e212fb9a,Anita Tomas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:47:27.120397,vegan,12.93,2
+98,236f3e16-dcd1-4bf4-97fb-9cb646452f65,Dorotea Zapata Chaparro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:24:19.419578,with_onion,14.87,4
+98,5e757ef0-806d-4f70-a7d9-76054e583847,Bárbara del Osorio,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:24:34.422445,classic,14.24,4
+98,e5c51a95-4352-4673-a13f-e7c228b1967f,Natividad Gonzalo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:22:27.474447,with_onion,7.85,5
+98,683910e2-60a4-4ded-a8b2-7c0840530756,Marciano Jimenez Manzano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:27:32.771655,with_onion,14.66,4
+98,f3f08391-a842-4e27-b376-0030479eb68c,Otilia Cortina,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:13:54.471878,without_onion,N/A,4
+98,dfe91f93-e994-4aec-b768-422dd88f5f01,Francisco Jose Lumbreras,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:50:08.828752,vegan,,2
+98,e6265b85-39b2-4eeb-bc3a-09c1d95fe650,Nidia Tejera Casares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:29:53.977520,vegan,N/A,5
+98,f1e3e9e4-7fd2-4644-923b-24b54d673f55,Feliciana Ballesteros Guerrero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:08:45.374339,with_onion,9.56,2
+98,67e72b31-b40b-448a-8036-22199115ff92,Matilde Ferrándiz Bejarano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:30:26.668268,without_onion,,2
+98,31620606-bb7f-4c7f-b357-d2d37d370fd1,Flor Montesinos Balaguer,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:32:24.817577,vegan,N/A,5
+98,08f08869-af6b-42b8-979c-f421691a4762,Valentín Solé Milla,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:18:42.894094,with_onion,11.42,2
+98,60e9f67d-b925-4fd3-8993-cad7a6355501,Haydée Company,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:33:01.129290,with_onion,,1
+98,597bb4ed-1ec2-4d0b-b166-326ac85dd355,Vinicio Baró Pardo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:34:49.300008,classic,,2
+98,2d2977bd-be23-4f73-9cc7-b670076d1005,Arturo Lladó,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:33:51.020794,vegan,,1
+98,e6c1f773-1871-49dd-a005-40fb9e419820,Chema de Taboada,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:49:01.220625,without_onion,N/A,2
+98,67210ea0-c195-42a9-aa89-064113e713bb,Anunciación Figueroa Mulet,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:08:25.720937,vegan,N/A,3
+98,acc475fc-6ac9-4a8f-abbf-6641fa1bcd05,Prudencio Pinedo Estévez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:47:21.944906,vegan,,1
+98,3bf48fc8-2916-4e15-9b6b-f778bf4f30d1,Águeda Fuster,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:41:47.950349,with_onion,,2
+98,07b4c2af-40b7-4d45-aeb3-4bc00188876d,Teófilo López Casal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:03:26.414784,vegan,,1
+98,4f24d235-0d37-4f34-8285-3f38afb27f79,Carmelo Gual-Crespo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:34:58.158233,with_onion,10.23,5
+98,056b2718-be43-4ec8-9010-ab426f0b742f,Armando Benigno Almansa Anglada,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:17:33.172593,classic,11.2,1
+98,9a54719e-252c-4504-847d-1ee5c433acae,Mirta Gracia Dalmau Pujol,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:27:39.266653,with_onion,8.08,1
+98,7849eb32-41ff-43bd-ae42-904f53086e7c,Alex Landa Escudero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:50:34.885366,with_onion,N/A,4
+98,51e9ba09-2659-4e6c-b781-d5683dc4413e,Flora Tamayo Pavón,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:41:08.415216,without_onion,,3
+98,514a8566-4ac9-4750-b493-edbcc06172c1,Abraham Huerta Tirado,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:05:07.225504,classic,,4
+98,ea37e88d-1a17-4cd3-831e-c2850a3901eb,Dionisia Bernad Marco,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:48:52.469834,classic,12.35,2
+98,f70a2ccc-d8e4-4b09-a4d8-09570c8d1976,Clotilde de Viñas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:18:55.102156,vegan,N/A,1
+98,4971719a-5721-481b-a0f4-95fddb726b88,Renata Oliva-Marin,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:16:50.824194,without_onion,N/A,4
+98,013e8d15-b340-4e4d-ac05-847918b0a1c2,Dorotea Bravo Cuadrado,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:36:08.135864,vegan,N/A,4
+98,b58e28f1-ef16-4c10-bada-d0294ebd27a2,Griselda Rebollo Ros,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:18:46.680315,without_onion,7.02,2
+98,5d35e04f-1e12-4769-9a2e-ab30e2eee54b,Rufina Urrutia Borrell,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:50:31.058613,vegan,,4
+98,b15c3a9a-46f2-4942-b1fe-9721a8ea1733,Edgardo Echevarría Perelló,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:51:29.337758,classic,5.99,5
+98,229ec7c8-ab21-43f7-8408-c0b8767c2050,Baltasar Ibarra-Castañeda,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:25:23.512798,vegan,,2
+98,e133d320-3a9b-4fc0-a4b5-c69fa5fe5d70,Cintia Josefa Bermudez Valderrama,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:08:51.878517,classic,7.64,1
+98,4f1711ae-950f-45ff-aeea-7d996e1d7213,Espiridión Ayuso Monreal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:53:29.482208,with_onion,,4
+98,2d4e973c-8e43-49ed-8c9b-4f044903e5a1,Roberta Pelayo Flores,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:07:42.047552,vegan,,4
+98,99dded1f-7df4-493c-81e3-98cee9cd4b9c,Jovita Santos-Espada,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:50:08.098181,classic,,4
+98,7c4fe177-fcc1-426d-9bf0-d201962d00c8,Estefanía Sanmartín-Molina,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:41:03.135720,without_onion,,3
+98,cc4f2dcb-c79b-41ae-9e11-879cd7faffb1,Armida Maldonado Botella,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:40:49.296410,classic,N/A,5
+98,aeb1393d-dca8-455c-bee7-e68a5e484e8e,Fátima Soler Exposito,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:14:44.373691,without_onion,N/A,1
+98,b9fcaa48-6024-495c-b5cd-57f529807b32,Asunción Aránzazu Pedro Coloma,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:35:10.368510,classic,N/A,3
+98,bd09de4d-1f41-4164-b7a0-440482664587,Adela Merino Puga,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:01:12.032252,vegan,6.26,1
+98,79401738-f420-4c35-b8e4-6798c6a533e4,Teobaldo Serna,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:14:28.282617,vegan,N/A,1
+98,224fe4f6-4291-460e-82ac-ea99d19e9b73,Paula Edelmira Iborra Aragón,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:23:27.182976,classic,,1
+98,1344a6ce-7288-4e97-8ab7-da7143bce46b,Fidela Abascal-Sedano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:13:10.926466,vegan,N/A,4
+98,7feeea41-12da-47bd-91b4-69c6401cf5b6,Ángela de Belda,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:56:44.974539,vegan,,5
+98,0bb70ad3-6434-45db-a12f-f29d046c6ab2,Charo Pellicer-Nogueira,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:28:26.278830,classic,12.84,4
+98,763706df-36da-4a64-be6e-02c2c9b9d87a,Galo Puga Suárez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:51:05.261977,without_onion,6.69,3
+98,e471580e-9be4-4da8-ab6b-d91a1a614f12,Edmundo Carrillo-Pol,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:06:12.761086,with_onion,,2
+98,917cba1e-d1db-46bf-9f18-2ab181609621,Iris Prado Linares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:00:25.942122,without_onion,N/A,5
+98,2297f21c-ae06-4dbe-9b24-47ce16a0abcb,Porfirio Ledesma Arana,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:10:12.548025,without_onion,7.55,1
+98,42671568-a944-4c91-899a-fdc510a5809a,Eduardo Gonzalo Prats,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:06:30.531679,classic,14.05,2
+98,40c6668b-e66f-4c1a-9c8a-860f7878a7c7,Maricela Segura Gelabert,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:59:14.490910,with_onion,14.59,4
+98,a7757cca-3e48-45d8-8bf6-53f789125a52,Gerardo Bastida Moll,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:08:09.052163,with_onion,N/A,4
+98,390b8617-67d8-4684-b093-cbbc8a14f033,Danilo Albero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:34:56.569733,classic,,3
+98,fd04494b-fc91-4be3-8b1c-1b5d8f798e8c,Jose Miguel Perea Carro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:34:53.209784,with_onion,6.68,2
+98,a19d7916-7d88-4b4f-81e5-90d87b85a7a9,Cruz González-Tovar,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:44:09.175204,without_onion,N/A,4
+98,84d01154-d349-4aea-a5ff-efe92bcf5e92,Damián de Canals,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:26:49.440158,vegan,N/A,4
+98,9ac6f30e-f1e8-40a9-80ef-cb23b0cc183a,María Páez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:58:38.581927,without_onion,,2
+98,1e0a3872-89c6-4dfd-b137-6646641fe45d,Jonatan Adalberto Manjón Cabello,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:11:53.726341,with_onion,7.37,2
+98,7c81a128-b9e2-42d0-bf80-254fc4d53448,Gabriela Flor Diego,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:20:37.837247,vegan,14.49,3
+98,3a7b70db-e2f8-402f-9cf1-a7c8309d55d2,Amor Gálvez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:22:55.524052,with_onion,N/A,1
+98,516d01cf-9ea4-4924-90a4-9f7fd30aa814,Carmelo Fuente,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:56:18.596292,classic,N/A,1
+98,ba45fa4e-14c8-4b6f-87a4-9ff137315345,José Manuel Alcolea,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:22:29.931484,classic,N/A,3
+98,c646050b-da07-4103-88b3-a6498e4fca90,Albano Morante Delgado,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:10:30.361922,with_onion,,5
+98,0900a9e7-cbcb-48ef-b54a-e85bd47c376e,Ángel Abella Franch,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:07:28.069858,classic,7.42,3
+98,5d03350b-3834-4011-b05d-dec55c64b5bf,Rafaela Salcedo-Sanjuan,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:39:00.366534,with_onion,11.58,1
+98,9ce68d04-83e0-4228-b103-b1d7756af2f8,Adrián Fonseca-Cuéllar,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:32:55.290719,with_onion,N/A,4
+98,8bdb3f03-dc46-4da5-a263-bad0d575b6a4,Teresa Carbó Pomares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:00:16.138100,with_onion,9.62,4
+98,bd00158f-de77-4802-9813-caf23e3837de,Héctor Roca Vidal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:14:51.420936,vegan,,5
+98,e801f84a-9afb-4a1b-8d07-bf15fca1040d,Azeneth Gonzalo Raya,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:54:51.429958,classic,N/A,5
+98,2578658a-fe33-43fc-b12d-39499a08348d,Benito Marqués Barrios,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:26:26.593384,classic,7.72,3
+98,1d42492b-838e-49ad-ae38-65e361758128,Quique Macías,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:16:41.894134,classic,5.7,4
+98,dc496d1c-a93c-4f62-af21-07704ae9e720,Jonatan Iglesia-Giner,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:33:59.186856,without_onion,N/A,3
+98,8fef35a0-6905-4d85-b612-dff7cc9c28d2,Josué Robles Valls,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:03:29.770441,with_onion,14.72,4
+98,38bade2e-8fd9-4a68-99d5-16b113a21f69,Evangelina Barroso Real,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:32:59.090596,with_onion,7.62,2
+98,d45a2a85-3a1b-4836-85d9-87734a093167,Lisandro Mateo Arias,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:03:47.331964,with_onion,,3
+98,b0cb4e3e-fe8f-40f9-90db-b9a681ae2411,Vilma Meléndez Vega,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:59:59.042158,without_onion,N/A,3
+98,f209e900-d117-4467-9650-531b8383771d,Maximino Lladó Quintero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:44:37.491655,vegan,N/A,4
+98,f95dce3b-12de-4718-bed8-b6625227c02c,Máximo Cadenas Arrieta,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:18:40.184203,vegan,N/A,2
+98,519e164c-fc1a-42c5-9e42-cfeb4c38539b,Fabiana Nuñez Rivero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:03:25.692124,classic,N/A,1
+98,85d52d05-ed8f-4414-9df7-260bfbb51de3,Delfina Poza Vera,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:51:27.605432,vegan,N/A,5
+98,c8e71cd2-3fc5-40de-85af-9fc21a0d6a07,Isaías Sedano Borrego,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:54:17.517536,classic,N/A,1
+98,4dcfa7a0-70d9-4d33-a956-9269ea21c071,Agustina de Fernández,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:48:10.997677,without_onion,5.48,4
+98,f97ca17b-111e-44f9-bd12-bf6f3973842b,Priscila del Fuster,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:06:57.407411,vegan,,3
+98,cca7eaf9-739a-41c5-8623-40d69a4726dc,Bonifacio Lino Álamo Anglada,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:35:12.884259,classic,6.55,4
+98,b36d7b2f-56bb-4a3c-9a16-d90013372cef,Nazaret Sevillano Losada,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:46:16.988775,vegan,N/A,4
+98,c508266b-b85f-434d-95d4-0c54a938fda8,Jacinto Herrero-Belda,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:00:21.992667,with_onion,N/A,1
+98,6d74908a-0392-4293-85aa-a175d157c8fb,Ceferino Morera,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:06:14.419493,classic,,5
+98,973c9695-ffa1-41a1-86c9-a23381e27d1d,Isaac Gustavo Mir Muro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:37:33.224540,without_onion,8.44,2
+98,737bda34-ce23-4f0c-9386-3edb4ef1592a,Damián Rosado-Vega,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:11:12.821378,without_onion,,5
+98,029b443b-c562-4b99-94f2-74086c53c7fc,Benjamín Barreda Cañete,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:13:42.164331,with_onion,N/A,1
+98,a6b0cffc-f9fb-42d0-8394-990bfd401c05,Bibiana Martín Elorza,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:23:48.724777,without_onion,9.63,5
+98,5b45cb3d-5405-473d-aef1-6e566c321011,Bruno Comas Beltrán,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:03:29.714583,vegan,,1
+98,cb609163-bd1a-4780-9235-29a00c78ba9c,Andrés Uriarte Toro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:45:03.976345,without_onion,,1
+98,dc684496-7336-4553-b881-8f1849d19576,Carlito Ledesma Castells,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:31:09.036492,without_onion,5.67,3
+98,2e555213-6834-4d9c-93e4-33b0ae1ff278,Cayetana Palomino-Osuna,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:44:32.727638,classic,14.37,1
+98,0e276fa6-eed0-460a-9227-ab6302849cf1,Lorena Reguera Ferrándiz,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:34:20.003669,with_onion,6.68,3
+98,dd666523-bcbc-4eac-a582-7dc1102ee2f5,Ana Sofía del Palmer,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:05:14.660300,with_onion,N/A,3
+98,da25c4fc-a23f-4a66-9b72-bef78c6ad48d,María Santiago Guitart Jordá,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:15:58.925476,with_onion,N/A,3
+98,5dc9ef30-b7df-44aa-8385-e6ade9d8d41c,Segismundo Isaías Barón Rincón,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:41:57.383375,without_onion,,1
+98,c756f544-a207-4b84-8cd3-7fbea158d228,Ricardo Yuste Palomares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:47:33.956409,classic,N/A,4
+98,85a50357-d203-4ace-b3dd-dd3e7a68b81b,Áurea Puig Ibáñez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:01:39.994990,without_onion,8.02,2
+98,a7f27afe-4377-4ac6-86ec-e0a099267ffb,Kike Villaverde Bayo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:35:49.919077,classic,N/A,5
+98,9caf6755-263a-48a3-8e0c-67032ac48bf9,Joaquín Perera Royo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:09:07.275569,without_onion,,2
+98,396f6dc0-3c05-493f-9a45-1e85502a8dbf,Susanita de Buendía,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:19:26.779572,without_onion,6.1,4
+98,9d383b1a-f7f5-42e6-abb3-3abf42a917e6,Esteban Cerro Antúnez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:31:44.728995,vegan,9.43,5
+98,38ea4c1f-79ac-44d7-b6b5-a78a90269d8c,Ariel Garriga Prieto,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:47:40.637478,vegan,,4
+98,1992f24f-ec02-4f43-9710-6d8cf74fc708,Bernardo Alonso Fabregat,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:26:15.655200,classic,N/A,2
+98,06742801-3dbc-4573-9d16-b0f93c803346,Eugenia Calleja Urrutia,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:44:45.755927,vegan,10.71,4
+98,1f7fee43-c74d-4fc8-80c2-de633b8b13af,Alfonso Villalobos-Jáuregui,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:51:12.661557,without_onion,13.67,4
+98,f28ff8be-3239-46a4-91ba-200e131be32a,Dafne Barroso Nadal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:12:04.056586,vegan,12.65,5
+98,d731d773-395a-4144-95ca-8b4246d334d3,Clemente Caro Mendez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:35:24.307611,classic,N/A,2
+98,495d1655-e52c-45be-b3dc-5a5774935248,Ángeles de Seguí,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:12:46.891089,classic,N/A,1
+98,e0bb644c-6d51-43ab-91d2-0b1b0cffb2ba,Florina Buendía Escrivá,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:39:15.053104,vegan,9.09,3
+98,ea08c013-5e6f-4dc6-9c6d-da40d47c7079,Yésica Piñeiro Fortuny,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:44:40.740265,classic,N/A,5
+98,98e4e0ce-1c5d-4d41-890e-8fda2f20c9b3,Tomás Echevarría,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:13:06.535353,without_onion,,2
+98,794d11b3-b991-40cc-a4df-3cc40213bbfb,Gracia Arcos,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:06:52.994895,vegan,,4
+98,25fcbbf6-db19-4aea-95cf-f8d0eeaacbb4,Ileana Pinto,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:57:41.514608,with_onion,13.7,4
+98,26925613-0410-468b-b55c-200d333390d9,Teófilo Blanco Agustí,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:20:09.047391,without_onion,,3
+98,1032c32a-ee8c-4452-a2ce-6c238abea420,Heliodoro Aragonés Oliver,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:43:17.257777,classic,12.58,4
+98,c03d4ea4-6526-4343-ab76-f24095fa737d,Anselmo Andreu Bermudez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:23:54.474215,without_onion,N/A,2
+98,1a6b1bb1-d4e3-455e-89ee-b016463a5e5a,Selena Lorenzo Lastra,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:05:21.907888,vegan,N/A,2
+98,03e06d09-76ea-45ab-bbe4-429a0cec0798,Apolinar Lillo Luz,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:00:51.374067,without_onion,N/A,1
+98,1b5552e0-c6dd-451e-90ca-c6bd3c1556fb,Amaya Calleja Albero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:42:15.256824,vegan,11.71,5
+98,8de57c99-2048-4a9a-96b3-aadfc233e65f,Joel Nicolás Castelló,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:15:40.686525,with_onion,14.28,2
+98,60f45dc5-783b-44cf-abf0-19c505481382,Emigdio Jove-Calvet,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:54:02.801632,with_onion,,5
+98,f67f0b7f-0607-4af1-9d09-a85744168f21,Mauricio Ocaña Acosta,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:37:21.331666,classic,,2
+98,c9a8321c-ad66-4cb0-9ef4-94ebb66a33e8,Bartolomé de Aguirre,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:28:18.254849,with_onion,,1
+98,5b7058e4-6c55-47c7-b5aa-34dd6f3fff74,Lilia de Machado,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:05:35.851467,vegan,10.14,1
+98,f980f8dc-6726-4ac8-926f-df3f9a642a67,Hortensia Suarez Peñalver,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:32:34.420861,vegan,5.93,2
+98,c2a27d3c-a1ab-496e-b643-903852f3f854,Olivia Ofelia Ávila Julián,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:10:12.958954,with_onion,8.46,3
+98,8c340c15-ecd7-4c07-84c5-84483e710ecc,Toribio Jordán Gomila,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:59:10.143078,classic,,2
+98,ffd61cf4-825e-4a7c-aa6f-3136affa44b7,Guillermo Calderón Cabrera,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:14:44.138324,with_onion,12.89,4
+98,b9c4c87b-1c00-4cdc-95bb-a2ec1f5b2e48,Marita de Batlle,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:36:55.864238,classic,N/A,2
+98,fe1f216e-676e-4a6c-91e3-61d8978413be,Febe Barranco,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:22:57.486831,vegan,N/A,5
+98,b0a8eb14-4117-4e9d-ac23-1262163dfd83,Alberto Álvaro Quiroga,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:06:14.542337,vegan,,5
+98,d36506e4-0162-4794-860a-541a1b885d38,Amando Benavides Baquero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:14:09.088309,with_onion,,5
+98,d096d775-efec-471a-9127-96eba28c348b,Marisela Sales Serrano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:02:04.639964,vegan,,5
+98,2b28a98d-c371-4ad4-9ab1-2c8402848d9e,Alondra Bárcena,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:40:29.764997,without_onion,N/A,2
+98,823690a5-900b-4a2e-acdc-78a3aea2efc9,Lucio Ángel Verdugo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:24:23.913982,with_onion,N/A,3
+98,853f380b-75e1-492f-9c1c-ddf45290efb7,Edelmira Mora Jimenez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:36:12.646264,without_onion,N/A,1
+98,4bd684d0-46de-46cf-9637-c59e79ecc635,Obdulia Ripoll Cañizares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:44:03.717239,vegan,N/A,3
+98,781cdec1-1e3f-4226-9c37-3e3c2e931c06,Lucía Aragonés Millán,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:31:39.620734,vegan,N/A,1
+98,89a5b474-4ed2-49fd-9820-b4157049ea1c,Victor Manuel Murcia Gracia,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:15:18.833458,without_onion,N/A,2
+98,633647bc-6d04-4a27-bf26-84ef09e4a5be,Leandra Brígida Salvà Garcés,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:32:35.786917,without_onion,N/A,1
+98,b1366c86-59a2-4aa1-97b2-24215d198620,Adora Blázquez Barba,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:13:30.679819,without_onion,,1
+98,8ab31ef1-ac68-4f5d-9647-8d823fab7143,Matías Revilla Calatayud,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:07:58.993361,without_onion,,2
+98,3ee5d630-29d4-4067-85c5-5b54436450f8,Casandra Maza Landa,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:27:18.899079,without_onion,5.96,2
+98,56833f50-93ee-468e-9f61-11620a31536d,Daniel Carreño Pellicer,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:53:41.050583,classic,N/A,5
+98,8f973137-9bac-43e4-a853-17f2bd38ebeb,Nazaret Machado Lasa,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:23:48.978325,with_onion,,2
+98,1b49a3a1-7905-44fd-8788-6bde297e2d8b,Pío Donoso-Morán,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:47:20.521375,classic,,4
+98,59bd75d2-0317-4caa-afb1-537a0a93c144,Caridad Almazán Fernandez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:24:00.279491,with_onion,N/A,2
+98,14c0d67d-f29b-4eaa-bfeb-233664ed8225,Jenaro Rosa Salcedo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:01:46.282642,without_onion,N/A,5
+98,21a42d10-eea1-470c-be1f-eddb17bde237,Lina Falcón Moya,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:39:59.332798,vegan,N/A,3
+98,56c320b4-f48e-43db-8b6b-0e5b74108d69,Encarnita Crespo-Ayuso,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:27:26.545274,without_onion,N/A,2
+98,64c1c4ba-556d-4077-bd72-5c373b8638e7,Fanny Patiño Cabanillas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:49:54.204168,with_onion,12.83,3
+98,c6756ccd-1e3b-4d27-a19e-3402bba0b625,Régulo Alcántara Valbuena,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:44:46.103912,without_onion,N/A,2
+98,4fd63174-602c-4420-bf3d-6d88283f6d3c,Amando Manolo Castejón Planas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:03:43.485022,classic,N/A,2
+98,1217997e-aa50-4d5e-ac29-e5d35852256e,Lalo Fuentes,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:37:01.620102,without_onion,,2
+98,87959d49-f85c-4451-a1f0-b7bc0b7a4ed6,Ani Canales,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:23:01.794036,with_onion,9.94,1
+98,0e461e62-26de-4e4b-891a-d2cf0cce95bb,Consuela Otero Casanovas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:34:46.175181,without_onion,8.81,5
+98,15b87d5a-5419-4c6f-8ea1-e31cfa2923a0,Amelia Mesa Porta,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:48:02.376479,with_onion,9.53,2
+98,769c10cb-aabc-4672-ab06-b8c12243c79b,Ignacio Pintor Carreño,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:47:05.346403,with_onion,N/A,2
+98,054abc0c-25ed-43f1-8a59-b3299d2e6010,Eufemia Benitez Agustín,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:59:20.399255,with_onion,N/A,5
+98,d0b59d43-f9a5-4b40-af16-a0cce8a8693d,Vera Borrás Herranz,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:04:14.612097,vegan,N/A,1
+98,fe5091fd-1fc1-4061-8d6b-e06aeca70d0c,Sara Barrios Castillo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:57:57.732368,classic,8.38,5
+98,9e6d462c-53e6-456b-9cd7-2917a2f098f5,Daniela Gascón-Pérez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:32:26.337235,vegan,,4
+98,c345cd27-c4d7-461a-9625-103c33296f27,Calixto Valderrama-Tomás,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:53:54.572627,without_onion,N/A,2
+98,4886b7cc-8a2b-420a-b370-b3bf70a7418d,Apolonia Grau Vicente,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:01:04.050238,vegan,,1
+98,e1bb04f8-7ed5-4b30-b632-b24ba69bb6ed,Albert Jara,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:36:53.686666,with_onion,11.66,5
+98,4161f74f-8150-4e9b-8559-9e7edb5e3ab7,René Rivero Pereira,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:42:50.103554,vegan,,3
+98,7dbb3865-d110-4547-9717-c6c7c722eb2c,Felix Pereira Rueda,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:36:03.395792,without_onion,N/A,5
+98,51917ba1-9760-4c7d-ad49-afd1fffaa749,Yésica Bayona Sancho,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:42:10.046348,classic,,4
+98,31611ab1-8b26-43b2-a2c0-17ee98956bb6,Isaías Puga Estrada,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:19:19.239627,without_onion,N/A,3
+98,e6236886-b44b-4794-b9dc-7bdd32b934fd,Íñigo Daza Gámez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:11:52.501211,vegan,,1
+98,6d80dc9e-4b36-4110-98ee-c3e87becdbf0,José Aragón Paniagua,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:34:16.834067,classic,,5
+98,50ba2c9e-5659-4dec-8845-3951c91d0991,Delfina Pavón,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:03:56.524193,vegan,N/A,2
+98,4a6d5ccb-91ab-461e-9816-aa35f67ea086,Noelia Suarez-Frías,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:29:01.358631,with_onion,N/A,3
+98,d61d5e5d-cc5e-4869-a7f1-8ad815c4e30a,Jerónimo del Paz,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:10:21.447662,vegan,,1
+98,bacb8980-7a3a-4acb-aeaf-2960e0413885,Agustina Vall Ibañez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:32:23.570258,classic,N/A,5
+98,c99b8568-7f50-4967-bc78-97218ae53c16,Tere Sanabria Montoya,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:29:22.328415,vegan,5.09,1
+98,f72393ef-d79c-4380-a251-b584da791d96,Jesusa Fátima Puig Méndez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:17:35.001158,with_onion,8.99,2
+98,ecf7754b-7a1c-4104-81f9-7b0336651b3c,Ema Solana Gras,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:19:46.818017,classic,,2
+98,9a6b55e5-0c6b-4098-8eb5-425cb9b05412,Osvaldo Jose Chacón Roca,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:16:37.107359,vegan,12.94,1
+98,fbacd384-004d-4ce6-97ba-641d8a82f128,Dora Dorita Mateos Requena,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:12:45.948806,with_onion,,2
+98,e25e781a-fc5a-4fdd-8f6d-3195d2b72c58,Rafael León Granados,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:49:49.906809,vegan,N/A,2
+98,4b648048-f861-4b0e-b0ed-4d22aea3387b,Porfirio Cabañas Castelló,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:59:38.899604,classic,,5
+98,19db7fd5-0879-4b3e-ac38-3db91943c8f6,Aránzazu Juan Jáuregui,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:59:11.641402,vegan,,5
+98,9370b976-f1ba-4de1-b37a-307a2ffde614,Tatiana Sarabia Tomé,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:40:34.940851,classic,,1
+98,7b670582-7b50-449e-8f6e-3b1d7346117e,Ani Garzón Montero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:43:57.183258,vegan,12.64,3
+98,7377eb89-d179-482e-b4b4-c3e9c9d7b761,Adelia Pazos Silva,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:35:43.670108,vegan,,1
+98,383ff12d-320d-4a87-834c-5bb21acae044,Remedios Benítez Pinilla,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:52:22.131030,with_onion,,1
+98,9ded7187-788f-454a-889b-b7ea10b49084,Ovidio Guerra Asensio,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:27:06.862708,with_onion,7.78,4
+98,4b4e0299-fcf9-4611-9a6a-4168fc695119,Jacinto Guerra-Jaén,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:35:05.698232,classic,N/A,2
+98,85b0b141-0753-4015-93d1-2a66b112a75e,Vanesa Gascón Pastor,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:57:12.961289,vegan,8.08,4
+98,36a9f2e9-0489-4be2-8473-db31618221dd,Vasco Ayllón Estévez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:07:15.341068,vegan,N/A,2
+98,e5695f2d-dd8b-43d9-9108-99df7c4c346a,Carmina Urrutia Velasco,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:39:54.615642,vegan,,4
+98,c38850a2-96d8-417b-a363-2bc41b862f7d,Hermenegildo Miró Poza,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:56:24.737857,without_onion,N/A,4
+98,83dbfc9b-124b-42d4-a2f5-d3d3adb95c76,Lucía Manzano Rodríguez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:24:52.020457,without_onion,N/A,5
+98,55c08d0b-b487-4790-8346-b4a3f8ebde48,Fidela Rodriguez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:46:15.228472,without_onion,N/A,2
+98,746f04c7-e85a-4a64-8cd4-76a251962f41,Elodia Rosa Diéguez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:13:19.001682,classic,8.63,5
+98,100462d7-4247-4fb5-8f5f-455da0cb5702,Custodia Pineda,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:14:57.953132,without_onion,N/A,4
+98,4f0a2723-0d34-4987-8e8d-048c8a5b153e,Valerio Mariño Parejo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:07:36.510542,with_onion,,4
+98,1a4da174-b523-473a-9a4c-c45e89fe65fb,Tere Natalia Bolaños Cortes,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:57:08.921704,vegan,N/A,5
+98,f2f62c11-d14a-4ea3-8fb2-9c32c86a7743,Sergio Camps Solano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:59:29.194069,vegan,N/A,4
+98,c88e5092-12c7-48b5-9b39-b705e36ab821,Rufina Coca Pou,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:19:54.051371,vegan,,3
+98,bdd4c777-df82-4fe8-945f-35dd0a4d0540,Quirino Julio Quero Anguita,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:44:52.565728,classic,N/A,4
+98,2705a70b-8003-497c-9903-1581ef126ec3,Bernarda del Díez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:10:23.396038,with_onion,N/A,2
+98,0e12ebe5-26f1-4e15-be4a-b3a060cb57b9,Belén Tudela Miralles,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:49:10.800204,classic,,3
+98,b7209571-7c0e-4b9f-bf9d-686ac836681a,Eulalia Palomar Roman,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:19:41.283200,without_onion,9.44,1
+98,c112d94c-9ce0-4549-b64e-5529f1dd7816,Priscila Valencia Briones,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:54:51.866655,with_onion,13.5,2
+98,01dcda7f-af6e-406d-bb19-18aa573e6d42,Marino Silva Dávila,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:47:20.792954,without_onion,N/A,4
+98,ac45a210-4121-4e30-b0fb-99409680bb78,Viviana Nicolau Piquer,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:41:32.137058,classic,,2
+98,7e284476-77de-4212-8e99-1bf6238c5fa1,Cristian Mohamed Riera Carrasco,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:32:56.879621,with_onion,,1
+98,a8eadd54-1cd6-40be-ae01-d42591124763,Donato del Fuster,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:09:21.206436,vegan,10.85,3
+98,1f585fd2-af41-4ef0-8c70-e05bed3b3a42,Josefa Martinez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:54:58.281969,with_onion,,2
+98,30309d4d-1d07-4f1d-89cb-95ea72461053,Óscar Farré-Hoyos,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:24:41.116130,with_onion,5.24,1
+98,f224c1e0-3228-4c79-8248-76df5cf774f4,Magdalena de Cadenas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:06:41.233408,classic,12.77,1
+98,9e4cbd0e-6030-4d98-a611-f6b531fbfaea,Aurelia Valderrama-Simó,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:09:11.087581,without_onion,,3
+98,079ca168-178e-426a-83cf-1103dcd4aecc,Ruperta Jara Alberola,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:32:41.876744,vegan,,1
+98,5d0c2907-5f5d-4cf4-81ed-50e285819735,Ulises Novoa Mariño,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:36:25.130965,without_onion,5.46,2
+98,30408bde-bb2b-43c7-a9eb-c301fbd3c649,Noelia Porta Company,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:53:22.015868,without_onion,N/A,2
+98,1e4c6a8c-f0c7-414b-a882-f5f43beeb463,Fabricio Zorrilla Pozuelo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:12:26.285220,classic,,5
+98,a708783f-a412-46bc-a77b-4c5f8a3f2570,Teo Valverde Varela,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:13:55.546680,vegan,N/A,5
+98,99807d66-7d9c-42ad-9615-a851e0b3c0de,Ramón Somoza,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:41:06.324977,vegan,,3
+98,e16a3893-a9ed-4e5e-8edf-b509c9a899e1,Rosa Roig Vallejo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:41:32.928859,with_onion,,5
+98,779d1e3f-cac5-47d6-b1e9-1155dfde58df,Antonia Morillo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:27:50.885054,vegan,,2
+98,63304199-dc8f-4b46-8179-a74a914bc4fe,Luis Miguel Peinado Heras,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:53:56.716665,without_onion,N/A,3
+98,925b6435-4acf-437e-af29-997d45ef24f1,Luis Miguel Epifanio Comas Córdoba,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:22:45.489786,classic,N/A,4
+98,2aa6fddc-e320-40d3-937e-fc5cebcf7006,Melisa Carolina Herrera Santamaria,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:45:32.087877,with_onion,N/A,5
+98,34164d2d-d0f6-4461-8712-ca52bb7967b8,Piedad Barbero Toledo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:12:22.362288,with_onion,9.89,3
+98,ae00bd92-add0-4e35-a79e-3103b9fc233f,Corona Granados Mir,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:43:49.264486,without_onion,,4
+98,4b850d60-00e2-480c-9d51-e519188d7ea8,Patricio Ledesma,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:42:18.156177,classic,10.4,5
+98,73e1bbaa-ce12-4089-a8af-c6775cb21dca,Amparo Lopez Fernández,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:10:21.141344,without_onion,11.29,3
+98,7c1a4a01-c432-4afc-910b-2576daad6588,Fortunata Constanza Gordillo Cobo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:45:45.942672,vegan,,5
+98,fe7b700f-64f1-4a43-bf04-7d94beda4b3b,Erasmo del Vall,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:23:12.490331,with_onion,9.25,3
+98,f095cd5e-6a88-42c0-94d3-62dccb86decc,Manolo Ramírez Iñiguez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:29:35.621081,vegan,9.42,2
+98,d78dad38-1689-49bd-86c4-2eb57ca2de2a,Haydée Rocha Catalán,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:58:57.790315,classic,,3
+98,d936b561-3235-4773-9093-1559c868ebda,Fulgencio Roca Gutierrez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:04:00.828097,without_onion,,1
+98,84d28cee-9a54-43b2-aa36-7d91712706fc,Elodia de Guitart,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:41:02.391984,with_onion,12.89,3
+98,33a300af-bc50-41b6-bd56-88580d2e4c3d,Horacio Uriarte,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:36:31.261960,without_onion,,3
+98,42706c84-e128-4859-9849-517d87170c75,Berta Macaria Acuña Varela,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:19:23.333198,vegan,13.98,1
+98,2ba3c61f-53e2-4d6a-8e7b-d841be36eac9,Lisandro Beltran Pedrosa,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:22:04.844723,with_onion,,4
+98,5c167207-749e-4dd5-a95c-9c460d0bf604,Dalila Baños,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:56:33.052363,vegan,N/A,3
+98,e7881103-f88d-4038-9e44-0a0fd17ba598,Anita María Teresa Company Prats,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:10:34.890933,with_onion,,5
+98,4568e830-23a6-4de0-a322-00f60b3c1105,María Ángeles de Pinto,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:39:58.263600,without_onion,9.44,5
+98,8bec67b7-ff9f-486f-88ff-7f9a91f1d59c,Trini Piquer Cerdán,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:39:52.131739,with_onion,N/A,4
+98,c53d0cba-8095-45b0-b504-d482a861b14a,Nicolasa Reina Robledo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:49:51.175342,classic,10.98,3
+98,3fbf0d03-9293-43b6-b66c-cc60ff17051d,Héctor Vargas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:24:43.428599,without_onion,N/A,2
+98,3e9ef008-06f0-41c8-9b39-90c8e620d918,Nayara Ríos Saldaña,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:15:20.803283,vegan,10.12,2
+98,f32789ff-3f52-4597-9361-6659f2f4e6f1,Eliseo Cañellas Beltran,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:31:42.651085,vegan,,4
+98,6e08b4ef-e4e2-41fc-90fc-3da61a205c5c,Fortunata Fuertes Borja,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:32:06.135856,with_onion,7.05,4
+98,fae9cce0-2358-45dd-85f3-3aa20f618242,Leonardo Vega-Castañeda,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:44:33.806579,without_onion,,3
+98,406c6b66-645a-454a-9a26-0ddb21ee4479,Anita Lina Gomila Burgos,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:32:07.733763,classic,N/A,5
+98,042c4544-3352-433b-9deb-6399a0a10512,Emiliana Noriega-Roldan,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:58:59.814589,without_onion,N/A,1
+98,9e65dd16-d3da-4261-aaea-69342dbb0263,Jovita Seguí,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:56:30.816494,with_onion,13.87,5
+98,9a6cfd1e-3c4e-4603-80d8-345484b8287e,María José Mate Galiano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:38:57.549947,vegan,N/A,3
+98,f8dbc711-c234-46cb-a56b-4d91d0a023bf,Abril Roig Escolano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:19:40.280481,without_onion,,1
+98,ca24b044-3d64-4b11-9ce5-e1699456adaf,Tamara Ramis,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:44:26.258321,with_onion,,3
+98,7fe8d6ce-5129-4201-9465-a392616b8510,Tadeo Albero Serrano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:27:58.943677,with_onion,N/A,4
+98,3c927962-7fc1-4bcc-b577-2d825034ac43,Consuela Griselda Donaire Valls,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:37:14.601527,with_onion,10.16,4
+98,62511fc9-31ec-45e3-81c2-4c04366a6942,Cruz Paca Higueras Larrea,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:55:40.615434,classic,10.39,2
+98,7c548b9f-b42f-4282-b4be-c4e498606df7,Chita Egea Báez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:56:10.409528,classic,N/A,3
+98,1b32b047-8015-47b5-8647-230e9ad838f2,Sabas Daza Gimenez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:13:04.026978,without_onion,,4
+98,be63cd9b-dc03-4fde-a797-c4c419e16403,Joaquín Ros Abella,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:56:11.639543,with_onion,N/A,2
+98,c40f40f6-82bf-49fd-9283-3cbb737c15d4,Ruperta del Valdés,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:13:19.948190,without_onion,6.22,2
+98,a117e7a1-7f96-41d0-838d-2f4c05f95f99,Antonio Anaya Piñol,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:36:42.843963,vegan,,2
+98,7b48f3bf-35bc-4cce-8f7b-0ad330d7330e,Patricio Pedro-Aparicio,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:34:58.838204,vegan,N/A,3
+98,692bd4e4-09a9-44cc-bc85-1e9dfffe409c,Bibiana Colomer Piña,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:15:07.732409,vegan,,5
+98,9169e435-01e2-46d1-b99f-64d3d3d02b8f,Chelo Flores,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:24:13.258305,with_onion,,4
+98,219d0bab-01f1-4e3c-a8fc-5237ab6cf48d,Salomé Grande Manzano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:12:13.343752,with_onion,6.33,1
+98,93ed4c30-2e58-435a-8a77-01a92bcfde65,Marisol Gibert Casas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:35:50.879389,vegan,11.96,2
+98,9e7195d7-93ad-4832-8ec9-658d3846d79c,Abel Salvà Cabello,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:44:51.870058,vegan,,5
+98,89bc3a8d-53db-40f0-aa77-76087b20efe1,Victoria Sales-Machado,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:12:30.029699,with_onion,11.42,2
+98,917c3016-81ad-4bf1-a7aa-63b02a6f52b3,Fanny de Cerro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:00:35.513734,without_onion,N/A,4
+98,8230e433-7a60-4406-b13e-ee3d14602f15,Calisto Jove Collado,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:40:32.039891,with_onion,N/A,2
+98,20d39249-bd80-4e11-9fe7-ee7e3b7acb44,Iris García Santamaría,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:42:08.959210,vegan,N/A,1
+98,9268c4a1-8f8d-467e-8cf9-6f52223acb5d,Darío Toni Santos Navarro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:03:48.041166,with_onion,N/A,3
+98,72409599-f7f3-4636-92e6-3a3b9fbb302f,Antonio Wilfredo Villalonga Madrid,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:01:23.747420,with_onion,,2
+98,9e953ec9-62fd-4797-8820-403e7aee58b4,Angelina Ballester-Monreal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:55:38.256580,with_onion,N/A,3
+98,e5778145-61e4-49bc-baab-eff3fcfdc8d9,Roberta Zapata-Cases,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:04:00.724725,without_onion,N/A,2
+98,d8e97b71-d104-4761-a257-b78851fb2948,Marisol Luís-Pomares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:08:41.849980,classic,N/A,4
+98,0dde1673-0ffe-497e-b532-0bf338c446fc,Yaiza Arce,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:33:51.414051,vegan,,5
+98,2e0b8661-8833-40f1-ae8c-9b0aa1daf34d,Amarilis Colom,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:47:48.661261,without_onion,8.87,2
+98,2c5ca5f0-00ea-40a8-85dd-02cc3a6f9143,Evaristo Agustí-Vigil,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:15:15.840498,vegan,,5
+98,7780e2fc-1fc6-4895-b185-450b6d201061,Marino Casals Falcón,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:11:23.879857,vegan,N/A,2
+98,abd4deee-68d3-4674-85fb-de38523fecf9,Eugenio Andreu,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:46:50.375604,vegan,N/A,1
+98,6b0019e4-566f-462f-9b92-53e102827708,Vera de Mendizábal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:17:31.238497,classic,N/A,2
+98,02eb360b-ab51-4aa3-9a96-f5a1ba0b460a,Tristán Aguirre Pedro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:28:41.359616,classic,,4
+98,93b8dbda-5c50-45cc-93d8-444b7fe6c8f6,Juan Manuel Rincón Zamora,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:44:21.319559,with_onion,N/A,3
+98,ba4fb996-6f8f-4ec6-b01e-05af79bff96b,Alcides Saldaña,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:40:33.084019,without_onion,10.79,1
+98,c4b461df-cd38-4ec8-98a6-945ac71df0ed,Mariano Girona Aliaga,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:32:56.393362,with_onion,N/A,3
+98,e2f95894-9fc0-4d9b-b471-4322d6093028,María Teresa Nogués Riba,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:12:38.539140,vegan,,4
+98,3339d21b-4653-424c-bfbe-2283909e758b,María Belén Cañete Medina,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:07:12.607176,with_onion,9.54,2
+98,8c5b497f-17b3-4755-84aa-d8be9f4b6075,Aitana Morell Llano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:14:31.982395,classic,N/A,5
+98,24325d08-0131-42eb-83e2-a314eaf7a982,Luz Aroca Iglesia,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:45:20.244128,vegan,N/A,1
+98,14b63f63-a8b1-4659-9d9e-639ee510e065,María Luisa Brígida Sola Anglada,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:33:47.925221,classic,N/A,1
+98,0807320c-6cae-44b0-81c2-6af9103316a8,Nieves Tania Peñalver Noriega,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:16:59.075044,classic,N/A,2
+98,8289504b-5d30-4e1e-a0bf-71c9b18e58e6,Adora Canales Salas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:03:14.901017,vegan,,2
+98,4283c572-7fb0-4692-be8c-89efcaf7a942,Luisina Romero Plaza,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:58:18.911216,with_onion,9.07,2
+98,927c1816-e8f0-4a0a-948e-c21d51ad96d2,Rogelio Haroldo Alcaraz Guillén,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:21:13.738710,vegan,,4
+98,99adc42f-18ff-4576-a900-5b126eff1dd1,Aníbal Hidalgo Azorin,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:59:26.152929,with_onion,N/A,3
+98,c1083be5-bc5c-4888-8cb5-0b3d52510e2d,Bárbara Hoz,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:22:50.926993,vegan,N/A,4
+98,08f49e21-748f-46ef-a801-88a34c702b41,Graciela Llabrés Muro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:46:13.540657,classic,12.99,2
+98,06284ebd-214f-48d6-8dfc-4ee77b28c945,Cecilio Palma Urrutia,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:05:29.867545,classic,N/A,1
+98,77d60955-38d4-488d-84a5-90a06c85becf,Florinda Estrada Manjón,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:34:23.750545,without_onion,5.45,2
+98,6c299495-88f5-44f5-b560-4a7cec1334e9,Dorita de Juan,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:31:37.414051,without_onion,N/A,3
+98,7b6841ab-3d2c-4743-a112-b65b7f19dbef,Ruth Barrio Pintor,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:40:46.285722,without_onion,N/A,3
+98,7299fc48-33c2-4cf2-8076-821d24a1775d,Aránzazu Verónica León Pinilla,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:05:11.886689,without_onion,6.05,5
+98,a49a5f07-53c1-4b76-abc3-83c6797f2b99,Domingo Colomer Rodrigo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:09:22.205457,without_onion,,5
+98,64f4f004-3d0c-4110-920c-099e0d450ac5,Vicente Simón Duque Gimenez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:11:40.504247,classic,,2
+98,c9346f00-db3d-4ba8-a1f4-5a85d918ba17,Carmelo Aroca Carpio,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:21:20.432858,without_onion,,2
+98,e0a60fd4-8b67-4ef7-8a9d-a2317eb6982e,Calisto Cañete Pi,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:36:25.093376,vegan,,4
+98,94b24892-5b65-4595-895c-d7e19841d4fd,Azahar Fátima Diéguez Vazquez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:38:47.045857,with_onion,,2
+98,d4803fde-b142-451a-9e7e-2f9f646b5907,Abigaíl Goicoechea-Montserrat,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:39:33.136980,classic,,1
+98,f4df742e-4b9e-4640-877c-474ab1514bac,Marcelo Moreno,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:17:15.559250,with_onion,,5
+98,84c59ff3-1228-4d1d-9200-e6456d04735a,Salomé Blanca Tena,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:50:43.965841,classic,9.01,5
+98,bda806dd-6514-47cb-95e2-6ac496680adf,Amílcar Falcón Tormo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:09:28.775344,with_onion,N/A,2
+98,0b0d9cb5-6316-4fe1-8d4b-105085180e2d,Carmina Teodora Catalán Pagès,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:09:49.264967,without_onion,,4
+98,5c86aa5a-3c86-43b8-9ba5-ae4267e741f1,Brígida Arcos-Garay,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:41:25.407548,with_onion,N/A,5
+98,e3935833-1d25-4894-8274-8845195440f4,Isabela Juan,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:48:01.716285,without_onion,,2
+98,b1e422ab-9776-4994-813b-e99793112fc3,Clotilde Amanda Infante Valls,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:03:05.481240,classic,N/A,1
+98,41cbaa20-0275-42af-a974-ba58171306c0,Serafina del Sanabria,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:36:43.028751,vegan,14.04,5
+98,878c585e-2391-48bb-bf2a-5f4938ba2e95,Toribio Alemán Juárez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:24:40.050628,vegan,N/A,4
+98,b28f0561-6fc3-4f55-b7f5-fc93198c3c63,Anacleto Cobos Dalmau,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:34:21.972310,classic,,3
+98,72b50f0f-34da-4f62-a105-0618464dd033,Bernardita Zaragoza Murillo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:00:39.307250,vegan,,3
+98,ecd1b92f-fa7c-4c59-97f6-9f4bb755fcfc,Celestino Prudencio Almeida Gallardo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:55:34.234117,classic,N/A,4
+98,b206e392-c814-435e-ae5b-2c6c8bf41c8b,Olalla Ferrando,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:40:31.321539,with_onion,,4
+98,534f1350-40f4-49e9-a884-53aba791a61a,Jordana Mendoza Ramirez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:50:18.208093,classic,N/A,4
+98,2535845d-0d21-4cb4-9f7d-0f78a8976bc2,Loida Jáuregui Lluch,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:04:41.512237,vegan,11.97,1
+98,e95f0e63-c887-432e-9527-9ccbf87a55db,Manolo Calderón Cervera,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:05:53.123660,with_onion,N/A,2
+98,262a2248-6af2-47f3-9e10-23694a1c917a,Teodosio Huerta Leiva,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:33:33.389268,with_onion,12.18,5
+98,ae630775-5bb9-44a9-b9f0-d441f34001a5,Maximiliano Lorenzo Barba,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:23:36.032660,classic,5.51,1
+98,c72a66d4-4ce5-4266-ab5c-29a8b6e9f49f,Liliana Saura Quesada,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:27:04.623445,vegan,6.3,4
+98,2746c473-87f7-4645-abcf-627129f6d94a,Nazario Arroyo-Marquez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:05:12.895370,without_onion,N/A,3
+98,d91573fc-4cdf-4225-bbd5-04b5d5c31710,Estela Bermejo Castelló,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:18:24.434372,without_onion,11.27,1
+98,e86437f6-50ad-40c7-b8b1-ba72c4777a65,Mauricio Gallo Plana,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:16:50.171459,vegan,N/A,3
+98,a5ca5f39-0120-46de-9fc6-8cd1d5358cdb,Sara Bermúdez Escolano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:34:37.820772,classic,N/A,5
+98,f6fcf059-3faf-4d8d-b3b6-7e9d39c21d1d,Félix Ortiz Benavides,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:45:30.406288,without_onion,,1
+98,68a40516-d61c-4e8c-a896-27b2e2e6cc58,Vanesa Lumbreras Bastida,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:44:09.908634,vegan,14.11,4
+98,a0f038b7-fcd6-4d62-8717-5e7b7ef50e4b,Juana Escamilla Somoza,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:15:41.338772,vegan,,3
+98,6d359a17-e5d1-4ffa-9e10-8773a0d44f45,Yolanda Alicia Sabater Requena,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:10:37.296204,classic,N/A,5
+98,cd71e968-6c21-4ccc-994c-5fc3e0e1edd0,Íngrid Niño-Luján,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:49:52.945537,with_onion,N/A,4
+98,812be0ff-b3cc-4219-84ea-ba69b52318d1,Ciriaco de Pera,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:28:24.116152,classic,N/A,3
+98,29cd8efb-0904-4a90-adef-b12ab8bb8213,Felix Pera Galán,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:15:28.462882,classic,5.73,5
+98,08c69ac7-ee91-47d0-8af6-31ab85b54526,Rosendo Tirado-Seguí,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:50:22.018353,classic,10.75,3
+98,de6425f6-3ed0-4b74-a924-df25601718ab,Nando Aroca Herranz,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:41:47.251231,with_onion,13.4,5
+98,14981cdc-b98d-4143-8492-9c9eb0eb20dd,Anastasio Tejera Castro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:41:31.433786,with_onion,N/A,4
+98,846b6d26-0cf9-4a56-aab6-b11bd72d513b,Espiridión del Font,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:37:38.442167,vegan,12.3,2
+98,9722b834-44c7-4ed8-9228-9e36202d7047,Cipriano Salgado Montes,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:19:32.451685,with_onion,N/A,4
+98,7af6eb39-db60-4894-ac1f-32356f84d831,Ale Ramírez-Caro,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:57:53.190403,classic,,4
+98,67dcb01e-0107-433f-b095-fbf5fef3344d,Paco Tena Diéguez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:40:58.721592,vegan,7.71,5
+98,c9f7c8a3-1ce6-443f-85eb-f5b9964080fb,Maricruz Nieto Sola,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:37:16.123178,without_onion,N/A,2
+98,7f62dffe-a9fb-4476-8513-c08e9e4dec1c,Rufina Blanca Alba Tirado,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:22:11.028741,vegan,12.08,3
+98,b12ed11e-9a8e-4c08-9939-5eedc2fd929f,Ana Feijoo García,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:02:34.216442,without_onion,9.86,2
+98,360c1af4-afcf-4647-ad31-105720a9f428,Ema Sevillano Ríos,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:28:20.780047,without_onion,N/A,2
+98,3ca25b42-f37c-469e-bf86-3cf8606f503a,Félix Lerma,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:34:32.321278,without_onion,N/A,4
+98,ff61bf37-e833-4c41-90b6-4d01a934df41,Aarón Macias Pinilla,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:16:52.109489,vegan,7.97,2
+98,2d47a408-254a-42b3-8695-c12722cfc5c9,Feliciana Dávila Briones,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:08:25.754692,vegan,5.59,3
+98,e88a67a5-ede3-430b-b768-74bb46d2924f,Marcelino Cardona Pinto,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:16:20.442834,without_onion,N/A,2
+98,be34e7af-b818-4e3d-a4c6-100fe7d6fde7,Francisca Torres,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:37:07.876139,without_onion,N/A,4
+98,a7dbdc65-d741-4100-9f40-7966ce930c0a,Gabriel Toño Montalbán Castilla,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:06:52.100006,vegan,N/A,2
+98,95a0d4c8-307d-46b1-9768-22bfb20b047e,Desiderio Jose Ramón Vergara Juárez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:52:26.395990,classic,,3
+98,13a7688e-5b95-465d-8c06-ab19f77638d1,Azahara Bernat-Cantero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:07:39.854086,vegan,N/A,4
+98,61ecf7c4-751b-4613-84f5-70c8143238b2,Aránzazu Rodríguez Linares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:43:21.749253,without_onion,N/A,4
+98,86de971b-0c50-44d6-b7ce-faaa69a8f511,Hugo Izquierdo Sanjuan,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:02:39.444651,without_onion,,3
+98,f5389552-b5ec-4c23-abf1-867cf9fea5ea,Susana Maldonado Huerta,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:02:02.118819,without_onion,,2
+98,0dffc501-b80a-4a08-8864-0db17023e58b,Ariadna Angulo Marín,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:24:33.901652,vegan,,4
+98,9ddeb3d7-00b9-4ec3-93ce-e4cb283ede79,Marcio Barberá Sáez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:45:22.566272,without_onion,,3
+98,9487473d-c376-456a-a9aa-a154f55be939,Ruy Albert Camps Bartolomé,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:57:06.986001,classic,N/A,4
+98,e55857bb-6073-4019-a44b-737710e329ed,Jenny Moles-Fabregat,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:09:02.261542,without_onion,N/A,2
+98,ff865c4c-fa2e-42c1-b861-d0fc4376feab,Marciano León Catalán Escamilla,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 15:08:40.970662,vegan,N/A,1
+98,8fb3b72d-cc6a-4db9-8799-35a0dc86f771,Bartolomé Vazquez Ortega,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:16:11.225307,without_onion,,3
+98,44cdc521-deb7-41a6-bd23-cb68c6e02037,Ariel Baudelio Arnau Hernandez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:31:52.035330,without_onion,9.14,3
+98,905a4500-bc03-415f-a9a4-0e9f054cd224,Elisa Álvarez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:37:11.973243,vegan,N/A,1
+98,f91d7fd7-656e-4967-9a93-55645893f0c5,Javi Valderrama Blanch,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:27:29.581959,with_onion,14.6,4
+98,e673aeca-1f8e-4e33-937d-0196adf8f627,Julián Tejedor-Río,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:52:56.947526,with_onion,,2
+98,09043585-70b0-4b80-83c2-8578dcedbf43,Borja León Sosa Zabala,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:03:36.514237,vegan,,4
+98,9db297d4-32b9-4313-9310-88f005dc488b,América Navas Barbero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:02:14.875434,classic,5.07,4
+98,879971bb-6826-417d-bd78-2cfecd91859a,Débora Rico Maza,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:49:20.727926,with_onion,14.64,1
+98,e14e5c74-dc77-45c9-b2f9-ba574263b7a5,Melchor Mancebo Benito,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:27:34.304361,without_onion,N/A,1
+98,b8af3c3b-8505-4ae6-91e8-259ba190bffa,Isabel Serra Mur,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:41:02.900209,without_onion,12.91,1
+98,5096a4d9-99f7-494f-a19e-be7ff85ec789,Agustín Nico Gonzalo Guerra,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:17:56.530711,without_onion,,4
+98,1931f6df-e6e6-4fb6-b387-be243f217132,Jordán Custodio Cabo Jaén,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:10:05.494168,classic,N/A,4
+98,87871ee4-94ec-4a90-8ab6-61461ffc0c4e,Luis Noriega Cobo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:14:08.068571,classic,N/A,2
+98,3880a51e-eaff-4635-b402-85246f04401e,Jose Francisco Custodio Alba Cadenas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:14:49.604611,with_onion,,1
+98,b40e63a0-3abd-4f1d-8258-ede9b6aa1261,Marcela Donaire Pont,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:48:36.294302,without_onion,,4
+98,677e6f22-b582-4850-92f7-8ce2e6890b02,Fito Navarro Gras,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:38:53.645094,classic,,2
+98,13147e77-709f-431f-8743-f6982b97db26,Arcelia Amat Roma,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:01:42.139562,with_onion,13.82,3
+98,836be89f-156b-496b-a9b1-6c9555c45f74,Federico Sureda Marqués,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:32:36.012387,vegan,7.0,1
+98,06d84cfd-3a90-437b-b2d9-528691c54914,Joel José Manuel Alfaro Peña,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:17:59.857505,without_onion,,5
+98,3220cc44-addd-48a2-9eb6-5385b7788fe5,Juanito Maestre Ferreras,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:15:13.330213,classic,N/A,2
+98,65e83dae-c64d-4d31-907f-692a21ac2a5e,Adelardo Roig Durán,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:54:55.290212,vegan,6.79,3
+98,c1a2c996-7dcf-4de4-8305-6a9ced7e84bc,Ale Bejarano Páez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:08:40.750141,vegan,7.28,3
+98,531dab96-d705-4859-8d5f-8343b023bd92,Andrea del Cabanillas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 02:27:48.205607,vegan,,4
+98,2ed5daaa-6e49-4461-877f-5b2c5c71fac1,María Jesús de Bauzà,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:06:51.163886,vegan,N/A,5
+98,1d446bf9-3d33-4e6f-a321-4dccfbe32dce,Patricio Mauricio Higueras Vara,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:00:22.015823,vegan,6.87,4
+98,560ac9fc-1b16-4353-bc0f-0f2c093c2172,Florentina Águila Pozuelo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:24:27.687692,with_onion,6.76,1
+98,66614e9c-2bed-48c7-85bf-ef5f6560fcc3,Juanito Iñiguez Arnal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 06:06:20.567948,classic,N/A,2
+98,974e348a-8c90-4247-ae45-7961011fcdf1,Rosalinda Gascón Dávila,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:58:33.090897,with_onion,N/A,4
+98,f21a5b49-1fb4-458d-b465-079867210cb6,Rafaela Cortes Riba,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:32:44.572522,classic,N/A,4
+98,be580a17-0141-4cbd-8da3-cdc17fde9933,Modesto Acevedo Pont,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:55:17.647253,vegan,N/A,4
+98,98ec15e1-47c1-496e-a400-6313e2906902,Andrés Juárez Montesinos,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 01:26:13.568809,vegan,11.85,3
+98,5b02a091-9030-4d62-b62a-fde40049bf48,Valentín Ojeda Ramón,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:33:28.393167,classic,,4
+98,484f3135-7faf-491c-9441-f17f91288a26,Yaiza de Artigas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:31:22.525436,with_onion,11.22,1
+98,5c1b65ad-88b0-41d3-b05a-1b9b109ccf0f,Ruth Adán Capdevila,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:08:15.427941,with_onion,,3
+98,68cc2d0e-32c4-4f60-bc2f-0047a2d66763,Feliciano Reig Company,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:31:04.697202,vegan,,2
+98,53a41036-cfbe-4b0b-86d6-263f2f7b1f0f,Carlito Pereira Marqués,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:21:01.426165,vegan,N/A,1
+98,e19af1d0-5b35-4500-a945-fa6120ff4619,Francisco Suarez Daza,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:04:45.575017,vegan,,4
+98,532a884a-c150-430a-89c1-c3c0b1e9aa87,Luz Rosales Noguera,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:09:14.154368,vegan,,4
+98,4f2e47ef-bdb3-4a45-9fa5-3cab3fb59ed4,Alfredo García Manzanares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:12:52.014139,classic,N/A,4
+98,9ebc92b5-d3b1-48f8-a3d1-ff592d3bcd0a,Alex Borrás,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:55:05.482031,without_onion,,4
+98,46e59861-fb4c-4061-ac4e-b92586ac889a,Maxi Infante Palomares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:08:03.764098,with_onion,12.72,2
+98,d916e9d5-5297-487d-a683-b42be706af0f,Lupita Elías Hervás,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:36:57.581260,classic,N/A,1
+98,fb948928-1089-446b-86c1-ecd36821138c,Casandra Ruiz Roselló,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:09:13.914956,vegan,N/A,4
+98,c0814b80-d23d-43fb-826c-4298af01e9b8,María José Soria Morell,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:33:16.091986,with_onion,N/A,5
+98,97c04e5e-eef3-4858-9f57-4955d548b050,Tamara Prado Vilalta,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 13:01:43.812421,with_onion,,3
+98,95af97eb-e001-45aa-93a1-0d9ef3257c67,Reina Aguilar Palau,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:59:52.872411,vegan,N/A,4
+98,f286caf5-a90f-4d65-8b49-a090c62d7aea,Edelmira Navas Cueto,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:06:10.891044,without_onion,N/A,3
+98,290450d9-8325-43ec-bfe9-4ce6057d6d3c,María Luisa Guerrero Mancebo,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:31:17.183111,vegan,N/A,4
+98,77e3fe2b-9804-462a-8bbb-2474be488f5c,Jose Francisco Adán,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 22:37:38.625382,without_onion,,5
+98,3f650311-b1c3-431c-8e7c-bf83793de9e3,Trinidad Lluch Palacios,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 14:20:57.767746,with_onion,10.3,2
+98,a58b416d-611c-4089-a827-1369c03208a1,Charo María Belén Albero Olivares,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 05:08:13.803231,vegan,8.01,2
+98,3f8c81d4-6698-455b-af0c-818042959f07,Elvira Alcalde Benítez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 09:05:23.624747,vegan,,5
+98,b058ea5f-5966-4d76-ac85-65d8b0643bbe,María Carmen del Santamaría,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 11:51:55.129536,classic,,1
+98,5ac20d82-11b3-4066-8e49-3f7fe0c790cd,Maximiano Zabala Morán,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:56:09.222578,with_onion,5.2,3
+98,e3b88f31-73a0-43e2-8ae7-79780df7a5bf,Cristian del Carreras,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:25:34.316371,with_onion,5.03,3
+98,9e158606-b08a-4e38-9392-88c504f03763,Nacio de Estevez,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 19:05:39.756534,vegan,N/A,1
+98,64603256-5c74-4d7c-97c5-b8f414a96b7d,Marcelo Vila,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 20:55:37.731524,with_onion,7.83,4
+98,e8d96410-d371-49b4-8bf0-8a2cfe5a8fc4,Jenny Ripoll Quiroga,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:37:44.480125,vegan,13.07,5
+98,3848c0a5-363c-4371-896b-5f0f5b12db9b,Joaquín Virgilio Valderrama Goicoechea,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 00:13:16.261234,vegan,N/A,1
+98,f5912636-f638-4692-bcce-d1afa806d1e4,Carmen Abascal-Cal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:42:28.393423,with_onion,,5
+98,ba906230-3143-4883-bafc-1d61ac37c2ec,Paloma Remedios Caballero Matas,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:16:00.206300,without_onion,N/A,4
+98,fefb5db5-9ec0-4bee-8ae6-0cb743b079ac,Amador Vélez Zorrilla,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 23:39:51.761070,without_onion,,2
+98,065a09da-f9bf-42d7-97c1-fe6b88dbc7ae,Pánfilo Gisbert Valenciano,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:58:43.182217,with_onion,N/A,4
+98,50dc05c1-86bb-4a0e-a84d-8623ba3f9459,Julio César Sanchez Arana,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 07:56:02.021345,classic,N/A,5
+98,8d7d9fa3-aea0-4e5e-9990-34789c9e0cdc,Plinio Cazorla Ayuso,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:16:49.851440,classic,,5
+98,641ab146-fabb-4955-97ed-1ab6d77d0098,Enrique Cazorla Alcaraz,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 16:43:52.595843,with_onion,N/A,4
+98,c95d9a95-3411-4e9f-adf7-48e63522751d,Rufina Mas Sierra,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 08:34:02.945006,without_onion,,1
+98,43259de8-9be7-4996-80e8-b6233ff2d571,Raúl Ferrán Arnal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 18:38:18.196432,classic,8.26,5
+98,bf16f296-5c90-453d-8130-07caf302adb8,Estela Yuste,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 17:37:04.520323,with_onion,13.71,2
+98,2af2400e-7f67-4a4d-be5a-d0b57c22fbb0,Amador Calderón Mercader,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 10:20:13.454309,classic,7.9,1
+98,94f05529-d569-4af9-bbf2-efb6e394e526,Mar Blazquez Padilla,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:19:03.675356,without_onion,N/A,4
+98,c7a660f4-4b80-4b4a-bfa1-149550eab4a7,José Manuel Fidel Estrada Acero,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 21:02:04.709697,without_onion,N/A,5
+98,39589bfc-33a6-4d0a-a66c-5d91dc060fe1,Matilde Sevillano Leal,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:07:16.713447,without_onion,7.09,4
+98,725ddd21-2015-4075-9c25-513172ce08b0,Pascual Peñas-Pujol,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 12:51:24.487271,classic,N/A,2
+98,b1cb764c-a935-484a-8e47-d0fa24b08a30,Emma del Estrada,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 03:21:39.349666,with_onion,N/A,2
+98,f6d65cef-5535-45b4-ba94-4e65fb1526ee,Eligio Núñez Carrión,Valencia,"Callejón de Florentino Dueñas 97, La Coruña, 37886",2026-05-01 04:53:02.290834,without_onion,N/A,1

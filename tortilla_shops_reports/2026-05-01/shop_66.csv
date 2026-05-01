@@ -1,0 +1,60 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+66,5061f411-74f0-427b-be0d-0be8a86203c2,Evita Ferrán Uriarte,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 18:55:46.985850,with_onion,14.57,1
+66,87f3ef97-9230-4caf-b9e2-181fb82b9d1a,Ambrosio Verdú Nadal,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 22:49:49.631701,with_onion,14.45,1
+66,b2ecf9fc-294b-4cff-974a-b3e67e68cd35,Bonifacio de Plana,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 16:31:52.523748,without_onion,,1
+66,39f5833c-2b77-455b-879f-3b67f6c1ea6b,Dimas Arellano Abellán,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 04:56:32.173413,without_onion,,5
+66,d768a8c9-d273-435b-91cc-df53444f3307,Ramiro Patiño Sastre,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 20:46:25.204903,vegan,,3
+66,e73eebdb-6ae5-4f17-8766-5c8a05a9c420,Diana Casanova Marqués,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 04:39:33.713591,with_onion,,3
+66,92c71e4a-2fd7-4c3d-95e7-5fcc9d6ae68b,Irma de Mayol,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 00:18:01.622328,without_onion,N/A,3
+66,eba6e331-0fc7-4d1e-b8bb-1e443f953d29,Ambrosio Tenorio,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 07:04:19.781302,classic,,4
+66,671f653c-8ee3-4533-97dd-4a49d14e46ff,Sol Campos Colom,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 12:40:31.991501,with_onion,N/A,3
+66,9d5fbf2f-174a-4a57-9d26-55952d0e506c,Narciso Gonzalez,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 00:35:26.589344,without_onion,N/A,3
+66,f49df4f4-f0ad-466c-8ee6-befc13531013,Nuria Ariño Mendez,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 08:27:20.555855,without_onion,,1
+66,9ff3a835-bb82-4110-9269-537b8f8ed3e2,Matilde Carmela Hervia Perelló,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 20:30:04.997293,without_onion,,4
+66,ecf8644a-a9e1-41dc-b4b3-4fa3b6863058,Ileana de Sandoval,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 04:44:51.172184,vegan,N/A,4
+66,7beaf07a-6800-44fc-bfba-e26418daa87f,Marc de Batlle,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 20:45:29.286775,without_onion,,1
+66,20da6d2a-46e5-44ae-836c-0d59104a562d,Sandra Machado Busquets,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 10:40:54.982042,vegan,10.18,4
+66,269a6026-d740-4f1b-872b-f6803a303102,Maite Melero Pont,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 23:15:19.691358,classic,7.86,2
+66,5a784a23-a546-49c9-b35c-8fbb5231b270,Angelino Gomis Alvarez,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 03:41:14.374954,with_onion,N/A,1
+66,11ff9f48-d1fe-458b-b5c8-f200e3fd88c4,Hipólito de Balaguer,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 13:08:22.316506,with_onion,10.71,3
+66,b95e175f-03c7-4e7f-bf7e-ce0804b5643a,Haroldo del Hernando,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 02:39:44.572044,without_onion,9.88,2
+66,bcba9f60-925c-4d2e-b473-350d50ce28d2,Brunilda Briones-Rebollo,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 09:05:56.768678,with_onion,N/A,1
+66,e57f81da-ae3e-4e38-a33a-dfc2556e04d0,Abraham Estevez Castelló,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 14:18:13.962668,without_onion,N/A,2
+66,01d330c1-1b8a-4783-8fad-0009c92d2643,Paco Arnaiz Peña,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 06:13:10.248547,vegan,,4
+66,70ab1c8e-77c9-4ccb-8254-aa2510ff0272,María Prats Sureda,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 07:19:48.218171,vegan,N/A,2
+66,11261154-99d1-4d40-b0f0-f85dd125fb0f,Custodia Cárdenas Coll,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 11:34:02.358785,vegan,12.33,3
+66,0c7b2bf3-3f80-494c-b137-309510a01812,Ignacia Valenciano Seguí,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 15:44:31.406505,without_onion,11.06,5
+66,f164431b-1b04-4bce-adf7-1bff0c2e08dc,Fabián Tur Cortés,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 23:25:45.200709,vegan,N/A,1
+66,cb4049ab-540f-4f9e-b821-b3d7ae1605b8,Juan Antonio Arce Giménez,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 15:00:07.926023,classic,,4
+66,faaee476-a009-492b-b665-dbea0b20d35f,Prudencio Patricio Palomares Carlos,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 11:41:34.431645,classic,8.38,3
+66,0ba5ec15-fe87-4768-9d7d-7a1987be88ce,Jacobo Bernat,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 12:37:37.051016,with_onion,N/A,3
+66,a28cefe6-456b-4d1e-80e7-1ae1b210e87a,Caridad Feijoo Huguet,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 13:05:58.168062,without_onion,N/A,2
+66,1431c429-44e8-453c-9230-bce657136427,Leandra Crespi Villena,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 21:59:52.589220,vegan,9.03,2
+66,d83018ca-d36f-44ad-a751-67c8f52ed426,Néstor Julio Díez Daza,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 08:50:59.033298,with_onion,N/A,1
+66,483299a2-8229-4703-a3e4-5ef3f0f23a8c,Mariana Julián Bello,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 12:01:08.188088,classic,N/A,4
+66,cb2cb1fe-910a-468d-9c92-29cc708de6ed,Azahara Sanmiguel Pavón,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 10:54:14.583614,classic,,4
+66,895af852-236c-47a2-9882-355d4d2ce7ed,Águeda Ramis-Oliva,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 18:56:11.000653,vegan,9.66,4
+66,1c195863-e212-438c-8089-7dfc4008999f,Eligia Elorza Pazos,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 14:30:12.676355,vegan,10.41,1
+66,c374e0eb-0b97-4a55-8583-5b19f3eaea3e,Curro Pi,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 13:08:58.261020,without_onion,,1
+66,ddf8797c-8ce4-4998-a519-1b96a90261c8,Ale Cobos Alsina,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 02:56:19.269196,with_onion,,2
+66,08ba1b96-3eda-4b2c-8058-6b62f50bfd3b,Lorenza Alegria Redondo,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 23:23:54.791110,with_onion,,4
+66,7760ae7d-4a24-49db-9112-01a30dcb04cb,Jose Francisco Vives Gonzalez,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 10:12:17.942614,classic,13.29,4
+66,b4561450-b5fe-41b6-96f0-b29e075acd14,Sancho Andres Morante,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 20:31:48.243998,vegan,N/A,5
+66,2a5aeda8-7d09-4fd3-9789-ac043f9a214a,Aurelia Zaira Mur Goñi,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 22:41:20.226581,without_onion,,5
+66,1e3d6338-34d8-4881-9da9-c57f50928814,Flora Calzada Beltrán,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 17:42:24.281221,without_onion,5.83,5
+66,c3062a3e-9d9e-4fd8-b1e3-5594248f2dec,Máxima Santamaria Torres,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 18:50:38.182102,without_onion,6.08,2
+66,004a0a8f-0962-4fff-8c2e-050e9d41eb40,Bernardo Izaguirre-Báez,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 22:36:59.866114,without_onion,,4
+66,618f0d26-a870-4c72-8875-58896e628546,Bernardo Morales Bonet,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 15:44:15.066900,classic,,4
+66,34b8f0ec-8547-4015-8fdf-3bac9da254dc,Plinio de Méndez,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 08:00:30.599666,with_onion,,5
+66,1bccbd8f-c3d9-4d5a-84a6-ce99ca20c07f,Jenny Tirado Suárez,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 09:23:51.767509,with_onion,,4
+66,8e1a69f6-4047-4dfd-a421-189b6893a0b9,Cecilia Vila Múñiz,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 22:55:21.658520,with_onion,,4
+66,401d58cb-2204-451d-80f7-158585f1a39a,Lucila de Adán,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 20:01:33.988026,classic,14.83,2
+66,ec8a721f-da23-41b0-b954-a2d707fe1ec0,Ángeles Cerezo Coello,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 11:20:53.502155,without_onion,,2
+66,6493f223-fb75-4c1b-9b7a-f23915c53b79,Jose Ramón Alberto Torrents,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 12:46:47.441224,vegan,5.17,3
+66,e7b850a4-11fb-46c1-93c8-24aa711c2cf0,Otilia Roura Cabello,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 04:17:28.592230,vegan,N/A,1
+66,53a9dc1c-c382-40e8-9c33-ab204024dbe9,Sigfrido Malo Roselló,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 03:01:49.535819,vegan,,3
+66,6c17729f-6fc2-4068-9215-960cc9cbb54d,Josep Carretero-Garrido,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 16:08:23.544754,without_onion,N/A,5
+66,a66d2865-e2f1-47dc-a212-ba236db0ef6b,Celia Palomo Rius,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 15:55:07.450850,with_onion,N/A,1
+66,49bf6d2f-0c51-4ba4-9606-de59a2e833ed,Manu Juárez Cadenas,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 12:39:31.687118,with_onion,N/A,1
+66,8c23c22e-2b2b-43c1-88e5-67e471c47dab,Pacífica Blanch Cortina,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 20:09:28.460211,classic,14.43,4
+66,49724e0f-1bb1-409e-b9a3-cab1a4d68e19,Florentina Alarcón-Torrecilla,Palma,"Vial de Isidro Téllez 863, Alicante, 21152",2026-05-01 13:33:29.039698,classic,N/A,1

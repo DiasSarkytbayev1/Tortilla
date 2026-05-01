@@ -1,0 +1,85 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+41,9666e656-3507-4273-9997-8bdaa2a96536,Filomena Anguita Salamanca,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 00:47:17.213894,vegan,N/A,2
+41,3aaab53d-26f1-4c39-b41c-6d71393e80bb,Brunilda Tejera Exposito,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 04:10:58.690019,vegan,N/A,3
+41,df6a3dc5-9bad-4f6b-aee2-5c8af6fbbc33,Virgilio Rosado Raya,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 17:35:47.815421,without_onion,5.84,1
+41,991ab4d3-ff89-47bf-bcda-0b6e27138b78,América del Roldán,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 00:31:23.264295,without_onion,N/A,1
+41,8534f1a0-cd2b-4aec-96b6-07e41ff6538b,Carlos Yáñez Pacheco,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 01:51:08.917279,with_onion,,1
+41,4076300b-e712-4815-8189-78c72908a65d,Francisca del Nicolás,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 22:48:51.684043,without_onion,,3
+41,00c5ac29-0e1a-48b6-bb6d-4e7894f48199,Haroldo Gallego Lluch,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 18:15:35.323342,classic,8.69,5
+41,ae32f4f7-ce72-4ae2-a97b-1aeeb2cc6f32,Eutimio Bertrán Almagro,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 03:05:24.036626,classic,5.86,5
+41,00d635a2-3f33-44a9-8a59-96c846b5ed33,Nerea Roig Vizcaíno,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 06:55:25.115067,with_onion,6.69,5
+41,8f64f35c-165d-45c1-a6dc-7791d52e2b5a,Basilio Grau-Urrutia,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 19:26:21.705315,without_onion,12.99,5
+41,71ced419-6bea-4cc9-844a-1c13690d882c,Tamara Aznar-Cuervo,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 06:17:14.471561,classic,N/A,4
+41,0b2cea17-09a3-4d1d-8de8-f12bc806e3d2,Juan Antonio Marqués Nogueira,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 20:33:04.474964,with_onion,7.76,4
+41,a976c95a-b248-426d-8fd1-e7c68e72a41e,Demetrio Gomez Abella,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 15:19:46.749113,without_onion,,5
+41,7bb60401-f8d5-47d7-a395-b29529bf0a06,Jose Antonio Arroyo Gomez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 22:44:46.001754,with_onion,,2
+41,8219ec69-394d-4445-b53a-8a6bbdbbbfa6,Hermenegildo Ávila Infante,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 22:13:16.051472,without_onion,N/A,5
+41,dd6c170d-d2bb-4211-b564-7f28a46baa90,Pascual Catalán Múgica,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 20:58:36.146539,with_onion,,4
+41,69f947d5-94b6-46a5-a760-a5f96ec02927,Irma Dominguez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 08:55:01.287301,vegan,N/A,5
+41,536fb4f5-1ff1-4843-8ab5-b3bd92154f26,Domingo Baeza-Gomila,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 17:31:45.967556,with_onion,,2
+41,981bcbf7-08a1-4571-b029-7c3d4096aeb8,Jorge Coll Martí,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 15:00:43.254603,vegan,N/A,1
+41,ebe7d9b9-4eaa-48ef-9aa2-3aa24935ee0a,Octavia Falcón,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 05:58:04.609419,with_onion,,1
+41,c2e07328-4362-4516-8a80-894bb78a1175,Encarna Bru,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 08:31:19.097148,vegan,N/A,5
+41,c4047292-a600-46d3-ac53-d96d6aed4e29,José Antonio Varela Rojas,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 06:13:03.111579,classic,,5
+41,6f1b12d2-2203-48fb-8a55-e563852e683f,Nadia de Merino,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 22:39:29.276260,without_onion,N/A,2
+41,3ae6c064-ecb3-4025-b99e-5164df8267b1,Paz Navarro,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 11:42:44.602626,with_onion,N/A,5
+41,eb152756-ea9e-4901-a68a-835d4cb671b3,Ismael Huerta Rosselló,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 14:07:02.217906,vegan,N/A,2
+41,e2242287-0553-48da-95f0-ce00ec275092,Trinidad Ruano Robles,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 02:17:03.003028,vegan,N/A,5
+41,30ca4e04-4ddb-4bd1-b0f1-d30feed22ab1,Malena Belda Botella,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 01:11:37.285046,with_onion,N/A,2
+41,4b3286a6-e5f7-445c-94ae-fb2405cef641,Amalia Soraya Amaya Estrada,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 09:47:02.592780,without_onion,,1
+41,56fa67b1-f81e-441a-b3cb-2ef78ac5dca2,Jorge Dominguez Báez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 01:10:20.210249,without_onion,N/A,5
+41,97043639-670a-49c3-be73-a2543cd186ee,Fabricio Linares,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 08:14:20.138755,without_onion,N/A,2
+41,47bbac70-0ccb-4d3d-ac8b-fcfa98b8e528,Manu del Nevado,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 05:15:38.844697,without_onion,8.38,5
+41,70fedacb-eb03-4988-bb3e-1c3f9b85e795,Brunilda Galvez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 19:05:02.576268,classic,N/A,2
+41,f40db722-82af-40dc-a6fd-fe268e1626a7,Pío Azorin Benavente,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 05:17:39.679162,classic,N/A,4
+41,adea0592-c628-4d20-9afb-8cd68c4aea7e,Vasco Diez Blazquez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 23:24:53.786607,without_onion,,1
+41,992966e5-cf69-4436-8d62-19d5fb994be9,Sara Anglada,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 23:48:23.398118,classic,8.43,5
+41,ccc6fdc8-c393-47f8-8e8b-dd269946327f,Gervasio Belmonte Díez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 20:04:29.429915,classic,,2
+41,2c398445-8c95-46a7-9b5b-de28481fe7ef,Lucía Quiroga Miranda,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 23:10:29.282736,classic,9.55,1
+41,42088c75-9e99-46f3-a8e2-d6749597d24b,Estefanía Ferrera,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 10:31:32.445680,without_onion,14.94,5
+41,ad0682ba-36f2-4b14-8371-77eebef3ee18,Feliciano Iriarte Llano,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 09:39:29.142982,vegan,5.84,1
+41,2fcf7481-f4bd-4d70-8df6-3ad55e7a6a5f,Pánfilo Peiró Guerra,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 23:34:40.745834,with_onion,N/A,1
+41,9bd37127-6539-49ad-8519-6030d0e3c92c,Alcides Calvo Blanes,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 21:29:39.786905,with_onion,,5
+41,69eef3ba-4c96-49b0-b245-7154b3d358f0,Felipa Buendía Salas,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 19:02:05.126723,classic,7.64,3
+41,b5690fc1-eede-45b0-b4ad-f6c10c5b7643,Irene Perales Alsina,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 11:16:21.583778,with_onion,14.86,1
+41,38065ec1-9ef3-4090-9fd0-b7cb4ef56daa,Felix Pastor Adadia,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 05:40:46.323978,without_onion,N/A,3
+41,55ad24f4-a6bc-471d-ac7a-e745efb328b3,Ignacia Romeu,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 19:20:44.210205,without_onion,N/A,2
+41,1e43c18d-86c0-4da8-b4ba-2e8575df269c,Alfonso Novoa Porcel,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 14:04:01.817872,classic,N/A,5
+41,1f2d1900-1f07-4da8-9993-67ab195670b6,Cleto del Vives,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 03:30:52.539292,with_onion,9.09,1
+41,96036877-cc23-4608-bf4c-6439fa3de6d7,Narcisa Urrutia,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 08:14:26.717568,classic,N/A,1
+41,464a8566-a1f6-47a6-952e-dbb915f4000d,Javier Osuna Puente,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 19:26:04.831472,with_onion,11.3,3
+41,a800e695-9d99-4895-926b-4eb36a10a186,Edelmira Zamora Vizcaíno,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 18:32:36.573903,classic,14.24,3
+41,6e310f30-12c0-4b96-99d6-0786bd5af2ef,María Diaz-Ortega,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 17:45:15.663817,vegan,10.62,3
+41,f3b43ec3-c80e-48ac-b41c-6f6376eeb619,Morena Jacinta Moreno Novoa,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 06:59:51.660318,classic,,5
+41,2e4dfb40-259b-4a3d-955b-fb4d943950ab,Ale Ariza Mariscal,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 03:27:34.852920,with_onion,,4
+41,783a249f-f671-4740-a048-047a57de1321,Cintia Antón Diez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 09:55:34.972463,with_onion,10.42,3
+41,32228d82-5de0-4b5c-8e95-6c1f1398e656,Estrella Barral Gaya,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 10:48:30.501279,with_onion,,5
+41,0dee8d75-8e5b-4059-aac4-5ebf8262dc1e,Francisco Pedrosa Expósito,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 01:36:08.829421,without_onion,,5
+41,7c592599-2f37-42bc-943a-47c437e0588b,Jacinto Jeremías Guerra Chamorro,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 06:03:58.877565,classic,N/A,1
+41,bd980e2c-e896-4648-b409-206714bc9ed1,Edelmiro Beltran,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 20:02:26.200036,without_onion,,3
+41,6566b334-5b5b-4bdd-9477-10ac1efe7ffe,Lupita Duque Vallés,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 13:54:34.629477,with_onion,,1
+41,a64b5ce7-5594-4940-a6b2-6441e223b319,Bruno Ávila Reig,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 11:38:05.989589,with_onion,,1
+41,94f553a2-e191-403d-840a-d0ddb3df50ea,Manola Lerma Bermúdez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 15:48:18.536144,without_onion,N/A,4
+41,33954e5b-bcae-4340-a159-86dd2609dddd,Isidoro Claudio Bermudez Sola,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 18:58:45.104329,without_onion,,3
+41,ac341b71-304c-4e1f-a7eb-f5961ccd3815,Tomasa Piquer Clavero,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 23:10:10.906404,without_onion,,1
+41,fc875712-c1c2-4d1e-96a6-8714fff3b94f,Jeremías Olmedo Galvez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 11:31:21.463352,without_onion,N/A,5
+41,4b40760f-163c-4bcc-ad17-b63f04c3f8cd,Alba de Alba,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 04:30:35.952598,without_onion,12.43,3
+41,a8c1ff47-0653-4add-8a9a-6fe71fa4224e,Valerio Grande-Ros,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 20:49:44.300355,without_onion,N/A,4
+41,e041f896-1b41-4a4a-97a0-3ffce83d0600,Juan Luis Escribano Huerta,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 01:23:54.824761,classic,,4
+41,d0c88319-c39e-49ac-afee-e47dcb66ebc0,Hernando Padilla-Atienza,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 14:27:25.421699,without_onion,N/A,1
+41,3f8a2b60-289d-4a9a-a034-656b98fa8733,Filomena Velasco Benitez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 12:24:57.486853,with_onion,,1
+41,f3c54a1b-9839-4256-85b9-09b10cb0ffb5,Armando López-Gimenez,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 15:43:01.115682,without_onion,7.26,3
+41,afdf95b6-8037-4c76-8601-201aae45d19c,Felisa Julia Suárez Barberá,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 16:04:31.596352,classic,11.55,5
+41,5965ca8d-6332-4aad-9bfd-25dd1c62aace,Abigaíl Ródenas Cárdenas,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 13:43:56.919492,without_onion,14.81,2
+41,f93b3c33-7f0a-4dcc-8341-0f975366752b,Mireia Suarez Pavón,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 07:12:35.278269,without_onion,14.98,3
+41,41924677-3913-485e-951d-30fabfc63fda,Eulalia de Cuevas,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 08:03:43.058749,classic,,3
+41,715fc308-710a-47f7-9ab5-ea31f80bca1e,Amando Antón Angulo,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 15:51:42.671920,without_onion,7.14,3
+41,a6d504b3-acb0-4ea1-ad3e-51ef9f84c9e5,Dorita del Olivares,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 14:44:01.114083,without_onion,,3
+41,1693b5f1-2c45-4996-b865-3b4168c71841,María Luisa Aramburu Cortes,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 17:26:54.388892,vegan,N/A,1
+41,3520547b-3f88-4895-8b7b-5565eba38c00,Carina Seco-Quiroga,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 05:25:11.820418,classic,5.92,2
+41,e9e1c975-e3fa-40ca-bb01-eb3870aacf8a,Ruperta Ballesteros-Arnal,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 03:06:19.269987,classic,N/A,2
+41,eb2c8042-f33b-4eea-85e8-50bc464ab286,Hilario Torrens Quesada,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 17:32:46.697053,with_onion,N/A,4
+41,3c818d15-5cae-4fa3-9b6c-23a72869db31,Saturnina Patiño Sanmartín,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 18:20:47.426497,without_onion,N/A,2
+41,b7987a36-0952-46e3-a1e1-ead23f8cad44,Feliciana Vilanova Garmendia,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 12:26:04.708069,without_onion,N/A,1
+41,6177b4e6-9306-46d2-8126-83b7b62a6918,Melania Barceló Solsona,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 18:28:12.948303,classic,N/A,2
+41,dd29cdae-d180-4f2a-b605-f6c276518aac,Jordi Martín-Mendizábal,Zaragoza,"Pasaje José Molins 8 Puerta 4 , Valencia, 15251",2026-05-01 20:24:10.916597,without_onion,N/A,5

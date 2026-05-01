@@ -1,0 +1,98 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+43,9ade21cc-cc36-4bb0-885c-bb54190b3399,Florina Linares,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 00:40:23.294498,without_onion,,4
+43,cffaf30b-dc31-40f9-b9aa-45b0f85f830e,Evaristo Bayo Figuerola,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 11:13:13.005245,vegan,7.88,5
+43,104fe90c-3e6f-4b3a-b078-02fb8c35456b,Adoración Frías-Lucas,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 22:09:50.112121,with_onion,,5
+43,04a98bcf-52b0-4d98-816d-8aa223a7c950,Ruth Vera Delgado,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 17:07:06.300931,without_onion,5.22,1
+43,e64bdd56-ca41-4503-8453-5affc5d616c7,Juliana del Echeverría,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 19:32:26.052913,classic,N/A,2
+43,e881b319-f514-4429-9750-ae8241866c15,Teodoro Cifuentes Santamaría,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 07:54:49.283672,classic,,4
+43,bf3dbbec-48ad-4445-873d-a419e90449bf,Florencio Conrado Soriano Coca,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 14:09:03.762927,with_onion,12.59,3
+43,7bac34c7-b35c-4661-af77-2696eed792c4,Berto Cornelio Tamayo Herranz,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 20:38:51.229336,with_onion,N/A,1
+43,dbdd7359-58d7-4454-b791-78e48d3a9add,Samu Luís-Carreras,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 10:25:44.497114,with_onion,12.83,3
+43,3e1742fc-14bc-4a5a-b542-90538d58e83e,Teodoro Villalonga Caparrós,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 02:34:41.507249,vegan,10.95,1
+43,520ac608-585b-4df4-923a-cb4b1ff071b2,Omar Cañellas Solsona,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 08:09:33.983131,without_onion,N/A,3
+43,53d917e4-dc13-4909-a29a-320228558e5f,Valeria Espinosa Cantero,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 07:52:09.052001,with_onion,6.88,1
+43,c924933a-fbfe-4612-aafe-ce19ebffd6e3,Ciro Galan Pont,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 08:58:20.012221,with_onion,7.54,1
+43,0b0141ce-d80b-4b74-a1ba-4a63e438b7df,Etelvina Oller Cerro,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 19:12:45.549725,classic,6.51,3
+43,0779975b-bc06-4f74-8fe1-eaf0c55c8958,Ovidio Martínez Lorenzo,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 04:38:46.115102,vegan,7.26,3
+43,e4db8444-255c-4ab4-90f2-94e7db2089dc,Federico Crespi-Pérez,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 23:30:56.403669,vegan,,3
+43,9d9499b0-387f-4a94-b6bb-4645b0ae3587,Ramón Lobo Teruel,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 08:12:14.411313,classic,N/A,5
+43,cbf377a1-2c37-4114-99d1-972d6d1586b3,Custodio Félix Arenas Camacho,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 18:07:40.445267,without_onion,N/A,3
+43,d1db136e-7394-42a7-88aa-ed952b610f87,Quirino Agustín-Canals,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 05:35:32.797875,without_onion,N/A,5
+43,7f9ee2f5-03bb-4868-8518-6f275fbbe85f,Ainoa Adán Alberola,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 05:19:09.895891,with_onion,N/A,3
+43,780d8526-2778-4238-bd04-f09132b251fa,Mercedes Domínguez Uriarte,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 21:43:56.006904,with_onion,,1
+43,38259fc3-c7b7-4876-b64c-500cc7a77190,Dionisio Cózar Higueras,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 22:56:10.666423,with_onion,N/A,4
+43,0f6ec794-3188-4704-988f-52ccfe4765d2,Nicodemo Apolinar Casanova García,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 07:58:04.878407,classic,,5
+43,987fb651-b333-4e1c-8c96-404cac190004,Jose Ignacio del Olmo,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 00:55:55.818439,classic,N/A,1
+43,1311cf8b-9639-4aa6-ad38-f2e37b100fcc,Iris Río Bernal,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 04:35:16.496507,with_onion,,1
+43,c6d5d095-951e-489d-a790-83329c735fb8,Constanza Palau Morata,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 20:44:40.260147,without_onion,13.41,1
+43,53f4f30c-0514-436d-94e9-ef183435ce78,Jovita Lobato Barceló,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 13:03:40.031105,with_onion,13.97,5
+43,6b7d1415-e5aa-41b9-9303-00de13a16c05,Calixta Ayuso Elías,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 15:38:22.188840,without_onion,N/A,2
+43,adf9018a-994b-4f8d-aae1-1770b80b867a,Amado Diego,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 22:43:02.007810,without_onion,6.75,5
+43,55d572f8-7d34-4a07-a2f0-41e9e5ff7154,Jordana Carvajal Reig,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 03:20:31.937521,vegan,5.19,3
+43,1ef8e356-7290-47f9-ab50-fb39958e2f07,Ambrosio Lledó Campo,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 00:49:56.718264,vegan,N/A,5
+43,46ac6058-a95d-44be-b43e-dacaba520fcf,Ruben Solís Andres,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 12:07:19.225895,classic,11.03,2
+43,c6e836ff-9a92-4b9b-8af3-9827905ca41e,Ambrosio González Molina,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 21:30:29.340465,with_onion,6.24,5
+43,e78693b2-5824-47b8-b0d1-88c3b3245def,Ciríaco de Piñeiro,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 12:10:09.752156,without_onion,N/A,4
+43,77994082-8583-4fc1-9166-3d51409237f2,Diego Fermín Carbajo Pazos,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 13:51:49.536507,without_onion,N/A,2
+43,a89d9ba3-a0fb-4c36-864c-41e6ba349841,Norberto Rómulo Agustí Macías,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 00:13:57.852706,without_onion,N/A,1
+43,2540cfb7-b497-474e-bab6-43ba7fa1886a,Teófila Padilla Mateos,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 10:37:38.983890,without_onion,N/A,1
+43,f3cf5e0f-7293-4706-a9fc-a4463d02916d,José Antonio Arribas,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 18:59:44.654648,without_onion,,5
+43,7afed868-7559-4053-a768-0de53c998469,Nando Mate Tejera,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 16:28:19.037400,with_onion,,5
+43,4049cd61-60ca-4e1c-9762-734011cf6606,Leopoldo Édgar Escalona Bonilla,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 05:42:47.605259,without_onion,12.27,2
+43,4802564d-9094-45ca-a67d-64e9c9058574,Cruz Pujol Bertrán,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 04:49:34.071924,vegan,,3
+43,15a982c4-8baa-4465-80d5-62938560dfb9,Rosalinda del Vidal,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 12:48:21.433156,with_onion,N/A,1
+43,4e142eca-ac23-4015-b775-c40c4195d553,Adora del Vélez,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 12:51:57.014451,classic,8.39,5
+43,bbd6d4e1-aba0-442e-a7f7-f19796fb8de8,María Belén Vicente Alcolea,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 12:32:54.381228,classic,,5
+43,80fd756c-90b2-4a14-b60d-2f3931619790,Hilario Guillen-Heredia,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 03:08:12.974189,without_onion,N/A,4
+43,fdf4ebe5-c3df-428f-872f-7777dcdf2c85,Gervasio Llanos Sans,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 06:17:44.202754,without_onion,12.49,2
+43,3f1b663b-bb3b-4caa-a53d-8382b7a47bba,Flor Miranda Cuevas,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 09:27:00.432163,with_onion,N/A,2
+43,5a0d7e38-6232-4934-b29d-abc591936c4c,Primitiva Aller Delgado,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 03:13:05.285081,vegan,N/A,4
+43,89590711-ab73-4c65-adfe-6163c5d20844,Édgar Hector Calderón Alemany,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 05:09:18.505301,without_onion,,4
+43,f4edd117-cdd6-4a77-a497-496af3f6a951,Tomás Olivé Rius,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 11:28:59.171244,without_onion,,2
+43,b2cdffa5-3d94-4d9e-8517-45cc4eb48bb1,Miguel Ángel del Frías,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 21:48:45.844912,with_onion,N/A,4
+43,78ad65ec-8a92-41a7-8a5b-722f53dccedd,Nazaret Marqués,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 15:30:48.336768,vegan,7.32,1
+43,8dea1b97-5924-4a3a-a128-5a8baa34ddc0,Jorge Peláez Ojeda,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 08:25:53.782464,classic,9.83,5
+43,3288dda2-078b-4116-b371-ab2cb8b9fe91,Daniela Escolano Oliveras,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 04:21:33.636196,classic,,2
+43,3ef9028b-5910-4e5a-bea5-75939f3e177d,Berta Ileana Peláez Reyes,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 10:00:15.855981,vegan,,1
+43,440616f3-d0ca-4e12-a100-cc179d222c58,Gabino Soler Jove,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 03:13:30.473605,classic,7.37,1
+43,140a03b1-d1c2-454c-b1c3-5f873d82c133,Celso Mur-Luna,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 09:23:20.396046,classic,,4
+43,3cb1d4ae-608a-4bef-be03-8b0ab1360475,Fabio Hugo Oller Tirado,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 16:21:38.214018,classic,,1
+43,2f52a104-8301-4300-888b-d85e254438a5,Coral Calderon,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 00:18:31.031236,vegan,6.74,2
+43,4046d25c-c55f-4b3c-a20e-30f84dcd7f5e,Dolores Tomasa Rodríguez Velasco,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 03:02:13.636969,vegan,N/A,4
+43,ee5c1037-3d01-41e4-b774-ee621f5b7284,Luis Pino,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 00:18:34.632853,classic,13.72,3
+43,2f69ecca-91dd-4704-a0c2-76be63dc4c4d,Juan Antonio Parejo Cabrero,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 19:58:18.201312,with_onion,,5
+43,00f02556-d54c-4146-87bd-75e271e56f9f,Édgar Adrián Grande Vidal,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 06:45:21.583974,without_onion,6.1,5
+43,eb805aab-4382-497c-979d-776483341bfd,Narciso Bou,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 17:38:54.118981,vegan,,3
+43,1dfe3455-e8be-45b8-8506-ec3878d71fcd,Malena Chacón Aragonés,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 02:35:20.003190,classic,,2
+43,e5a5a369-e6de-4970-96a3-e9e69261cac7,Hermenegildo Vidal Rocamora,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 06:31:08.099958,without_onion,8.02,4
+43,931b3e1d-518b-4b32-9571-14186d111e57,Ámbar Martinez Verdejo,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 23:08:30.125896,vegan,9.16,3
+43,5ec31531-a104-4525-bd82-c0be97c89798,Jonatan Cervantes Infante,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 17:42:25.550525,with_onion,8.24,3
+43,e36fb53d-a9b8-4bed-9c24-3eab7e09a5e0,Damián Lozano Gallardo,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 09:20:59.246880,with_onion,,4
+43,f47c5a05-06d7-4f53-b6c0-c26b1c0fda02,Casemiro Ruano,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 11:32:51.524781,with_onion,8.61,4
+43,d160a5c7-aeb6-4df1-b7ec-78f1f280c7f3,Evelia Pazos-Riera,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 09:39:36.732702,without_onion,,2
+43,a04cd279-2cd9-4eb2-a297-b3d3f58da2ff,Inmaculada Paola Sosa Artigas,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 15:36:45.211976,without_onion,N/A,1
+43,3ce75767-82e9-4dd9-95f2-f62a811e2cfa,Ruperto del Torre,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 21:40:31.797118,classic,,4
+43,87d4a302-6cd6-4d00-a0ed-3b512b9423c1,Sandra Cózar Vilalta,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 01:02:22.778944,with_onion,13.46,3
+43,dee520f3-6eee-4565-8883-df13c9e9cb9b,Ciriaco Pedro Bejarano Peñas,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 15:21:35.359672,classic,,3
+43,f76ad947-db31-4f85-bf5d-f98c5a41d932,Emiliano Vizcaíno Romero,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 05:06:57.022265,vegan,,4
+43,67309e11-5db9-476e-9682-b54d1c88c0ac,Dominga Peñalver Barrena,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 06:24:12.097312,classic,N/A,3
+43,b4ad2ce0-ffb8-4860-9055-91a1c5824945,Raquel Martí Gimeno,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 12:33:22.310287,vegan,,3
+43,4b834f82-101c-403f-a5de-b328d91fc400,Ariadna Fernandez Casanova,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 06:23:24.346245,vegan,N/A,5
+43,0c5be243-974f-4c94-a195-c140c81e61db,Yéssica Báez Gual,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 08:54:08.562628,without_onion,N/A,5
+43,5eb068aa-3e7c-4510-8986-d4da28036c30,Calixta Ledesma,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 01:44:54.770865,without_onion,,1
+43,e07c3fca-44d1-4aa1-88ee-944269c2cd0c,Joan de Arregui,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 09:37:09.132024,with_onion,N/A,4
+43,c25daac7-3ffa-48ac-9517-13de1d4a8eb4,Augusto del Ocaña,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 07:10:05.954716,vegan,N/A,4
+43,3d55d9d0-77f7-4025-a38a-2402f817ac09,Rocío Olivera Ríos,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 18:14:53.427683,without_onion,12.7,5
+43,b2a36881-7949-4e38-a16a-261b2422c75b,Amílcar Gomez Palomo,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 08:37:25.397287,without_onion,N/A,1
+43,6205759c-23dc-488d-b575-8f53cfc5037f,Leocadia Cáceres Borrell,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 02:38:38.635228,without_onion,N/A,1
+43,4ea08212-ad98-4f45-87a1-16ea13773371,Maribel Correa Santamaria,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 05:15:43.883678,without_onion,N/A,4
+43,dd6df611-adda-4e4d-a4ae-cc953ea7a487,Hector Baena Tirado,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 17:04:36.542610,vegan,9.27,1
+43,8d58003b-92c4-41d7-92eb-3ec1e46a36e7,Sandalio José Luis Armengol Aguado,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 03:08:10.599654,vegan,N/A,2
+43,1bdc7792-deba-49d1-8998-034322e56561,Lucía Ferrer Alfaro,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 00:55:08.161578,with_onion,,4
+43,c18945a9-1c59-4b08-8c78-5a4d5796f10c,Pastora Fuentes,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 14:17:35.562892,with_onion,12.76,1
+43,e307bbd9-5ab5-4ef1-901a-22d2350ff626,Isaías Company Amaya,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 19:56:09.902030,classic,9.4,1
+43,c4aa81cc-c0c2-4159-9307-ae1736f3d12a,Leire Santana Jáuregui,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 18:37:33.909844,classic,12.89,5
+43,7f3226a4-0c6a-4cb2-9c75-a8230f08660a,Ruth Calvet Sarmiento,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 00:07:19.002723,without_onion,N/A,4
+43,9b581b4e-f5bc-4a09-9b39-a6e7f0326a1d,Zacarías Landa,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 09:57:26.482116,vegan,13.84,3
+43,dcd498fb-4dac-4d24-af2a-2a029a68c4e9,Itziar Rosalva García Checa,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 06:55:42.552743,classic,,2
+43,971299a8-9bdc-4919-87b7-9bebe18d1fbc,Emelina Valera Perelló,Valencia,"Alameda de Cintia Mascaró 7, Ourense, 13550",2026-05-01 10:21:39.154616,with_onion,N/A,2

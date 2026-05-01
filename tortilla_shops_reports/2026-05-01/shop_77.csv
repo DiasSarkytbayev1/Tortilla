@@ -1,0 +1,449 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+77,f079f9cb-6222-46f0-be9c-a7ccea3cfb0c,Erasmo Padilla Vallés,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:11:14.541502,without_onion,N/A,1
+77,768ef3d0-d6b7-4026-8748-2046461bcdf3,Plinio de Zorrilla,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:12:14.777871,without_onion,14.78,3
+77,7d3cea1d-7cba-416c-9177-3f01d8ccc097,Itziar Donoso Llorente,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:14:47.301490,with_onion,,1
+77,63d33f2e-7a72-4e0b-b7b3-4ea7e42a5c0f,Feliciano Blázquez Valera,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:21:32.184997,without_onion,14.39,4
+77,afce96b7-679e-4d71-877f-2967de960b7d,Rosenda Verdugo-Sanmartín,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:28:07.558570,without_onion,7.33,5
+77,5edd5d11-cf08-4807-8cf2-0d3bd0051c0b,Mohamed Garriga Velasco,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:23:13.910548,without_onion,,3
+77,e621f54c-4811-4e0a-9c56-ae273ab9c361,Vera Carretero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:02:47.276021,without_onion,,1
+77,8f36a611-5d00-4e26-a5f4-3af24c75661e,Victoria Diego Vives,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:13:59.495474,without_onion,12.63,2
+77,f91e520b-cb6c-4252-a9de-75b0715916d0,Julieta Girón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:29:21.645703,with_onion,8.11,5
+77,49a2de84-b220-44e9-8f87-d6971ef85205,Poncio Goñi Chamorro,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:48:49.909161,classic,N/A,1
+77,2eb848ec-ddb5-45b3-af75-018720d2cbae,Alex Barroso-Herrero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:16:54.942451,vegan,6.54,3
+77,992b0388-7bdd-42bb-8634-607e1b4d4b98,Arsenio Seguí Sans,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:23:48.181672,without_onion,,5
+77,ef707cde-2a61-4244-95c1-384f69c4da41,Zaida Avilés Figuerola,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:03:22.108256,vegan,N/A,5
+77,aa19ee3f-9c3a-42b7-a252-260789892ee7,Nuria Ruth Talavera Valenzuela,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:20:37.254469,with_onion,,1
+77,72dedc04-21ec-4f91-9989-c25fe60c2a1b,Caridad Zorrilla Conde,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:59:06.347935,with_onion,,1
+77,d4b6665f-b068-4e9b-bd7a-fbb7e360a249,Pascuala Paniagua Puente,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:15:36.747500,classic,7.57,4
+77,8987ec3d-1b25-448f-9bea-09e4439e193c,Liliana Lobato-Ledesma,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:19:18.618262,classic,N/A,3
+77,a899f6d4-dbc7-4633-b498-7c62e9b7ee9c,Régulo Bello,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:07:45.799091,without_onion,N/A,4
+77,1e56e9d6-9d7a-4957-a846-9295584c9618,Palmira Corbacho Pedrosa,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:58:32.607968,with_onion,5.43,2
+77,157c9803-be62-4480-b630-261a3eb49f56,Nazaret Luz,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:53:30.476825,classic,11.51,5
+77,d341becb-e05a-4154-a049-f4679b61c026,Espiridión de Arce,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:50:52.751931,without_onion,N/A,4
+77,bb298f29-e705-4165-980a-63759a60c85b,Nacho Julián Pina,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:46:46.636528,classic,,2
+77,c2199d92-2e54-4f27-bd1a-a5e2450e2fa4,Toño Ernesto Llano Bertrán,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:34:02.854195,vegan,N/A,4
+77,46f291aa-cd6d-4fea-b92d-633de56417b0,Ricarda Ríos Garcia,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:50:19.924540,with_onion,,1
+77,3c566103-fa2d-446c-ae62-4fe55c4c1642,Dani Régulo Valderrama Aguirre,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:10:45.275873,with_onion,5.52,1
+77,b0f51457-0be6-410b-b8e6-54b515c58a54,Nilda Sanz Bernat,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:00:51.627347,without_onion,8.48,3
+77,c5e3cb1f-ec22-4f93-b4d9-cdc1eca7ef2b,Sergio Tapia Aguilar,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:48:41.677096,vegan,N/A,1
+77,7f410fab-b881-406c-8ae3-2388797f945b,Augusto Macías,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:35:05.735933,with_onion,5.44,2
+77,e6349892-b205-45ac-8c8f-a7135769debb,Evita de Gámez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:13:43.036261,without_onion,N/A,3
+77,399f75a2-8a67-4e66-a2c7-fff9fba0db28,Hernán Araujo Rico,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:29:13.616955,classic,N/A,3
+77,5ef600d3-9339-4b23-8ca0-fb8cb7997abd,Eva Baena Roma,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:28:29.658849,without_onion,,5
+77,17d25bb1-021a-445c-ba4b-7e571063df80,Encarna Bellido Valbuena,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:50:28.240665,vegan,N/A,2
+77,0065d75f-77ab-4110-b237-ef214258381e,Trinidad Calderón Barreda,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:39:43.712606,vegan,N/A,1
+77,9d754bbb-ac7b-4f04-b911-bba0b1dd301e,Florencio Casas Rocamora,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:54:06.936004,vegan,,2
+77,ca2f2ef3-e1f5-46f8-a26c-b5b5739db55c,Maricruz Patiño Ortega,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:12:00.042452,without_onion,9.36,5
+77,dc99fbf2-a94c-4181-810b-c7eaebdee08c,Cruz Gallego Ballester,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:05:31.095081,classic,,1
+77,c87292d8-e484-4046-940f-3876bbb594f3,Rolando Sacristán Morata,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:16:53.717426,vegan,,1
+77,83bb7c52-3397-4162-a402-fc1d3bf7f721,Tere Hierro Zabala,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:38:18.838144,vegan,11.77,1
+77,292491d3-9b0b-4f46-9044-8a2a25a5465b,Miriam Eugenia Galan Mulet,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:35:37.265287,vegan,,1
+77,c61e3783-5be4-4a46-91eb-ff0cfcfc6077,Juan Gonzalez Ribes,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:09:23.827411,classic,N/A,4
+77,5f02bd75-3c42-4acd-81a7-aa316a3d1ac5,Samanta Irene Ávila Castrillo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:27:37.274909,without_onion,N/A,2
+77,a9097f9c-34d6-488e-a3b0-7a95ab3108a9,Narcisa Pinilla Amat,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:40:35.767118,with_onion,N/A,2
+77,8814a032-18ee-4298-9ba7-7483a7218ec5,Celestino Calleja Carrillo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:54:04.152302,without_onion,N/A,1
+77,a191b793-10ef-44d9-9711-a014aa7455d4,Isabel Mascaró Mir,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:10:05.439059,without_onion,9.54,5
+77,bc9694f6-9648-4409-a7a9-f7f1d2016803,Gastón Azcona Valenzuela,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:56:05.340955,without_onion,,2
+77,c62fec06-44e2-49f5-ab6b-df744f106d99,Lorena Solana Benavides,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:02:41.542924,vegan,N/A,1
+77,38a81955-a24d-414b-8bed-fb1487069483,Valentina Campoy,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:54:29.892347,without_onion,,4
+77,a05ca273-9f38-452e-b7e7-e09290646b00,Pastor Roda,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:58:13.422065,vegan,N/A,1
+77,fee4a809-3a56-42ce-b1b5-dfb9aad17300,Pablo Bou Mora,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:10:55.859917,with_onion,11.93,2
+77,f9957bdd-5da6-4529-a433-125509c9fbbf,Jose Antonio Miranda Mateo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:31:41.706362,classic,,5
+77,09c58414-79e2-4490-80ad-641340975778,Mirta Caparrós Jordá,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:32:41.832726,vegan,N/A,2
+77,678c7275-15fe-488a-bb9e-4e77a95c21d1,Lázaro Pedrero Machado,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:06:13.511398,vegan,9.14,4
+77,bc405e95-03af-436b-be03-f2347d7196b9,Iker Ropero Mínguez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:07:36.676675,with_onion,12.21,5
+77,d33050f8-a280-45fd-bc38-48bfd6b06ef7,Roxana Mayoral Ayala,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:51:35.944665,classic,14.49,1
+77,cbdd529b-422a-4666-8831-9a3645446961,Gustavo Romeu-Aragón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:03:08.663241,vegan,14.21,4
+77,d643b7e9-9266-4c83-9008-5dfbe98be166,Eliseo Salvà Nieto,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:11:53.398789,classic,,5
+77,452c33fd-9f0f-4109-ba8a-a201f3a70fea,Itziar Sans Quesada,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:01:36.318001,without_onion,13.77,1
+77,272060fb-4ba9-45d5-8356-5060494ddd4e,Cristina Cervantes Ricart,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:08:38.628537,without_onion,11.4,3
+77,289c454c-41cc-4bd6-ab52-2abbcd9edd00,Jennifer Sotelo Miranda,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:36:23.399405,without_onion,N/A,2
+77,df926811-0cf2-496f-8ac0-1abe3b266fff,Baudelio Fortuny-Almagro,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:55:14.570733,vegan,N/A,1
+77,81ce790c-97f5-4851-b2ee-f4c7b035e3fc,Selena Benitez Velázquez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:29:04.589808,without_onion,6.07,2
+77,c3ffb08d-d518-4a29-894d-ebd6c6f0dcec,Héctor Alcolea Barrera,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:03:59.378311,with_onion,,4
+77,ac0b69f4-c22c-4598-843f-28a9c047be29,Adelina Villalba Lerma,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:00:41.918305,without_onion,,4
+77,658942c8-90b7-47e7-814c-2fc12a98ab5e,Nico Ariño Boix,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:17:19.100318,vegan,7.29,2
+77,529625ec-bd3c-44dd-aa98-c2379e05dd4a,Florinda del Benavente,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:58:00.168085,vegan,N/A,3
+77,5562b51e-09b2-476b-a062-57d7d2cccf21,Evaristo Flor,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:52:58.497679,with_onion,N/A,2
+77,f7ffd9d7-0fc7-499a-b3ab-13aa95ac5a39,Encarnita Alsina Morera,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:40:43.596333,with_onion,,2
+77,8b39ff40-aaae-4746-ad85-53606f6a2d52,Dolores Clotilde Castillo Exposito,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:24:22.031583,with_onion,,4
+77,31aa95b3-6a01-4ecf-9145-47bca3b0a62f,Dorita Gascón Gimeno,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:04:02.569742,vegan,N/A,5
+77,e0fe560e-1ac1-4cac-84eb-b549de85d7ab,Juan José del Amador,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:17:40.331172,vegan,,1
+77,233d3c10-2cf0-42ae-af8b-7cfec8d4b552,Sofía Pineda Soto,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:02:14.950692,without_onion,N/A,2
+77,96cb3528-a118-485c-942b-13a01afef5f1,Lucila Cerro,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:06:27.371813,vegan,N/A,1
+77,393bb812-17c0-438e-8cf6-517d94959985,Norberto Virgilio Larrea Menendez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:10:50.993832,with_onion,,3
+77,4e5f1a21-e71d-466b-b594-88ef624713f8,Claudio Bas Gilabert,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:47:56.501581,with_onion,,4
+77,d27a475f-b9d8-40b0-a7bd-4a4e113e7fdd,Victor Comas Bejarano,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:47:47.382667,with_onion,14.53,3
+77,bab1468d-2371-40ec-a580-e63542b701a0,Noé Sanz Luís,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:49:06.009270,without_onion,9.8,5
+77,95d47bb5-3dd1-4e63-b130-0f5a63c95979,Íñigo Cabrera Varela,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:30:56.286567,classic,N/A,2
+77,3f235cc5-155f-4846-8d3e-653d248d9377,Estela del Huguet,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:02:19.764927,vegan,,5
+77,20693ee5-0368-4cf1-88c8-4f46859c9535,Marcia Ochoa Bas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:01:33.021493,without_onion,,3
+77,bb9f20a5-d5e3-43f8-923c-ffdd56b979e7,Visitación Isaura Domínguez Vilaplana,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:22:17.313201,without_onion,8.23,5
+77,47467e87-cd97-470f-9897-e7ecce045439,Custodio del Solano,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:06:19.152555,classic,,1
+77,5e49bd7f-ae8a-49be-9618-b5dde0b79fa9,Verónica Cerezo Andrade,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:31:12.486557,with_onion,,2
+77,5f738677-dc20-48d2-9107-4f86aeee6239,Emiliano del Almazán,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:54:52.557433,without_onion,,3
+77,a3515a29-9a32-4b74-aada-2b7acd2db282,Adelaida Remedios Aramburu Cornejo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:03:48.406833,classic,10.85,3
+77,3daada7a-e99a-4ae3-be97-ee27b7dc0028,Samuel Torralba Fernández,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:29:07.614765,classic,,4
+77,89d9d230-7b72-4ed5-bced-824d881e8637,Agustina Vega Díaz,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:17:40.510771,without_onion,,3
+77,175d422d-b5de-4f5a-9d15-37703e11c212,Toni Ortiz Coll,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:42:25.349877,with_onion,10.44,5
+77,04a51855-f730-4559-91eb-4ccc91690805,Modesta Bonilla Falcón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:18:15.122309,vegan,,3
+77,69bb3dbc-aa41-4a28-92bc-285340adff52,Otilia Vila Acedo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:15:02.346357,with_onion,13.33,2
+77,cf781f03-8f92-40cf-be38-176a60a5c91f,Candelaria Sanmiguel Ugarte,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:17:24.728378,without_onion,N/A,5
+77,7dbaf556-4e34-4c3a-8140-8a0ecc0aa9bd,Fabio Escudero Cerezo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:03:02.283380,with_onion,,4
+77,b86e71dd-74ac-4b7d-8fc7-ca730e9d0a1a,Bienvenida Felicidad Uribe Clemente,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:02:42.528962,vegan,N/A,1
+77,c75b4df7-b31e-4a1a-a628-9fb0a034893a,Marisela Gálvez Tur,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:06:39.470374,without_onion,N/A,3
+77,bcada8cd-e759-4be0-ad68-7df79e2756ae,Rosario Menéndez-Oller,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:28:52.474847,vegan,N/A,2
+77,75e3c21c-f51b-43e2-bfd4-2d835fb68f0a,Esther Nevado Silva,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:20:34.720370,vegan,,2
+77,c70c55cd-7c33-4b95-934b-080b12e0cc15,Gema Duarte Bustamante,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:15:16.172944,vegan,N/A,4
+77,79d05b9e-436e-49ef-b68f-748a8982cd2b,Reinaldo Serra Mate,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:30:36.318850,vegan,,5
+77,a02f3f2b-72d6-4428-8df3-fbcaddf6a0fc,Gervasio Vilaplana Perera,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:22:27.845922,vegan,7.62,1
+77,bc60ab1b-10d0-4dce-b504-a4203b988cc2,Delfina Bustos Espejo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:47:26.926747,with_onion,,4
+77,8ca94daa-3474-4f88-a119-05be4541a249,Gerardo Cabezas Camps,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:38:24.167668,vegan,N/A,5
+77,16a7d0f9-f53d-40bf-aa7b-1a0c662ae1da,Benigna Sotelo Arias,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:03:42.797120,with_onion,10.01,4
+77,efb905f1-f94e-4843-9fab-9e3b2fe374ec,Florencia Girón Morcillo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:34:46.013306,with_onion,N/A,4
+77,389a3afe-aee3-41ce-87a6-ea0f20765363,Encarna Anguita Benítez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:45:13.036543,classic,N/A,5
+77,22252038-4667-4555-9859-08b527646a6e,Lucila Martinez Ochoa,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:30:32.483481,vegan,6.04,2
+77,2943a740-adb2-4dc3-87ea-7104405bb3fc,Araceli Peinado Marti,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:58:26.244575,vegan,,5
+77,b4df9f3b-e4ad-49cb-a7b1-e14e2ed874ca,Benjamín Crespo-Infante,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:38:51.867146,vegan,6.3,3
+77,11d82b71-1d9b-45ab-b1bd-17e27974a80d,Fortunato Ugarte Millán,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:42:19.560941,vegan,N/A,1
+77,1ef9253a-2a6a-4620-90c9-053dc7820f37,Josep del Vázquez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:05:07.724426,vegan,N/A,5
+77,fa4b3007-208b-44d0-9144-c177b6c0a8af,Marcos Pla,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:52:04.540134,with_onion,,1
+77,f1373a93-36b9-446b-8d85-7c0fab03e93b,Raúl Rico Piñeiro,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:01:01.866606,with_onion,,4
+77,77a41728-12d2-40ad-a39b-a3f9cc389823,Claudia Rosalinda Pineda Azcona,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:00:40.858900,vegan,,2
+77,3b0a83e0-5479-4219-99e6-58efd634bf28,Cayetano Tejada Ramón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:28:38.341346,with_onion,,2
+77,6ee13bf0-e389-4f84-8129-edf1a647ead1,Manuel del Abascal,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:59:18.958998,without_onion,11.66,4
+77,d3fa58c7-3fae-4412-ad60-90a4ab332580,Jose Antonio Girón Bilbao,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:29:44.584609,without_onion,N/A,1
+77,a68df6d9-3d46-4b6e-847c-9d22b9c709ca,Ciriaco Cornejo Bonilla,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:40:02.289463,vegan,8.96,3
+77,470930a1-4408-4b11-9cb8-4cd3f535e08a,Plácido Acuña Cabo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:32:37.549759,vegan,N/A,1
+77,68fef8d5-52a0-4f96-8f70-158a69fb46c2,Amando Custodio Tormo Ferrán,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:24:28.939240,with_onion,N/A,1
+77,de21e170-5135-4780-8126-50d35fa4ae00,Martín Rius Nicolás,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:13:15.167732,classic,10.38,2
+77,3532c6f1-82c8-4e41-9d5f-85680e212570,Lilia Artigas Cabrero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:48:20.045429,without_onion,N/A,3
+77,5ed5f59d-21cf-42c5-a5b4-941576b8120c,Elba Blanes Galindo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:47:14.992601,with_onion,,2
+77,5cbfda3f-83ab-40f9-bbd3-8e82c367fd15,Sancho Jáuregui Navarrete,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:21:04.237640,classic,N/A,4
+77,21952c6d-1dae-4205-91bc-1e151c202aca,Carmelo Andrés Clemente Rosa,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:56:50.438603,with_onion,,1
+77,c331b1a3-134a-4090-9086-d7b332c611b2,Juan Francisco Juan Manuel Garriga Ríos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:22:20.868244,without_onion,,4
+77,4a3a21d9-3ecc-4c01-b3d8-2ede82e1c740,Diana Maza,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:20:20.718324,with_onion,N/A,1
+77,7e63d7f9-20c6-4c9f-af4a-f4975db4292f,Araceli Hierro Valverde,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:49:23.854716,with_onion,11.44,4
+77,d8aa2331-fd55-4079-a3d7-006a7a6532f4,Edelmira de Pou,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:32:49.235976,classic,,1
+77,d74ea387-d978-4374-8fba-7b393e65cc4f,Evelia Perales Bárcena,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:45:27.552724,vegan,N/A,3
+77,eee5d812-636e-426f-8578-95cc41fa930e,Ruth del Carlos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:59:03.697048,vegan,14.3,2
+77,eab50bc9-5918-4932-824e-127fe4a1bacd,Encarnación Aguiló Silva,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:24:26.608913,classic,,1
+77,ac8626b6-dbcd-4350-9976-499915052c94,Cloe del Busquets,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:05:46.964641,with_onion,N/A,4
+77,8a1c6192-966c-4ad5-8760-fdd4cd11e3d9,Baldomero Sarabia Alberola,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:52:09.833566,without_onion,N/A,4
+77,efba98af-0c9f-4bed-8af4-0edd22f3f33d,Miriam Merino Español,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:38:04.108306,with_onion,,4
+77,16c434c2-f5f3-424c-bb3d-a8c319021ed4,Gabino del Luz,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:22:50.786779,classic,,3
+77,f6972043-3c2e-46d5-9b3a-1a2896eac481,Socorro Custodia Valderrama Solana,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:47:49.500762,vegan,N/A,1
+77,87706dd9-2fc4-4b93-a66a-5eb4086884b6,Alicia Pont Roig,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:16:52.222363,without_onion,10.58,2
+77,ca545daa-1b34-4ed7-be7f-02b63455f275,Rufino Cabañas Aragón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:45:12.617684,classic,8.22,5
+77,fd81b40c-2334-47a8-98a4-338aab211589,Tadeo de Pellicer,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:33:41.722536,classic,N/A,5
+77,45d5b7b2-ad36-4853-8e75-cf061f73c1f2,Úrsula del Benavides,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:13:30.157085,classic,,4
+77,3834a373-7ffe-4572-8aa7-6ef6cbc63d2c,Adelina Benitez-Campo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:31:22.033013,with_onion,N/A,2
+77,696a69b6-4df2-45bd-ba9c-7bac55ef9637,Jenny de Armengol,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:13:25.765432,with_onion,N/A,2
+77,b96ba229-13d6-49e6-9168-7af6733fd82a,Ezequiel Daza Requena,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:44:13.564563,vegan,N/A,4
+77,a4d93848-1f9c-4588-b0f9-453570fb7478,Ruben Zamorano,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:16:52.970542,classic,8.41,2
+77,a25a06b0-205c-4946-a835-529ab47b9952,Jordi Merino-Espada,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:04:31.152895,without_onion,12.35,3
+77,cfe75dcf-ca95-4295-bead-29562cf2629e,Ema Campillo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:20:16.076147,without_onion,,5
+77,2ecb7906-5530-479f-9e53-2df9adb4c483,Dalila del Miguel,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:01:11.089052,with_onion,N/A,4
+77,41ebdd86-bc7a-4a72-9ab6-e6feaf30f1f5,Maximino Verdugo Querol,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:00:47.528541,with_onion,,1
+77,a5497bf1-b16a-440d-b39d-35f82237bd0e,Tito Jove Huguet,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:33:32.458196,vegan,5.58,2
+77,2c787fa6-4e0b-4f65-af1b-82a08f603234,Rosalía Pareja Rojas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:58:16.527118,vegan,8.27,1
+77,19b0871f-509e-491d-8d97-748d0d726154,Yéssica Salamanca Ferrera,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:41:14.916329,vegan,,5
+77,4d5fb2b7-86dd-47dc-bde3-8dad13f2fb75,José Ángel Adelardo Cazorla Sevillano,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:20:45.766221,with_onion,12.99,4
+77,2b581181-f0cc-4733-83e4-c3d8a58cccdd,Ciro Piña Recio,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:38:00.520934,with_onion,7.08,1
+77,9a2b692d-2ced-414e-a934-2b470a3050ac,Lucas del Buendía,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:43:32.055991,classic,6.69,3
+77,be95aadb-55cb-4848-96ef-693f2e3a7494,Rolando Nilo Seguí Jimenez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:16:54.841947,vegan,,4
+77,d18d23f6-c6b9-49d4-996e-14885ad2e820,Nicolasa Llamas Llabrés,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:01:09.667570,vegan,N/A,4
+77,f87c21d5-8e5e-4042-98ea-a63e3090edea,Sabina del Iniesta,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:44:53.367826,classic,,5
+77,2709a203-78f2-462c-9189-ea2d1b25ed8f,Bernabé Pujadas Cabañas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:29:23.118762,without_onion,11.84,2
+77,0b647571-fb1e-48d2-9cce-068eacd7eb59,Javi del Pont,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:49:17.151558,vegan,,2
+77,fb52f15e-0985-434c-8474-16c195f3f3ee,Imelda Uría Campoy,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:03:36.726411,with_onion,,1
+77,6950d573-e582-4727-abbb-7add50613d87,Rafaela Puerta Lerma,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:27:24.134449,without_onion,11.29,2
+77,9da72bde-c80d-4a09-9506-e46054ce9dc4,Porfirio Morell Guijarro,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:32:44.697426,vegan,10.54,2
+77,bf6fe910-3e23-4f5f-a3fc-1fd9a751188e,Fidel Campoy,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:05:30.030216,without_onion,,4
+77,3429507c-420b-49d8-b232-705f2369eea3,Mariano Castellanos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:22:29.219969,vegan,N/A,3
+77,e3b6b3ec-1f5e-47da-86b9-78ea93a665e5,Marciano Cerro Cases,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:53:21.118671,without_onion,9.7,3
+77,d91a48c6-46ea-4e05-b524-fc372f08e310,Inmaculada Fortuny Aliaga,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:23:30.594536,vegan,14.46,2
+77,c29af0dc-e211-430c-b38c-88c05bab3919,Guiomar Encarna Tejera Arco,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:25:06.823809,without_onion,N/A,3
+77,fb343231-b70c-4378-9d54-164f9b740019,Joel de Lillo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:51:30.012511,with_onion,14.07,2
+77,22f0fb15-3252-43d8-8fab-ea137e046666,Nilda Abascal Gaya,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:41:16.958419,with_onion,N/A,4
+77,23b12f03-86ae-48cb-b74b-f8d65f3a1633,Blanca Dionisia Camacho Cortes,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:47:39.625480,classic,,1
+77,2b74c416-6c67-4685-aa39-66ebb27524ec,Lola Nebot Enríquez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:47:43.816453,classic,9.07,2
+77,a5428d24-6b42-434d-9bbc-191e8b8fd2d1,Celia Isern Vilalta,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:53:58.415525,classic,N/A,5
+77,4b91d08e-00df-412d-8663-1aeedaa5f90e,Carina de Mendoza,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:41:04.726862,without_onion,6.16,5
+77,904abcf2-127b-4b41-b560-110d81671f59,Viviana Gertrudis Palacio Font,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:09:09.304350,vegan,14.12,4
+77,b577ab80-a994-42a1-bf69-abfaa1d02d06,Jose Luis Botella Tomé,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:39:54.954427,classic,,1
+77,d61777f7-5f2c-4ca7-8f0b-a053ececb8d4,Ibán Criado Cerro,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:05:42.300038,classic,,4
+77,5e606157-9932-4706-830a-05f963e22590,Adán de Tovar,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:12:38.066184,without_onion,N/A,1
+77,3458ee6c-0171-43a5-922f-5a8901464806,Pastora Tejada Baquero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:09:12.836271,classic,11.8,1
+77,3dd3ed49-8de1-4b3e-a026-d1425db197f1,Wálter Andreu Molina,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:14:38.357466,with_onion,N/A,3
+77,98647215-66b1-491c-b65c-cfce879837cc,Ángel Solera-Ibañez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:57:46.118674,vegan,13.42,3
+77,b5adb157-6807-444e-89e4-f89f9b3ccddf,Azahara Lloret,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:26:03.102565,classic,,4
+77,a62bee80-4352-4d46-b29d-efdd4b0de916,María José Esteban Soto,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:30:33.277748,classic,N/A,4
+77,2e263bd9-4294-4124-b076-00e36873f5d7,Cándido Cifuentes Vilaplana,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:27:01.487755,classic,N/A,4
+77,03b5b2af-2f96-4446-bc16-7eb68a5d8ebe,Agustín Villalba Tolosa,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:37:05.552893,with_onion,8.57,3
+77,96ec6650-2591-4beb-bbda-ff608db34bcb,Macario Villa,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:18:49.463659,classic,,5
+77,bfeecf9d-2594-4d30-9eb0-6c239aae13b3,Raimundo Cuervo Giralt,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:27:34.148140,classic,,1
+77,a10cc9a8-aeda-4b5c-8343-777c7107da57,Albano Terrón Grande,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:26:31.346820,without_onion,,4
+77,6cee5c9f-6336-4a18-b023-b8a979082b61,Renato Sotelo Lerma,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:48:48.042737,with_onion,,3
+77,6ed21574-2d73-483f-bcff-673e6a043b63,Esther Font Andrade,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:18:39.100245,vegan,N/A,2
+77,ae128632-57c2-4fa3-90d9-0b009fbdfbb2,Ligia Sobrino Palacio,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:18:58.958396,with_onion,N/A,2
+77,512e1cfe-3c7a-4258-8db5-f9e0a4f1632b,Azucena de Catalá,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:17:49.901306,without_onion,N/A,3
+77,ff41da5b-107a-41ca-aa6b-bda85c145677,Carlota Verónica Acuña Rojas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:33:51.924256,vegan,,1
+77,f159c4a9-9ecd-4d80-b8e6-713180e15567,Charo Anaya Roselló,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:19:15.945409,vegan,,4
+77,ac2d0c7a-8c19-4123-8f95-23042a01cf74,Álvaro Meléndez Armas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:47:57.513949,vegan,10.5,4
+77,9360b7c4-9b55-44e9-8f16-b32a6e120bf2,Javier Clavero Narváez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:19:14.727191,classic,N/A,3
+77,74b32084-dc72-4f15-a7ba-e0612a1d7aab,Beatriz del Estevez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:04:27.917688,with_onion,,3
+77,41d9c072-83bb-4c34-9bba-f887f05ad09d,Haroldo Reig Ribas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:40:46.521695,with_onion,N/A,5
+77,f61a91bd-ca7e-4cd0-ac0f-fec1620e1a3e,Roberta de Bermejo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:09:45.593178,with_onion,9.14,4
+77,317c2691-0ae6-4248-b069-cdfb2a30124a,Mónica Jaén Serna,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:43:29.769370,classic,N/A,2
+77,0b70aa4c-4a4c-4019-8ea1-382abcdd857d,Juan Antonio Duque,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:49:11.315761,without_onion,N/A,1
+77,9d2733f3-9221-4f81-a829-7df4b0f0e057,Galo Verdejo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:23:39.952176,with_onion,,4
+77,7907c314-0e66-4991-bd57-e770a55b8790,Gertrudis Soria Cantón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:02:13.230887,with_onion,N/A,5
+77,4c647087-cf54-41d4-b950-cfa78e080f8e,Anselma Torrent Meléndez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:07:34.746049,vegan,N/A,1
+77,e331e335-23bf-4476-ac8b-4583350dd0a5,Apolinar Valcárcel Soto,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:30:09.296684,without_onion,N/A,4
+77,1b2528f6-a943-4439-97de-93a7b2bfd453,Edgardo de Malo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:08:11.524332,without_onion,N/A,5
+77,c0e9f474-5ed1-487b-a494-40cc56637672,Venceslás Diego Alcázar,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:34:24.788350,vegan,N/A,4
+77,3b0f376f-4804-4ac6-8a6f-924c93994647,Estrella Mata Benítez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:21:11.992204,vegan,,1
+77,5c497cdd-dc7c-4ac5-80f8-0899ad7118b1,Calixto Arcos Abella,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:33:22.228171,with_onion,,3
+77,acf88f68-8c63-4b33-803c-d50e89142a47,Ágata del Báez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:21:50.545167,classic,12.33,1
+77,6ee6bf85-20b4-4e97-898f-0269245740ff,Sol López Pacheco,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:34:50.097158,classic,,3
+77,d2d08cc4-e856-49e3-8e54-4478f54a3f05,José Luis Quintana Serna,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:13:43.166972,classic,N/A,2
+77,af3aa905-3d60-4d1f-b88b-b2e597ce30f1,Lola Marqués Lobo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:13:13.002953,without_onion,N/A,4
+77,3e5da4de-eaa1-465d-81c8-89466426a8f8,Máximo Escobar Amaya,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:08:18.204032,without_onion,9.59,1
+77,b215cf01-47da-4bcd-b329-ee074d46bcd5,Alejo Plana Fonseca,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:24:53.802483,classic,8.07,4
+77,459899d8-7e5f-480f-a88c-2b77b5245ebb,Ariel Teobaldo Reguera Ordóñez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:03:07.544910,vegan,N/A,5
+77,a62b9ca9-37d8-4434-a2e4-576d187a352d,Marta Pi Santiago,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:54:36.921816,classic,N/A,4
+77,6d29c4d0-aea9-4844-8727-44a35da8695c,Santos Tur Montalbán,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:51:20.046301,without_onion,13.67,1
+77,ae3eb39b-6f9a-4685-b24a-9a00a4624d16,Aurora Zaragoza,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:40:58.843069,with_onion,,3
+77,ec47fd72-e3e7-41d0-9d3b-8f6d0629d933,Graciana Porras-Casares,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:19:43.383993,without_onion,N/A,5
+77,55d5010d-0e90-42d9-b0b2-29415b2463a8,Manolo Aguiló Cámara,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:48:15.544597,with_onion,10.05,5
+77,6918d9a6-31bc-4809-9965-e070a4f5142d,Teresa Roldán Blanes,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:57:40.303774,with_onion,N/A,1
+77,49a4c366-0a40-47f1-9c71-1732ca5cf9c1,Claudio Capdevila,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:48:49.448034,without_onion,N/A,3
+77,ce6954fe-e8df-4582-8674-e8b0a81052b1,León Posada-Pardo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:06:30.148521,with_onion,,2
+77,d74497e1-01ff-4f8c-8cf9-eec01faf9872,Tomasa Mateos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:56:20.732461,classic,,2
+77,16bd9378-b460-4151-8b0a-2af5984543ea,Cesar Álamo Marin,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:59:03.372245,without_onion,12.72,3
+77,6e12a12f-90f1-4899-a718-65a7431bc22f,Corona Cid-Noguera,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:15:35.487312,classic,5.73,5
+77,48012552-b663-4d9c-9786-e20a97a629b4,Salud Mas Fernandez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:09:49.305829,without_onion,N/A,4
+77,e52fbeb4-ba12-4df5-b05f-b90715b99fb3,Ileana Valcárcel Ugarte,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:01:50.834421,with_onion,,4
+77,478d850c-a668-4de1-abf6-e6fcab911983,Susanita Serrano-Rueda,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:14:58.780779,without_onion,5.14,2
+77,71b32a0c-c4b9-439d-b363-d42087d58ec5,Víctor Pintor Alegre,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:54:15.162007,classic,N/A,5
+77,b0cb7cfd-6d0d-458a-9ca0-5b8c39c19ab0,Fátima Andrés Melero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:03:11.040090,without_onion,N/A,1
+77,34c29848-f242-4211-b811-65544009164e,Aitana Pomares,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:14:40.613290,classic,N/A,1
+77,d10919bd-e637-49c8-a45a-18991fc1cd13,Concha Botella Monreal,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:55:43.085735,classic,,3
+77,2ea321d7-b5b7-42b9-8f0f-1331a11a6a19,Olalla Ibarra Caparrós,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:01:22.703137,with_onion,N/A,5
+77,06094734-73b2-4fac-9e31-9a1e2b5353e3,Maribel Áurea Sotelo Galván,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:10:22.610659,vegan,N/A,5
+77,1f35cf78-44f7-4dd7-90a3-a6f41afd6088,Tatiana del Carrillo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:45:48.157432,classic,,2
+77,8ca1b686-3653-434f-a64c-6f0125e00dc6,Jaime de Feijoo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:28:57.304902,classic,N/A,5
+77,2fd205fd-2b15-481d-b2ea-6fcaa68c3685,Roxana Ramos Porta,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:39:45.330593,without_onion,,2
+77,90ce7eb7-31fc-4f60-8061-4667847074d6,Ildefonso Nogués Manuel,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:37:23.340546,without_onion,7.94,3
+77,baa22762-861a-4cc7-be23-a57eea25eaf2,Octavio Abascal González,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:20:48.778877,with_onion,10.79,4
+77,8fe408c3-8a5f-4ae7-89d6-809ce4a9fe72,Jafet Escribano Carbó,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:17:53.222658,vegan,,5
+77,8badf7b5-831c-480b-b571-030716008256,Almudena Hidalgo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:26:51.526388,without_onion,N/A,1
+77,132ad2a1-ec50-4c73-bfc6-d5631d62e80d,Josep Armengol Llopis,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:17:42.603333,vegan,6.21,5
+77,4400899a-ebaa-40ab-ba1a-00b8029aaa96,José María Mercader Bárcena,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:36:56.931703,classic,N/A,2
+77,796fb193-ac44-421a-8c84-e765fdf5c2c6,Irene Escalona Antúnez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:24:42.585283,without_onion,N/A,5
+77,36f9d8a5-eb89-497a-aa2f-4492bd4d5cd3,Eleuterio Uría Francisco,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:38:27.328343,classic,,5
+77,2d1c8f2d-00d7-459d-b92a-606005b13321,Óscar Múgica,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:53:28.004179,classic,N/A,3
+77,e05381fc-9878-4c17-9c6d-a243adbeff3f,Ramona Bravo-Benet,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:17:57.126117,with_onion,,4
+77,2a4eeb30-d137-4069-b31f-ac98a110c063,Nayara Otero Diez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:11:36.071913,vegan,13.05,4
+77,43024fa6-9091-4a87-bebd-f08d13899ed1,Nicolasa Osorio Cuéllar,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:35:40.900187,classic,,1
+77,dd012d56-1a0f-45b4-8d76-a0b6b8d75f02,Mamen Mendez-Rocha,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:12:47.828500,vegan,N/A,3
+77,82186525-aa57-496d-8158-d40101019114,Adrián Herrero Pérez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:22:56.742080,vegan,,3
+77,930b4fe0-a6ed-4e3e-982c-d69c8c80ecff,Alejo Domingo Azorin Blanes,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:34:22.537983,classic,N/A,1
+77,1dd42c65-012e-4438-b862-ee8db6c8610d,Nilo Contreras Asensio,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:35:04.942692,with_onion,,5
+77,d6848a1f-7ab2-4190-ba14-ce90d213b151,Zoraida Ramón-Crespi,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:15:24.802312,without_onion,N/A,5
+77,760f6c84-b2fa-4d57-803f-2cb2da6e44b1,Zacarías Bauzà-Cobos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:42:47.222856,classic,N/A,2
+77,34f6d5be-f7c8-47a8-99ac-db3f29f0c9a2,Salomón Reina Heredia,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:34:18.067210,without_onion,N/A,5
+77,03d79ecd-fa5b-4207-a9fe-208f6ee9d94c,Joel Navarrete Nevado,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:34:42.780830,classic,13.63,4
+77,701a62a1-7222-4e25-af3f-51758d8270a5,Emiliano del Romero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:18:11.116174,classic,12.83,4
+77,909f917d-36ca-43ce-9fbd-34158d93c15c,Clotilde Piña Cabezas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:08:32.999359,vegan,N/A,2
+77,4c699cd1-8cd6-476e-bb0e-1ecd53204d7a,Áurea Arcelia Barragán Piña,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:48:09.509633,vegan,8.85,2
+77,c5689184-7b7e-4ca5-b23c-158f3a4e5e35,Isabel Ester Cámara Campoy,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:52:41.353022,without_onion,N/A,4
+77,698a46a4-1aec-41c0-b6ec-5815e60d35ba,Amancio Tejedor Gual,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:54:49.772508,with_onion,9.5,2
+77,1f6c6323-bc53-40c1-b13a-a14ddcc56788,Benita del Montesinos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:43:23.619486,classic,,5
+77,4a6ea176-9188-4dfb-af22-f24f7ac2ff4e,Florinda Roxana Llamas Azorin,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:00:31.340509,vegan,10.0,1
+77,8b8eeedd-28c8-4e63-a824-8db0ae505337,Gabriela Amo-Bustos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:50:36.186445,without_onion,,5
+77,ffb0626f-28f8-4d5b-856a-b93586151320,Poncio Morell Cantón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:40:11.112344,without_onion,,4
+77,5d14001c-cfe4-49c6-90b4-add8931b1545,Macarena Marin-Millán,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:56:31.024448,vegan,N/A,3
+77,020f49f5-8f67-4837-bd53-15d686938521,Victor Manuel Zamora Mayol,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:58:54.655886,classic,,2
+77,806f0316-6f7c-4c3a-a0af-850324e728e5,Chucho Figuerola Zorrilla,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:53:24.032214,vegan,N/A,1
+77,3be393ee-105e-4601-90a1-c7821573e51e,Demetrio Carrión Porras,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:58:42.971735,vegan,,1
+77,6108d326-2af1-4d6b-8749-3861c6b2048b,Evita de Sanchez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:07:37.775143,classic,,2
+77,f1fea248-7ba1-49e8-8baf-d6d5edfde628,Bienvenida Cortina Aragón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:16:18.465973,without_onion,N/A,5
+77,d55a3cd2-6640-4718-a584-4ed4ba189802,Nieves Nayara Marcos Cánovas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:10:16.345428,without_onion,7.48,5
+77,d8dcee08-f1b7-4cce-a0b4-3053f84e9eae,Esmeralda Talavera Bartolomé,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:10:14.018745,with_onion,,1
+77,46e8fd56-0982-450e-8514-20d7fb2ebb1c,Maricruz Lago Gras,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:50:19.798460,with_onion,N/A,4
+77,6bcfa60d-c2a2-4fd7-8b24-e2dda9e93237,Edelmiro Guillermo Aller Estévez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:14:32.347677,with_onion,,1
+77,b56106c3-bf98-478e-a2f6-560797f6ba3a,Constanza de Cepeda,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:36:07.424641,vegan,N/A,2
+77,68424c8e-434b-4b1b-9863-bd3ab8ea25b5,Herberto del Alegria,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:18:21.891442,without_onion,,5
+77,2832ae92-3b55-4f7a-b860-c5a330377c43,Ignacia Cuadrado Oller,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:47:00.062403,classic,9.93,3
+77,1ccca3f5-ef98-41db-bfc1-3b2c9ca41083,Paca Villena Romeu,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:01:54.876157,vegan,N/A,3
+77,e1e50b85-e367-4672-a7d3-99fe0ae6bf9b,Heliodoro Navas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:58:30.289936,with_onion,N/A,4
+77,bfea48c9-b171-45b0-a360-cda03e2d8eda,Victoriano Rodriguez Valencia,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:21:46.135476,with_onion,N/A,4
+77,df76c1a8-eed4-45b0-b2f5-52a6758c9b43,Victoriano Hoyos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:13:55.289799,vegan,14.13,1
+77,3b477df2-f73a-46a3-bc7a-3f3c721ea65d,Teodora Somoza Sanjuan,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:35:23.237165,without_onion,12.47,2
+77,0bb1db10-660c-4245-8165-b7e8148912dc,Pascual Figuerola Melero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:25:28.865386,without_onion,,5
+77,f09b2173-cd96-4487-8bef-be615c8cd8ff,Ema Ileana Canet Cid,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:35:25.759465,with_onion,10.27,5
+77,c6ad1b21-c9be-492c-a099-8fca27e90096,Demetrio Larrañaga Sacristán,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:35:13.442318,vegan,,3
+77,0937af8f-c4ce-4042-9c0a-42304b3ed774,Rico del Rebollo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:19:11.470525,with_onion,N/A,2
+77,a7d6e47c-45bb-4eac-aed1-344dffd63f6b,Nicanor Cuéllar Estrada,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:32:41.130356,without_onion,6.82,1
+77,f656cc81-aa42-42c4-a0d2-c40be2603018,Baudelio Miguel Beltran,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:45:35.226048,vegan,,5
+77,5f0ec965-8472-463a-a62f-822034154d9c,Sebastián Benitez Santos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:37:52.823507,classic,N/A,1
+77,6200ab45-e29c-442d-a0ec-0296d8093354,Reynaldo Echevarría Quevedo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:44:34.100870,with_onion,,2
+77,fe45b479-41e3-486c-8658-c1ac28675f75,Marciano Tenorio Ugarte,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:07:40.192735,classic,9.6,5
+77,6182fcbe-5789-419e-9cba-4688ca14c750,Zacarías Sevilla Pol,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:10:57.552176,vegan,,1
+77,1e66cce8-7f16-4893-9516-1bd6141336ad,Loreto de Ferrer,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:50:35.538581,vegan,N/A,2
+77,5a6eabcd-0671-4fb1-ad8c-314b88fb6e41,Ariel Pacheco Peláez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:44:26.319603,without_onion,,2
+77,fa764406-d4d2-4681-986e-85a9b202edd2,Raúl Rozas Angulo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:27:05.614033,classic,,1
+77,99b81073-7c6c-4bcf-a9aa-7dc114a007ce,Custodia Abad Corominas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:38:47.154549,vegan,N/A,2
+77,9feaa752-711b-49d6-9733-80fdfeab6fb9,Cloe Espinosa Duque,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:49:20.298952,without_onion,N/A,3
+77,cd871078-8990-4e8b-9a79-a030eb7b003d,Vinicio Cámara Quevedo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:57:34.365024,classic,8.29,1
+77,9c4e0fdc-48fb-49d7-9fc4-ec79a99e0e8e,Rolando Pavón Prieto,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:42:21.581241,vegan,,4
+77,9d683181-a168-4e05-ad1c-d22550eb38bc,Jorge Pintor Larrea,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:57:52.291263,with_onion,N/A,5
+77,07085b9d-d61c-4310-82be-1ae0f94f79d2,María Luisa Benitez Armas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:38:27.171326,classic,,1
+77,0e619e2c-4254-4260-af57-ccb719d54dd2,Hilario Cabanillas Verdejo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:42:36.265183,classic,,1
+77,9261276f-d4a1-4645-b972-815f3f0f430e,Ambrosio Jaén Rivas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:09:39.940541,vegan,9.52,2
+77,8edeeded-baca-44a6-8630-86892a19ef26,Sofía Montoya Arteaga,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:30:15.198146,with_onion,,4
+77,2ea8663c-3d80-4dfc-9728-0cfe1f22eccc,Alejandra Zaragoza,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:50:07.815109,with_onion,9.59,1
+77,c1b1b55a-f27d-45da-a097-f6035d50174f,Purificación Solana Salmerón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:54:46.119092,with_onion,,1
+77,5656abba-ea03-4fba-b254-ea57d03e1a0a,Prudencia Ávila,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:52:43.522993,classic,,5
+77,7c3555c1-3955-40ea-8388-47f9ffd6aa73,Aura España-Castejón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:54:00.349255,with_onion,N/A,2
+77,53ee0e44-c74e-48b1-a699-7d8890e0af0a,Ignacia Leiva,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:15:43.799522,without_onion,,3
+77,0001c4f3-a1b4-43e4-9189-34a949de9e00,Jose Luis Lobato Barragán,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:25:51.426631,without_onion,14.3,3
+77,028dbc4d-e756-40f3-9216-96956ab840eb,Paula Perera-Conde,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:19:22.641691,classic,13.24,4
+77,f437173d-c75f-4ee7-970f-e4a61266627d,Benigno Alberola Caballero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:11:05.053281,with_onion,N/A,4
+77,3dfc81f1-3356-49e1-b3d6-bc2562e3f309,Elías Cándido Nebot Cortina,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:09:48.501079,without_onion,,3
+77,a743b3d8-cfc7-4939-9536-99bbd0dd201f,Rubén Canales-Méndez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:57:07.082405,vegan,,4
+77,730dfc97-2724-45b3-9e7b-4f6f6d531dc6,Darío Royo Palau,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:12:11.338185,with_onion,,1
+77,14cccb3d-33df-4ade-ae9d-c399439dda88,Custodia Barrena Bosch,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:10:25.757039,vegan,12.47,1
+77,a2e0cdd7-33e1-42fe-bede-c7876234bc84,Georgina Seco-Menendez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:00:02.042569,without_onion,N/A,3
+77,f389e307-5520-4846-a3f7-48e059a4f901,Dan Galván-Dávila,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:43:15.148147,vegan,,1
+77,d83167ed-a465-497c-8962-0ef7e559e6db,Fulgencio Villalobos Orozco,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:40:25.546748,with_onion,N/A,3
+77,6219c2b8-f250-4926-a3e0-0f105053d394,Mohamed Barragán Velasco,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:40:36.441565,without_onion,8.21,2
+77,9f6bb765-72a7-457a-8edc-9fcd997f05be,Benito Morata,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:01:08.710602,with_onion,N/A,1
+77,977f9ab7-36c4-41f2-a1fe-5db7fd527265,Donato Anguita Nadal,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:09:50.824296,classic,N/A,3
+77,611ade1a-0141-4fe9-901a-ea65f57ec554,Artemio Cárdenas Sosa,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:28:31.385923,with_onion,N/A,5
+77,ebf90228-e095-4c36-ac9b-76b3b514f3a2,Celestino Flores Ojeda,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:25:46.013948,with_onion,N/A,4
+77,612a01e7-5c8b-4b2b-8003-5bf8ebafde62,Zacarías Mendizábal Ojeda,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:29:45.737872,without_onion,12.49,4
+77,c18b3950-8b83-4fc2-a8a2-0093c2b015a6,Máximo Pol-Mendez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:50:47.541138,without_onion,14.25,5
+77,560764d0-6618-467a-9fb8-689602a8380d,Román Pi-Blanco,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:38:15.099047,with_onion,9.6,1
+77,67f0cfe0-b299-43e0-a082-92ebe9c70e0c,Tamara Mas Pereira,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:41:43.750629,classic,6.0,1
+77,abacb7a9-03ea-4d88-9b66-dcd871b67965,María Cristina Ferrández Reina,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:18:03.093864,vegan,N/A,2
+77,e0a46a3e-66ce-4900-a511-055ff1c99184,Xavier Gabaldón Mendizábal,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:58:28.367393,classic,,2
+77,c7c28608-20e8-437b-b0b9-15f05fe7e3d6,Alex Víctor Cuéllar Aroca,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:21:45.304782,vegan,,5
+77,c1ed72b1-3fe3-4e85-b76c-eeb684d838d6,Darío Vicens,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:30:18.667163,vegan,N/A,4
+77,f39b3538-2e3f-4024-ab85-8c4c413565af,Victor Manuel Pedrero-Guzman,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:50:02.460413,classic,,4
+77,d3c74101-9a6a-4512-aec2-7b599abe1ebc,Abel Calderon Rey,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:42:28.934879,classic,,4
+77,ef8efc4c-18ef-4cc2-9823-cf00cf22fbd8,Prudencia Daniela Barceló Guardia,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:58:06.040104,with_onion,,3
+77,c27241be-51de-4cd3-83ba-2233af1a0ae6,Edu Jordán Cabrera,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:12:30.458580,vegan,N/A,1
+77,284c0178-05f1-41f5-86af-431c07ff480e,Telmo Gimenez Cisneros,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:41:40.438193,classic,11.36,4
+77,48110ab8-92d6-4a5a-a333-8124135891e1,Valerio Roldán Carretero Armengol,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:43:09.707581,with_onion,N/A,2
+77,4ff5b91c-e886-4e53-b923-99e9e800a90a,María Jesús Cepeda Blazquez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:22:06.117831,without_onion,8.39,4
+77,295c7adc-199d-4d75-b5dd-c3596ae77e1b,Dora Arias,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:12:29.717745,vegan,,4
+77,d207c96d-3244-487a-8459-d82d2fc5a714,Matilde Toledo Jimenez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:05:45.461309,classic,N/A,5
+77,8b35de4d-826d-4d58-bad5-9283691d2601,Zaira Lago Bayo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:42:27.515016,with_onion,N/A,4
+77,e7580d41-855b-461a-addb-c3d8f7f1fc8b,Trinidad Querol Llanos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:11:32.027233,classic,,2
+77,f21bc4c5-0d23-4ac9-ac32-1eab9a2dd219,Alfredo Goñi,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:29:52.956044,vegan,,4
+77,83db27ba-34d0-4bb1-a386-6464d59d81fe,Carina del Ángel,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:53:33.568844,vegan,7.19,3
+77,c499f016-3dd4-4266-a15e-8d1a8892e449,Clara Isa Miralles Soriano,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:31:15.470340,classic,N/A,4
+77,979bc197-4228-4444-a9ec-29ac16689b79,Marcia Boix Guardiola,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:46:51.417676,with_onion,,4
+77,e927fa15-3b95-445e-b6e0-f3426552191a,Jose Antonio Torres Benavent,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:14:51.443609,with_onion,5.7,5
+77,2a458887-d1e3-411c-9025-c6b3a6e4e58b,Carlos Valencia Prada,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:02:14.326209,with_onion,N/A,4
+77,994b2e58-e87f-44f5-ac5c-9f1fc6117354,Nazaret Galindo Prat,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:40:41.018459,with_onion,,1
+77,7fce6de3-6eb7-49f7-aedb-5affe358311d,Leyre Amaya,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:39:43.338069,vegan,8.14,2
+77,9b605c05-9805-4e0c-b25a-b959d0e1525a,Maximino Gomila Santamaría,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:05:03.358510,without_onion,N/A,5
+77,96894411-67c3-4306-b498-cbeeea33c06d,Amador Borrego-Vives,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:49:21.451864,without_onion,N/A,4
+77,256ac0e6-6ee1-4ec5-93a4-b13fec37ef07,Eloy Pons Manzanares,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:49:45.281226,vegan,N/A,5
+77,092b44cc-0032-4846-a576-0c14b8526709,Florina Dorita Giralt Andrés,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:07:21.087756,vegan,,5
+77,0c40ccdb-349c-488a-ae47-36af30948e07,Carmelo Benavent Barrios,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:47:53.540856,with_onion,,1
+77,4f4dfde0-f99f-4689-9f2b-253ae126a042,Calista Sainz Valdés,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:40:25.926479,classic,N/A,3
+77,2292f569-3600-48f6-876a-09c4544c2a2a,Heliodoro Serna,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:44:02.447584,without_onion,N/A,1
+77,f8fdbedc-6842-4893-920c-cffeb533f152,Lina de Guerrero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:24:15.125925,without_onion,N/A,1
+77,57f3fde6-c0ed-4730-85f8-2c88e1e5dd1f,Gloria Vidal Rodriguez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:56:44.888456,vegan,,2
+77,d71a2293-caf1-4e43-bd4c-92c626f4e7d2,José Mari Estrada Leal,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:41:04.818607,vegan,N/A,5
+77,fce2990e-b5a5-4c06-9840-a99dbf37be3e,Saturnina Pol,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:08:09.095312,vegan,,2
+77,00c350c7-3254-4ff2-bac8-56be71d1c386,María Tamarit Jimenez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:36:01.411402,without_onion,11.45,4
+77,82bd3b82-49de-4e93-9cdd-bc67a64d64d6,Regina Albina Sarmiento Rocamora,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:03:20.660624,without_onion,13.16,4
+77,e601f415-c202-4beb-8ae0-0a14077c9484,Valerio Cabrera Sotelo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:29:10.029330,vegan,,5
+77,784ca19e-283b-487e-a923-c5f830a195b4,Eugenia Felisa Téllez Marti,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:05:49.991457,classic,9.05,2
+77,df46f241-4639-4ade-8dee-ddb3a0828beb,Melania Gimeno Saez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:36:13.745945,with_onion,N/A,3
+77,895e7b6e-7066-4d53-8c87-1c89a91a1b77,Estela Angelina Garay Navas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:22:10.028572,vegan,N/A,2
+77,4a7a674f-46a5-49da-a3d1-f2803289b782,Flavio Catalá Morata,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:19:56.990893,vegan,12.96,3
+77,6bca6af4-fae7-4fd8-a650-6623b7cc2895,Sabas Verdugo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:40:55.094890,with_onion,,1
+77,13afa4ee-278e-4eaa-8e1f-1e82beb5e396,Flavia Bastida Blanca,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:44:03.153558,with_onion,9.43,1
+77,b36acca8-b514-492d-976f-bca5b5f87e03,Octavia Tenorio Castillo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:24:27.250808,without_onion,N/A,4
+77,8deeb2fe-f20e-4b2c-996f-4c79e1a3b36f,Lupita Arjona-Pujol,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:44:41.848367,with_onion,,3
+77,a20fab92-bea8-44df-84ff-e53d879bef26,Lucila Marcela Sancho Ojeda,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:04:29.858327,with_onion,9.5,3
+77,bfba26ee-27f0-4403-a6c0-ae426c568df0,Teodoro Blázquez Sevilla,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:35:13.578452,with_onion,10.65,2
+77,6c7cc87f-f6ca-4210-b5e1-6cfc1abc241b,Demetrio Mata Pombo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:48:23.589834,classic,11.7,2
+77,f917a655-9fa6-4aa8-83b0-193b7b1ecdf6,Cándido Canals-Andres,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:31:19.996560,classic,,5
+77,844dee41-cbb5-4417-a04b-f7cd717a3ea9,Apolonia Moreno Lastra,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:11:51.688605,without_onion,10.79,1
+77,c888fad3-906c-4533-908e-bb4fe1db5241,Felipe Mayo-Anaya,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:15:17.066905,classic,11.05,5
+77,fa86e444-8560-43b3-a367-c1e9e82b9dbc,María Del Carmen Sotelo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:15:32.134538,without_onion,N/A,2
+77,df828153-8d61-479f-a595-d835c4f68994,Palmira Campoy Esteve,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:13:56.584819,vegan,N/A,4
+77,e18b14ed-35da-4be2-933e-42ad8b103b5e,Javiera Gallo Llobet,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 12:52:50.528535,without_onion,,3
+77,ddcc6f2b-227f-4375-b24b-4b19e08b2017,Adelina Macías Llamas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:27:01.680966,classic,11.8,5
+77,88ffaa38-1eae-4a1f-aff1-bd1f0753b832,Almudena Exposito Río,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 05:52:05.211692,with_onion,N/A,5
+77,fe4e9eff-0c29-426c-b763-f06eb2c8b31e,Tatiana Vázquez-Cózar,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:33:26.166125,vegan,,5
+77,51f6ac4d-90c5-4d64-b12c-5cf4f7c8b54d,Miguela de Ripoll,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:29:53.871936,vegan,N/A,3
+77,635f3549-6a48-42e4-a113-36e835d9c8a3,Ofelia Varela Román,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:40:45.508018,vegan,,5
+77,47f900c3-8048-415c-b82c-dbc25adbafd1,Sebastián Chico Sancho,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:46:05.359678,vegan,,2
+77,05bc74e0-e23a-402f-95d2-d59f179830cc,Mayte Portillo Iriarte,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:30:41.344993,without_onion,N/A,5
+77,6a8c1f32-7294-4d9d-b088-0aa27cc095a8,Jose Francisco Beltran Colom,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 17:56:51.608171,with_onion,11.48,3
+77,ae5651c4-9553-4b67-862c-0ff2a451b5aa,Luis Ángel de Sebastián,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:40:43.890189,classic,N/A,1
+77,db43c5f5-986d-4fc4-b803-efbf0ce50eaa,Ricardo Ferreras Fortuny,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:59:03.609266,without_onion,11.05,4
+77,91f6d348-c7e0-4593-9178-93d16cc2ac0d,Rosenda Hilda Porta Ribes,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:09:15.426955,without_onion,6.02,4
+77,d1207459-41e8-4d1f-b126-d73e6cd618c4,Pancho Llabrés Múñiz,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:44:04.130120,with_onion,N/A,5
+77,dabc8f1f-5a35-49db-b1ba-d8c5075e2513,Timoteo Pellicer Agustín,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:37:55.103253,vegan,N/A,5
+77,1e1c146d-14ad-4071-b1aa-3f3dc4797664,Georgina Alcalá Cordero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:24:04.686156,without_onion,N/A,2
+77,32278032-a5b8-400f-a6b9-a7ee773653b2,Virgilio Campos Vergara,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:57:15.500559,classic,7.9,2
+77,a9beaf82-9477-4718-b0fb-0ff7deb7ed4f,Irene Acevedo-Palomo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:31:23.364759,with_onion,N/A,4
+77,ab883bc4-91ea-4628-81a0-0f10bef31c52,Sabina de Cabezas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:31:09.036175,without_onion,,3
+77,f3883b0a-20e0-4ad9-ae4d-305949fc8319,Tiburcio Goicoechea Ayuso,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:23:11.260941,classic,,4
+77,cde36f55-c936-4510-939a-931dd2535799,Silvia Campo Verdú,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:54:19.542390,classic,,4
+77,0a4aa2b3-fd75-4eef-b691-9ef1df08f0ae,Alonso Arias Ramos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:47:59.088076,without_onion,N/A,5
+77,438d5974-f5f1-4f56-95ba-8ed25307d920,Leandro Flavio Piñol Carbó,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:21:06.519885,with_onion,N/A,4
+77,f59a88cf-9d40-4be7-b2a3-6f23c56634ce,Diego Serrano Zapata,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 03:59:30.055931,without_onion,12.63,1
+77,387162f1-80c4-40af-905e-c5990c9b56d0,Alfonso Lobato-Lucena,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:31:20.084077,without_onion,N/A,3
+77,349f0c9a-9f78-4646-81d4-2b70d0545225,Iván Páez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:58:20.596834,without_onion,5.6,2
+77,dc7a8edc-c7c7-4587-b261-4a9697355006,Abel de Blanch,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 02:33:43.829240,with_onion,,2
+77,41321df7-215c-4a1f-bda2-e9d4b640ec1d,Bárbara de Mendez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:34:46.615562,with_onion,6.99,1
+77,54b7cba0-75da-434e-a2dd-b7fb98b48c21,Dorita María Jesús Amo Agullo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 01:10:00.944096,classic,N/A,2
+77,d7f34493-bfe1-4340-9715-79121bf2dfd6,Ana Gelabert Araujo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:05:25.347821,classic,,1
+77,41975ed8-0c12-4833-8f50-be1a91a55165,Eligio Olmedo-Cañellas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:09:11.072167,without_onion,8.59,5
+77,b4cf4c17-9cab-481e-ac44-ec75e4f7f2c2,Verónica del Peña,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:28:50.850983,without_onion,N/A,5
+77,59a5a576-c67b-466f-b474-769cb3406869,Pánfilo Corominas-Malo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:08:54.247672,classic,8.48,1
+77,abd6db56-9282-44a1-9274-5486e8670be6,Jacinto Taboada Mateos,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:05:44.701429,classic,11.47,2
+77,3e987fa6-9e92-444e-8dfe-129366ee29ee,Eva Amores,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:28:51.969049,classic,N/A,4
+77,d8776fb8-8490-41e9-a69f-9dbcb48eb045,Primitiva Abellán Mas,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:20:41.760324,without_onion,,5
+77,0bdfe9d2-f67f-4f0f-8bea-3642877b83ad,Calixta Diego Feliu,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 15:14:33.571907,with_onion,N/A,2
+77,e2df8898-96af-486f-8cd6-e18a7d963252,Albino Pelayo Abril,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:45:59.048574,classic,13.17,5
+77,f1610089-e5df-45a2-9805-93c3bddc0c5f,Rosalina Peiró Valcárcel,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:41:12.000922,classic,N/A,1
+77,e8aef13d-56c4-451f-82d6-b2c84fa7e675,Amarilis Frías-Becerra,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:05:13.771150,without_onion,N/A,1
+77,a9464aac-edec-4499-b6c4-2acb84c8f936,Gonzalo Rius Tejero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:00:31.364700,vegan,,2
+77,795d4f5f-91c2-4419-a6eb-2b6325caa39f,Lara Francisco Grande,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 00:44:50.612226,vegan,,2
+77,dd85bf11-0f35-4fbf-b729-1e1cb3c93d26,Teresa Escobar Narváez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:19:48.896218,without_onion,,1
+77,9ea42f85-791d-4586-b3af-5600fd4b6cdf,Edelmiro Velázquez Blasco,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:04:46.116302,without_onion,,4
+77,94f3d33e-c909-4712-bfb2-772afd06bc22,Timoteo de Rivera,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:43:36.220876,without_onion,N/A,5
+77,be6735d3-74e1-42e8-93d8-8cedbff6043a,Clarisa Orozco Romero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:35:29.260815,vegan,5.19,4
+77,fedd0269-adae-4b69-bc8a-09d3247902d1,Paula Arribas Melero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 16:01:51.865000,without_onion,,4
+77,f7714493-80c6-443c-b390-e28dcda5aa8d,Perlita Bejarano-Casares,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 23:37:15.395098,with_onion,10.32,4
+77,0876e853-652d-4a02-b24f-db0123d151e8,María Ángeles Villegas Huguet,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:23:40.840498,without_onion,,2
+77,5287a655-477e-436e-b610-cb0764acd4e5,Juan José Pintor,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 10:24:52.061515,with_onion,8.12,3
+77,19a752db-2d47-4163-93cc-75d33f9b390a,Mónica Arribas-Tello,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:45:44.869824,without_onion,11.98,1
+77,cab7a7b0-9154-4a09-9f86-a1a4481335a2,Toni Casanova Valcárcel,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:55:09.556728,vegan,12.28,4
+77,9fa89e95-440c-4f4e-8a8e-4848fa305b60,Nico Perea Landa,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 11:53:01.934760,vegan,N/A,4
+77,d652af0b-7b98-4e05-89e8-43e6503fdbdc,Julio César Ribera Guerrero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 22:46:14.215680,classic,13.47,3
+77,e73a16f2-b98a-44bf-83ad-cc8388590e6d,Matías del Alberto,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:27:30.751421,classic,N/A,3
+77,1d102205-0099-421a-94a3-ec77effcd58a,Jose Francisco del Carballo,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:57:26.740338,with_onion,9.94,5
+77,ab3c937e-d5ae-4ec1-afdc-71d76f6d1708,Felix Almeida Castilla,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 07:44:28.594889,vegan,,4
+77,53ca7275-1d50-4c2e-a371-3312ec1856ee,Paz Baeza Lasa,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 04:57:32.155752,without_onion,N/A,1
+77,dac95363-b492-4af9-a0e0-d489188dfda9,Macaria Zurita,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 06:05:45.818557,classic,,5
+77,817646a5-810c-492c-8a5f-5bbdd358fc43,Lorenzo del Esteve,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 09:43:52.951331,without_onion,,1
+77,d288ef9f-f4a1-4f8b-800d-3aefb7828d28,Modesto del Baquero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 13:38:11.828127,with_onion,N/A,4
+77,9fce9945-ec3c-46af-b597-7a6e9a9fa6de,Consuela Elorza Mascaró,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 14:10:28.629866,without_onion,8.69,4
+77,9f1f1a74-87f5-4e13-ae73-bbacb28ad25e,Humberto Molins Peláez,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 20:07:36.923392,with_onion,N/A,2
+77,65a5fd68-7b8d-48d1-9fdd-bb052b68b0fa,Custodio Gutiérrez Barón,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 18:22:21.582902,without_onion,,4
+77,1f79a7b4-bab7-4f73-b483-4040d4cd7428,Rosalva Carmona Portero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 21:02:53.588389,vegan,9.56,3
+77,a176b0e6-f8ac-483c-a096-eb643f7bdf5a,León de Santamaría,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 08:27:42.254728,vegan,12.19,4
+77,414e6c7a-8a75-44e2-83af-8a5762a14d51,Plácido Baquero,Málaga,"Callejón de Yago Diego 890 Piso 7 , Ceuta, 24524",2026-05-01 19:22:30.877715,without_onion,N/A,2

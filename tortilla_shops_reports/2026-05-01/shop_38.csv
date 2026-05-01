@@ -1,0 +1,484 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+38,a62a86c6-8c6a-4964-9884-3bc928fafb93,Roberto Sanmartín Millán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:59:56.502128,with_onion,6.85,4
+38,6631cce6-2f01-4e54-96ed-93fa95badb38,Juan Carlos Pacheco-Jordán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:16:27.557155,with_onion,14.03,2
+38,68d2ffda-408c-4015-b120-408a420a1e57,Roldán Gallego Tenorio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:32:33.005547,vegan,14.0,3
+38,40216638-a231-4534-b0db-474b9ee7bf85,Adoración Anguita Castillo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:44:00.953606,classic,N/A,2
+38,cfc109ba-3f9d-4883-8032-c163b28d3c65,Jeremías Gisbert Calleja,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:18:16.943402,classic,N/A,1
+38,99dee362-aea7-422a-b7b9-0a46f304dc1e,Eligia Iglesia Sanchez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:12:25.666936,without_onion,N/A,1
+38,96b1e0c1-658b-4c8d-b1bc-122db8118874,Elodia Colomer-Cases,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:47:24.142382,classic,N/A,1
+38,462c5b7e-7da2-41c8-9917-8e27c3b86e7a,Azeneth Carreño-Barrio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:20:01.455808,with_onion,,1
+38,82d6260f-e7d4-4b50-9e89-11dcbe6214b5,Palmira Nuñez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:09:12.745617,without_onion,N/A,4
+38,f03df21c-5e92-4cb7-ac56-0c714fc16735,Ángel Eladio Bautista Figueras,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:31:44.827169,with_onion,N/A,5
+38,71e9bc4c-3402-4313-84d6-114b5da06cfc,Beatriz Arenas Galiano,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:24:03.543549,classic,,5
+38,feb15453-b2f8-4208-9772-09894e94f60c,Elvira Moya,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:05:08.300588,classic,N/A,5
+38,bd9883ce-28be-4189-b678-ff06f77f9663,Aureliano Losa Durán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:54:41.785569,vegan,N/A,2
+38,87c455da-1953-4e97-a629-73a944ccd1e0,Concha de Real,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:35:54.806698,vegan,,1
+38,56c4a254-e695-4883-a3e4-e3f085eb1790,Remedios Escamilla Dávila,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:26:15.129303,classic,,3
+38,659efcd9-3606-4e4b-9437-9ae215afcd22,Cristian de Juan,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:30:47.389276,classic,6.35,4
+38,e597bd05-71e3-4b60-8388-f83373c9dd61,Custodio Tudela Borja,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:32:21.181366,with_onion,N/A,1
+38,86f76b67-1c3a-474f-83a2-a300df15c5d1,Hortensia Pinilla Coloma,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:29:37.101028,without_onion,,5
+38,d19321d6-93c2-4c8c-8e3e-0cb827f58f9a,Ciriaco Quintana Pacheco,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:50:50.098787,vegan,,1
+38,4ef02d46-1364-42fd-90b3-d500ea982d55,Bienvenida Gargallo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:51:41.360427,with_onion,,4
+38,bccadb7f-24d8-4b3d-b3dc-297dbb75e94b,Jose Ignacio Clavero Catalá,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:53:34.475446,with_onion,N/A,5
+38,1961b1a0-ea48-4d75-99f6-bdef1dc54156,Vanesa Escudero Nicolau,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:54:39.014949,with_onion,10.18,4
+38,597f08c2-2a74-4cc0-b836-4c8e65c3ab76,Tito Duarte Cordero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:18:14.040177,vegan,11.3,2
+38,2676ec1b-5181-4eb2-bd63-0fab7b2ba813,Pelayo Jordá Avilés,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:09:54.090785,vegan,N/A,4
+38,b382deee-71dc-4de2-8eb8-1f8d795b9018,Zaida Nicolau Morata,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:06:24.318590,vegan,5.74,5
+38,e55209be-a73b-4338-b090-d465483a354e,Herberto Moreno,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:00:27.126932,classic,7.02,4
+38,c7f681f2-0d78-4319-9269-8543c4791e39,Fernanda Sabater Jover,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:45:47.326274,without_onion,,2
+38,f27b3e30-45d3-4200-a2bb-17b173f0ffb5,Lalo Plana Barrio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:16:03.449002,vegan,,1
+38,a7de16db-4611-4aa8-9cb8-b74884038a86,Violeta Hilda Rodrigo Arce,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:26:30.195153,classic,,3
+38,3fa4f92c-485f-4d70-b2eb-e1512c92ee6b,Zaira del Oller,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:25:20.847499,vegan,10.03,3
+38,31073323-79c0-4ce0-b0b1-f32615306f4a,Anacleto Melero Leal,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:58:08.524708,classic,,4
+38,a15ca142-4137-44c7-8994-23301532a85d,Clementina Moya Samper,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:58:13.015252,without_onion,,4
+38,4538e553-1fd5-4633-a2cb-7fa6a1c91482,Baudelio Sosa Cárdenas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:34:52.939249,with_onion,N/A,2
+38,fdac21f2-3731-47d7-bc5c-03ed01890fb3,Luís Adán Sánchez Mayo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:10:29.938852,vegan,10.63,2
+38,2ad88a2e-515f-4d3d-a3fe-ea1ac4a10ca7,Claudio Amigó,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:21:05.939921,with_onion,N/A,2
+38,708a9a77-192a-4ac9-a939-1b41f7ffc0a2,Melchor de Cortina,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:32:03.449363,classic,,1
+38,c1563958-7752-4e0f-8738-9323e46976de,Sarita Maza Anguita,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:19:44.840404,with_onion,,3
+38,d4650b4f-b3e0-4115-88eb-e89195fa2352,Cirino Santos Cortes Cordero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:57:49.824761,without_onion,6.04,1
+38,7672ae19-686d-4aa3-b691-25015ab4c011,Anacleto Sanjuan Pozo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:08:10.454202,vegan,N/A,4
+38,7865d217-5047-4620-888a-50a2c791078c,Manuelita Nebot-Villalonga,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:41:16.023329,with_onion,N/A,3
+38,9fe3cea7-00e6-4642-825f-d24b751024c4,Lope Morera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:09:39.312173,without_onion,9.11,2
+38,c494ce4f-482a-4e36-a0bb-9c8d62895647,Esperanza Bustos Fajardo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:43:53.611373,without_onion,,2
+38,d8388c9c-6081-486a-a4c9-4f842f4686c7,Ale Bauzà Manso,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:44:23.469778,without_onion,N/A,4
+38,9265e5b8-73b4-42d8-a684-1e0a6c440504,Felicia Amador Ayuso,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:05:26.162444,with_onion,12.16,3
+38,d2264bff-9f58-45d4-a5a5-b4340eae189e,Mohamed León Guardia Quintana,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:11:47.427692,vegan,13.35,5
+38,6883f121-ef7d-407d-926b-cf3b2841b9f8,Apolinar Reyes Carbonell Abellán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:12:39.283443,vegan,N/A,2
+38,0c151601-5dec-4a55-bd96-bb1104afb7a8,Leyre Aguilera-Gómez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:23:12.718230,without_onion,6.6,2
+38,28435fd1-db51-4b32-bc9b-0b70c96f7c78,Mireia Menéndez León,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:04:09.857028,classic,7.25,1
+38,14c8641e-1199-47eb-85d4-db4434480fe7,Francisco Jose Marí Carbonell,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:15:54.355525,without_onion,10.22,4
+38,9c2dd9b4-a90f-4039-a3a2-e4ba5f60288d,Segismundo Cabrera Leal,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:22:39.515045,vegan,6.34,1
+38,d6a570fa-4bde-4919-847b-9f8b3c9c3272,Yésica Escalona,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:57:45.556777,classic,N/A,2
+38,2a080bf8-3e3a-4207-baca-98cd62ede8d6,Jovita del Cózar,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:53:20.206647,vegan,N/A,2
+38,a3c27b8a-f3c3-450a-8f39-167b24602e25,Maricruz Figuerola Lucas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:21:06.132708,vegan,,2
+38,b90e51a2-b12f-4448-8386-20549f82bbb1,Yésica Sáez Gámez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:45:19.836381,with_onion,N/A,4
+38,02112473-a37d-45f3-8aef-2f5ac84fd483,Édgar Grau Bolaños,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:21:59.715683,classic,N/A,5
+38,42cf9651-2d30-4725-8832-dda0d74b818c,Eulalia Castañeda-Mercader,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:03:17.608396,classic,8.57,3
+38,16171954-2e56-45a0-bb81-7467baa09313,Ruth Salvà Mateo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:15:08.289862,with_onion,7.72,3
+38,ddef0cc0-4e00-475c-bef8-ac9f51338ea5,Abilio Herranz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:06:50.733223,with_onion,N/A,5
+38,b612adb1-4c65-4e40-b5ec-d2b0621c4971,Eliseo Contreras Cañizares,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:02:16.094692,with_onion,,3
+38,352cc72b-5cba-483d-829d-93ecb46bb358,Reynaldo Torres Julián,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:51:41.115065,vegan,,3
+38,8f4ee5b4-390c-4231-b81a-1fb66757dbee,Rubén Arribas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:11:32.009837,classic,N/A,3
+38,efbf2e26-cf22-4a3f-a092-33d7b561455c,Ibán Álamo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:05:02.266520,with_onion,N/A,3
+38,ddb07455-e7b9-4e8c-b874-28cc68773402,Bonifacio Fidel Planas Conesa,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:21:00.407589,classic,5.73,5
+38,19c9b155-d731-4a1f-8723-f443c527e015,Priscila Ramón Ibañez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:59:01.582887,without_onion,,4
+38,d04ad3f4-ddb5-4b06-87a6-1b67827a8316,Modesta Vaquero Armengol,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:13:32.909978,classic,,2
+38,bddaa1ba-0f78-40ad-9769-c0da491f5b3e,Cristóbal Palacios Taboada,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:49:38.542373,vegan,,4
+38,36581f5b-ae03-49ae-a053-f922466fa6f4,Ale Severiano Parejo Ayllón,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:20:35.851071,vegan,N/A,2
+38,3a125bb4-4c5c-4740-bf48-c1c00fde46de,Juana Palau Canales,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:10:43.875605,without_onion,,5
+38,ff889eed-010b-49d6-9590-f34ed6b1b45f,Aroa Franch Vera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:30:02.137462,vegan,14.37,5
+38,c75714e1-2344-474e-a35e-8602bef18547,Lorenza Pujol,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:33:28.407170,vegan,,2
+38,b0d9a8f2-fd24-4bde-a495-64a86dfc41d8,Pepe Cabrero Pozuelo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:00:28.274410,classic,N/A,4
+38,2425695f-dc03-431e-8c84-3445347ab266,Pedro Badía Araujo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:21:42.860129,with_onion,10.68,4
+38,63ccd07e-c831-4ad9-9092-89a4a2c15a66,Segismundo Elorza Escobar,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:16:12.635286,classic,5.77,2
+38,41d6aaf5-748c-4b2b-b8dc-6d00bb8ed527,Manolo Carrera Somoza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:59:57.062733,vegan,,2
+38,1e82ec52-5a72-49da-a9a0-1e0ec899d8e7,María Pilar Sanchez Gimenez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:24:53.062898,without_onion,,5
+38,1a693a63-92b8-4d4d-b00a-f74b1b62b81f,Rosario Mateo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:00:46.028918,classic,,4
+38,1812f544-7abf-4000-bf74-66cc7783ed3c,Alma Yuste Valbuena,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:10:33.918142,without_onion,8.36,1
+38,b393160d-ca4c-4e82-a332-069f4acc6f5e,Lidia Anna Murillo Arnaiz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:47:24.088945,without_onion,5.0,4
+38,ff48f741-a91e-4307-8a2b-1bffdd920ca8,Jose Antonio Guerrero Cánovas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:29:29.151364,vegan,11.42,1
+38,7ee56d06-9971-4e48-b3b5-c7ee68bf8413,Juanito de Sáez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:31:04.743768,with_onion,7.2,5
+38,0c9bfe91-25e8-4f86-90f3-6358ee2b66f2,Felicia Aparicio Bermejo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:49:59.070919,vegan,N/A,5
+38,e555a74c-5e82-4c9c-bbcb-3a09204b6997,Chita Echevarría Calderón,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:29:05.867397,with_onion,N/A,3
+38,d66a6f5e-1f3a-4d14-ab21-5fa92ac693a0,Mateo Puente Coronado,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:37:20.316719,vegan,,5
+38,f8ec0b85-aa13-4aa1-b0d6-338af1262aaf,Mireia Pina Borrás,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:03:45.279728,classic,N/A,1
+38,a4793b91-3fa2-4956-900b-d2ab3ff69a63,Rolando Bermejo Calvet,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:25:32.507291,vegan,,5
+38,42ddd8e9-7055-47e7-b214-bc7298795eec,Encarnita Verdugo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:52:54.861944,vegan,10.87,4
+38,1ae5a043-2a0a-4ae6-8305-41c371bad092,Plácido Camacho Azorin,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:43:46.129078,classic,N/A,1
+38,61029768-6e32-4a2a-8cce-c13a89d729a6,Samu Arcos-Anaya,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:02:02.275541,without_onion,N/A,3
+38,fdb23837-468f-4162-bdcf-d751cbe45277,Aitana Solana Gomis,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:24:11.577815,without_onion,,5
+38,154f3e83-ed10-45b1-a0a8-dab9bd51993f,Elpidio Gilberto Llorente Casares,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:37:52.016797,without_onion,11.12,4
+38,cc3b2822-832e-4e33-8dfd-cd07b6d2b502,Apolinar Francisco-Sanmartín,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:25:12.946648,vegan,6.4,1
+38,54b5bd0d-4b89-4b8c-8d73-ed7abc6f949a,Amando Cánovas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:07:08.403917,without_onion,,1
+38,d08418fc-1399-4cfa-91b6-51d5ddbf6a31,Omar Sevilla Solera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:39:29.010929,with_onion,N/A,3
+38,0781d4e2-b7cb-48e0-a79c-79ef6b68e54b,Porfirio Águila Guijarro,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:06:03.030121,vegan,9.73,5
+38,ff7d4131-fb5c-402d-be9e-961819386c9b,Yolanda Lastra Atienza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:25:28.552167,vegan,13.87,5
+38,ea8f7f84-127c-48d9-b3bc-802e0964d6b9,Tomasa del Hoyos,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:34:34.242452,vegan,11.61,1
+38,23b4ec43-8813-436b-b2af-796441987c57,Ligia Ortuño Mendez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:18:41.781697,classic,N/A,5
+38,19aacc51-fd0c-49a7-918c-f183ec486084,Estela Peinado Urrutia,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:12:10.548652,with_onion,,1
+38,55377513-241c-4f55-bd73-1909e8a52cf5,Álvaro de Macias,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:16:19.772877,without_onion,,4
+38,14eb5868-0586-4e0c-b07c-6af4c0f5342b,Dionisia Fabregat-Collado,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:36:50.187604,with_onion,7.04,5
+38,ee5f66bf-0a23-40d7-b61e-5ced01d8896a,Paola Garrido Gonzalo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:41:22.234877,without_onion,12.79,1
+38,bb1a99ba-05ff-455e-ac07-5d7f770fd067,Lidia González Antúnez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:58:41.523468,with_onion,7.35,4
+38,d54a4733-519d-43e0-9923-0e33270d9bf4,Ángeles Ropero Abril,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:37:26.313655,with_onion,,2
+38,35b77902-65c7-43c6-b747-a4f823d6f92f,Cruz Borrás Calzada,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:00:30.897695,without_onion,5.26,2
+38,6369f322-bdef-4644-b3b5-2ccaa71e9313,Aránzazu Méndez Larrea,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:30:34.351236,with_onion,,2
+38,3005f8e4-f923-4901-a120-fd669766a1d8,Celia Hervia-Cano,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:03:08.815900,classic,,3
+38,d36865f6-9434-4ed4-95f9-0f2e3aef7460,Consuela Arcos Vallejo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:25:00.051220,with_onion,,1
+38,1b694c79-bbc1-4fc5-acfe-effe001455f3,Leoncio Gabaldón-Armas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:43:44.485056,without_onion,N/A,4
+38,9f2d22cf-a3b2-4a3e-8040-6855de568cc8,Nydia Figueroa Nicolau,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:28:12.162671,vegan,N/A,1
+38,835aef0b-19c1-4a98-b723-214002bce099,Jose Carlos Ibán Roca Miró,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:34:03.839629,classic,,4
+38,817ec387-6f54-4bf5-a1eb-9e960ffaec83,Poncio Sureda,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:47:17.465598,without_onion,N/A,4
+38,d1bc1ef2-1c50-48d6-8789-5b6b32324bd4,Concha Amor Reguera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:53:21.233244,without_onion,N/A,1
+38,24a12701-f1a4-4471-ad91-6ea3c6a4e009,Tomás Arribas-Acero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:54:51.235153,vegan,9.09,2
+38,e5399a77-9d7c-430b-b2b8-3b9b7e516ef4,Gregorio Ojeda Casanova,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:04:15.787911,vegan,N/A,3
+38,1bc821c4-ecb1-4968-a630-b240944bd2bb,Mario Bermúdez Lloret,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:02:16.478328,without_onion,N/A,1
+38,b45aad59-79f0-461c-8679-049a1e47adf7,Marcial Somoza Quintero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:08:41.224073,with_onion,,2
+38,17453ec9-0d76-4bbe-a3b3-5e9a64c5ef4a,Felisa Tudela Sánchez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:40:29.314054,with_onion,N/A,3
+38,73753662-a2e8-4425-99a0-ea29127ebc58,Ofelia Flores Pujadas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:01:47.572000,with_onion,,5
+38,11d80e0f-59d1-4415-b7e6-bd527425df50,Florentina Valencia,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:14:34.380830,with_onion,,3
+38,d931d09c-f192-45c9-841c-10db342f7ae6,Carmelo Buendía Durán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:10:25.691902,vegan,N/A,4
+38,7f5ebac4-6f16-48ce-a97a-ccc2ff5e75de,Liliana Llorente,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:43:56.766921,vegan,N/A,2
+38,a2bab5d9-ed47-46e2-81fb-3bdb8b9ab8e0,Felicia Lobato Pol,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:25:55.905977,without_onion,,3
+38,b7bae425-d6c2-406f-974a-f280ba70144e,Demetrio Pelayo Sanabria,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:39:49.812765,vegan,N/A,5
+38,89608cb4-84df-4e47-ba40-cc1be147fe83,Raúl de Cañizares,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:09:10.266765,with_onion,7.02,5
+38,fb71f555-5a59-497f-8c7b-f40e098e967c,Beatriz Gálvez-Ortiz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:01:25.420249,classic,,2
+38,39ab4cfc-7d03-4724-8fb3-29c5861fe731,Gustavo Ruano Luján,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:01:06.736783,classic,14.7,5
+38,9077005f-816f-4db5-8d7b-c3409218c1d1,Josep Manzanares,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:18:53.901680,without_onion,N/A,4
+38,e758b8ec-80b3-47cc-bc68-1c1e272e4eb0,Hortensia Viana-Ruiz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:48:37.987533,classic,,5
+38,54680275-e09e-48e3-9b70-bf8bad06c7ba,Juliana Rosalía Frutos Pujol,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:51:50.034572,classic,,2
+38,72ae2778-72cf-4340-a20d-9233558042d9,Ariel del Lobato,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:28:59.658356,without_onion,,3
+38,e4536401-55c6-4313-81fe-036c5a44ae4c,Leandro Moles Conde,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:22:57.332309,classic,N/A,3
+38,78182050-d3d6-44b0-b8ff-2f6140084484,Leonor Camino-Uribe,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:38:55.116836,without_onion,9.19,2
+38,8759d3fd-ee6e-4a56-b22d-117b7fe8dd27,Josué Taboada Cruz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:16:56.324284,vegan,,1
+38,b8899732-b9f8-4448-9529-5fb49a8c6d5f,Juan Luis Canals Villena,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:49:16.344003,classic,,3
+38,8936fab3-c98d-4d60-ae52-b35e3b01bdbc,Mario Díaz Ropero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:43:06.714231,classic,N/A,4
+38,f5d0509d-03e4-4729-99b4-91fb1ba0eef8,Estefanía Cepeda Alberola,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:25:07.467965,with_onion,,2
+38,b7a06bfb-8386-4330-8fad-bdb0252f1379,Iker Américo Rodrigo Beltrán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:16:09.599296,without_onion,N/A,4
+38,4ca94181-a20b-4fe6-bb92-2e588ac28ab5,Jose Ignacio Teobaldo Clavero Paz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:41:19.162744,with_onion,,3
+38,2479a100-3030-437c-b0ca-7fd9456c6fac,Marta Lobato Santos,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:08:43.724495,with_onion,N/A,2
+38,051f40a3-aa54-46a9-87c9-4634af2cfbbf,Corona Guitart Santiago,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:25:10.837606,with_onion,N/A,5
+38,fefd9145-9c80-481d-85f9-75fdc0592e9c,José María Almagro Llorens,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:11:52.966017,without_onion,7.71,1
+38,f1f1d117-cf1f-482b-b44d-b71bf53dea3e,Obdulia Pozuelo-Goicoechea,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:59:19.662521,with_onion,,5
+38,cd04d506-3975-4a09-a0d2-2ce4c824ec8a,Adriana Nadal,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:27:18.801543,vegan,,3
+38,d7263735-bb00-49e5-b5ab-93cb5d655aa4,Cayetana Busquets Miranda,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:03:15.288982,classic,,4
+38,a828527f-780a-4cfd-858e-ea5db5d4a5e2,Maite Colomer Alcalá,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:37:10.928983,classic,N/A,5
+38,6b88fecb-f8e4-46a4-a17f-18f9f8a892da,Yago Morata,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:13:58.507782,without_onion,10.21,1
+38,28547be8-3263-4072-ac30-d751f5487840,Máxima Martinez Casas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:46:09.308533,with_onion,N/A,1
+38,9bba52c0-062b-4579-ac13-fd19a0c1ac13,Nacho Vives Recio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:27:38.208993,vegan,,5
+38,d4271829-6e7c-453b-9265-e6b491bb2a72,Marisa Matas Arnal,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:48:55.160799,vegan,N/A,3
+38,3913162e-1266-4610-9dd0-295f0efa058f,Severo Manjón Blanca,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:09:59.110885,with_onion,,4
+38,70b2e73c-a73f-4544-b76b-88c8435e4fa8,José María Julián-Iñiguez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:08:13.622005,with_onion,,4
+38,729a9f18-07a1-4a87-909c-32713e855b37,Pascual Landa,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:55:16.299093,vegan,,5
+38,4c35d506-0ad0-405d-a260-4b2506a67989,Nando Coll Romeu,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:42:25.785628,vegan,6.98,5
+38,62e1a7bf-d8cb-43dc-ae60-ea35e9617164,Felipa Esteve Escrivá,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:20:05.524102,without_onion,N/A,3
+38,d0e44f1a-ac6b-4ef6-bf60-0285c665291d,Amílcar Peña Barrios,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:29:56.358349,vegan,N/A,1
+38,ec068f9e-6084-4786-9c41-c1cf26a1e816,Charo del Manrique,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:14:17.493365,with_onion,N/A,3
+38,0758338f-54bd-495f-8354-17a2f57d14a2,Jovita Alemany Cabrero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:04:22.368843,without_onion,,1
+38,0882f4bd-3352-4433-b238-820532e7e1e5,Jordán Villena Soto,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:48:11.769490,with_onion,N/A,2
+38,88741f40-cc10-46d4-92e6-9d1f2e8206f1,Nicodemo Montalbán Suárez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:22:06.186573,vegan,8.33,4
+38,b4c295bf-4b05-453e-b4f7-a80e13545351,Ramona Iñiguez Francisco,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:03:58.613773,vegan,,5
+38,b809d6a5-1cab-4c31-af70-21b05f826cf0,Emelina Perez-Llamas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:17:10.296242,classic,,5
+38,2aa06466-bde3-4525-83a3-8ebf4c2128a3,Jose Antonio Caparrós-Izquierdo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:05:02.838237,without_onion,N/A,3
+38,7b6b7e61-6be4-4501-987b-fd57eb1f7732,Maricela Arenas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:10:08.695485,vegan,,2
+38,426847f8-3887-46e0-8180-2f1ba33ff54e,Regina Morales Pagès,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:35:35.762962,classic,N/A,1
+38,0e0432ac-3b3d-423b-a55b-2b35297e13f4,Bibiana Vaquero Durán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:49:34.652225,without_onion,11.94,3
+38,a2b22de6-7303-4c20-9d17-48b1a84012a3,Eva Gutiérrez Alcántara,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:33:02.387332,without_onion,9.85,3
+38,637da733-d047-4bb5-af69-448f1d44b9fa,Luisina Fajardo Salas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:47:55.779928,classic,7.13,1
+38,679e3f28-712c-4e86-8d68-f2343c5cc0de,Domingo Cisneros Sola,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:04:12.802096,classic,N/A,2
+38,1a2e3c80-def4-48d5-9d82-1b9dacfcb606,Rodrigo Esparza-Suárez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:17:25.130843,classic,,4
+38,ab005077-f638-4608-9326-7b6369599a45,Gonzalo Hervás Bustamante,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:14:31.915543,classic,N/A,3
+38,8f182712-501f-4058-91f5-df08b6929db1,Manola Navarrete-Roca,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:12:46.576868,without_onion,,1
+38,dca84870-dff2-40d7-9137-4393a30467ae,Aarón Botella Chaparro,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:38:43.890047,without_onion,13.76,3
+38,3d3ce03a-d0e9-4bb7-893b-47ce7408de04,Ramona Juárez-Salcedo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:48:46.670215,vegan,N/A,4
+38,37e04ad3-4dc9-4c22-bdb0-5e08dacffbb8,Fidel Soria Corominas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:59:07.829661,without_onion,,3
+38,83f2c947-ab0a-445c-a1fc-70f5e1bef841,Tomasa Carbajo-Barberá,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:26:33.043898,without_onion,9.38,2
+38,bcca04a4-1fad-43dc-ab44-0c2d1d4e080b,Pacífica Solana-Asensio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:40:41.750836,vegan,N/A,2
+38,962043a3-c428-4b64-83a5-5fecfbec645d,Carmelita Roura-Zabaleta,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:54:49.702173,without_onion,12.28,5
+38,6ae962f4-bcaa-4313-9941-3783b8ef408b,Cesar Real Ferrándiz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:33:02.635727,vegan,N/A,3
+38,5ed159f9-e1cd-48cd-9f90-98a3687512f3,Maristela del Sanz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:46:24.702765,vegan,N/A,4
+38,d7242242-9cee-4c7b-8344-e660c1073c7a,Teo Llopis,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:14:49.471789,with_onion,10.14,1
+38,8d4e41ce-63bc-4175-90e8-73b5474df15c,Reina de Arribas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:29:36.731667,without_onion,7.12,2
+38,dc1f8857-d036-47d8-b74a-d39f52b0caff,Héctor Camacho Andrade,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:54:11.752395,classic,6.88,1
+38,f1f951de-5ba4-4f4e-9a9f-662f0ac8ac98,Macario Bustamante Arellano,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:36:48.938866,without_onion,N/A,1
+38,7bd7a939-617d-49a1-ae11-51f1a3078ae5,Ulises Jose Angel Montenegro Cerdán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:20:21.191690,classic,,5
+38,1fb5974a-4d2d-4357-ab08-da4ff7cf3848,Ricarda Correa Fernandez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:42:04.986477,with_onion,7.06,3
+38,9ddde729-1cf4-4c2f-92e7-07ab4e03228c,Darío del Torralba,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:05:29.545692,classic,14.27,5
+38,067a37a3-a9a3-4595-ab07-dd9b89429d9d,José Antonio Ariño Jurado,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:04:30.147921,without_onion,N/A,3
+38,5cf64ecd-ba53-4717-91ea-f2cee4fe2c3a,Verónica Vargas-Mendez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:21:43.552442,classic,,2
+38,d74c0342-b8ba-4c33-a46e-cda36f890c3e,Remigio Valbuena Carretero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:53:16.792559,with_onion,N/A,3
+38,d65c6f56-f633-4f1c-b8b2-eec5c80d347c,Florencio Vilaplana Zamorano,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:45:55.691646,classic,N/A,3
+38,1e2ba13b-f8d0-4d11-8b9b-e297d57065c0,Poncio Piñeiro Yuste,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:59:32.561368,with_onion,,4
+38,d88bd006-a5c5-4382-affc-992bdbe51d6c,Alonso Alberdi Vendrell,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:59:01.531916,vegan,,3
+38,31dc6170-e489-4857-8838-dc228c616620,Antonia Goicoechea Planas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:28:22.839552,without_onion,N/A,4
+38,3916f6a1-5713-4205-9d09-7096f35603f5,Loreto Teruel Larrea,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:07:12.493093,vegan,N/A,1
+38,c587cba0-b564-4ff3-9d0f-fb5c164749e6,Carmen Solsona-Rosselló,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:38:12.088041,without_onion,N/A,2
+38,4138a55a-b4f8-4117-a5b0-937d71275bcd,Felicia Herrera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:25:33.446188,without_onion,11.01,1
+38,ed522102-83cc-4abd-953e-0d39b8b5a56c,Leocadio Pelayo Nieto,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:33:41.056693,classic,,2
+38,32daf15c-3065-4db4-998b-fd9b983e5c78,Cesar Casals Vidal,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:06:00.825998,without_onion,,4
+38,cceed5e1-7a86-4239-9c32-eacac02b9cfe,Espiridión Iglesia Valero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:46:31.485238,classic,,5
+38,9386d62e-3cdc-4dae-bfd0-7f84fc7a8764,Alfonso Sacristán Arce,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:20:13.886418,with_onion,6.89,1
+38,75a22a8e-1c22-43c9-b2b9-9c3ce8cdd60d,Dafne Paola Infante Fiol,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:27:12.820420,without_onion,11.41,3
+38,e1101619-eff3-4322-8e6a-853854d9b5c2,Felipe Valencia Dalmau,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:02:30.425007,classic,,1
+38,de8e9c35-34cd-418b-87b1-534ac6f4fac4,Araceli Luna Aparicio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:13:43.671163,classic,6.61,2
+38,d899f41d-2d6e-4ec8-a661-6b055d42432f,Ale Bermejo-Clemente,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:10:38.198784,vegan,10.59,5
+38,d01a2efa-491e-4a56-a46e-099f5be96830,Febe Jimenez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:34:39.859126,without_onion,6.55,5
+38,712bfd1f-af24-4a52-ba9c-a7edf59e7baf,Dalila Sosa Tomás,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:20:25.584876,classic,,2
+38,be769f82-95fd-4279-b908-9d9475d491f7,Julián Conesa Vidal,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:40:41.407715,with_onion,,2
+38,62e2938e-5332-4845-ac61-488d642507eb,Armida Caro-Nicolau,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:16:15.608313,classic,11.19,2
+38,b7345723-529d-4c77-bb94-4a9eb25bb24c,Telmo Ballesteros Villalba,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:53:53.308290,vegan,,4
+38,43533cc4-7131-4913-8748-e99e316bfb87,Maximino Calderón Cabrera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:23:11.196023,vegan,14.42,5
+38,9e14e945-3467-496f-8cb5-0ad2ebae98e3,Bernarda Gargallo Vendrell,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:11:59.005452,vegan,N/A,1
+38,eb717a43-182a-4131-b75e-272d2126c416,Francisco Jose de Salvà,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:19:01.902223,vegan,N/A,2
+38,f855a918-2359-410f-8ce1-6ba1b6476dcf,Jovita Uría Cepeda,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:04:44.207758,vegan,N/A,4
+38,62f2a6f2-dcae-44d3-ac61-bf54b384bb6d,Ricardo Perelló Ros,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:53:28.921831,classic,,5
+38,a703737e-2e3a-44f6-8d4f-8a45b8e99f8b,Macario Mulet Bravo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:02:19.988719,without_onion,N/A,4
+38,dec7faed-49f0-47bf-a2d3-12ebca3efca0,Sandalio Figueroa-Garmendia,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:51:42.249035,vegan,N/A,4
+38,882bf0a5-30fa-40ae-af68-c3c8a80db9b8,Alex Arévalo Ávila,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:40:58.258519,vegan,N/A,3
+38,58f4e6a5-7934-44da-86ac-199bf9d1fa4f,Carlito Criado Casanova,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:51:26.326093,without_onion,,2
+38,34640d63-c465-493f-aaeb-5c2d4ea39ef5,Gala del Arnau,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:41:30.754546,without_onion,5.05,5
+38,80f23e1b-bacd-4a20-acf5-1e16622d5143,Nilda Benito,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:00:26.656135,classic,N/A,4
+38,3f7d95f0-32c6-40d0-a341-402f010c86ee,Cayetana Uribe Arteaga,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:38:51.533364,vegan,,2
+38,cf681854-f8a4-44b4-85b9-c0cc82641d75,Delfina Felisa Landa Carranza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:26:43.638685,without_onion,,5
+38,2b8bd6c3-e87e-4025-8c7a-d0b8c3f183e5,Débora Bernal Valls,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:17:49.631148,classic,N/A,1
+38,04027d85-6978-4e6a-bd50-ca2dcd5aa4b8,Alex Becerra Solís,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:23:35.688059,vegan,N/A,3
+38,159a4da9-e3fc-4681-b321-5c88147f9316,Miriam Dominguez Moles,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:03:59.832342,classic,,1
+38,946e300f-87c1-442a-b6ca-adeda3e1282a,Margarita Niño Tejada,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:38:14.843747,without_onion,,5
+38,660dcdf1-0e64-41df-a7f3-1ef33a4f47c2,Mireia Franco Amo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:05:55.471098,classic,12.23,1
+38,37d76060-c445-4a21-80a9-df307a955833,Lola Beltrán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:49:45.707401,vegan,N/A,2
+38,d6662f74-6781-450b-b9c8-ca54e63c25d2,Lope Peral,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:46:56.719721,vegan,9.35,4
+38,b85458b2-f092-46bf-bcc0-b652fc364fa2,Pastora Cabañas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:46:10.981761,vegan,,2
+38,5f8236bb-8c6e-4b06-bd41-4984a289cfc3,Manuel Andres Cabo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:29:38.196471,vegan,,3
+38,267451d0-dfb4-46e9-b03c-5077401f7596,Valentín Díez Benavent,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:44:57.160643,classic,,1
+38,a418ad6d-d3a8-4599-8e2c-97b91c840a4c,Héctor Pagès Viñas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:41:48.599770,vegan,,3
+38,128792c8-1fe8-4723-bd40-1483522cf037,Clemente Fonseca-Folch,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:08:08.935134,classic,,4
+38,2ea7d667-d15e-4ec9-8558-7b44225c85af,Luciano Villalonga Diez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:14:35.329004,without_onion,N/A,2
+38,15c333b6-1be5-4ba7-bd03-39a14e49b8b7,Adán de Pera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:57:07.621200,vegan,,3
+38,ae31170a-9326-4ab2-abcc-345a5fba764f,Jorge Duarte Cerezo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:21:22.435912,without_onion,N/A,1
+38,dfab007f-fd7b-4638-8735-a794fb2da6a8,Francisco Jose de Carbó,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:28:46.871072,vegan,5.52,2
+38,8b720581-2649-407d-9897-d008388d79bf,Bonifacio del Aparicio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:18:38.653048,with_onion,,2
+38,db8eb90d-8b5d-4db7-b981-f3dabd87ec2c,Noelia Peña Zorrilla,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:35:10.517147,with_onion,7.62,3
+38,f0c07f75-0d20-4681-906b-3d6904efc3ab,Alejandro Lopez Diaz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:35:56.161832,without_onion,N/A,1
+38,fe03cadb-5a9f-442e-ac04-9cd7b7a3e6cd,Fulgencio Riera-Carro,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:35:52.781346,vegan,N/A,4
+38,1153186b-f946-40a9-8eb6-15187afebdf9,Fermín Taboada Ibañez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:17:16.113532,vegan,N/A,5
+38,36a20919-042a-4d4f-b0ca-a44fa9f6ab9a,Hipólito Aranda Coca,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:14:04.709688,without_onion,N/A,4
+38,2a010844-9ff2-4a78-a7f8-fad99fb3bff5,Lucio Jaén-Leiva,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:54:21.773016,without_onion,8.45,1
+38,9a938898-1dd5-4d4c-a889-4e387642ca8a,Julia Naranjo Acuña,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:46:01.797350,classic,,2
+38,21e5548a-1429-4586-9e61-875db7824ef6,Ibán Donaire Garzón,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:27:06.743389,vegan,,4
+38,91751fdd-2bf7-48a3-80f4-73ee64aa5704,Isidro Mayoral Guzmán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:17:59.096038,with_onion,11.35,4
+38,f36211ad-064c-4557-8a50-ba76ec45bb55,Hortensia Soler,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:08:16.021087,classic,10.95,3
+38,37e9d0e6-2df2-4a36-8918-a820aa9e48e8,Fernanda del Burgos,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:10:28.206317,vegan,,5
+38,c8e3ef6f-0ba9-4f36-91bf-905191f2d7a3,Bárbara Galán Santamaria,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:47:55.676211,classic,13.17,3
+38,48b2694d-a6f7-4e4a-a712-6008050e1a5e,Goyo Sanabria Vargas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:15:20.120764,classic,13.33,3
+38,263ca6a9-ad09-49de-921b-d03cdc52af1b,Valerio Atienza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:52:07.036625,vegan,N/A,2
+38,98750095-d66b-430c-81d1-5fb2b00548b4,Paloma Contreras Villanueva,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:19:07.178587,without_onion,,4
+38,500ff93b-5fd7-4a3e-b8ce-f7eb8ab9ea3b,Custodio Becerra,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:44:45.723458,vegan,N/A,1
+38,d07271e7-e823-45ad-9312-d34743ce46bc,José Manuel Terrón Nogueira,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:38:18.956310,with_onion,6.7,1
+38,de2ae204-32df-443f-b6a5-f6609f7c7a86,Odalis Amor,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:30:08.943914,with_onion,,1
+38,d94ba9ed-7d57-45e7-9c5f-763e3f087744,Fidela Alvarez Rosado,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:19:33.480733,classic,N/A,3
+38,9e802ae3-124d-4323-899e-6f8353425036,Isaías Almeida-Ferrer,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:42:26.419684,classic,N/A,1
+38,8be4e9f1-82a4-4a56-b8c8-ed808a8347d4,Marco Solano Galindo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:25:20.916682,without_onion,N/A,1
+38,ef549012-cec4-48d4-a788-cb2072e6f17c,Leonel Huerta Alberto,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:05:51.601587,with_onion,,3
+38,f1ab0918-0d71-4971-8200-37161b3be1a0,Agustina Guzmán Sedano,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:06:30.836292,vegan,,2
+38,b708ce9b-efe0-47cd-afd6-0f0e514a25be,Luís Martínez-Tejedor,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:18:34.871361,classic,,5
+38,efbf8cc0-a94e-4854-8e29-9cef01fa977d,Josep del Canals,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:25:55.042949,vegan,N/A,5
+38,bb61a85c-20b7-4e97-bd53-025c16a6573f,Luis Álvaro Cáceres Belmonte,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:45:57.805644,classic,N/A,3
+38,1708a017-6155-4a99-92d9-b372b7cddf51,Fidel Alcalá-Escrivá,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:22:07.688140,vegan,N/A,2
+38,119509e2-a84a-449f-b63c-21250fa62ce1,Ambrosio Mora Sevilla,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:04:45.235701,vegan,10.06,5
+38,bccaff36-f34a-4c03-bbea-23878fbb98e2,Griselda Torrent Herrera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:52:12.735618,without_onion,N/A,5
+38,8b24f712-fcd7-454b-8aa2-f9021ad2183f,Roberto Barrera Carreras,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:45:01.091369,with_onion,,5
+38,c3316b8d-2ffd-4594-a530-c6a4ef5ca62f,Anastasia Boix-Céspedes,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:08:25.580980,with_onion,12.97,1
+38,452cca46-ae90-4992-a1fe-20f9a32aed1a,Cloe de Carmona,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:38:30.919738,with_onion,,3
+38,ef92b52a-7a43-46aa-838b-8cf7604de5e6,Noemí del Plana,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:25:47.370339,vegan,N/A,3
+38,51f6653d-8ff1-459a-9fa4-2911265872e5,Domingo Sevilla Bayo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:08:00.696169,classic,,2
+38,bcc74550-b2c9-49bc-950d-8d4776f6ae69,Eugenio Arias Hoz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:53:14.817730,classic,,2
+38,732deee4-6038-4b29-afaa-40fce74347ce,Demetrio Nicodemo Montserrat Sacristán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:49:20.972794,without_onion,5.58,2
+38,52f97eff-adde-4cc9-a9d8-a348eb6aef29,Patricio Edgardo Arnal Lasa,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:09:52.358714,with_onion,,3
+38,d2a85a11-2afc-4879-8469-07114e227e7b,Juanita Rius,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:10:15.749100,with_onion,N/A,2
+38,0828999f-d99e-4435-b72e-bafeb7a01484,Teófila Jordán Villalba,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:21:56.923022,with_onion,,1
+38,67e4f26d-9833-4767-9aa5-334bbd53c68d,Luís Llanos Arnal,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:19:16.724974,without_onion,8.94,3
+38,bb409289-380a-4ade-bc0d-0e5650426fe3,Gala Gomila Pera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:10:55.922771,vegan,N/A,5
+38,edaef487-3dd3-4b0e-ac5f-ff5d54797906,Manuela Estrada Colomer,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:56:14.687427,with_onion,12.49,1
+38,5a6e3466-c841-4126-8ddc-2e3785046392,Marcio Roca Gámez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:37:17.092877,vegan,,5
+38,1e2fa22a-0d8b-41d3-8faf-4377cf9960a1,Nazaret de Estevez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:34:50.198841,without_onion,11.47,4
+38,a5ce7de5-90c9-4ad3-8525-4ce9f4269791,Martin Duarte-Botella,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:51:54.247354,with_onion,13.03,5
+38,bb94d8ad-25f5-4704-ac0a-b56d2c3c7422,Máximo del Bárcena,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:42:22.421455,without_onion,N/A,5
+38,4d29de7b-b0c0-433c-88a0-5e533dbd6bc8,Julio Agudo Figuerola,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:26:50.386880,vegan,N/A,5
+38,50787dd7-6c4f-4c08-8b0c-68f70f82846e,Hector Arjona Alcalde,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:10:13.789749,vegan,14.51,5
+38,398dff93-b0a4-4b73-8738-d1f83a69cba8,Armida Victoria Pérez León,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:54:34.737097,with_onion,6.32,1
+38,1de7105b-c8a6-42eb-8c5e-46ee63975ffd,Amparo Pavón Zabala,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:21:30.937471,vegan,11.87,1
+38,2a2c8645-49f2-47ab-8a79-26ebec45512f,Jaime Gárate Osorio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:10:32.554682,classic,N/A,3
+38,392f916d-dd09-495e-81cb-1c9811029b82,Luciano Rolando Cabanillas Simó,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:27:17.655449,without_onion,9.75,4
+38,cb140f54-13db-48a5-abd8-b825c80c8ab6,Alondra Cobo Pont,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:59:29.607857,without_onion,,1
+38,5c4ccd7d-e68f-46fb-9d35-331e453061dc,Esteban Lluch Garmendia,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:59:21.362598,vegan,N/A,2
+38,21383f6a-3c59-4c29-9fc9-536a4e25111d,Gastón Natanael Mármol Losa,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:44:33.252345,with_onion,N/A,4
+38,cbe9c7d3-c5ab-4894-899f-da2cc875a2d9,Genoveva Valera Peinado,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:27:44.806048,classic,,1
+38,4f7ae8d2-1efc-4e01-9729-8bae6577db46,Yago Piña Antúnez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:10:22.932109,without_onion,6.97,5
+38,c3bf0b29-fc87-45f8-823f-b214ffebcd35,Manuelita Morata Carranza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:03:18.282065,with_onion,8.3,5
+38,bcc70003-34af-44b2-91fe-4b18cb094395,Jordán Pizarro Novoa,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:02:14.280973,classic,,1
+38,1012703e-5be9-483b-ad50-20f488aa6234,Mateo Cosme Vilanova Manuel,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:34:37.701305,without_onion,N/A,1
+38,a1d08e25-0220-4259-8ca5-bd58c2f6f5bc,María Almansa,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:49:08.854418,vegan,5.72,5
+38,2e4de394-b47c-45fd-9789-2851c150dab6,Evaristo Barrios Marí,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:53:09.134083,without_onion,5.23,2
+38,77f0aa30-aabc-4070-bfcb-c103e8747bb2,Emilia Dorotea Ribera Roldan,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:38:41.704944,vegan,N/A,1
+38,3638e08a-f5f3-4d4d-ab11-5d6353d61c51,Calixta Ana Pomares Ferreras,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:59:06.155883,classic,N/A,3
+38,1e1593b5-971f-4ac3-be6d-bed6645524b2,Artemio Nazaret Rubio Blanca,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:54:39.051466,vegan,,1
+38,6964fd7c-a58e-4d4a-b9f1-fd0a729f84ae,Aroa de Quero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:01:22.531901,with_onion,8.51,5
+38,52eb4f37-2044-4fb1-b1c1-9c6a8857cbce,Belén Mamen Borrás Rueda,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:40:29.277616,vegan,,4
+38,cba64de4-9dc7-4efd-99b9-733017574425,Ofelia Lluch,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:10:36.261184,classic,N/A,1
+38,9aec99a8-f470-46ed-8438-542d27e4126d,Pancho del Guitart,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:41:18.417562,classic,12.55,1
+38,4d609848-e28f-430e-8212-26888de5fe41,Pepe Chacón-Torrecilla,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:32:23.481335,without_onion,,5
+38,5ac7428f-14c2-450f-9bda-31f8580c086d,Fidela Vanesa Marco Maestre,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:40:19.925869,without_onion,N/A,5
+38,cfec1d44-f80e-4009-8b3c-ac2d60580b6e,Nazario Llamas Romero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:19:54.483717,with_onion,5.77,4
+38,33d1cb9d-b1b8-4ed1-9936-66ebd0178001,Aitana Villalonga Valentín,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:39:11.070380,classic,5.5,4
+38,1b75c98f-27fa-4caf-aa15-321d53781def,Artemio Ropero-Iglesia,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:23:30.003903,with_onion,N/A,4
+38,60928126-6ef4-4cb3-8e36-0cf0a5eaf5de,Amílcar Martínez Amorós,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:10:34.576093,with_onion,N/A,5
+38,dc069299-381c-4e14-a01e-a364e0501fa1,Vito Leocadio Portillo Camacho,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:44:40.375244,with_onion,,2
+38,6b1b1e8b-49a7-4df8-8fa3-bfa2f43b6c2e,Ruperta Quirós Blanch,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:54:34.576792,without_onion,13.64,2
+38,39572ace-6a32-4331-8010-2e7fa34d2a57,Joel Silvio Cámara Jódar,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:06:05.532618,without_onion,,4
+38,b1b9c9cb-4b5a-4c83-ab28-1ccecf718937,Baudelio Vila Fuster,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:27:55.220646,vegan,9.1,5
+38,635d97e1-a020-40d0-9d0f-b6182cab8b7b,Mariana Gelabert Fabra,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:34:05.993456,without_onion,13.07,4
+38,aeb07a1c-df1d-4723-beed-44cbc2bd6116,Manolo Arroyo Vilalta,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:37:25.434234,without_onion,10.71,4
+38,7a3cc95e-640c-48fa-b14a-abcf85d42474,Eligio Reig Torres,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:39:43.470621,without_onion,N/A,5
+38,3a980bbd-ba50-40ed-bc75-9de45134cd07,Wilfredo Guzman Carretero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:13:02.080652,classic,N/A,5
+38,9db476f6-0744-45bd-bc32-b42784e1bb60,Curro Cárdenas Aroca,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:42:52.876291,with_onion,6.2,5
+38,415856c1-0509-4a0f-8818-610bd02c37b7,Cayetano Roldán Iñiguez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:11:25.613872,vegan,N/A,5
+38,bf8870e9-ea39-4a50-baf2-873488c1f872,Paca Escolano Tomé,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:11:23.337959,classic,5.05,5
+38,10051c42-7ea0-4249-9716-ee58dcced25c,Félix Carrera Vallejo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:39:13.821547,vegan,13.18,1
+38,52416a5c-0676-4e06-9fd2-fefe3ea51ee9,Fabián Sureda,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:09:07.993982,without_onion,,2
+38,83df2200-fa1f-4fd9-951d-49f4734c98ad,Consuelo Feijoo Vélez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:34:48.444119,without_onion,12.47,5
+38,02af1f1c-424b-48a0-b82c-0dcd6770d9dd,Santiago Ramón Juan,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:21:52.627945,vegan,,3
+38,53469abc-50be-4c9c-9e57-3ca04e7226d6,Calixta Torrecilla,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:46:01.664482,vegan,N/A,4
+38,7ef61acd-8510-484c-9429-961f64ba04a2,Angelina Fuster Hurtado,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:32:53.224025,vegan,10.0,5
+38,8a2cee5e-83e7-4a72-92db-5139454766b4,Sergio Palacio Ramirez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:07:35.283155,classic,8.5,1
+38,035d0355-972e-4ff1-9db3-01af83ae94a3,Ariel Mateu,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:52:55.300165,vegan,,3
+38,2a8a9adb-244b-4b90-b6a1-128f1d8d4856,Maximino Sebastián Ordóñez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:49:16.675478,vegan,N/A,2
+38,f6a193ec-e6ac-4481-9310-9bb578ae5b83,Máximo Marquez Morán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:03:47.307074,with_onion,5.62,3
+38,a3157610-cc14-43dc-9dd2-70356b34879e,Tadeo Corral Calvet,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:39:11.631539,with_onion,,5
+38,cdcc79cc-69ca-48ee-b9a0-b76d7c33b101,Natanael José Mari Giménez Ayuso,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:12:06.332018,with_onion,N/A,1
+38,24bd73c3-2d14-413b-ab99-ef84308c3020,Encarnación Montenegro Vives,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:13:50.212974,with_onion,N/A,2
+38,a46b08a6-a88f-4ac2-8f9c-8e6e1a7cd8f3,Eduardo Infante Anguita,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:55:39.354107,vegan,N/A,5
+38,a573d482-ebf6-4d6e-bb45-7da35228f865,José Mari Cueto Caparrós,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:59:53.188539,without_onion,N/A,4
+38,40a187aa-f272-4b91-8be5-4ee6acda247e,Aureliano del Múgica,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:25:00.663738,vegan,N/A,4
+38,c3e3fa78-2bc3-4669-8391-67b5613af8da,Melania Álvarez Sales,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:15:14.127556,vegan,12.48,1
+38,abd57fb5-ab96-4654-88ee-643ecabe94c4,Domitila de Bayón,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:07:00.089442,vegan,7.29,3
+38,05d1990d-7e16-405b-a9dc-3c79b071b0bb,Chus Perelló Exposito,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:14:24.542566,with_onion,10.17,5
+38,23407ac2-0ed3-4f99-8d34-9824d89c9384,Jennifer Canals Luz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:16:30.017809,without_onion,14.35,4
+38,0e910192-87e3-4e2b-a642-432779b311aa,Bernardino Lloret Batlle,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:18:56.493433,without_onion,N/A,5
+38,69c72d60-cda2-405e-bbb5-02198d530890,Ofelia Francisco Flores,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:48:53.607183,without_onion,14.43,3
+38,0b08c5fd-e73d-4350-9bdb-c77008c6167b,Luis Miguel Requena-Beltrán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:18:05.404677,without_onion,9.94,2
+38,dc538d60-94e6-4a52-a013-6f6a0f4183aa,Noé Quirino Amorós Flores,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:20:00.991958,vegan,N/A,3
+38,cc83e982-5297-4dd8-9ccc-bb841646bdc3,Alfonso de Jaume,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:22:03.997144,classic,,2
+38,97c1bb98-b3df-4939-9f3f-43656556db8c,Celia Serra Cañete,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:08:00.573617,vegan,N/A,1
+38,d8c9a954-a0b8-493e-b42b-641f5a7f4ac6,Jaime Cases Osorio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:23:06.791307,classic,8.59,2
+38,52d64e1b-498a-42f6-b90b-c81b565dca4f,Benito Manuel Yáñez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:14:30.890383,vegan,N/A,4
+38,60e911ce-27c5-4ca8-879a-34b077bd2de2,Vilma Arroyo-Alfonso,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:04:17.676851,with_onion,13.42,1
+38,e0238eb8-ae4d-4ee5-b0fe-07854250996a,Nicodemo Rivero Mena,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:49:44.123025,classic,8.73,2
+38,36e6eb76-a660-4dd6-af47-8e836adeda67,Modesta Rubio Maza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:57:13.865418,vegan,N/A,5
+38,6327a6db-5281-4a36-8560-7319ab1c7ae1,Noelia de Elorza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:27:00.021499,with_onion,11.59,1
+38,ca87f97d-4fa5-4e03-9ab3-23aa8d7942cf,Íñigo del Rosa,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:25:44.391634,classic,,1
+38,d56d8374-b64a-4da2-9256-31a4766d731d,Ibán Rodríguez Garay,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:50:15.157337,with_onion,N/A,3
+38,c7672b9b-9d81-4bfa-996d-56de10487ef4,Hilda Valls Baró,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:35:47.592579,vegan,N/A,5
+38,d111bfc4-41c2-421c-b3ea-81c755472e09,Lupe Barberá-Alcántara,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:35:21.305241,with_onion,,2
+38,72955497-ace4-4914-a508-a8bae02d615e,Rogelio Uribe Velasco,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:18:39.055423,without_onion,,4
+38,ee7adbf0-c00b-48cd-9c6b-bff0c4465e84,Lupita Enríquez Barrio,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:41:10.268928,without_onion,,5
+38,65a0f540-d7e0-4728-86b5-b5320a13c573,Heliodoro Villar Alberdi,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:03:40.803379,vegan,,2
+38,26158eff-27e1-461b-94ff-544748b144fa,Chelo Benet Martín,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:29:13.873542,vegan,,5
+38,68fc7051-97e5-4385-81c3-e97b06eb5220,Pelayo Portillo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:21:07.661978,without_onion,,1
+38,c9985b9e-8a62-435a-9fc8-1a1b7ec904f6,Isidro Sanabria-Valenciano,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:28:50.775197,vegan,N/A,5
+38,63f0060e-22e3-4107-9099-48e3b4aefac1,Modesta Sáez Malo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:35:14.153052,with_onion,,2
+38,fa9dc97d-78d2-4721-b6f4-0edff97bad18,Febe Morcillo-Gomila,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:51:40.882377,classic,,4
+38,93f659e5-983f-4445-8cb5-37e7c58c7bf3,Lázaro Pla-Vives,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:54:14.948814,with_onion,N/A,3
+38,121d1505-d382-4b06-adc8-dbb0f06e3c49,Celestino Mata Cáceres,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:59:59.268759,vegan,8.77,3
+38,2d631c34-b980-4314-bd61-4205ec52d58d,Abigaíl Florentina Larrañaga Noriega,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:40:44.118951,vegan,13.71,5
+38,88d2a204-c2fc-4964-950c-117c5242ee05,Victorino Gibert,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:07:47.360478,vegan,6.02,2
+38,6d5df5dd-2db1-445b-a623-17785a854ae5,Jorge Ortiz Perelló,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:17:47.919286,vegan,9.14,5
+38,35862451-71e3-491c-ac53-c0c4bb0d028c,Graciana Catalá Nicolau,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:59:17.070293,classic,9.48,4
+38,ef1a2d9f-d9a6-4074-a0be-f1f308af533c,Martin España Valls,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:13:17.539373,vegan,,3
+38,4c756be4-4b12-4b8d-8673-a3bbdf975ac7,Estefanía Varela Villegas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:08:27.103429,with_onion,,5
+38,8e6f1598-1bbf-4112-8921-bf570db51199,Rosenda Requena-Borrás,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:43:27.416581,with_onion,5.27,1
+38,ba827d2c-61d1-4812-837d-5b94d8e8e911,Rodrigo Leal Egea,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:57:19.134271,classic,,3
+38,2c28e1a5-c625-4a56-b8fd-80d7ff8ab3e8,Nicolasa Jaén,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:50:55.572450,vegan,N/A,5
+38,1af60e55-a47e-448f-910d-890d49465396,Hernando Echeverría Hernandez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:59:22.884412,classic,N/A,2
+38,5f34cd0e-3f84-4bf9-986d-40f9f5860411,Fulgencio Valbuena Galvez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:41:21.864061,with_onion,6.29,3
+38,2e017ac1-8e11-45cd-9cbe-03b1dfe20e1f,Ileana Echeverría Fuente,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:35:08.984546,vegan,9.92,5
+38,8a886936-6a4a-42f2-97c8-adaef7e7f429,Humberto Criado Blanch,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:14:20.425711,vegan,N/A,1
+38,a9f7e5a4-5542-4d00-8760-dc7946f2d1c7,Tecla de Giner,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:57:55.116875,without_onion,10.76,3
+38,b43bcd57-0ed9-46fe-8cf2-829343167593,Iris del Marin,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:10:16.106686,without_onion,7.18,3
+38,8a463628-1ff9-4a04-b38d-2cb9d80c3b3d,Olalla Benavente,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:52:40.589748,with_onion,14.15,4
+38,958854d5-866c-4455-b51b-3a7f67e31eb3,Bárbara Ledesma Martí,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:33:00.916810,without_onion,,5
+38,eb6da5bc-fbde-44cf-b79a-856abfa5c434,Paulino Mayo Martin,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:50:15.386414,classic,N/A,4
+38,f68e6199-e003-4ed9-87bc-19ee3de1af75,Áurea Encarnación Flores García,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:32:16.183234,classic,,5
+38,3f89cf5a-4fb6-442d-812c-427612590434,Alberto Costa Plaza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:31:09.399477,classic,,3
+38,227233f5-0e3d-4b65-a1f4-a122f7fa7b2f,Ovidio Egea Alfaro,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:33:42.661604,vegan,14.74,3
+38,ca6c8711-ed35-4d34-af4d-b520e05f41ac,Armida Llanos,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:47:31.791485,without_onion,,5
+38,4fa74046-ac10-4711-b266-144e9e07c4f0,Adela Gárate,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:52:44.769921,classic,,3
+38,057a66d2-7f99-4bf4-87f6-84a111529899,Mario Quevedo Villanueva,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:40:09.138314,without_onion,14.75,2
+38,9228acee-120f-4d72-b8f7-f1b569c5d494,Enrique Cazorla Milla,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:49:36.949802,vegan,9.11,3
+38,387e9de0-0b24-43da-baab-9a0246087bc7,Eloísa Durán-Gómez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:13:33.892696,with_onion,13.79,1
+38,b21df966-f883-4a4d-868b-ed17572be3eb,Haroldo Mesa,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:25:39.774817,classic,N/A,5
+38,018bcea5-0bac-434a-a11b-59c64c69e2b8,Gustavo Llamas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:53:33.521316,with_onion,N/A,4
+38,46b82bd6-eb9c-4dab-ad98-0aa2e1e0ef28,Rosalina Cuesta Palomo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:28:22.807796,classic,,2
+38,1347bdba-bb98-44f0-bd57-5311e5e8891f,Salvador Joaquín Maza Ríos,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:06:39.554481,classic,13.7,4
+38,dcdee513-fbce-41d1-8da2-221b534697bf,Danilo Albert Cabanillas Salgado,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:47:31.264726,classic,,2
+38,81981ede-c715-4eda-940a-a92beec2d7cb,Roberta Jara Fuster,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:08:33.508511,without_onion,N/A,2
+38,004fe6b6-789e-454b-8624-a525bb43033f,Enrique Jimenez Acuña,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:19:58.227833,without_onion,N/A,5
+38,9c319983-d762-4402-aa4e-1428b9b6874e,Julián Landa Martín,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:41:01.180909,without_onion,5.29,1
+38,8e8816e4-6f34-4b38-9f86-56644bdd8be0,Jose Ignacio Iriarte Mesa,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:41:12.428991,classic,5.78,1
+38,14fb7c2a-f8a8-4562-ac3f-8230117556bf,Cayetano Yago Simó Niño,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:39:50.710032,without_onion,,3
+38,6f705a5a-ac17-4902-babd-ac67ab1c0923,Graciana Benavent Heredia,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 00:24:39.643269,with_onion,N/A,5
+38,a5f8fb43-bcd5-48dc-b8b8-ad0f46ac5ae0,Octavio Ledesma Díez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:35:29.634009,classic,N/A,5
+38,7a2dc7d9-dad6-4078-811b-955c4d68b10d,Flavia Zoraida Paniagua Ricart,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:09:38.927704,with_onion,N/A,1
+38,6c34d9c6-56a5-462a-9b3e-abfe0cdea9c0,Adán Losa Casals,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:36:59.075943,classic,12.13,1
+38,b1c9ab46-09d1-4794-b57c-93970193d7f2,Úrsula Aroca Vila,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:16:00.458759,with_onion,N/A,4
+38,e27513a8-1f75-4829-8509-2b4415411651,Patricio Fabra-Barragán,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:40:57.470327,with_onion,N/A,4
+38,6c4de2cb-2d0f-4ef7-b1d1-572a74cf282d,Haydée Tenorio-Dávila,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:59:08.052934,vegan,7.57,2
+38,6199f73c-4d8a-4464-a095-e14a78026004,Tadeo Iglesia Quiroga,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:49:49.884369,with_onion,,4
+38,53198cd1-ba5a-4d2a-83bf-d4c4b6c30f02,Marisela Murcia-Gaya,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:07:59.395091,without_onion,,1
+38,4ffbd7ad-4998-4cdd-94ff-8cc88d8d6aa9,Cosme Muñoz Franco,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:58:11.700015,classic,N/A,5
+38,bc619d26-e06e-4ab6-966f-09ae2f09645b,Nayara Dávila,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 22:45:31.302750,with_onion,,3
+38,4495d54f-c323-414d-9b51-ebf30e804b96,Leonor Rivas Fernández,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:46:28.243354,with_onion,14.28,5
+38,a0d67eb1-e500-49e9-9290-d220060f0570,Dulce de Bustamante,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:41:28.647639,vegan,N/A,2
+38,e7a4ef73-bc26-4c11-b6f0-c3b0d53d5043,Enrique Ortuño Valentín,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:04:27.108263,vegan,N/A,2
+38,25a5b49a-5a63-427b-81df-fa491711fd24,Fausto Mariño Arcos,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:32:13.918329,with_onion,,5
+38,d8baebe9-e969-4d08-9b12-bdbdcd27b591,Benigna de Saez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:41:18.523167,vegan,13.84,3
+38,c900afb6-b0fa-4573-8cf7-fdc8019150e3,Esther Cordero Polo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:39:03.975685,classic,12.29,1
+38,4d96ca23-e0aa-4a9e-9d7e-923fcf01aa0c,Araceli Rozas-Barbero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:16:31.515240,without_onion,,5
+38,f98b83f8-665b-4cf9-bb1f-d0af6dff1af8,Débora Prado Amaya,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:37:38.013618,classic,N/A,1
+38,a97ad550-e2cb-4777-89f1-4680c766df73,René Hoyos Valentín,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 02:21:29.288294,with_onion,5.42,5
+38,87d0ba01-baaa-4ada-aa25-ce20be8d29dd,Dan Samper Cantón,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:34:52.544146,classic,,4
+38,55906b6a-d858-4122-875d-e76a7a84e9a7,Luciana Castañeda Duarte,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:40:02.219650,vegan,,4
+38,962d7069-076b-41ee-91b3-28800161dcd8,Cosme Vergara Tena,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:12:36.432224,vegan,,1
+38,545e9d8f-206d-4556-8fe0-608fc718e2b3,Serafina Bellido Ribera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:04:25.786361,vegan,N/A,2
+38,61a03b33-17b2-4fb0-9b0b-f007e9f07e22,Jafet Ferrando Agustí,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 05:32:58.650883,without_onion,5.55,1
+38,7385187f-34dc-4c37-b78d-4f5ec331ce97,Clotilde Begoña Boada Planas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:44:28.145789,without_onion,14.43,4
+38,a10ccad5-fab9-4bbf-8f9d-4b138d7d8b55,Francisco Iriarte Cervantes,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:24:59.642546,classic,5.26,1
+38,19fa773b-8234-4c75-8190-40828bbfd87e,Daniel Noriega García,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:55:58.411631,without_onion,11.25,3
+38,1a3c7efa-1cc2-45ef-a2b9-8d8981bffe01,Olegario Querol-Ibañez,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:16:54.015518,with_onion,N/A,4
+38,fd5d6c9a-231e-4f09-9769-1c23b53afce1,Toño de Iborra,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:54:46.289427,with_onion,6.82,2
+38,6a7dab75-f461-434e-aec4-1688c04614d3,Prudencio Requena Piñol,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:49:34.911498,without_onion,N/A,4
+38,f8d22b4a-e640-44ce-9009-6984dc30c7a4,Lucho Pozo Ramos,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 19:09:05.786505,classic,,3
+38,bbcd9191-97ae-4e72-b3f8-cf629e6ccd00,Dorotea Reyes Cabezas,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:55:51.719551,classic,,2
+38,72b7b946-c7cb-430d-9411-ff8ec9489b20,Tadeo Múñiz Poza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:03:39.982312,with_onion,13.45,3
+38,6fad66ab-f6d6-4cbe-bea8-d70a765691bc,Calixto Casas Santiago,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:34:56.764930,vegan,8.32,5
+38,efeb1a8d-ac50-4a2e-9ab7-a26d932142b7,Marcia Beltrán Mariño,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:09:03.003262,with_onion,N/A,4
+38,12dfc7db-8e53-4266-8ce4-b69cc2ce5fd4,Telmo Emiliano Delgado Fuster,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:34:45.574719,vegan,,2
+38,0509e258-2aba-433c-b626-e541053e25aa,Gustavo Salinas Pardo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:22:10.831206,with_onion,10.94,2
+38,b801b9fd-cb6c-4a7d-923e-d36c9ab30c7e,Artemio Duque Barriga,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:26:38.711489,with_onion,N/A,3
+38,f1e731d9-9eac-4818-a95a-e2b8bfb61b5e,Poncio Romero Taboada,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:26:10.536717,vegan,N/A,4
+38,c2fc4656-16e8-4a54-83aa-0720a63b6e97,Jose Luis Pereira,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 23:47:18.956131,without_onion,N/A,4
+38,7b9c1eb2-f9cd-46c3-8c82-1b1a8a45bfc3,Gerónimo Casado Palomares,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:15:56.528623,vegan,N/A,3
+38,1ad38902-3608-476d-9760-3ca621d6a976,Inocencio Mateo Alegre,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:39:43.001710,with_onion,5.11,2
+38,97ca219e-eda7-48f3-acbf-6220a8bd9757,María Batalla,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:15:47.787523,vegan,N/A,5
+38,a78614d8-b263-42b3-be6e-2dddeff50a31,Samuel Benavente Nebot,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:03:31.549231,with_onion,,1
+38,ebb511c8-576f-4f0b-a85b-b8b81c51ce03,Martirio Gallo Bartolomé,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:03:10.833632,with_onion,,1
+38,39cb6894-47b6-4acc-adbc-d63f1f5eb2aa,Diego Galván-Alvarado,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:21:26.496704,without_onion,10.7,1
+38,10bd6539-68df-4d59-a9c0-169f38ce8a12,Gema Alegre Palomo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:58:54.126654,classic,N/A,3
+38,1d55cd81-5a15-4c92-9115-6fa235a720f2,Candelario Jordá Ros,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:10:28.365753,with_onion,14.46,5
+38,b53dfdc0-4a4b-4f69-bf02-775aff29a118,Ignacio Bernad-Izaguirre,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 17:18:34.814144,vegan,,2
+38,91edf1f7-5737-4a54-8667-53d5803c2828,Tomás Montero Garmendia,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:22:58.587692,with_onion,,2
+38,ddc6af26-9638-4fa9-ac22-d1cd558d9983,Jose Ignacio de Miralles,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 12:52:36.354730,without_onion,N/A,3
+38,28dc08d2-bc30-470e-8c37-be1e73e233f9,Gregorio Conde Folch,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 09:03:08.623991,classic,N/A,4
+38,69b4c518-5957-4339-9e15-e0e2efaecedb,Pilar Prudencia García Marti,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 11:08:59.650994,with_onion,12.82,2
+38,6b6d9c09-32c5-457e-9aa5-ead595ec6e3f,Maximiliano Estevez-Montes,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:03:06.401519,vegan,,3
+38,ae722ab9-0127-4227-8b2f-dab896591bd8,Eli Adelia Andres Aller,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:02:04.270733,with_onion,N/A,1
+38,c3724221-de37-4e9a-a00c-95a3c21d9e01,Ciríaco Coloma Sainz,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 20:20:56.661376,with_onion,,4
+38,a5b666b9-1698-4975-b17b-b0237f9328b5,Hector de Mir,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 15:11:51.110837,with_onion,,2
+38,e1879051-9cde-4b1e-b437-c75da569ef64,Arsenio Carbó Guitart,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 13:25:32.432324,without_onion,,2
+38,e2a7277d-0920-4736-9485-177a74f7b335,Araceli Reyes,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 07:47:06.417278,vegan,N/A,1
+38,c730bc71-22a9-4da4-93c8-1c44281310c4,Alba del Riquelme,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 18:04:47.638190,vegan,,5
+38,372007e6-868a-427f-9a84-48d09f7f3ba3,Gerardo Esteban Aranda Catalá,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:28:48.053989,without_onion,N/A,3
+38,16c95468-dbe8-4648-b36c-643fcd8e6fb7,Natalio Arias Rovira,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:43:15.498321,with_onion,,1
+38,c413fa26-2314-43eb-96ee-2b3862749a30,Chita Bernarda Corral Gracia,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 08:09:58.619114,with_onion,N/A,2
+38,e9b8bde8-627b-4220-9bdf-5e65398336ea,Hermenegildo Villegas Piñeiro,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:48:40.087072,vegan,N/A,5
+38,00c899d4-6727-4286-82ec-7961986d1539,Paz Oriana Jove Valera,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 10:38:02.448597,classic,10.84,3
+38,b225feeb-7a18-47ce-91af-2a3efb0bde69,Inocencio Fabra Daza,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:00:06.302459,with_onion,N/A,3
+38,8f11fc28-f801-4884-b019-e3c589e96728,Santos Gaspar Benavente Crespo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 06:38:58.975348,vegan,N/A,1
+38,59f15f4d-cd56-45ac-85a3-4f5309b08831,Renata Nadal Sandoval,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 14:41:45.994293,with_onion,14.76,3
+38,898bc044-b1db-46d7-b93b-f097111401ad,Isabel Checa Badía,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:39:02.924396,classic,8.64,2
+38,a7b8b4bc-3a1e-4972-92cb-c910864efbe9,Concha Sanabria Mateu,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 16:47:36.572343,vegan,N/A,3
+38,12d141be-759b-41f5-a958-4e52339350bc,Marisa Contreras Ledesma,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:51:32.911724,classic,N/A,5
+38,8b4166a0-225b-4150-9018-04768a9d37c5,Óscar Anaya Amador,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 04:57:39.376770,classic,5.32,3
+38,b003bed9-0b01-487d-bffa-adbea19fad60,Kike Bravo Pablo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 21:39:31.323076,with_onion,7.68,3
+38,428a3a55-c913-48bd-821c-e3ed4e920745,Manu Javiera Arenas Domingo,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 03:07:15.406323,classic,5.04,3
+38,bebe7846-51dc-4bb8-a537-48b25da1e307,Martirio del Quero,Málaga,"Calle Otilia Bermudez 63, Zaragoza, 38987",2026-05-01 01:57:52.429174,without_onion,N/A,1

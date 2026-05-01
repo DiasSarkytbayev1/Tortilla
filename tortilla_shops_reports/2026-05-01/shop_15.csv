@@ -1,0 +1,456 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+15,147aff93-8b10-4b8e-a889-3059b24fcca0,Goyo Calvo Calvo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:34:52.833887,vegan,N/A,3
+15,4c7fb822-0a92-445d-9eff-b714f37cc1d1,Pascuala Roca Gutierrez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:01:33.923082,without_onion,N/A,4
+15,084adac4-c2f0-49f4-8cda-bc29b35a23a9,Priscila Navarro Hoyos,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:26:51.938417,vegan,,5
+15,9f74894f-d8b2-4687-bcc0-bc5debde9a32,Ulises Nadal Villegas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:49:38.514826,classic,,3
+15,e272412d-1fb7-4807-a757-a3131e5ce855,Lilia Llano Ballester,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:00:48.122859,classic,,2
+15,a938858e-f757-426d-b8d1-d7c1acafca1b,Gustavo Nicolás Céspedes,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:20:15.967382,without_onion,,2
+15,b340d7c0-4281-47b1-bc2b-0d23bc1745be,Valentín del España,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:48:59.106368,vegan,N/A,2
+15,f68f764c-4b92-4ef6-b87c-3fb13e9ee5a8,Carlito Hervia Roldan,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:50:20.412362,classic,N/A,2
+15,8d5d71d6-41ca-4459-9f9d-a2ef42e0dce8,Ariadna Galiano Baquero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:27:05.837730,vegan,10.78,3
+15,0f5f4cfe-2eec-45c4-880b-3510d639b81d,Eligio Palomar,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:42:32.445923,without_onion,N/A,3
+15,1fc82765-03b9-4d7e-b76d-efbfb326fdd2,Simón Agustín Mariño,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:52:49.541193,with_onion,,2
+15,dccbd931-37ee-4ea7-bad6-503682d9f68d,Manuel Barco Posada,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:47:42.801130,vegan,N/A,1
+15,0538f0cd-a626-43cc-8c77-f2709ef9f739,Aurelia Peláez Oliveras,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:14:59.419574,vegan,10.86,2
+15,aedb4bd8-8365-40bd-8ad0-0fa9c2a8c875,Moisés Boada-Flores,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:09:42.419814,classic,,3
+15,aa6d8e2f-aa10-4465-8791-f006d617b0b8,Sosimo Abascal-Infante,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:32:05.516337,classic,N/A,4
+15,2ecf78f5-5302-491a-81c8-5ce1ac37611f,Porfirio Fuentes-Pinto,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:02:32.809897,classic,,3
+15,d8d22a65-72cb-41a8-b2ba-d0ec686200af,Mariano Garmendia Roda,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:43:58.969950,classic,6.96,1
+15,046d7725-a62f-45c1-bc59-49d9b5139807,Martina del Arias,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:55:01.737462,vegan,7.35,4
+15,7aaafdaa-d060-4042-8dae-8f267ea28a58,Rosalía Noguera Rovira,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:06:05.166096,with_onion,N/A,4
+15,fdd99959-3464-47ff-a898-21fb5ac24e3a,Amparo Belén Sotelo Abella,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:26:27.167200,without_onion,,3
+15,24a54e0f-f999-4aca-bbe5-93ba76ff69a4,Águeda Ester Quevedo Uribe,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:17:41.099522,without_onion,14.62,4
+15,14711c85-f695-467c-a843-44787b311612,Jeremías Calderón Campoy,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:04:01.181765,with_onion,,5
+15,ede9f2e7-7c82-4b8b-89ab-a97dee55d9d9,Maxi Prada Carrera,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:58:04.714473,with_onion,6.54,1
+15,9f792266-32b7-4fcd-8383-bcee49af11c7,Judith Tamayo Balaguer,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:19:34.291662,without_onion,14.69,1
+15,7a0c7a6e-a19d-49cc-ac2c-188425889c25,Celestina Rosell Montes,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:51:19.518443,without_onion,N/A,5
+15,833d6db8-9058-4fdb-98b2-1a7c2429caf5,Rita de Ureña,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:38:51.021125,without_onion,,3
+15,24a3f33a-726d-4069-a516-497d0eb70648,Clemente Tudela Varela,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:59:42.349476,vegan,11.54,1
+15,d5556138-8a52-4d25-bffb-88b3d8e9331a,Luciana Isern Verdú,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:29:48.054008,without_onion,9.19,2
+15,e7df8eff-b2d2-4afc-9b3a-cbae775f8597,Amaya Manuela Bello Olivares,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:27:24.560302,without_onion,8.17,3
+15,7004576a-616c-48dd-9b91-27ecb555d6b9,María Cristina Belmonte Carbajo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:38:12.879002,with_onion,,3
+15,b8a069aa-b2cb-48ce-adfc-90ee09c679fb,Victoria Peralta,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:56:48.769848,without_onion,6.72,3
+15,872af472-3e75-4c7a-962f-6e5d9efca82b,Ainoa Salamanca-Mosquera,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:37:09.099334,classic,N/A,1
+15,7f3b1f85-73f3-4629-8478-30233037a873,Loida Ochoa,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:48:34.390288,classic,,3
+15,34b7d552-a3fe-4d2c-b2d4-fc6d70cd465f,Roberto Beltran Mercader,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:24:31.099420,classic,N/A,1
+15,43c9075e-f623-42f2-a206-1948df76ba50,Bruno Aramburu Lasa,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:10:28.731375,without_onion,,5
+15,968f35c2-aa07-4c42-b144-44577aa0729d,Vera Cortina Godoy,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:16:36.796009,classic,,2
+15,1333fbb8-24f2-4155-a43f-cc26f521ff42,Eli Llabrés Mayol,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:23:25.569029,with_onion,,5
+15,724b5c62-f9e2-45fe-b437-ef4c3a9eb528,Marisa Mosquera Pastor,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:24:54.994605,with_onion,N/A,3
+15,d7772536-3504-481a-b401-61250b8c2464,Cándida Alcázar Priego,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:10:45.730183,without_onion,N/A,3
+15,1a932283-d44b-4686-bc0e-677f4caeefa6,Elisa Gual-Caparrós,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:20:19.171907,with_onion,7.9,3
+15,2cfb3ee3-668e-472f-9370-c7cf8b4a7442,José Manuel Sacristán Rodrigo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:14:29.034692,classic,,2
+15,efe03d06-2966-40e8-b9c9-1a7069d62742,Valerio Mercader Miguel,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:52:16.702343,without_onion,N/A,1
+15,1bda5d4e-38f7-4304-97e2-7260779b6d93,Juan Pablo de Dalmau,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:34:00.687804,vegan,N/A,4
+15,975ee4e7-7a32-46c0-99e8-1226aa71a7b4,Desiderio Roda Bonet,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:04:57.643953,vegan,9.27,1
+15,7e3b714b-578f-474a-a10c-922fd9ea3733,Máxima Ochoa Ibáñez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:12:33.398647,with_onion,,3
+15,f7173793-01a1-4cff-98f8-598ba7d39a4f,Pacífica Marín-Pou,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:24:53.247603,without_onion,N/A,4
+15,f1639002-9dd5-45f0-85f8-bab12642138d,Nazaret Rios Tomas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:05:49.044441,with_onion,,4
+15,e21c5772-c0dc-4d99-bdaf-898f25f052b2,Ildefonso de Gutierrez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:20:28.456346,without_onion,12.75,3
+15,8aabcf2e-9ba3-4d88-9a09-04179c0f0283,Borja Juan Ferrera,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:00:04.099936,without_onion,N/A,3
+15,a66f9d0f-7094-46e8-92bf-508073fa7c35,Anabel Aragonés-Arellano,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:04:46.270001,classic,,3
+15,ed63e1ea-52c0-4c78-b8d5-e9f4875fe2ae,Salvador Tello-Cal,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:01:15.027062,with_onion,N/A,5
+15,38b8d62d-ecdb-4e68-8444-27c4b4507f57,Victoria Hernando Suárez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:10:39.597856,with_onion,8.41,3
+15,637649ff-7da5-46f8-ada1-e04b07ebc0b9,Selena Saura Ugarte,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:09:18.500726,classic,N/A,4
+15,2cabbcb3-977e-4883-a097-c6234bcecdfa,Teo Molina-Parra,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:24:04.356727,vegan,N/A,1
+15,18b2e28c-1e1f-4261-b51b-ff5bdc4201b6,Carlos Cornelio Vazquez Barrena,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:04:20.008997,with_onion,N/A,4
+15,dd91b368-6e52-4a9b-b8c5-000f0cfe50e0,Primitivo Báez Cabanillas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:29:21.343060,without_onion,9.9,2
+15,080554cb-da1a-4fa7-9044-9a51751886c3,Baltasar de Moraleda,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:47:03.989002,vegan,,1
+15,36b9b732-17ac-4ca2-ad27-43fa8a96f6fd,Manu Serrano España,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:50:12.637997,classic,N/A,2
+15,4f92e757-89fb-41f0-8431-e2475e86270d,Jaime de Flor,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:36:26.162890,classic,5.87,1
+15,f74892bc-ae74-4da2-bcdf-893af2205809,Victor Manuel Salvador Pallarès,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:08:12.383593,classic,12.96,3
+15,8976be0e-2a48-47e0-a6a8-0ffa3b126a17,Humberto Luque,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:50:56.272783,with_onion,N/A,3
+15,586019a8-7e08-47be-9366-d100abc2d138,Elías Escamilla Romeu,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:42:28.082316,without_onion,N/A,4
+15,ee7584a0-04a0-4886-a1d3-3b41e0d3f3aa,Claudia Galán Sanmiguel,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:26:45.363046,classic,N/A,4
+15,ef0b055f-c2e5-4f2b-a77b-a0ce58bc4b5f,Hilario Peinado Pavón,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:55:15.496986,vegan,,4
+15,d1f56809-bb9c-43fa-a8f9-bceec199b37d,Sonia Cid Almazán,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:48:57.528899,vegan,N/A,4
+15,735968a2-888b-447f-ae8a-c40b7a9a5cfc,Martín Vallejo Coloma,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:28:06.911305,with_onion,13.68,3
+15,7dbbabdb-b8f9-4ff0-932b-db1946c37701,Olimpia Mateos Hidalgo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:49:15.299288,without_onion,,2
+15,dfdbb2d8-d4b9-4db4-b9c1-5414fad7f3a2,Alcides Méndez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:05:55.159841,with_onion,,2
+15,910d309a-94cd-407a-9420-6e642354c5d6,Claudio Valentín Ropero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:18:21.704058,classic,,5
+15,07d238be-3cff-4719-9e51-566bc9036210,Marcelino Alsina Tenorio,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:04:48.961082,with_onion,5.83,1
+15,23f6e033-2d3a-4361-b95b-da1c5f84e581,Carla Rovira,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:06:49.600186,with_onion,7.86,1
+15,20811b4a-b5b6-4eee-97fd-05f709db70c6,Clara Céspedes Torrens,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:13:13.434409,with_onion,N/A,5
+15,e94df2b0-6478-4c66-9281-675b80b5acf2,Cipriano del Llobet,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:07:13.772061,vegan,9.94,5
+15,b4ee9802-db87-4c06-8e1e-a9465e2d4e8f,Sara Valle Iglesias,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:46:09.522463,classic,,4
+15,661cb108-f18d-401b-a1e3-eb571ccef10b,Eladio Zapata-Saldaña,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:44:29.246939,with_onion,N/A,2
+15,77c3fa26-9981-4152-bfc1-62321e1d6614,Calisto Valverde,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:26:28.328910,classic,N/A,1
+15,dcaaf472-6aa3-4862-b21c-6d3ddd5482af,Bonifacio Moreno Falcó,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:43:06.825466,with_onion,N/A,3
+15,3039b9d0-258a-4b9c-91f8-7526bbc020eb,Lázaro Elías Pintor,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:13:39.315021,classic,N/A,2
+15,f820e43c-b90f-4673-a31e-f3960088cb45,Inmaculada Jordá,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:22:02.131586,vegan,12.21,4
+15,7858b8b0-ccec-48ac-8691-2a5eac8a5cbd,Fortunata Sainz Arellano,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:29:39.799324,with_onion,N/A,4
+15,0c94d7c1-421f-46c4-9ac7-030a38e88ce2,Nacio Pablo Perea,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:18:38.552146,classic,7.26,5
+15,1ef8e9f6-8d46-4348-ab20-441c5caccdda,Calisto Llobet Crespo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:05:10.948921,classic,N/A,2
+15,e834bbde-daee-459d-bbfa-b0a45e46cf57,Inés Baeza Huertas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:21:32.245508,classic,10.26,1
+15,956855cd-3bcf-471b-ad91-7cdbb9345ba4,Amando Heras Boada,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:03:20.600790,without_onion,13.75,2
+15,5d2b84ef-46b5-4cc8-947c-9d28c8202b61,Rebeca Martín Cámara,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:01:44.317843,without_onion,10.76,5
+15,4be7ee6e-df87-40b7-9675-0abb92886fbd,Marta Aragonés Morata,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:22:27.992781,classic,N/A,3
+15,8a0c664b-d0c4-4a22-87ce-9923e6fb5c5c,Eutropio Mascaró Rozas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:21:19.782835,vegan,N/A,3
+15,139ee1dc-fa10-478c-96d6-7a4d62f56625,Carlito Iglesia-Fajardo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:53:14.789991,vegan,,3
+15,b0935af7-013c-422e-bc7f-dfc6638e572f,Mayte de Ariza,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:25:49.599804,with_onion,N/A,3
+15,56ba3e8f-25d1-4b30-ab79-1c87b261bf01,Alfonso Javi Noguera Cámara,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:04:25.066163,vegan,8.59,4
+15,f2261f70-ea8d-4555-9e19-0cc82c44c909,Leandra Pujadas Tolosa,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:47:44.094840,without_onion,8.66,1
+15,2cde8b46-0435-49c1-8ced-82a08e42a8b6,Olivia Caballero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:51:08.060277,with_onion,,5
+15,f93a5275-82ed-4ab5-9bcc-47d388d8736c,Nazario Infante Casanovas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:07:50.116719,without_onion,11.97,3
+15,919222ea-8eb0-495e-b6f1-92920162c2eb,Toribio Mas Tudela,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:53:51.902261,classic,N/A,2
+15,31f65ea5-7c87-4e67-b6c8-b4c3cbe2d458,Florentino Carnero Prat,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:12:53.603651,vegan,,4
+15,f5e2c7f6-34db-4f46-a14a-54559aac35ff,Lucio Becerra,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:33:51.401963,with_onion,12.56,5
+15,b8a40e2b-9371-4f4c-9543-4e0c5a980713,Fulgencio Robles Ureña,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:34:47.457135,vegan,N/A,4
+15,51f216d3-4afe-4adc-b753-fcdfd76df729,Almudena Pou,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:32:27.367005,classic,N/A,5
+15,e084808d-36fb-46cb-bbbf-d85466e6042b,Maite Padilla-Angulo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:27:22.099963,vegan,,1
+15,f2d5ae88-9b38-4f2f-9868-a968d3b1e458,Macario Frías-Campo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:05:52.431952,vegan,N/A,1
+15,d5fc1c9d-c9bc-4979-aefe-c92799ebaa3d,Leopoldo Paz Belda,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:29:49.815134,without_onion,,3
+15,bf16f797-5526-4df9-97eb-7c92b874e308,Leopoldo Nando Garay Rocamora,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:31:25.373138,vegan,,2
+15,c1d3a837-e2ba-4d29-804a-7c0fe240986c,Miguel Ángel del Sanjuan,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:53:58.848754,classic,,5
+15,d7a14aff-e515-41ca-b92e-3f72dff20efe,Samanta Barragán Bueno,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:11:29.120661,without_onion,,4
+15,68f2a092-b7ea-4ac5-b107-74185838c91f,Juan Carlos Ródenas Castrillo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:32:49.568091,classic,6.39,2
+15,aa61f462-4ab2-421b-aeb9-6f69df6418b9,Juanita Molina-Blanca,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:16:07.226050,classic,,5
+15,39883049-29d6-4eec-8776-6d936d3d9f76,Graciana Teruel Benavente,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:08:13.533255,without_onion,10.55,4
+15,69c1b8b7-a0cf-40a7-8faf-961b56fcad12,Adelaida Artigas Aguirre,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:16:02.281903,classic,N/A,4
+15,2adf7864-47b4-4d91-9e6f-358d0814a570,Sarita Acevedo Pla,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:11:58.338494,classic,N/A,2
+15,dfedb8c6-f8b6-455f-a9c3-124bb97ee760,María Carmen Zabala Zaragoza,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:07:25.405580,vegan,6.94,1
+15,1c191130-9d30-4260-9c63-53a2dba13d99,Vidal Cerdán Porcel,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:40:47.303732,classic,7.63,1
+15,0fffde10-c24a-4e98-b742-504da7fe3809,Jose Francisco Ramón Arranz,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:18:31.782880,vegan,,4
+15,be28c0fd-9d2f-4bd6-945d-27d42c15590a,Valero Luna Arias,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:37:09.173238,without_onion,,4
+15,0e82d425-3757-4070-b7ee-86ccb93f4181,Buenaventura Cárdenas Catalá,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:48:01.858561,classic,11.87,3
+15,8a6af261-5761-405b-ad2b-69becd079cb2,Rufino Cid Lillo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:01:23.145046,with_onion,,4
+15,7d299f59-e4ca-4840-922d-971ca760d579,Evangelina Arellano-Juan,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:06:41.993514,vegan,,4
+15,4b923f03-2900-442d-98b7-1cbac4fcfee1,Lola Ariño Marin,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:39:35.325473,vegan,N/A,4
+15,7b3dbad8-5bd5-4fe5-9828-fbe3ece2a0b0,Pía María Dolores Vigil Somoza,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:49:38.740201,vegan,,4
+15,796d7996-a07e-41c6-b4e5-bc305dde9496,Marcos Bayón Ordóñez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:15:57.956425,classic,,5
+15,31a98529-4b07-420b-b214-c4760eb4a880,Casemiro Sierra Jáuregui,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:23:19.356214,vegan,8.08,2
+15,50ffad14-4479-4007-ba1d-956d91e9dd61,Camilo Verdú Mosquera,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:09:56.564516,without_onion,5.81,3
+15,06c1066d-d071-421c-a47c-d6bae5bfa0f4,Angélica del Cazorla,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:16:19.427700,classic,8.16,1
+15,83a667fa-46d1-4fec-86c8-12315a590e9c,Celestino Feijoo Gordillo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:10:41.304959,vegan,,2
+15,77a7a6f0-da21-4853-968b-ed4229c59e9a,Amelia Abella Amador,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:46:42.068090,without_onion,N/A,1
+15,01b3bfb8-6ee5-4280-8175-8ceba15d7aec,Marisela Vigil Esparza,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:54:18.429106,with_onion,,4
+15,182f46e5-e08f-4fb7-861c-fc688bb7c3f6,Benigna Sanabria Monreal,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:25:34.449025,without_onion,,4
+15,2e0298e1-5ff4-422b-b6cb-bac2e15aa59a,Andrés Prieto Escamilla,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:21:50.749627,classic,5.85,4
+15,601f7be6-cf5b-468b-b962-7e593f303dc1,Nacio Plaza-Morante,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:46:57.457475,classic,8.74,5
+15,99cc9184-ed61-4e11-abd8-55d2bdc189a4,Desiderio Amor Báez Escamilla,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:55:21.711444,classic,,2
+15,3ec8a165-17bc-479f-b785-410c944feaf9,Vito del Montoya,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:35:33.878784,vegan,N/A,2
+15,2c5e7455-43fe-492e-b064-4fc61ba33b4b,Ricardo Reyes Ruano,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:46:57.168374,vegan,14.36,4
+15,73b36bc6-54fa-4165-b36b-c44f503c2519,Pancho Torrents Lobo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:44:15.737586,with_onion,N/A,5
+15,a0630cc8-7c3e-4df2-bd0a-fc50a05dfbec,Roberta Montesinos Navarro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:27:02.259094,with_onion,,4
+15,357f31dd-7fe0-42be-a8d9-d3d9c4545c99,Perlita Piñol Hoyos,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:16:22.507647,classic,14.92,4
+15,385622bd-42e8-444f-a1fb-7b3c520ac708,Chema Varela Bayona,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:39:35.697699,classic,10.39,2
+15,5c8e2404-1412-463d-8caf-3086544295f5,Sandalio Alonso Dalmau,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:22:58.399524,classic,N/A,3
+15,1800e865-5159-44cd-949d-219e16da6e95,Aníbal Barco Garmendia,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:17:49.799742,classic,,5
+15,401dabd6-450b-42b5-8f5e-93ddcfc9fbb7,Ildefonso Solsona Dávila,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:13:14.783318,without_onion,N/A,2
+15,a6315d2b-e590-429a-bed5-7933edc9a1eb,Ariadna Torres Pera,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:02:37.680933,vegan,14.84,3
+15,e82e25dc-fe0d-49d1-87d5-cc8260033c69,Noelia Alma Garzón Infante,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:06:31.747202,without_onion,N/A,4
+15,f99397ce-ae94-486c-bab6-c3d26cc1c5f3,Renata Abril Corominas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:17:34.226412,vegan,N/A,5
+15,09b26751-55fa-4194-b360-43109a2b21f5,Noemí de Grau,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:41:16.954353,vegan,11.38,5
+15,9f364afc-940d-4743-9fce-118a9df36248,Desiderio Cuenca,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:04:44.341143,with_onion,N/A,4
+15,053bca00-10f3-4355-bd2a-061a14950cd1,Primitivo Sanmartín-Godoy,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:48:01.244738,without_onion,12.15,5
+15,00b3280b-8b0d-4b6e-9675-fe3cc63dcc1f,Seve Arcos Castelló,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:00:34.987003,with_onion,,2
+15,7982d67d-ed96-41db-aff2-ccb42d24160f,Tristán Gabaldón-Viñas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:52:35.150238,with_onion,,5
+15,cde2fc92-2524-49e8-8fd9-d7b82ba3b173,Ana Vaquero Pinto,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:10:12.973438,classic,N/A,1
+15,dbbb62a2-1957-4d03-8525-3b1822c75f0c,Narcisa Romero Cabañas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:10:50.590934,with_onion,N/A,2
+15,78ef9a1e-7df9-4017-bdef-c17b98a9eea5,Almudena Adadia Miró,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:01:54.908719,vegan,N/A,1
+15,2b1efeeb-7ae6-409b-a3a4-29577a8741b1,Graciela Somoza Reig,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:38:03.770080,without_onion,N/A,5
+15,28d78fbf-789f-4807-92f0-42e80ce6a477,Tadeo Venceslás Rodriguez Castro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:14:09.050363,vegan,,4
+15,904cfa02-bc63-4ecf-9c75-a54d057bdb79,Azahara Jennifer Moles Porta,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:03:48.168922,without_onion,N/A,2
+15,752c4293-1cdf-40f1-b549-b4e44ae25530,Baltasar Adadia Mora,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:15:34.307360,classic,,1
+15,f0aeed4a-c747-487c-84cb-4c56c9b71dcc,Melisa Gomez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:33:55.855713,without_onion,N/A,1
+15,af3dbdf0-d580-4898-81fb-5b297fb776b5,Saturnina Codina Galán,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:34:40.582469,with_onion,N/A,3
+15,20c3a00f-867b-40d2-b470-1ac4bc253515,Mauricio Tormo-Belmonte,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:23:04.249670,classic,,4
+15,0b620b6d-6ade-4e7e-b611-49311b70ab44,Emiliana Torres Pelayo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:09:30.130774,vegan,13.96,5
+15,f2debfb7-5d91-471b-a22f-b82d97aa90c6,Elisa Amigó Ferrán,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:09:26.882241,with_onion,5.01,2
+15,d4b4b06d-8b88-4af8-bf0c-81195b9feb2d,Javier del Martínez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:28:26.927839,classic,N/A,2
+15,28f84485-62c7-4a11-8020-c5de1a9f5e67,Soraya Sabater Martorell,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:46:53.049970,without_onion,12.52,1
+15,73ee19b5-d68c-49e8-a67d-8fb787b0e64c,Visitación de Salcedo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:12:05.665795,vegan,,2
+15,2ef9d4f3-5174-4fd9-81e4-45cd76fcefac,Flavio Cobos Torrijos,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:57:00.588621,classic,,2
+15,7629f9ca-c00e-423a-8bea-cb8700cc21c6,Roxana Valverde Garay,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:40:37.332565,vegan,N/A,4
+15,e48ca0db-ad4e-42e8-a3c9-74cd937ca796,Marisol Tomás,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:55:50.455787,without_onion,9.05,5
+15,e75ed90e-e70c-4e94-8806-baf86d2f3ff7,Ester Falcón Cerro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:05:14.301291,without_onion,6.52,5
+15,48d1f441-bf46-4e93-83b8-8120f8a151bd,Adrián Franch Gallego,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:00:07.141118,without_onion,,2
+15,d9c31574-00ee-4657-bfe4-2bf0a0dfd089,Ana de Mena,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:46:36.054674,with_onion,6.48,4
+15,8e3bcc4c-8cd3-440f-ab50-feccb5ce986a,Pacífica Arco Peralta,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:42:57.079156,vegan,N/A,2
+15,921b18df-fec9-42f6-ba04-8db6f41ffa07,Miriam Eulalia Redondo Sarabia,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:21:48.931408,with_onion,6.51,5
+15,41dd2829-5018-4583-bbb7-9dece30e4ee1,Nilo Martinez Cárdenas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:00:54.863185,classic,6.45,3
+15,c0634880-fe93-4b03-a0c6-ee47a912a33f,Teófilo Delgado Alarcón,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:57:57.425612,with_onion,,3
+15,2c41659d-2882-45e4-ba0b-54bea40eec3a,Gabino Pizarro Carranza,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:00:35.866808,vegan,,5
+15,d96de1f0-6b67-4996-8f5e-4e5343165dcd,Rosa Mármol-Trujillo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:32:52.995650,classic,,3
+15,c4199a18-2137-4d2d-a26d-ba2f4d2c0995,Lucila Arteaga,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:06:15.918432,without_onion,N/A,1
+15,4ebc67cf-103b-4b9f-8c75-33ba4c2e2550,Marco Hernandez Reyes,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:13:38.539304,with_onion,9.98,1
+15,86c9985c-c2eb-454a-90c4-47ccb9eee530,Néstor Corral Arce,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:29:36.887876,with_onion,N/A,5
+15,cd2b1e4d-0d81-4e27-8737-886f7093946e,Desiderio Tadeo Juan Hierro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:19:18.395369,classic,,4
+15,d04c12d9-ac98-42c0-bbe8-816413ff51eb,Artemio Sancho Bueno,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:22:28.686969,classic,N/A,3
+15,27c671f4-9045-45d1-877d-d143984a2758,Azeneth Acedo Bermejo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:20:33.887112,without_onion,6.51,3
+15,4374c617-1d21-471a-a2fa-41fab16d597e,Sofía Tena Bautista,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:43:39.204246,without_onion,5.97,2
+15,5a5d2a2d-a88a-4758-857f-6d47aa3df5a3,Consuela Quiroga Jiménez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:49:13.809392,classic,N/A,2
+15,0b289f6c-209c-4815-801b-80f7d97af58a,Pastora Bartolomé-Quintana,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:39:57.946524,classic,8.68,2
+15,7616ade7-3176-4549-b700-ecbfd3971ae7,Leonel Perez Mulet,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:38:05.039759,with_onion,N/A,1
+15,2f7ba13d-bb0a-44f6-b758-73289e67b684,Leopoldo Perales Pedro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:49:44.342148,with_onion,,2
+15,b800d071-ff85-46eb-9381-fd702f57bdfa,Lara Jordán Poza,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:07:51.602756,vegan,,4
+15,77f5c1e9-0ef9-4bef-8ecc-1e7786437f0e,Carina Brígida Fabregat Amor,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:16:33.325271,with_onion,,1
+15,dba9e46e-8c57-430f-89ba-e45ae2e1ff49,Rita Vargas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:45:03.644947,without_onion,N/A,1
+15,746a2eb1-26ac-4418-b6f9-f3d535dacfa0,Bibiana Guillén Prieto,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:12:05.649777,without_onion,N/A,5
+15,d6fa9160-6d84-4f1b-add6-e0c435db28df,Anita Mur Rivas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:13:25.932494,with_onion,9.3,4
+15,3bd90aaf-e0d2-41c3-8ca4-01da8bf2a6db,Benito Mercader-Vila,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:35:11.729241,without_onion,,4
+15,fc8de00c-b237-484f-8d80-538d577ea313,Ruperto González Aguilar,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:04:22.966871,without_onion,N/A,5
+15,5de094ba-62b7-4959-ac51-5ea7173a45ef,Rogelio Leoncio Quevedo Tello,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:47:40.317767,without_onion,13.62,2
+15,145674ec-68f0-44c6-a8e6-ab493b5b4960,Ernesto del Ayllón,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:57:41.763616,classic,N/A,3
+15,6318cd68-30b2-4e00-9a6c-2d094e2b29bc,Dani Cortés-Olmo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:13:41.354757,classic,5.25,4
+15,d3b62227-96f7-4185-af3f-006861dba4e6,Prudencio Baeza Gámez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:28:34.865833,vegan,,5
+15,188aef8c-3932-4339-9328-a81cdafdcd78,Amaya Gascón Ortega,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:10:07.683946,with_onion,13.83,1
+15,6e733ea1-af80-49a0-99fd-0835228fb4d2,Marino de Lara,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:41:17.213736,classic,12.68,2
+15,cbef0f74-36a9-4725-97a7-4d3a4daabebc,Luciana Casado Arias,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:32:03.653876,vegan,,2
+15,e1d6d83f-f5d0-4179-ac92-af014586eb1a,Alicia de Moll,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:13:39.021841,without_onion,N/A,1
+15,117711b1-9581-4dde-b4e9-040f99f5337d,Ale Sacristán Calleja,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:25:31.344622,classic,,5
+15,78aa1505-a646-442f-b3f4-541f7717fe32,Julia Gomez Coll,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:11:37.748662,without_onion,12.29,1
+15,f69bda7b-2bbc-44a8-9cfd-2b23cb3243c1,Rico Palacio Portero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:02:42.863229,classic,,2
+15,551f781b-f7cc-4a46-92e8-de1e01cc31c8,Lorenzo Valderrama,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:21:48.060619,without_onion,N/A,4
+15,941a6bb5-948c-47aa-88a1-3329eb988d43,Paca Exposito Sotelo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:01:29.379166,with_onion,,2
+15,bc8a438e-4f95-4d38-b203-daa01d5f6513,Toni Gordillo Barba,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:57:14.327709,vegan,N/A,4
+15,1452b2cc-24d8-4e32-9b99-6d9ed56c1e21,Pablo Almeida Calvet,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:59:47.843030,vegan,N/A,5
+15,91ebb674-cb60-40c6-b606-fce39c1ca79f,Emilio Revilla Cerezo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:51:54.394736,with_onion,10.11,4
+15,062b158e-9f36-477b-ba80-a842a817d4b0,Celestina Ana Márquez Osorio,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:08:12.285242,classic,10.82,4
+15,ff234efd-ede4-46fd-b8cf-dee713bf727e,Nereida Bejarano Téllez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:13:49.645049,with_onion,N/A,4
+15,b7950318-1719-4908-aaad-0fde37eb14fe,Julián Ribes-Rincón,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:00:36.379799,vegan,,3
+15,94c4135b-0bcc-4dc5-947a-131826f2fa02,Camila Matilde Romero Carreras,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:14:18.722003,vegan,N/A,5
+15,e8690ed7-b21d-42ba-b121-3518bb4108b2,Yaiza Barceló Arteaga,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:33:20.900303,without_onion,,4
+15,1b04c98f-0df6-4625-8134-18fc7c93433f,Paca Diego Galindo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:56:55.598607,with_onion,,5
+15,2eba6d20-ead4-4953-8b6a-be7e7800b644,Daniel del Carmona,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:55:58.057920,with_onion,13.63,3
+15,babf8213-c4f5-40d9-917f-3372af31f832,Ale Valenciano Mínguez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:17:25.137104,without_onion,,4
+15,1f8b06f7-5875-4e47-b2af-645a60a5f340,Araceli Corbacho Losa,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:39:22.349562,with_onion,N/A,5
+15,7b3d81c9-ffa3-462c-874c-de78d7daa5f0,Calisto Castelló Moles,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:52:05.083159,with_onion,N/A,2
+15,f7ce20c7-dfaf-4b62-9a5f-aec5dcd3d923,Mónica del Carballo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:04:18.238132,with_onion,,1
+15,2200deb1-0739-48fa-a9b9-3a0ff65d3b3d,Horacio Bastida Santiago,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:48:58.227893,with_onion,5.43,5
+15,a58b1a71-584d-4393-8622-53ae0ebfe4e4,Marcelino Gibert Bárcena,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:38:09.697028,vegan,,2
+15,1962bc62-514d-478e-a48d-4fdf677fcfe9,Manuela Adán Carreño,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:17:21.937042,classic,,4
+15,618bbf64-e43b-45f2-9b9b-2e74a5283646,Leticia Moll Pozuelo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:02:52.105860,vegan,N/A,5
+15,3d25723f-bd99-48a9-b1a3-fbfed7d781ef,Lourdes Pinedo Artigas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:17:50.439058,with_onion,N/A,3
+15,87d7d56f-c6a7-4db7-b4f3-29b6261141c8,María Belén del Prado,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:13:36.425521,without_onion,,2
+15,22c9ea5a-ecbf-423a-862d-64e7d4199f78,Primitiva Roxana Otero Perea,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:19:39.701359,classic,,4
+15,23be1c8a-2d8e-4805-b0f8-c8f664475515,Jordana Andres Fábregas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:15:57.959598,with_onion,N/A,2
+15,bbb9612b-9aaf-41a3-9a6c-094d6a25fecd,Feliciano Alcaraz-Palomino,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:10:41.135077,vegan,,5
+15,83baa613-0da3-4927-9ee0-1a0211a010a8,Clara Costa-Martínez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:05:16.203537,classic,5.99,3
+15,303862d2-f37d-414a-ac7c-33f9cac93d22,Remigio Alemany Galvez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:03:31.030756,vegan,N/A,3
+15,23874b2e-934a-4722-a293-56cd05326228,Germán Cuesta Franco,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:22:05.675028,without_onion,N/A,3
+15,c9b3892c-f490-43b4-a5ef-d25dd41607e3,Amando Fito Guzmán Garcia,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:39:31.530914,classic,,3
+15,9e5158fb-ca87-4ffb-8033-9c8007eed950,Emperatriz Robles Viñas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:56:34.861057,vegan,12.03,2
+15,4a565e38-5e84-4192-a8ba-3de147ffdd2a,Régulo Teodoro Moliner Paz,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:11:40.469212,with_onion,N/A,1
+15,c1141545-12dd-47bf-a55c-7e5ec6fc1130,Juan Francisco Sarabia Cuevas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:47:00.023115,classic,N/A,1
+15,f18cfb36-e0a8-489b-86a1-3e5ad5e2f0ec,Bibiana Evita Mena Palacios,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:23:05.866414,without_onion,N/A,3
+15,8accf5da-b250-407a-9800-3212b10165e5,Curro Pizarro Lobo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:54:33.709158,with_onion,N/A,4
+15,0bf94f5a-21eb-470d-86c9-d874709e8505,Glauco Ortuño Folch,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:05:36.654401,with_onion,N/A,3
+15,cc601a37-de62-4f3c-8398-c8d037dddff4,Victoriano Villalonga Moreno,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:38:01.637830,vegan,12.34,1
+15,6a10e9bc-b10b-4ffc-949f-7a1d1220bda6,Eugenio Alba Vergara,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:48:34.578903,vegan,,2
+15,a0684472-33d7-4678-9ca8-5ae7f249ffee,Duilio Benjamín Domínguez Cordero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:27:06.418878,vegan,N/A,1
+15,ce48edab-fd37-4bf9-aeb4-2e8b4d715c00,Melchor Alejandro Suarez Padilla,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:23:24.765921,with_onion,N/A,3
+15,73c1d8df-29e5-42c3-96a1-cbced34483a6,Marcelo Leonel Sastre Ribas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:33:52.687715,classic,N/A,3
+15,2330c75b-65c0-470b-9e77-a30ff892b320,Octavia Pineda Sans,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:05:43.130804,vegan,N/A,4
+15,73c6564b-68a1-450f-a934-f6407137b8a0,Domingo de Escudero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:42:51.675248,with_onion,,2
+15,33fba7fa-76dd-4e8c-9e80-813d3828e072,Íngrid Jara Jerez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:35:11.176396,classic,6.09,4
+15,34759fab-4ce4-4f1b-9635-ca396d67fa69,Perlita Menendez Estrada,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:01:44.353143,vegan,N/A,2
+15,bc26d7aa-97ea-4bef-a000-0deb92e595a3,Sofía Mayte Pulido Tovar,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:43:38.851169,without_onion,N/A,1
+15,ba4d0882-3948-491c-8c89-a3fcf9721385,Cleto Bellido Perez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:40:57.629673,without_onion,,1
+15,bf204f54-326f-4329-a144-54132817ed93,Adelardo Antón Francisco,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:02:10.585248,vegan,10.14,3
+15,0a83862c-9e76-41a7-9549-54eec11287d8,Cloe Torrens Peralta,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:54:36.936306,vegan,N/A,3
+15,3a3efc17-0660-47aa-86f2-9b6d1180bcc8,Anastasio Huguet Amat,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:51:55.626781,classic,N/A,2
+15,2309256c-92df-4fed-8d19-4414de0c235b,Asunción Elisa Egea Sureda,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:34:02.006086,without_onion,11.32,2
+15,27dc0d5d-5022-4b04-893c-64655bc7ffa6,Fernanda Ribes,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:53:39.005598,vegan,N/A,4
+15,56ad2d0b-e019-4d31-adc1-6506ec4b477a,Saturnina Busquets Vendrell,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:49:49.587045,with_onion,,2
+15,e65929c0-4ad7-44b7-9291-67a908d10bee,Marcial de Bermudez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:25:08.025742,vegan,5.98,4
+15,8e96c59d-66ad-42ca-a802-d5645bbd0c5c,Selena de Montaña,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:26:05.495849,vegan,N/A,1
+15,4ce21b22-8a5b-4c40-b089-d4ec06b57da6,Carmina Castellanos Prado,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:42:00.722670,vegan,,4
+15,e7deded6-692e-467e-ba72-bab9ff084d7b,Albert de Alarcón,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:12:03.996771,vegan,,1
+15,565aea8e-c697-4c68-84fd-4c095e30566c,Hermenegildo Puente Sánchez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:51:27.278051,without_onion,8.59,2
+15,e4892806-f9fd-4868-b495-752eb48cf47c,Angelita Arteaga,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:07:11.264949,with_onion,N/A,4
+15,8c34098d-b7ee-43f3-884f-f58bd6b0ba2d,Marcia Ramos,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:20:25.978779,without_onion,N/A,4
+15,db778eb0-1277-42bc-8435-0977e5c54096,Demetrio Horacio Batalla Almagro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:05:20.894721,without_onion,N/A,1
+15,ad120d3d-76c5-4aa3-b5f6-a3903196cd82,Olalla Palomino Rosales,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:34:32.957395,with_onion,N/A,3
+15,35f66827-5ab9-48dc-b703-51f479e1b52a,Antonio Calvet Pinilla,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:06:49.167987,without_onion,,1
+15,c22ae614-a2d5-4127-9df7-7785cd9a8002,Marina Cervantes Buendía,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:03:29.137554,vegan,N/A,3
+15,c54dce2d-adaf-41d6-874d-78da6cb1a099,Ariel Albert Checa Bru,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:48:13.007283,without_onion,,5
+15,1ef90216-2f3d-4fea-9bf5-6a62c4b82b7b,Jacinta Martín Valentín,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:02:35.413279,vegan,13.57,1
+15,f5a1bc33-9a3e-42b9-943f-1d6e1b18f80f,Juan Luis Feijoo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:08:43.866784,vegan,N/A,3
+15,6624dbb1-27f0-4631-8407-dcc0812b7b8f,Irma Uriarte Conesa,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:30:40.805667,without_onion,N/A,2
+15,b6af288e-19f8-4d08-9893-087b646bbd14,Hilda Soledad Casado Sobrino,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:01:58.878984,classic,,5
+15,bfac4aac-ff2b-4af4-b006-e3cfa898c009,Ileana Odalis Asenjo Otero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:51:31.241814,classic,,1
+15,17b0731b-ba1b-47ca-8089-711345cb38fc,Edelmiro Sola Guillen,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:36:55.868693,with_onion,13.77,4
+15,d1f7e64c-7401-4210-a307-8dc8f23ea251,Darío Pinedo Moya,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:39:15.733818,with_onion,N/A,1
+15,35a45597-e493-47ef-a8b6-499353844c76,Perla Villaverde Barragán,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:44:29.120559,vegan,N/A,5
+15,64d6a12c-cca7-49c9-874b-392564a40806,Adora Palomo Maestre,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:51:16.431919,classic,14.22,5
+15,3a8ab22a-1757-4205-88d5-7a8572baa839,Liliana Cerdán Saldaña,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:59:22.378212,without_onion,7.39,4
+15,9de650f3-2b49-49af-b102-b8b072362918,Rosa María Cantón Múñiz,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:52:33.904824,with_onion,5.6,2
+15,de6e90c1-87e8-40b6-b5f2-781c3c400c16,Dorita Domingo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:17:49.951894,without_onion,8.75,5
+15,912288bc-94fd-4838-90e8-387b1c2ebc4a,Victoriano Acevedo Santamaría,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:44:10.180900,without_onion,11.63,5
+15,be7d59d5-efc6-49a5-9c53-1b12606bc212,Paula Roman Gascón,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:56:07.691484,classic,,1
+15,727a38fe-fc6a-4720-9ec2-52f8e7a8f341,Eligio Salom Galán,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:52:27.488740,classic,,3
+15,b2475efb-c986-47a9-96d3-89b290aeff75,Valeria Abad-Nadal,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:37:51.104622,classic,N/A,4
+15,a68a1d2d-d509-48f1-bce6-f08fffa4b729,Isaac Toledo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:59:29.644433,vegan,N/A,1
+15,12efa448-1ef3-4c0d-a249-0e017534c19c,Guiomar Almagro Julián,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:22:53.515836,without_onion,6.59,4
+15,d0342555-6963-424a-a1be-5dec3271dc4e,Nieves Esteban Losada,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:07:55.148273,with_onion,,3
+15,ece8f975-c4f8-451e-8aff-ca9ee3348e60,Benigna Hoz Ferrando,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:39:41.229822,without_onion,N/A,3
+15,0450f02d-b29b-4a8d-8c92-6bb31c9f3a98,Estela Santiago Menéndez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:57:19.582685,with_onion,,4
+15,d291afe3-7073-40fc-9f94-01a67fb1819f,Albina Águila Lozano,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:06:12.556011,with_onion,N/A,4
+15,35ca0301-855c-47b9-a2ff-dbe5123492be,José Manuel Heras Donaire,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:35:07.572621,with_onion,,3
+15,48e8de8b-40e9-458f-996c-90a9eeb3f2c2,Teófilo Rey Camacho,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:37:21.100458,without_onion,5.89,2
+15,8fdce51b-c898-475e-9d01-5cd9073785b6,Elisa Casanovas Solera,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:04:44.717108,without_onion,N/A,3
+15,2c628854-877c-445f-959c-47f6a3d8d324,Jacinto Baquero Hidalgo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:29:15.216296,without_onion,N/A,1
+15,ca0ba26d-50d3-4062-84f3-535e5cb7fa8b,Jose Manuel Tello-Ferrera,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:47:20.282711,without_onion,,3
+15,a7196074-2ad9-45db-aa2f-658a3c5962b1,Saturnina Toledo-Cobos,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:46:04.194191,with_onion,N/A,2
+15,4820f992-b7ef-4eeb-bd3e-875a3dfbe2e4,Rosario Escrivá Godoy,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:14:49.113217,without_onion,N/A,3
+15,6b3fdf76-c7d0-4b79-aa8b-0b301251379c,Curro del Luís,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:06:57.550484,classic,,3
+15,d400798c-db67-4120-b088-7c0732ac207d,Claudia Bauzà Prat,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:03:47.873434,classic,6.6,5
+15,f80ee258-fd00-41ea-9f16-86a700e46978,Íngrid Rico Gallego,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:46:21.041105,without_onion,,2
+15,86dda4ad-3815-4528-88d4-5d2de78c6849,Nazaret Zabaleta Rios,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:07:37.424456,without_onion,12.27,1
+15,cc8ea6f8-6c22-4d23-9619-731aee4f7eba,Julia de Carreras,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:33:00.116576,vegan,,2
+15,a95be1d4-6d0c-45fe-832b-4436c06402e7,Ruperto José Manuel Giménez Cazorla,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:11:27.038542,vegan,,4
+15,9536c9b0-340c-40d9-97f4-191e353e91be,Bonifacio Rosselló Palomar,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:41:46.435314,classic,12.2,3
+15,111f49bb-596e-4579-8b41-a4fdf0d95515,Juan Luis Neira García,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:45:52.646296,with_onion,N/A,2
+15,563fdfc2-919e-4fa6-a16f-5ac8fb895df6,Crescencia Soler Castellanos,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:18:39.632417,with_onion,10.68,4
+15,fe87a840-6657-4d53-ad32-4e7aca8d42b9,Juan Manuel Pinilla Arias,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:44:07.110133,classic,,5
+15,9d19017e-abe0-4142-b357-55e4bffc6514,Marisol Toledo Lillo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:57:09.212455,vegan,,3
+15,8ede2c01-3df8-46e8-94f7-a9e1315acedf,Carmina Palacio,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:39:26.174802,vegan,12.25,1
+15,b7209827-714c-4a7e-8256-848f5e3a3976,Paz Valenzuela,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 06:21:29.095082,classic,,2
+15,7243a712-18a5-4cde-a824-baab7c81ef1b,Jose Alemany Ariño,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:57:29.888812,without_onion,,3
+15,3d63ffca-da59-4a71-9cc2-2763c3499800,Juan Carlos Roig Elías,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:15:25.551204,classic,14.52,1
+15,03ee7820-e579-4b39-952f-f5bcb5f5abd2,Curro Ponce,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:09:40.641954,without_onion,11.81,2
+15,2d8e6bc9-596f-44c9-885d-e33c7618003e,Elpidio Javi Aragonés Landa,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:15:03.014877,vegan,,3
+15,a5ca09c2-e200-4334-9070-eafc97d9669c,Cristian Marin Giralt,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:46:56.784654,without_onion,N/A,4
+15,43acb2d1-4ef4-47cb-95be-d185fb8c81cc,Ani Montserrat Marqués,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:56:35.971946,vegan,,3
+15,bb19eab2-3b48-4544-9bbb-a4beeed2e10c,Haroldo Bernal,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:07:38.451445,without_onion,10.21,4
+15,5f2d13e4-915b-4802-843f-f728b005e5d8,Ema Céspedes Arranz,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:00:44.795182,without_onion,,4
+15,0f53e74c-5b3b-4b96-84d1-b5b24bd04f1d,Jovita Viñas Jódar,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:49:29.806784,classic,10.89,4
+15,62957bc5-df3c-4f6a-ac0f-dd155ea232e4,Moreno del Aranda,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:10:48.591457,with_onion,,4
+15,e92a7453-5593-4264-a920-f75e3aa19d96,Ismael Macias Español,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:12:49.209277,classic,10.78,4
+15,d1d07df0-08d2-4d73-9d27-c27d1831fc7f,Ascensión Samper Borrego,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:56:52.046705,with_onion,,5
+15,d8dd3c0a-af52-4b61-a290-8532263527e0,Calixto Miranda Prats,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:36:55.550079,classic,N/A,5
+15,4db365d7-d69b-42d8-bd4b-f0c51d242682,Evaristo Quintana,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:06:06.489037,vegan,,5
+15,44d92081-d9bd-4292-9a53-3c5eb77e2612,Pastor Robledo-Borrell,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:54:19.052807,without_onion,N/A,5
+15,17c60c6f-37f0-4527-8568-8874b9844717,Vito Anselmo Benet Llorente,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:37:51.171774,vegan,,2
+15,59d5a4f5-daf8-4bce-9da2-e9ab2ab926ad,Juan Carlos Casas Osuna,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:59:23.257105,without_onion,9.39,3
+15,5b48cdd5-a803-4a10-b32b-e5daa0408e30,Olivia Armengol Montalbán,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:05:30.283564,with_onion,N/A,2
+15,d18e6292-95b0-41ab-bd27-9f715c9488b4,Lara Catalán Córdoba,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:24:27.506288,without_onion,8.56,4
+15,e9dfdf63-2849-4ffa-953e-ddf9a403c621,Gisela Sevillano Juliá,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:04:42.179430,vegan,,3
+15,4804bfa4-a264-4626-a712-efdd0ef7220c,Trini Sobrino,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:36:35.764728,classic,6.38,5
+15,f4e6279c-e76b-463b-9f66-ecbcd6164f11,Roberta Heredia,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:52:39.918823,classic,6.48,5
+15,f0ae90c7-3ea2-4a08-a47a-835b2ed9ca00,Abril Peñalver Montes,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:07:10.712139,with_onion,N/A,5
+15,2ae521ce-6d88-4c84-9398-6c337d178871,Jennifer Clavero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:51:59.614923,vegan,8.37,3
+15,da728879-a0f9-46a0-afca-52bbebfadd6f,Yéssica del Sanjuan,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:24:58.652092,without_onion,11.2,2
+15,2a959161-3836-454e-8b88-dce7fd94746d,Eulalia Juan Fiol,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:31:14.183218,without_onion,7.73,2
+15,0a21382a-c35a-42f4-ac16-476386467a91,Olivia Santiago Canales,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:19:24.758756,with_onion,N/A,4
+15,c8f73d89-3021-4dab-92e6-0b86e02d290d,Vera Cánovas-Caballero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:47:26.236805,classic,,4
+15,a0a0de78-e528-4fc7-8e44-b2a717c29495,Ulises Báez-Caro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:49:48.050442,vegan,9.52,5
+15,b730b763-49aa-4399-b0b1-e96d2eee9de9,Pepita del Ferreras,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:25:37.368631,with_onion,,1
+15,e9d755a1-0cd9-4bda-9a88-be02feefe034,Cándida Pintor Vidal,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:53:54.112967,vegan,,5
+15,50ea3a1b-fb5e-4c67-a68e-a5a96e918593,Marc Gelabert Montes,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:31:35.020539,with_onion,5.5,1
+15,42a0cb08-0ab2-4deb-b620-82c7215fbbe9,Francisca Belda Recio,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:10:27.036677,classic,N/A,3
+15,13b655b1-70dd-4109-8dc0-ce411c9a272b,Jose Francisco Benavent-Planas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:21:47.435608,with_onion,10.45,4
+15,fb273229-e3e8-4f98-b92c-d57aa45feca9,Leonel Barros-Córdoba,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:49:30.972449,vegan,12.08,4
+15,3ec6f2b2-6a68-43a1-aa73-384707423aa5,Vidal Ibañez López,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:51:03.542641,vegan,N/A,4
+15,0333ceae-1e7b-49d3-9b30-ed97719c1274,Osvaldo Cañellas Pujol,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:37:30.871335,vegan,,5
+15,8c9f8e04-9536-4d19-b954-a25708b51554,Joel Costa Abascal,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:11:00.098115,vegan,,4
+15,f6cf4f86-3cb8-4a7e-a13a-d1cb576ad897,Josefa Gimeno,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:05:56.927255,without_onion,12.59,2
+15,9b246c0e-4d66-44e2-a2fa-d4ab469f7b44,Ruth Reguera,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:17:32.627915,without_onion,N/A,1
+15,54b223f2-e817-4ac1-b91f-be13de4f5d97,Manuela Ripoll Narváez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:20:10.223049,with_onion,14.68,4
+15,2dde2cc7-c83c-4292-8ce3-b7b3a700c4f3,Carmelo Urrutia,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:29:28.461360,without_onion,,2
+15,8a981056-ca7f-45df-afda-41476f22d80f,Lucas Ayllón Ortuño,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:16:24.949447,without_onion,9.07,1
+15,139f45f4-4cd5-4b53-a69c-3f7a091ab1ef,Lorenza Peña Pardo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:11:39.129610,with_onion,N/A,2
+15,9cac2c7a-1e94-4154-b175-73f75a6fd5ed,Crescencia Egea Castejón,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:14:30.360259,vegan,8.63,3
+15,778b30e6-cda6-4744-b98f-2604acb450cf,Valentina Guzmán-Lozano,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:01:50.492413,vegan,,1
+15,70ed047e-1413-43c3-a832-48fa006f304a,Hilario Lledó,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:57:12.885871,vegan,,4
+15,b3ca76b7-a79c-4e1f-876d-ec0169cefb28,Domitila de Cabello,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:42:27.082469,without_onion,,5
+15,58d983eb-dc79-4186-8516-b7a06b66dfbe,Reina Rosenda Cal Bello,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:12:17.828970,with_onion,N/A,4
+15,3292004b-956c-4224-b26a-37e919005c3d,Luisina Bartolomé Santiago,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:12:45.983821,with_onion,,2
+15,0ea9f99f-fd16-4428-84b2-1712f14f0111,Juan José Heredia Torre,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:34:11.316920,classic,5.13,5
+15,3470eaa9-be72-472b-afd4-8e29ca110115,Regina Amo Pons,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:59:41.853546,vegan,N/A,2
+15,f71487d5-d5f0-4076-ac32-f060b7802d2e,Prudencio del Pagès,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:12:52.912542,vegan,,1
+15,9e79ac92-5db0-4ed9-bd48-28e919574a9b,Fidel del Vazquez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:41:35.442318,with_onion,14.64,3
+15,663fb01c-e124-49d7-949c-bfaf726bb17a,Lorena Coral Carrión Infante,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:56:04.931346,vegan,,3
+15,769323f7-b66a-4855-9336-089d390ab268,Fanny de Acuña,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:34:54.159474,with_onion,,2
+15,5a344fec-b7f3-4805-86ad-44c31737a237,Fortunato Leocadio Aranda Linares,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:56:29.306232,classic,8.96,5
+15,f33fb128-be54-4120-acc1-63eeb72f22ca,Alcides Iglesia Núñez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:00:18.717408,vegan,13.58,2
+15,6683553f-14dc-4395-8b07-d9b96ba7a6fd,Ángela de Peña,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:12:21.749853,vegan,8.41,5
+15,1e5138a4-15c6-4279-bd3c-18e27b82d948,Carmina Gomez Villar,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:39:08.797969,classic,13.97,1
+15,611c7ec6-e041-40b2-9f7b-5b47beda80dd,Fabricio Perea,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:26:15.488351,vegan,10.65,4
+15,d3b9a6f7-3f1e-4dd5-aad1-f2533b5af1c3,Cruz Vicens Reyes,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:51:19.777371,classic,,1
+15,984d59d4-836d-4013-be81-e7b10a6163e8,Alma Villalonga Barrena,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:55:21.964896,vegan,13.86,2
+15,8f62f198-22aa-4cfb-9894-d5401cc16e76,Olga Robledo Zabala,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:07:29.454379,with_onion,7.05,2
+15,b53178c1-4240-4317-a8f7-ce5fe59e9e98,Amalia Manzano,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:50:51.767708,classic,8.81,4
+15,bb425891-da86-4698-8fcd-74ede16b86c1,Aroa Bayona Marqués,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:12:43.516685,with_onion,N/A,2
+15,d86a534c-80e8-45ff-bc48-b163dd958508,Saturnina Vargas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:53:44.903538,without_onion,N/A,2
+15,c8a7d513-8b92-456c-9022-6e27ad7ea62f,Débora Figuerola Franco,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:30:33.142183,classic,,2
+15,5262e0db-fc70-4211-a73c-293ee946425b,Perlita Salamanca-Hoz,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:58:08.102777,without_onion,N/A,2
+15,1d621530-140b-45b9-a350-df31b0a06c5b,César Borja Antúnez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:05:31.562751,vegan,N/A,2
+15,af29e7ef-09dd-47ab-9eea-9d2a69fb61de,Flavia Porcel-Córdoba,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:21:28.988231,with_onion,,3
+15,125ea2dc-9ee5-4e7d-b680-cfe50e49786c,Teresa Espinosa Comas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:03:32.382076,classic,11.24,1
+15,648a6caa-d2f4-4810-b924-0bc01880e043,Curro Berto Alfaro Gual,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:52:03.774898,classic,14.73,5
+15,65e7e067-0f45-4065-846a-1bf84c4fcc6f,Alex Montaña Ballesteros,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:22:37.908493,without_onion,10.99,5
+15,759d3db5-8877-4b3f-bea9-b2f1d91bd692,Tamara Álvaro Solsona,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:26:07.465447,without_onion,14.24,1
+15,35670613-e3ee-4169-9b2a-ea049e793785,Desiderio Sabater Bernat,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:49:19.898934,classic,N/A,5
+15,bfdf179b-679b-4d7c-acc2-00ed55c514a6,Rosaura Expósito Peña,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:00:19.548144,with_onion,N/A,3
+15,496f92a7-9a8d-48f8-9ba3-dbc2e041f6f7,Adelia Gargallo Carballo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:56:46.340756,vegan,N/A,4
+15,d1477496-67c4-4922-b655-455130dcf02f,Íñigo Pombo-Monreal,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:54:26.812220,vegan,14.01,3
+15,3a97ab44-698e-4c89-8aa8-4a642be2d7d9,Saturnino Hervia Pla,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:57:22.141492,classic,,3
+15,bfc1ab00-e406-4067-bd0f-3305843e0f7d,Florinda Suarez Bru,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:21:05.650935,without_onion,,4
+15,1f1219c2-547f-42d2-a2d7-5ad075a7dcf3,Manuela Ruperta Montesinos Olmedo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:08:18.993697,classic,N/A,5
+15,55c5a706-69fb-46a5-bd94-4296f2c2594c,Xavier Plaza-Tomé,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:52:22.335876,with_onion,N/A,1
+15,6ce9bea4-37cd-437f-896f-f4e0101a0889,Gonzalo Gámez Llamas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:03:58.232959,vegan,,5
+15,e39c56a3-7ab6-4935-8c9a-186737635c7b,Sara Canals Comas,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:48:08.322541,vegan,,4
+15,1d01e282-69ca-4aa9-997b-cb18b37e177d,Gastón Fortuny Vidal,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:01:00.922889,with_onion,N/A,2
+15,d94acc5d-ad4f-4782-91b7-ae87aa3b3c3e,Anselmo Avilés,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 18:14:31.455841,classic,12.06,1
+15,b52a1c16-142c-4b5d-9861-73081f204805,Ruth Bayo Escobar,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:38:38.868956,classic,,5
+15,a3b258a0-133c-4948-98e2-6d6f0aa2a28a,José Manuel Iglesias Teruel,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:07:19.509296,with_onion,7.89,5
+15,c18cfbfb-2bb4-4471-a30c-ed94364ed7aa,Alejo Codina Cortina,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:38:14.794906,with_onion,13.9,2
+15,f7dafd0d-38c3-4037-9747-426e8cdf7596,Miguela Miralles Muro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:13:36.220851,classic,,5
+15,de21c1a3-babc-4d77-97b9-f9817bffb8ba,Sarita de Jáuregui,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:20:59.052774,classic,11.01,4
+15,0b3fd57b-7d33-460f-8bbc-8cfbede5019e,Yolanda Gonzalo Parra,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:48:28.228727,without_onion,N/A,2
+15,0b3e7435-210d-46b9-9fb7-6ca429e0cf07,Isaías Leon-Pineda,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:21:02.847740,classic,8.55,4
+15,bf7deae3-bc9e-42f8-aa8d-bb4bba1def7c,Rafa Milla Cordero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:29:20.053126,classic,14.04,1
+15,076f396d-fd0e-4437-a44c-1bba42b0e6e8,Evangelina Noriega Macías,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:03:27.693069,classic,,1
+15,95f5fdb9-76d3-490f-9420-92f759955b24,Goyo Franch Haro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:31:43.610295,classic,13.85,4
+15,9e37aac0-ee1e-4fe7-9aaa-ac9eebb78e4c,Leire Leiva-Cerdá,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:54:47.437353,vegan,,1
+15,ed2dcad7-b550-432f-85df-5864df5087b5,Benita Olmedo-Mendez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:07:06.469961,classic,14.43,2
+15,7e0769c4-c8d0-426a-85f4-615d78c280c1,Consuela Perez Pinedo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:12:51.944338,classic,,5
+15,9e14951c-09db-403e-bbf4-3d63d997e9c2,Glauco Jover Aguado,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:04:42.819502,vegan,13.44,3
+15,cfe653bb-eb31-42c9-906b-2b94b5d1cc30,Martina Adoración Morante Arias,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:31:39.174477,vegan,9.33,4
+15,bdb7a364-296a-4400-8ea1-294d5a77ec89,Alma Aurelia Higueras Gelabert,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:42:03.829813,classic,11.24,3
+15,fff96a57-5b49-4d11-b7ba-3f4344198659,Nicanor Narváez Carrión,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:09:14.745665,classic,12.31,1
+15,4fa82e29-a6dc-4467-a7d5-9d8bb68dd1d1,Remigio Tena Arce,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:42:19.970338,classic,,4
+15,ce25d62a-8d1d-4676-b24a-b6cd871a09e0,Vasco Casares Jordá,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:08:48.553619,with_onion,,3
+15,dfc930c4-75e3-402e-9f95-0291d87477f4,Osvaldo Flor Zamorano,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:47:26.398729,with_onion,6.63,1
+15,35bd6600-491d-4a76-9bfa-9354d6f0b296,Ainoa Modesta Abad Quevedo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 20:52:07.202044,vegan,10.02,2
+15,8f7f4b96-6a58-4d94-955e-beba3be8f637,Nazario Tudela Garmendia,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:11:47.026478,vegan,12.89,1
+15,bd4f2fba-9881-41e4-8970-905a0150e020,Crescencia Vara,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:38:41.234568,without_onion,,1
+15,5b49db36-bfdb-46dd-99f3-34786c63a7bf,Pili Olivares,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:54:33.534627,classic,N/A,3
+15,1a711b86-0ef3-4a3d-abbf-c815484699a1,Celso Raimundo Blanes Giralt,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:07:16.979582,without_onion,8.28,4
+15,fca7c522-b79b-4fcd-9cf6-75683d29ac2e,Amancio Carrasco Cerdá,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:56:11.422865,classic,N/A,2
+15,39637c0e-4fe6-4dc2-a7f9-ffa67e1156c6,Maximino Gutiérrez-Juan,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 01:48:56.285306,with_onion,9.62,2
+15,c14b75e3-2be6-4e80-b084-b85e997e3651,Macario Calvo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:00:49.462216,vegan,N/A,4
+15,4a594e39-cd3b-46cc-ae77-61adaefd2d23,Calisto Arnal Ricart,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 05:27:31.162720,classic,,2
+15,03892180-c316-491f-92da-70e07123e8f1,Isidro Tejedor Gil,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 21:57:29.760382,vegan,N/A,1
+15,3991339b-4f64-4aa2-8b7e-53f74dc1dc8f,Pepito Enríquez Díaz,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:59:55.966046,classic,,4
+15,22bd9111-09f2-4213-9d38-51a97d157a1e,Fito Ortega,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:04:07.072862,with_onion,N/A,4
+15,19c4911c-7bd2-482d-9ccd-4d19942587f9,Herberto Borrego Pombo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:40:35.672344,with_onion,,4
+15,d1048ad4-60a9-4313-8213-b89265fcde48,Mayte Palomar Bilbao,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:32:37.719932,with_onion,9.04,3
+15,163f828b-6c87-4d38-ad6a-0c0d7a713621,Brunilda Palomares Barreda,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 19:41:55.694709,with_onion,,4
+15,198b23b0-e1d9-4e89-8a29-b757440c9790,Efraín Olmo Lloret,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:45:18.285185,without_onion,12.6,3
+15,6221f42f-f13f-4bff-a7e4-b95875088223,Noé Adán Benito Bejarano,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 07:42:26.053392,classic,,1
+15,1f20dac6-8439-4474-b475-87c8223dee3f,Irma del Campo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:35:43.727149,classic,N/A,1
+15,c9648ff5-be32-4178-a062-bb3435d3ad5b,Reyes Tomé Vélez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 00:49:36.301773,vegan,,4
+15,8e13caaf-b1e7-466c-96a1-678a747b1de0,Marcial Corral Valverde,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:38:12.108592,vegan,13.59,1
+15,b208683f-e491-4f16-aa47-fa438026d452,Hilario Pedro Carnero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:04:35.379822,with_onion,,1
+15,95c13e6f-4b7e-467a-9897-4814b85279d5,Fidel del Caballero,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 17:41:05.835890,vegan,N/A,1
+15,0a6ce0cc-9e5b-46d0-873a-aba79892c940,Aurora del Haro,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 10:36:49.379466,with_onion,,1
+15,0526d245-e6cc-4b63-bb76-79f81e429c82,Carolina de Amor,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 15:12:53.185252,classic,N/A,4
+15,46f56940-ab3c-4b97-83f6-1382cabf0ddf,Raquel Arteaga Alberola,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 02:49:27.463832,vegan,N/A,3
+15,5881a8c4-1e3e-4f19-bb9b-030ed124603c,Lalo Mulet-Ariño,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 09:52:35.307375,without_onion,9.49,1
+15,351a8010-021b-4bcf-96f2-375992afa9e4,Julia Alonso-Frutos,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 08:00:20.563327,with_onion,N/A,5
+15,4807c819-817f-47ca-8a41-b64700bb4bd5,Joel Donaire-Tejada,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 03:38:00.399822,with_onion,N/A,2
+15,4132b465-c580-40df-abac-125348c9c97d,Abigaíl Huguet Dominguez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:27:56.653206,with_onion,N/A,3
+15,b3869455-c539-43d2-98c9-11c77761d7df,Laura Benavente Múgica,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 16:10:45.646828,with_onion,6.74,4
+15,ac1038e1-2206-4f8a-989f-1226f6232868,Florentino Plana-Asenjo,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:59:47.201955,vegan,N/A,4
+15,cf821683-4fb9-4833-9ef9-31a653a0e79a,Lorenzo Iglesias Suárez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 23:46:13.905163,without_onion,5.47,1
+15,25476bdd-c8a4-4053-8947-9c4a49f7de34,Priscila Cabo Soriano,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 22:19:33.196072,classic,N/A,2
+15,802b0fa5-fd2d-4fba-a564-3f264c130715,Reyes Arteaga Osuna,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:16:20.194244,vegan,8.65,3
+15,039dcea0-11e7-4217-85ab-762729d86ee6,Encarnita Padilla Garcia,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 14:31:35.948807,without_onion,N/A,4
+15,1b1fe53e-9e5a-4a45-897b-3ae6c09380eb,Elvira Blasco Rubio,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 11:38:52.463481,classic,,1
+15,a01ce92e-dfc2-4ba2-a402-1bad08c0cb5d,Sofía Pont-Sánchez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 04:13:38.874500,with_onion,6.12,4
+15,3dee1571-f634-4ed6-b9f7-6dabaef926f5,Susana Suarez,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:32:14.914193,vegan,,4
+15,6959f68a-f040-4898-84bb-8b50bf80fdde,Omar Bru Seco,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 12:34:43.884984,with_onion,,4
+15,ffc5aeec-95b1-4cce-a3cb-e1934285642e,Milagros Planas Molins,Valencia,"Urbanización de Rómulo Montalbán 8 Piso 1 , Las Palmas, 50897",2026-05-01 13:14:57.107290,classic,,5

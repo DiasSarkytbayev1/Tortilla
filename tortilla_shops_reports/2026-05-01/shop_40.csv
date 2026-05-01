@@ -1,0 +1,129 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+40,b3c0769f-5e77-48aa-a55d-46f750d44ae5,Amarilis Tamayo Vila,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 09:51:25.210029,classic,,2
+40,0c58fc2a-9841-442f-a971-81cbfad8b146,Florencia Romeu Santamaría,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 23:13:26.682172,vegan,N/A,4
+40,6bf69a23-7850-4908-90c9-c8eda4e717c6,Calisto Luján Cabezas,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 18:45:05.896635,without_onion,,1
+40,d0a4a384-195f-4744-88b7-a96ab263efc6,Tere Girón Palomares,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 10:22:32.163565,vegan,5.96,5
+40,1bdebdf0-8b60-4471-8fbc-fecdb96de6b6,Bernardo Pomares Marquez,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 00:23:59.553501,without_onion,8.37,2
+40,3cde7eca-8e4f-471b-8527-ff789aeb63fd,Tiburcio Donaire Manjón,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 23:26:23.043314,classic,13.16,4
+40,fb4e6855-847b-4f76-a54c-a8e4a58e3e25,Susana Cadenas Manuel,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 14:52:28.441591,vegan,9.92,5
+40,9939c486-7f7e-4e2d-bc8e-7561366543fa,Andrea Real Prats,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 17:02:29.813522,with_onion,,4
+40,af1d1700-dde5-42c1-b52a-2bc9cb4511ec,Noé Perales Bellido,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 21:49:03.778315,without_onion,N/A,5
+40,ebb31e32-b44f-43b9-b3d0-b725d0b5ef7f,Zaira Ramis Sancho,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 04:46:47.772725,without_onion,N/A,3
+40,156ee330-ad6a-471d-8d98-85434eae0a0a,Sandra Luque Ibáñez,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 22:04:36.612910,vegan,N/A,4
+40,6416a01f-d631-4809-b7c3-eeff5e92ef3c,Pablo Gastón Coca Olivera,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 04:30:52.384863,with_onion,,4
+40,8c60b662-0080-43bc-becd-1c3b00b88925,Selena Zabala Arnau,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 15:03:28.145185,classic,N/A,2
+40,a227a303-d3cb-4820-909e-edc6d452b999,María Fernanda Lara Ríos,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 12:58:06.043672,vegan,,4
+40,f1b170c6-fc57-4427-88ec-9323705daa38,Sancho Cuesta Reguera,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 23:17:42.799041,vegan,,1
+40,b1767343-90f7-4caa-a1a8-a3edeec6192c,Ciro de Esteve,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 06:44:48.830512,with_onion,,1
+40,e897cf49-6d48-4ea2-b93f-155850acdcab,Arturo Mosquera Tormo,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 13:09:48.310429,classic,N/A,2
+40,a3b86cad-9a34-4638-bb78-7799213f5ec9,Faustino Dueñas Porcel,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 14:09:27.314186,without_onion,5.31,3
+40,16da7da8-657a-4d13-81a5-725aa89f7236,Azahar Gomez Sanjuan,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 13:37:34.554912,without_onion,,3
+40,23315be6-d069-43ad-af3c-71d71dd55e4a,Berta Llorente Pinilla,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 16:39:19.122529,classic,,2
+40,268a3098-8ef9-46e2-8ccd-4b1c6adcf198,Griselda Campo,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 03:53:53.416721,vegan,,5
+40,fa1b8112-9c97-499e-89a6-b8958f0e6af0,Haroldo Espinosa-Pizarro,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 01:50:20.491830,without_onion,12.26,1
+40,501db352-5e55-4528-b9fc-cde42b715a4b,Yolanda Manrique-Carrera,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 20:35:21.679801,classic,11.23,1
+40,bc32be90-b80f-4528-bf9a-caa9e8ea8cd8,Maricela del Caro,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 10:50:06.351341,without_onion,,2
+40,ffeb9efd-398e-4bb0-be79-33de925b1a2b,Reyes Morera,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 15:57:32.686259,without_onion,6.61,1
+40,5286404d-1d77-4901-92a0-8016283aec31,Dominga Pelayo Sanz,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 08:16:27.168707,with_onion,N/A,3
+40,04b1579d-e8ca-481a-a216-9ce52041d520,Óscar del Lumbreras,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 10:55:28.442913,with_onion,9.51,2
+40,51e327d0-1ca4-4536-a5af-cc81bd31d92b,Pastor Sabater Miró,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:36:04.416735,classic,,4
+40,f927ddc8-0195-4c9a-b5e5-d6322da80c4d,Manuelita Sobrino,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 04:49:06.401284,with_onion,N/A,1
+40,e493e3ad-4877-40f1-8140-3f81ee96ef16,Miguela Belen Vallés Parejo,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 07:29:17.249395,classic,N/A,5
+40,423d4239-f354-4af0-91f0-1035ff68b3bf,Esperanza de Escribano,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 00:45:55.260880,without_onion,11.03,1
+40,dadb7e34-3d5f-40df-a1fa-ab923f533eda,Nadia Socorro Clavero Borrás,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 02:51:51.208779,with_onion,N/A,2
+40,3cb3ebd4-3075-4e3c-973e-ca629d753385,Aurora Cerro Salas,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 08:12:08.044043,vegan,5.46,4
+40,100691f0-57be-41d5-84f8-ef7d13fa4849,Beatriz Roselló Suárez,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 10:52:11.774178,with_onion,,2
+40,d3ba4962-d2d9-41b3-ba8e-f9a220ce2639,Morena Chico Castell,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 12:18:43.570450,classic,8.5,3
+40,bd7310b8-0ec6-492c-8306-ce8479b39e80,Carmina Cantón-Isern,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 01:09:17.565988,vegan,N/A,3
+40,75b0ca9c-8fda-46f9-82c7-a0275d37981a,Samanta Conesa Moles,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 06:14:22.709804,without_onion,13.9,5
+40,ac56df23-32c7-4e8e-b2a8-25f5146c367c,Régulo Martín Rovira Cal,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 01:18:44.985934,vegan,10.25,3
+40,8bcc173b-c70a-4579-8f62-aa3b5d1f04f2,Regina Valeria Hernandez Osorio,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 14:39:29.021794,without_onion,13.92,3
+40,50cb0a71-3c00-422e-92bd-dae639a7a70a,Rosalina Garcia-Guerra,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 05:28:15.677513,classic,12.62,5
+40,bb490ac9-426e-465a-97ab-003c0ff4f2c4,Quirino Sosimo Capdevila Aragón,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 23:54:59.537769,without_onion,N/A,1
+40,07944e37-4f54-42d5-b25d-2e2d1d72d9d7,Daniel Aguado Clavero,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 18:53:13.635712,without_onion,,1
+40,269fec3f-50aa-4034-9fad-2e860f02a4b1,Eleuterio Linares Fuentes,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 11:36:24.308244,without_onion,N/A,3
+40,5b9dc807-b087-4ca4-9fee-9bd098ce0546,Leopoldo de Varela,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 21:09:42.559476,without_onion,N/A,2
+40,06416b97-2ac7-40e5-b4bd-cfb5e78f76df,Elodia Carnero-Pozo,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 12:33:04.346990,without_onion,,5
+40,618b12ec-a2ac-44fd-a1fb-2714befb166d,Candelas de Arévalo,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 18:05:13.392239,vegan,N/A,5
+40,443c495a-6329-4533-b571-6bc203a145ed,Vicente Espiridión Checa Buendía,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 08:40:31.115307,vegan,N/A,1
+40,d67d34f5-8f04-47fa-8470-85b0c8f89df2,Reinaldo Marti Ojeda,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 06:45:29.327722,vegan,13.98,2
+40,87f1f717-b6d8-4232-bfa1-f5e965248d8c,María Del Carmen Miró Ureña,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 03:37:32.488394,without_onion,N/A,4
+40,38413948-0a9f-47bd-9893-62e6c978f44e,Calisto del Miguel,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 23:00:30.574064,classic,N/A,2
+40,da5196c4-476a-4cca-8d13-b4697eaa2ac4,Nidia Barrios,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 01:17:24.345814,vegan,,1
+40,da0dad21-6ce1-44ad-9b2e-a3d394f0671d,Belén Farré Bauzà,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 11:18:25.335472,with_onion,,1
+40,7db3b031-4003-4113-b357-05e3f8804c5d,Jose Antonio Espejo Montserrat,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 03:43:24.959201,with_onion,N/A,2
+40,76f81081-8d96-4bb6-9317-1b04b7ced206,Malena Mateu Camps,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 16:22:13.975223,without_onion,,4
+40,2436a5f6-9ede-4598-b57b-350d90e95263,Yago Rebollo Noguera,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:04:14.766508,vegan,N/A,4
+40,5f967ae6-cf1c-4c84-8675-bf5140958a22,Clemente Abel Peralta Esteve,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 14:47:10.141933,without_onion,,3
+40,be1f4e2e-2dcd-409c-9d9a-7c8872d977e1,Bernardo Amigó Peñas,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 16:35:49.422408,vegan,,5
+40,218d2a59-f000-409a-9b7a-bd9222a1a620,Noemí Rodriguez Alfonso,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 22:03:59.675145,classic,N/A,2
+40,b01f42f6-6d32-40a3-999c-de86b1172030,Gertrudis Elías León,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 15:35:43.220242,classic,8.26,1
+40,87113b37-d527-43a7-826e-e434a9b53755,Perla Baeza Conde,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 21:09:59.161445,vegan,13.82,5
+40,d805e5d9-df8b-4518-a857-11199961e9c9,Verónica Sebastián Oliveras,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 11:52:39.742239,classic,5.31,1
+40,007f182c-8f5d-4c05-975f-a7e60afdc852,Néstor Díez-Salgado,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 16:03:27.504054,without_onion,7.69,3
+40,4bb03e51-1a66-4f1a-8777-75fe9fd65a61,Estela de Abad,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 20:53:48.930887,without_onion,,2
+40,3ee43e2e-ea5d-4e10-a9cf-1dec316eea7f,Joan Miralles Saura,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 09:27:18.834875,without_onion,N/A,1
+40,df75e106-3ed8-423b-ac2c-fd3789cecbb9,Heraclio Vallés Casares,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 08:40:06.225210,with_onion,9.18,3
+40,800d53cb-1df4-46b3-9d8d-724808c707f1,Benjamín Torre-Acevedo,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 03:49:24.072819,with_onion,6.0,4
+40,9e3cdae6-b83c-40d5-a2f6-e2582bc8963f,Luis Miguel del Tovar,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 10:16:36.445534,vegan,N/A,3
+40,a53d29d2-f833-43f3-a582-b1adb765f3c4,Juan José Roman Castellanos,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 23:58:57.767428,with_onion,7.19,5
+40,70ef87a7-a5fd-4337-94e3-fda9d174773f,Aitor Batlle Amat,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 18:10:33.476064,vegan,N/A,1
+40,be76329d-ed1f-4780-89f6-67112d898e9d,Erasmo Albero Vara,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 10:11:24.113086,with_onion,N/A,2
+40,5b52b0de-f207-4551-843a-2491e92aec49,José Manuel Hernandez Quintero,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 13:24:35.527787,vegan,7.22,5
+40,e4ab63ba-a9b9-493b-b888-ce2ecdeb2267,Corona Melisa Palau Cazorla,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 21:27:50.064605,without_onion,,3
+40,ae66c2de-876e-4d87-88cf-b016b7df9583,Baldomero Vergara Seco,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 06:03:35.534888,without_onion,,5
+40,6375e3c1-d6d8-4245-9938-b40aa0492aa8,Juan Bautista Mariño Portero,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:45:51.028829,vegan,9.22,4
+40,6a579fc6-1481-4196-a06f-58cd1dd51fa7,Reyes Manzano Zabaleta,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 07:02:09.937896,without_onion,N/A,5
+40,a4d6f7fd-fab8-4ef6-9192-6bd8bf407a3c,Amancio Agustín,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 01:13:46.094254,with_onion,12.31,4
+40,546419e5-9c28-440e-8ac1-1a88197b3bfb,Azahar Aragón Parejo,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 08:03:40.799773,vegan,8.37,3
+40,e1d4b0f5-6b1d-4b65-a02b-3bfe93c2fdac,Lola Vigil Montenegro,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 00:20:00.697401,with_onion,N/A,1
+40,5dbcf6c4-1f13-41d2-86e4-bba5b17dbce6,Delia Garmendia Boada,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 20:15:22.857713,without_onion,,1
+40,0499e976-50b8-4390-b38d-8a5cfdc6c2e7,Dorita Mónica Fortuny Caro,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:13:05.597349,vegan,14.78,3
+40,f959c92d-da45-48a1-9508-ced52283aded,Alondra Leiva,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 15:49:02.887997,vegan,N/A,4
+40,0d16281a-6a5e-4538-b2ec-f199afc48791,Rodolfo Llamas Cañas,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 22:47:35.119202,without_onion,,2
+40,f25cb88f-2acb-467f-9c85-05da11f3128c,Jose Ramón Clemente Gálvez Sanabria,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 00:26:38.167256,with_onion,6.09,2
+40,14388ea3-d4a4-43ba-b8f4-bd28f618e233,Reinaldo Martorell Mendez,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 05:57:09.472370,without_onion,N/A,5
+40,6d6cef36-0f3d-4d58-b675-1c883ed5ff0f,Ruth Tovar Dalmau,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 17:49:34.091012,vegan,N/A,3
+40,921ca5cd-9d49-4c21-a6b9-f2dc38f92124,Roldán Victorino Mulet Santana,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:28:42.985314,vegan,10.29,4
+40,01cbdab2-d6d4-44a1-b6e8-b32b0646dffe,Rubén Chico Ordóñez,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 07:19:27.606035,without_onion,N/A,1
+40,9070e138-8c86-4d8d-ad78-92139b57dc81,Obdulia Lorenzo-Murcia,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:10:27.390208,without_onion,N/A,4
+40,4422df58-1b25-401b-bbd9-5ff908b8ad83,María Del Carmen Pera Aparicio,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 09:05:21.261990,classic,,4
+40,b2997618-ca1c-4658-8890-d2e52adb138e,Santiago Méndez-Alegria,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:55:45.043631,classic,N/A,5
+40,7375dd26-c76b-407c-a35f-0620d49c9ce5,Melchor Espada Tur,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:25:23.620236,with_onion,8.02,2
+40,9036f1db-f951-44e5-945f-715e9dc89166,Hernando Arrieta Tomas,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:32:26.911708,with_onion,14.96,1
+40,ed9036cc-a7e7-4055-8cf3-6c147096b695,Nicodemo Ocaña Valenciano,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 22:28:55.455967,vegan,N/A,1
+40,cb0fe3cd-583d-456b-a8b9-f834bcd6fc22,Patricia Franch Hernando,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 01:08:04.261181,with_onion,,4
+40,84a65bd0-564b-4021-a378-c2346095684c,Rolando Acedo Tejada,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 20:24:49.832535,vegan,,1
+40,61b1fa1d-5a0a-414f-baff-f1abef579cbf,Tomasa Díez Solé,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:14:50.781095,without_onion,10.07,3
+40,86fab81e-f8d9-4fa3-a488-2d13dea77c8c,Anastasia Roda Nicolau,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 02:22:54.758569,with_onion,,5
+40,818052a7-bb88-4212-a38b-57e1892cbc65,Genoveva Ballesteros Caballero,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 16:22:39.676046,classic,N/A,3
+40,e75aa802-95ae-4ca0-b108-4f9a467447ad,Emiliano Arévalo Belda,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:02:54.531381,classic,,4
+40,a1241604-3f1d-480c-8b94-2b337a14d305,Benjamín Mesa Cañellas,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 02:14:57.845845,vegan,,4
+40,3018bec4-3f06-4c1e-bbbe-312eed16c479,Moisés Antúnez Ibáñez,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 19:22:03.051154,with_onion,,3
+40,b7037738-d492-4bb2-89d8-5cc155ec2140,Leticia Vélez Vélez,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 21:20:22.535893,with_onion,10.15,4
+40,4617f400-4547-436c-9e14-1b7f55125ba4,Sergio Grande Criado,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 14:32:21.246747,with_onion,5.36,4
+40,74ce2eaf-9427-4ddb-a59b-02bdd099b45e,Maricruz del Galván,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 20:02:24.345388,without_onion,9.1,5
+40,8af9f16b-6f33-40e5-8b3b-5ba096788d99,Eutimio Nieto-Castañeda,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 14:47:32.081519,classic,10.23,4
+40,1561354b-1cbc-4859-81c7-63b51c50e78d,Candela Pujol,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 21:33:28.815358,classic,N/A,3
+40,0d08c82f-67e5-4115-b4b0-f918592dbd40,Maximiano Canales Escalona,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 09:25:07.616473,without_onion,,4
+40,d89f3273-1422-4181-a8b9-662140d21455,Ester Eusebia Roca Puente,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 02:29:01.464805,without_onion,14.76,1
+40,9ebb127d-b00c-45a9-b39e-767e24b7dded,Domitila del Laguna,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 04:13:07.665556,without_onion,5.34,5
+40,88ecc28a-e013-46c0-aa91-99f3c1eb6859,Julieta Merino Fábregas,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 02:11:50.665165,vegan,,1
+40,ceac1660-c57d-4ecc-afa6-9de7a4cc43f4,Herminio Vila Camino,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 22:18:50.460096,without_onion,8.48,1
+40,019e91e3-41e6-4fed-8f19-f31a175dca55,Jose Ramón del Ramos,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 14:59:44.532725,classic,11.02,1
+40,82705100-5334-48c9-85a2-64dc63233b59,Jorge Amador-Pizarro,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 01:55:05.875272,without_onion,6.77,3
+40,387ff0bc-05fb-4450-8bb4-52db599adf70,Almudena Cerezo Redondo,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 15:43:42.768529,vegan,,4
+40,3b070c49-fbee-4b27-b382-4153605c85b2,Ana Sofía Barbero Navas,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 06:30:55.421527,vegan,6.91,1
+40,9944fdf1-d106-47a6-9d37-230fa5a30264,Macaria Cepeda Baena,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 13:03:23.717709,with_onion,,5
+40,9f0ab835-de9f-4648-9b41-a9c8ed4a72f6,Erasmo Cazorla Guitart,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 18:51:32.712472,vegan,12.53,5
+40,65706620-69a5-4a32-a4b9-b924a6f0deb4,Apolonia Manuel Nieto,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 08:38:23.181001,with_onion,,2
+40,499feaa4-d5b0-4ddb-b473-93ded7ee2dee,Trini Mayol,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 21:35:22.227685,without_onion,,1
+40,e3abad7e-3c12-4a61-9219-47c9f17e78c5,Chema de Torrecilla,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 00:28:09.359060,without_onion,,1
+40,1148566f-75a7-4407-bb8a-a70af57eefa6,Pepe de Miralles,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 22:12:48.197345,vegan,6.53,2
+40,b305c753-eb7b-4fad-9c0a-4daec9d8d82e,Susana Milla-Batalla,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 23:07:27.834403,without_onion,14.15,4
+40,ff4be24e-1795-4787-80fb-67b2964da5bd,Loida Lluch Mosquera,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 10:55:41.746421,vegan,8.19,4
+40,d720012e-9920-49f2-ac59-bb7c778674ea,Octavia de Antúnez,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 17:31:07.293896,without_onion,9.26,4
+40,660ee31a-6c9c-4bfa-9ce8-be23140f8e60,Curro Mariano Dalmau Rueda,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 15:40:11.237266,classic,5.52,5
+40,14e71482-f108-4461-966d-ea709cd1650a,Ruben Ariño Tamarit,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 06:32:56.257578,vegan,,4
+40,4e5cbbc1-0f91-4eb4-a4d9-70b4437d313f,Viviana Alegre Borrás,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 17:23:21.032120,classic,N/A,5
+40,206dd1c5-b856-44e5-9044-173622f19511,Miguel Ángel Cirino Río Barceló,Barcelona,"Rambla Casandra Navarrete 3, Ceuta, 44220",2026-05-01 22:00:08.903137,without_onion,8.48,5

@@ -1,0 +1,431 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+53,d1a4755b-66ea-4900-b910-f2c4ad398e36,Estrella Calleja Arnaiz,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:10:17.417361,classic,,2
+53,2d2dea76-d89a-44dc-be1a-673d9b1b019b,Estrella Roda,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:21:59.156620,classic,,2
+53,d8c49eb1-9488-4434-9ad5-a03d2ea9347b,Nazario Zabala Salvà,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:42:52.150891,classic,N/A,5
+53,6a16d179-4f64-429b-8516-c3e386e9f6bf,Clotilde Duran Ibáñez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:20:08.783203,with_onion,N/A,4
+53,ed7ae4fd-162f-4e3b-b596-f2a2961c1468,Serafina Jaén-Torrecilla,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:49:00.149095,vegan,12.26,1
+53,9e9670ff-8389-4b84-801b-24e65877cc05,Marisa Gual Blanes,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:56:53.603335,without_onion,13.18,3
+53,d5812993-dfa4-4647-a0e8-db3a2a8b0bee,Martirio Vendrell Arribas,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:24:17.176379,vegan,10.81,5
+53,7aa24889-cb82-4924-a411-d6b7808e2d4f,Hermenegildo Tejera,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:41:24.437698,classic,12.03,4
+53,2c687413-ba8b-4811-82fa-73f90440784d,Eusebia del Murillo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:41:14.950727,without_onion,N/A,4
+53,77abb2d3-0b13-460d-b449-d4d4d0a02e38,Susanita Sarmiento-Enríquez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:43:39.375558,with_onion,11.33,3
+53,7eecc67b-a422-4560-98e0-7fded734183b,Lucio Jerez Aranda,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:53:01.825940,without_onion,N/A,1
+53,5f9eef03-5665-4473-8d2c-54165f0465f8,Martirio de Ramis,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:33:34.293967,without_onion,,4
+53,5bf7521c-1e2c-493a-bf5c-c9ef2641f637,Leonel Amo Mármol,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:18:02.671288,without_onion,,2
+53,e7276ea0-d50d-426d-98a6-9ed30a15431e,Damián Bustamante Llopis,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:28:01.108403,classic,N/A,2
+53,631a3166-dff0-4d6b-a1db-0ae5ccf2d2c5,Leonardo Manjón,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:50:23.715733,with_onion,,1
+53,28166cba-4eb8-4aa7-9029-59cf74a47e46,Daniel Agustín,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:48:23.223960,with_onion,N/A,1
+53,994a7e12-b533-40f8-bcf9-12f71aa52d59,Sarita Caparrós Galiano,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:02:53.183582,classic,10.42,2
+53,8567d327-a724-4b4b-accc-795d18b7d3d3,Vilma Arce Morillo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:24:02.114207,vegan,N/A,5
+53,f9130928-0458-402b-a591-ab3c6ca040dd,Modesta Malo Rojas,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:54:18.784078,without_onion,12.59,4
+53,e0551aa5-c8c2-45ee-b100-fa41f0a284e6,Anunciación Martorell Sola,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:09:49.536166,with_onion,N/A,4
+53,b6f88b6f-0151-4b46-afd8-4b2f816af115,María Belén Octavia Peña Girón,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:50:38.052232,vegan,8.73,3
+53,bff88c5c-6470-4acc-b449-2fb24c2b98e6,Josep Cabo Clemente,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:19:10.365066,without_onion,11.91,5
+53,4b92edc1-9f0e-4857-a0c2-5f04fc52ef56,Palmira Jover,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:52:10.651233,without_onion,,3
+53,0fdc2591-2fbb-42be-9b24-d23e0bef211f,Anita Oliveras Saldaña,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:55:20.594240,vegan,,4
+53,a098c818-c8d8-4510-bad3-a2a7a16dd7e8,Omar Santos Frutos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:02:17.742626,with_onion,N/A,2
+53,d399c43c-93fc-4aa6-96dd-52230c2797a2,Elisabet Bejarano,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:45:20.208529,with_onion,N/A,3
+53,2a50188c-613d-428c-a279-5b5bfb2b04f8,Maximiano Expósito Rius,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:45:49.463192,with_onion,13.85,3
+53,684b76d8-b76d-4286-aff0-bd4c910ace9a,Emelina Belén Bernad Llorens,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:37:35.919411,with_onion,,2
+53,bc1ac7d7-8de1-4275-ba3b-01a35ff4e507,Rosenda Asenjo Bernad,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:20:19.906449,without_onion,7.86,2
+53,cd32274a-cc75-4fd6-8f02-3b0692d79676,Clarisa Ema Beltran Rey,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:12:53.367771,without_onion,N/A,3
+53,6bcb0b33-79b6-41fe-b428-8987b1439dc8,Fátima Purificación Blanca Ramos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:19:40.307640,classic,6.26,1
+53,3faad723-836b-4c07-8a5f-294304d85ca8,Asdrubal Blanca Almazán,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:05:24.685926,without_onion,,2
+53,8fd863fa-2cf0-4ee4-a0da-be9e895f1e23,Sebastian Lasa Leal,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:16:08.114700,vegan,,1
+53,9a2c96b3-982b-44d9-baab-248714964330,Artemio Tomas Hoyos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:30:53.223966,vegan,N/A,1
+53,1307596b-1910-41ca-9acd-7d56b0259e18,Nydia Mosquera Muro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:38:59.838739,without_onion,N/A,4
+53,ef5b5cea-c24c-479e-b760-cea103389869,Luciana Ávila Prats,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:25:57.258758,vegan,,4
+53,f2d986a3-101f-4db6-a073-40ad06da4d53,Mohamed Folch Ochoa,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:23:32.039227,vegan,14.79,2
+53,6a3fe7e0-46d3-4f36-b406-01d7b88b626b,Claudia Almagro Revilla,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:27:38.103609,vegan,,5
+53,ae68a93d-cba1-4cc9-a138-1247f4861dc8,Espiridión Barberá Vara,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:02:54.194366,classic,,2
+53,94c69b01-e4f7-4ef7-b6ac-38f676d79a6b,Loida Pavón-Badía,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:00:40.775902,with_onion,8.03,1
+53,23781e9f-734e-4d64-b299-8d63dc298505,Isaac Busquets Borrego,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:07:10.244054,vegan,,4
+53,2771b53a-23d2-4860-b0ea-e4ce6d2af680,Lázaro Mir Posada,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:37:03.467157,vegan,,3
+53,d8bc0b27-a60f-457f-8834-698121696a8a,Rosalinda Pineda Rodríguez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:36:45.479680,without_onion,N/A,1
+53,4664485f-104d-44c0-9231-cdff28c0ae79,Edu Soto,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:26:06.940738,classic,,4
+53,93babd25-2356-49de-ba03-64d847c24699,Mateo Gascón Bernad,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:40:14.251222,with_onion,N/A,3
+53,6a1d6ca2-f07e-4176-b904-8f97279532b6,Roldán José Luis Segura Segarra,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:03:43.262650,vegan,13.98,1
+53,d3ea7058-6d37-4ead-9958-d2444fae6a0a,Petrona Jordán Ropero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:45:51.243709,with_onion,,2
+53,ff40a9c2-2fdb-470b-8daf-f13ea3388b83,Hermenegildo Vilar Robledo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:59:37.700359,classic,,4
+53,5a9c9ca5-9e53-49ff-8759-95a30976bf0c,Ulises Pino Vélez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:27:10.878584,with_onion,,2
+53,41e6450d-c3b0-44d5-a0c3-d53f1ce87eae,Josefina Talavera,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:07:08.327199,with_onion,7.26,5
+53,b895dfa8-6396-45f8-9eef-5b48643146d4,Berta Muro-Elorza,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:38:35.645353,with_onion,10.34,2
+53,1b878ad4-e9f3-45d1-a1e1-fd6dfe0ad335,Valentina Capdevila-Vélez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:48:57.057172,classic,N/A,5
+53,7169d1ab-8955-4eb8-ad30-013c94964bc9,Silvia Soriano Mariño,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:13:03.115456,without_onion,13.2,2
+53,838ea2f8-3554-4df0-b6f4-ab5af75e5a08,Estefanía Eli Ribes España,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:09:16.722420,with_onion,7.0,2
+53,2daa2372-3ee0-43c0-b546-a69392f1df2e,Estefanía Perea,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:39:02.793678,with_onion,N/A,2
+53,c3bcf168-529a-4a9f-968a-fab4af1df01b,Jorge Segovia Diez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:55:02.718578,vegan,,2
+53,bab4e967-1182-4e02-b27c-0180f8b8dcf7,Máxima Quirós Amo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:33:57.302195,without_onion,N/A,4
+53,60372dc0-d5a3-49c2-8399-430eac7f5645,León Alvarez Prieto,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:06:17.873682,vegan,N/A,1
+53,cf4d318b-c653-4466-816b-e1e09f2b2760,Berta Baquero Gabaldón,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:18:15.077885,classic,N/A,2
+53,923be818-0c41-4955-b192-658855d3dd45,Bibiana Acosta,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:26:50.493844,without_onion,N/A,3
+53,c29e974f-8b25-4eae-ae1c-764f8b2eb002,Lola Cordero Martínez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:14:11.024666,vegan,12.14,1
+53,49a5445f-2edd-4a4c-84da-53b6143c334b,Aarón del Arrieta,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:14:54.064784,classic,11.64,1
+53,78ef94b0-1940-4410-9236-455086d33b1a,Chucho Nicanor Girona Verdugo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:25:58.123200,with_onion,N/A,1
+53,a6e1aff7-07b6-485f-b3e4-ef4feb1ee219,Sol Sánchez-Villar,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:47:39.915751,classic,N/A,3
+53,128a8001-225b-465d-bcfa-143f12b91b06,Martina Esther Coloma Gutiérrez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:05:28.327165,classic,,2
+53,0c155a83-d091-49ba-95e7-ca377e35fea6,Yaiza Oliveras,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:35:19.994942,vegan,,2
+53,5e6155fb-0c1f-4153-be76-b9cd68673ce2,Daniel Valdés,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:12:28.915952,classic,,2
+53,01bffdfe-7033-4c85-b599-03f10f0f80f0,Buenaventura del Miguel,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:05:22.022085,with_onion,N/A,1
+53,5b4108e6-525e-455c-a6a1-932636b0a830,Jose Antonio Andrade Nebot,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:13:47.171071,vegan,,3
+53,06571552-1642-4cbe-99f9-82d161057ed8,Héctor Fonseca Paredes,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:48:56.923962,classic,,5
+53,82804781-3e4f-415d-8fc8-13868c162566,Jacinto Alcalde Piñeiro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:37:29.556502,vegan,9.19,5
+53,0d3a3943-3a27-4ce1-a1c6-472bf69bf221,Ángeles Yáñez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:39:30.396591,without_onion,7.61,3
+53,dbcbcb52-75d3-42da-9cf8-777b7a6da559,Julián Barrera Vélez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:40:29.830521,vegan,12.24,3
+53,ac6ffe1b-0f4b-45aa-9eaa-cb89b5d208fb,Ximena Torres,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:37:32.982667,with_onion,,1
+53,5372ddda-b180-436c-8fe9-26674a19bd42,Rosalva Rivero Barranco,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:49:23.753985,with_onion,5.49,3
+53,8cb957b7-df63-4e32-a4ac-79aaff46103f,Aureliano Pinedo Alegre,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:39:44.772319,without_onion,N/A,2
+53,1840cf96-a94f-43a7-8a99-c69f14314153,Josep Cifuentes Sans,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:27:21.925692,classic,12.54,5
+53,2f8e633a-2d23-4df7-aab8-b56f0583cf11,Eugenia Fonseca-Torre,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:26:40.844426,without_onion,,4
+53,1ead485e-37c5-4c12-a6ea-fe24d03e9e22,Baldomero Escudero Bertrán,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:55:40.760667,classic,,2
+53,a6636035-97f8-4f8c-a0f0-427f0d6b2ff0,Hernando Taboada Amorós,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:00:06.699189,classic,,4
+53,87fa17ee-59fa-460c-8ea5-0fd9eb7976d4,Carolina Sans Lobo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:29:14.574998,classic,,1
+53,cbb323a1-cdb7-416e-98d6-f61b7249db53,Micaela del Llopis,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:03:36.518814,vegan,11.27,1
+53,f2f99bb3-3c54-4734-9d76-a056c45ebe77,Gala Vallés,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:07:20.906391,vegan,N/A,4
+53,19d2118f-650d-4205-8aef-167a51794531,Sancho Gonzalo Morillo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:48:35.656194,with_onion,,3
+53,9998bdb2-93f3-46b9-98a6-6f5c39f5f0d9,Jonatan Coloma Campos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:08:30.113692,with_onion,,1
+53,4bfc5051-01d1-4516-bfbc-95b74beffb84,Alonso Arce Landa,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:56:00.730904,vegan,,2
+53,74f14ddd-76b3-46cb-898e-3a1ed8d98cf9,Román Martin Benito,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:27:05.909143,without_onion,6.68,5
+53,8e85855f-8229-4098-8973-d9cdd61f022a,Baldomero Barberá-Casado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:19:56.350839,without_onion,N/A,3
+53,6ccf4086-bd56-49ae-adba-8d0da68e6ca1,Dominga Gallardo Rivas,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:36:13.723811,with_onion,10.03,4
+53,e067adb0-cfd2-4e83-9358-d3f046ec0477,Pili Candela Zapata Ramírez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:36:58.968261,without_onion,6.15,1
+53,62040fe1-518c-4332-8a4b-af8a0151143c,Leyre Serrano Luján,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:19:08.048977,without_onion,,3
+53,f93eaf6f-a92b-4061-afbf-d99549d925e3,Eustaquio Peñas Real,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:52:18.590782,vegan,,3
+53,0481eb20-9997-4f4a-8461-cb90ab89387a,Carmelo Félix Ramón Pascual,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:32:29.087604,without_onion,,5
+53,d6443fd6-a15b-440e-a759-e4b0169bbe4e,Héctor Aller,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:07:20.073505,vegan,,4
+53,12ba915f-e63b-463f-844b-188f4e3ecde6,Pastora Huguet Plaza,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:49:05.631064,classic,9.05,2
+53,79c5305b-3022-477c-bdc3-74d3e6073237,Jordán Sastre Calleja,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:15:54.021485,with_onion,N/A,3
+53,9941e50b-ee61-4e38-901c-b58dcaa5be15,Ainoa Sevilla Gomis,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:02:02.087344,with_onion,,1
+53,368cf54d-fddb-46f3-bec4-8f1bca5e1569,Trini Vicente Chamorro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:59:48.927131,vegan,,4
+53,15469838-390e-44a9-97c8-ca0dee914983,Fidel Mancebo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:05:25.331790,classic,N/A,5
+53,2d3052eb-7eed-4580-85ae-338cf922d045,Apolinar Iniesta-Barceló,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:32:41.593105,classic,,3
+53,64bb8df0-b659-40ce-a916-7a8f4a0d9bf1,Reinaldo Juan Luis Izquierdo Duran,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:32:57.408738,with_onion,N/A,5
+53,c12380ae-94b2-42eb-85bb-a40dbebc10eb,Vinicio Cabrero Casanova,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:08:50.695422,classic,10.85,1
+53,4affc870-a48c-43ee-ab75-0a0d245639b8,Almudena Almagro Gomez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:53:56.856330,with_onion,,3
+53,67dccc22-04c6-4747-9927-e0beb1d16afe,Herminio Ruiz Cortina,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:27:03.953039,without_onion,14.22,5
+53,4a251dea-b895-4644-88a6-2278e43b6765,Ale Teruel-Frutos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:37:02.136973,without_onion,6.21,5
+53,a606c9f9-0cc2-470a-845e-5957fe053840,Juan Rosselló Valbuena,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:04:21.413104,without_onion,N/A,5
+53,aaaf82fc-83a7-418e-8dc6-fa68d372ee19,Amando Tamarit Gutierrez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:16:58.508885,vegan,,3
+53,8698b2b9-5b1c-4387-afa6-c873572f1740,Felix León Hoz,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:06:10.425787,with_onion,N/A,1
+53,055dcd44-2b62-4f7b-ab08-635e26a28ccf,Trini Blanco,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:30:56.811329,classic,,5
+53,331fda35-b0b7-4907-8b57-c47dbe7f8ebe,Isaías Campo Ros,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:38:48.106354,without_onion,N/A,2
+53,30e7056f-9e81-4418-a4d0-9efffd78afec,Zaida Olivé Blanca,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:39:50.561482,vegan,,3
+53,4fc229de-e858-420f-a1d5-128b2319264d,Salud Cuesta-Galván,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:52:55.398913,classic,N/A,1
+53,cc3a5675-8387-4530-9e72-5680fa37adf5,José Ángel Polo Azorin,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:12:07.759497,classic,N/A,1
+53,39ebb5d6-2c66-480f-a2d7-aff94a20b488,Clemente de Mariño,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:43:23.465086,without_onion,N/A,5
+53,ecfbd1b6-b469-4810-90c3-1f745a98e1a2,Modesto Baños Sanmartín,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:52:12.105024,vegan,,3
+53,fd04998f-9d3f-4492-9d8f-382a16bdba34,Edmundo Torrents Expósito,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:07:57.994364,vegan,,5
+53,9e79ef28-5706-4284-93c2-7e3bdc3a6e47,Moisés de Canales,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:23:58.445008,vegan,N/A,2
+53,f7d5e7dc-c41e-4e1d-843b-9fb2c0d3d7a4,Ceferino Llorens Porcel,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:46:10.388249,classic,13.93,3
+53,915a05bc-7216-4fe4-a3d2-3e2165c8c319,Maristela Azeneth Zabaleta Almagro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:43:22.841620,classic,N/A,5
+53,a7bf4cc2-bb4c-4cbb-a7e9-2b9e4cc90763,Paloma Yolanda Mateo Trujillo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:54:22.323116,with_onion,8.79,5
+53,07f5eb7b-e75e-47a0-ba6b-e1a8a19533c2,Valeria Jessica Arellano Campos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:07:25.930051,with_onion,10.69,2
+53,c1bbfbb9-2643-4ae6-b215-ed742746771b,Javier Gabaldón Jaén,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:37:46.905667,with_onion,14.59,5
+53,eaf08285-6097-4a1d-a84f-d0f81b8617fd,Emilio Glauco Barragán Casal,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:51:42.943059,with_onion,,2
+53,c7ff4517-db69-410b-808e-669af6904255,Reyes Alejandra Valdés Machado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:16:15.245508,classic,,1
+53,f8574113-f653-4f34-af71-f7dccb7fc04f,Paloma Camps-Martorell,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:09:16.545095,vegan,,3
+53,0da9ccc9-9642-4dd1-82c3-5f5ec47cdf5b,Jenny Téllez Palmer,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:15:08.253814,vegan,,2
+53,555e6843-23c1-480d-9a8c-bc642b794cb5,Cándido Gracia Lobato,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:32:15.648350,without_onion,,2
+53,5a8dd11a-7778-43cb-b6e9-7996d9c809b8,Nazario Lara Pinilla,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:46:53.320587,vegan,,5
+53,ec50c0ec-a9fa-4354-ae21-619d2be33fac,Pánfilo Salas Rocha,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:41:43.492375,classic,10.38,4
+53,de9216b4-f896-403b-a75c-968eb2892ddb,Bernardita Genoveva Beltrán Caballero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:02:28.325981,vegan,,5
+53,fcdca03d-64e3-4d55-8e20-0f5e4baa8706,Sofía Villegas Carvajal,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:46:24.787439,without_onion,,2
+53,98057244-3b83-4300-b28b-56dee0eee4fd,Melisa Lucas Lobato,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:06:14.127356,with_onion,,4
+53,87e9017a-bee5-4eee-9c9b-e82ad219ab29,Inocencio Aguado-Español,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:15:09.117181,vegan,N/A,2
+53,3cbd6344-0887-4f84-95e1-0200a297a40e,Roberta Zabaleta,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:04:51.375300,vegan,N/A,2
+53,2f92e8f8-b460-4ee7-80d7-8520a2818227,Priscila Sastre Jiménez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:22:50.951298,classic,N/A,2
+53,f3f76b55-401d-4fea-b115-dfd0200ae1af,Sebastian Borrás-Porcel,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:18:29.032434,with_onion,,2
+53,5b6ec8db-7cad-4c40-b3b4-8c6cb89b01ad,Aurelia Peña Garmendia,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:01:59.934175,without_onion,9.64,3
+53,f68cb770-8958-4924-9597-948480d36a3c,Lucio Oller Agustín,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:04:41.801062,classic,,2
+53,9edc3daa-cd3e-466d-b139-d309edb874f0,Eladio Durán Garay,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:56:47.346594,with_onion,N/A,4
+53,c838e87b-d321-4828-90e5-67a6f90a28fc,Ruben Manuel Espada,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:05:43.048039,with_onion,6.27,5
+53,d2e7db2e-2b77-477a-8609-75a63d671bb9,Begoña Ángeles Hervia Cuéllar,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:43:06.297832,classic,N/A,3
+53,9b0982ac-b062-4fd9-92c0-30e5702ad12a,Francisco Jose Arnal,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:49:12.415781,classic,,2
+53,f3d650af-a674-46d4-882a-c865ba35df1d,Gastón Tapia Simó,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:17:29.245413,with_onion,,2
+53,a4d6379e-9523-4748-b93c-b9ae88f83b96,Joel Casanovas Asenjo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:37:00.301656,classic,,4
+53,b43d7344-c31f-4352-b3a9-f151290d94ae,Sabina Llorens Llorens,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:52:33.682029,vegan,5.95,3
+53,8ac7a7f6-c249-41b4-971c-dcf2810067f5,Amalia Sobrino Tejero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:06:11.876736,classic,6.79,3
+53,17e6ce1f-18e5-4787-92cc-a412565c8c4f,Ruperta de Pedrosa,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:07:01.125945,classic,,3
+53,5f89bf56-4b33-476e-821b-fb47df008c53,Micaela Corominas Vicente,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:43:37.178316,with_onion,N/A,2
+53,b97239ec-b33a-41b5-af9b-1911d89e86bf,Diana Gallardo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:25:36.035772,classic,11.27,3
+53,10eb4d0c-dc20-48b6-a1af-7630326936f3,Dionisia Pineda,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:26:13.957362,without_onion,5.17,4
+53,7eb3424f-744e-4dee-aadb-f6ccc27f8205,Severo Coll,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:58:40.496545,vegan,8.33,2
+53,17065966-f047-4bf7-90a8-b619924309b8,Román Caro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:12:04.476534,with_onion,13.74,2
+53,72180de7-0161-4834-b327-9fa1d6344bb9,Tadeo Tomas Vazquez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:30:13.760602,classic,12.22,4
+53,fb4c5719-eaef-4242-8b6a-0341464587b2,Fidela Zorrilla Casares,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:21:50.579986,vegan,,4
+53,17b7c655-c65f-4447-accb-4de36715014c,Encarnación Soria Ojeda,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:06:45.854690,classic,N/A,3
+53,71b11c56-8201-4709-a0f7-532c61f3ad63,Constanza Sanchez Simó,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:08:34.093767,classic,,2
+53,1e623433-c1c1-4966-8e17-4789596d255b,Demetrio Haro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:21:19.660867,vegan,6.14,4
+53,b333110c-99c9-4b68-9cda-d7d4e9f73d78,Clímaco Andrés González,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:44:23.265634,vegan,N/A,5
+53,897d3c1d-c4e1-45bb-b5ee-9cc3cc79fcdf,Haydée Gracia Bernal,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:32:16.289568,classic,11.29,3
+53,ab426c07-7f66-40a6-97ab-e0efe62ef1d2,Candelario Muro-Alegre,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:08:20.601896,vegan,,5
+53,211adfdc-4a03-4938-80d1-6cebfd85001c,Eugenia Romero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:16:19.081180,without_onion,8.99,4
+53,ce33c294-4fa7-4080-b78a-21c5719a7250,Alejandro Castrillo Cervantes,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:53:14.814606,classic,,5
+53,2784ab37-9244-4ef7-9e78-1ab96667ce1c,Humberto Jordá Carrasco,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:39:34.425962,with_onion,13.76,4
+53,ae35c58c-e1c6-4414-a631-8a900b89d503,Carla Egea Gil,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:36:59.570479,vegan,8.19,5
+53,8f7973c0-cd32-41ac-ba17-ad2574023ab7,Amparo Fajardo Andreu,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:28:48.181148,with_onion,14.73,3
+53,d1f18688-ad75-48ed-8203-777376e4123f,Elba Sofía Arteaga Laguna,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:31:25.180325,vegan,13.69,4
+53,9d873751-9b32-4704-a427-6f87ce742241,Adelia Gámez Robles,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:26:03.063480,classic,8.18,1
+53,e69db527-3f8e-4f7a-ad83-7650626eba40,Juan Antonio del Nuñez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:14:10.161838,vegan,N/A,3
+53,8ddfb403-299e-4eb2-a8c6-128988217bcd,Emelina Lorenza Herranz Fuentes,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:22:05.617041,without_onion,N/A,5
+53,768f8085-aca0-44fe-9d24-e9e7d0c4e065,Claudio Barco Dominguez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:03:29.569063,vegan,N/A,5
+53,f80fb348-f446-4412-b2f3-c319c78e761f,Maura Fortuny Saldaña,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:09:06.298422,classic,10.7,2
+53,9e8d5d6f-b8f4-4151-9c7a-9d588e86aaab,Miguela de López,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:20:22.160533,classic,N/A,3
+53,28dce9ee-8d39-4b8b-9bb2-06cfbebf765a,Virgilio del Mancebo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:58:56.861642,classic,10.81,4
+53,3ff48dcc-3881-45c9-a86c-c952c2d0a756,Pepito Ribas Escudero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:28:09.366398,with_onion,,3
+53,34d11df4-abcd-4041-910a-bcd8ab44947d,Eligia Nadal Viña,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:09:54.076465,without_onion,14.9,4
+53,378c0dc8-eaa6-4f70-b1e3-3afc2e49907f,Benito Kike Valcárcel Infante,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:01:13.098186,with_onion,,4
+53,aaa4f579-f035-4b1e-a17f-077220e51322,Daniela Trillo Valentín,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:35:59.978047,vegan,N/A,4
+53,c1738b81-38f6-40ec-a895-6054b581bc09,Casandra Cáceres,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:19:58.896803,vegan,8.54,5
+53,2ca4c058-1505-4f36-80aa-7f5a832a95dc,Artemio de Catalán,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:11:47.909192,vegan,11.74,4
+53,ebc66bf1-6cb2-48c4-9c36-c1fc6ef66c4f,Rosalía Carranza Royo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:01:13.630724,without_onion,N/A,1
+53,c1747bd6-3ff6-4eff-94f6-9133d7151136,Marco Osorio Alfonso,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:20:33.872454,without_onion,N/A,5
+53,1b2ca16b-aac2-4668-83c7-2375eb937c12,Espiridión Echevarría-Rius,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:08:56.038161,vegan,8.38,5
+53,df07de6c-26cc-45b7-aa52-d4481acc571a,Judith Sacristán,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:23:11.064209,vegan,,1
+53,83cc46e1-9ed2-4587-8808-b213297f9795,Néstor Amor Pujol,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:06:16.960295,with_onion,13.06,1
+53,e55fd52f-22f3-4073-9d99-6f0a34c9402d,Visitación Solana,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:02:13.756751,without_onion,,5
+53,3306e708-9f0a-4f5c-900f-55969abfc9cc,Mariana Pérez-Moles,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:33:09.734373,vegan,N/A,3
+53,0334d22d-86b4-441d-a1b2-9a62cdab64fa,Víctor Pulido Manzanares,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:18:38.891528,vegan,N/A,5
+53,c5ecdfe6-c891-424f-9f2f-46035f40af6c,Sabina Salcedo Viana,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:56:16.075731,vegan,N/A,2
+53,95daf127-611f-46d7-9468-4b4e6e0bb20f,Fernanda Maura Arroyo Castrillo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:40:33.112137,without_onion,,4
+53,16a47717-37f4-4a74-a1b8-a4f5faf58d39,Lilia Gimenez-Tormo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:34:24.524951,classic,N/A,2
+53,d42a71db-d0cb-4e54-ab80-3997461267b2,Gracia Paz-Company,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:38:46.699465,with_onion,N/A,5
+53,fdf8aaa4-8e66-4ad4-b036-07a7b7184578,Maxi Beltran Figueras,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:53:36.988741,vegan,N/A,5
+53,2d6ca863-a145-4242-8c2c-1edaafe234e5,Lorena de Rivas,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:58:45.469683,vegan,N/A,5
+53,239af21e-a1af-4b55-bbde-d500c931f094,Ángel Montaña Cabo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:09:09.004518,vegan,N/A,4
+53,4f05bf6c-afce-4d06-87c9-5e50513862a9,Rafaela Montaña,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:03:19.474307,classic,11.39,3
+53,f19ba3e2-94eb-4886-93bb-acaf8c434f04,Gala Luís Coello,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:36:51.882274,without_onion,9.99,2
+53,df07d1aa-ed21-4555-90c8-b552d392e5c2,Benigno Guzman Cornejo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:03:48.908989,classic,9.87,1
+53,0f02da43-5ba6-483a-9e60-ca8a2790c832,Rosalinda Sala Márquez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:06:20.038317,vegan,6.48,1
+53,7a11fbe8-05e4-4aea-8053-f607d12b9f1c,Ricardo Bermudez Guillen,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:40:43.952479,classic,N/A,4
+53,e8e25321-4b92-461e-8bb6-820cb4d22837,Blas Gual Sanmartín,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:55:07.621359,classic,N/A,3
+53,f6eaa804-5e77-4066-818c-162f5bf0f9b8,Fabiola Lucena Novoa,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:18:49.184561,classic,,4
+53,dd67fe9c-8565-4ffd-9ba9-a5928f097e8f,Daniel Rocha,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:13:19.832842,with_onion,N/A,4
+53,2a0e8b02-b97c-4d2a-a439-ab4ae198ab87,Leonel Juárez Montalbán,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:48:30.766035,classic,N/A,3
+53,c803aa72-f3a2-4b86-930e-d674e8e5b0d9,Aurelia Milla Plana,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:04:19.536566,with_onion,N/A,1
+53,66bf8625-5f6f-40fa-bda7-e794b1f9ae86,Olegario del Falcó,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:23:29.026820,classic,,2
+53,a9f62176-ae9b-478a-a64c-6c72d97c99aa,Noemí Palomino Aguilera,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:40:38.687756,with_onion,13.08,3
+53,fe36dda8-6ef9-433f-9f8a-a1df3dea53ab,Hilda Botella Aller,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:04:54.460356,without_onion,N/A,3
+53,ff124923-6bfb-4e17-85e8-553a5784ed1b,Carla Gálvez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:21:11.399731,without_onion,N/A,4
+53,edc3919f-1e5b-4969-932b-69200a266425,Eliseo Bartolomé,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:39:45.486193,classic,6.95,3
+53,1ddd14c4-a907-43ce-8c3b-0a2c325e0a25,Prudencio Rosell Camps,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:31:42.486651,with_onion,8.44,4
+53,7241fb8a-4cf3-4f3d-bd51-fc5b4e62fc0b,Aníbal del Mínguez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:30:06.869882,with_onion,11.54,5
+53,ac8ee034-4c54-4051-a927-42b00a25ab14,Trini Palomino Macías,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:52:52.503227,vegan,N/A,5
+53,dcfec4ce-0ac8-4548-ac34-91f9d233b4c7,Nilo Llobet-Román,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:02:13.326928,without_onion,N/A,3
+53,715c1523-e49b-45ac-b512-e081369765d3,Casemiro Hipólito Iñiguez Vélez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:02:05.405411,classic,10.87,1
+53,90c041da-f504-4b55-89bd-d3f056622e8c,Ligia Tamayo Casado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:02:52.125037,vegan,,3
+53,7f767e6f-d00c-4bf2-a12e-7a065d6c3ba3,Juan José Tena,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:28:31.773172,with_onion,13.63,5
+53,8f6f9383-3645-4a16-b7f0-ad3e421e02f8,Marina Gordillo Torrecilla,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:31:14.127027,vegan,,2
+53,be94a681-c831-4bf4-86e0-5cf265849d6e,Jafet Aguilar,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:05:06.025231,without_onion,12.81,1
+53,65964d18-714c-4315-a78e-c5df223398fe,Guiomar Amalia Morales Lara,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:47:53.438350,with_onion,7.82,1
+53,06f478b8-3c12-4d22-afbc-b59ec21666b5,Víctor Nicolás Vazquez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:40:15.576878,vegan,9.85,4
+53,f0adc559-3f32-478f-8e6d-709d8cffeb5c,Adalberto Rovira Villalba,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:30:02.214997,classic,7.19,4
+53,4b8939ff-2de9-417b-be67-bda63c15e59e,Nilo Múñiz Campo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:07:04.695993,classic,12.26,5
+53,32185ea0-97dd-4267-904e-31f6a3da96af,Humberto Tamarit Alcázar,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:52:18.660100,vegan,,4
+53,14c5d9d7-ddd6-455b-9c60-b950ed6bb512,María Ripoll Vallés,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:37:51.315659,with_onion,,5
+53,6b550875-5376-46e9-931f-58fe325d5bb0,Carmelo Salinas Cerro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:05:47.794378,classic,,5
+53,9b30b2a4-6d94-4c10-9fca-860df248174b,Margarita de Arnal,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:42:30.422182,vegan,,1
+53,817b708c-2726-496e-93ef-eb7a5536776e,Fermín Sandalio Ocaña Canals,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:01:43.299790,vegan,,2
+53,d20eb60f-7b05-4a3d-8cf3-c94b637a1faf,Josep Polo Rosa,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:20:39.028842,vegan,,5
+53,44aa6d6a-4009-44d7-b453-535705a8c75d,Francisco Javier Acero Gelabert,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:22:08.779810,with_onion,N/A,4
+53,5c826eff-530a-44d1-8865-351ce656b7ef,Albina Sáez Folch,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:52:44.874830,classic,N/A,5
+53,51730d80-0b89-4b57-a9f2-6b1b650bd571,Pepita Salvador Nebot,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:21:36.445747,with_onion,N/A,1
+53,58a83ece-b772-4538-a2cd-cee944f73710,Rebeca Fabiana Larrea Franch,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:52:29.164777,classic,12.27,3
+53,57b68ee6-ba73-48cf-a7d4-85ff7aed1547,Adela Mayol Robledo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:04:06.291901,with_onion,11.84,3
+53,1bac6bba-2295-4b0e-8cfc-bb80d86dad69,Carmelita Roxana Llamas Reig,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:30:22.075186,without_onion,N/A,3
+53,4fcb606c-560a-41d4-85c5-996e9dfaf78f,Norberto Villegas Infante,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:18:12.597133,vegan,10.44,2
+53,896074e1-de31-4376-95d2-959290e2c945,Cruz Mora Gisbert,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:47:56.485046,classic,5.24,3
+53,1edbf251-3295-45e0-b310-29c4c3a18f40,Aitana Sáez Corral,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:11:22.505023,without_onion,7.25,2
+53,87d6959e-5a2d-4243-a65a-4acedb1c2bcc,Piedad Rocamora Palau,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:04:30.483302,with_onion,N/A,3
+53,04d6b26d-b31e-4b43-a035-af83c8b9518e,María Carmen Castro Vilar,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:02:50.408312,without_onion,6.07,5
+53,87f38945-9de0-41ba-8da2-f22db65a4630,Mireia Montoya-Villalonga,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:59:12.586409,with_onion,,3
+53,418416cf-40f9-454f-b01c-b274ae81668c,María José del Pintor,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:02:54.524519,with_onion,N/A,3
+53,d0a19fc9-b507-46bf-83dc-9c62b128c8e2,Lupe Garriga Torralba,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:41:22.780228,classic,,4
+53,f2481026-c210-4c0d-bf86-a30ea157d78c,Aníbal Pagès Arcos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:12:22.871902,with_onion,7.0,1
+53,feb23f02-0b65-43ea-b739-fb568fbc748e,Chelo del Lorenzo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:24:06.572441,classic,,3
+53,ea92386f-179f-4637-862a-367fda3673b9,Alfonso Valero-Salvà,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:57:44.717402,classic,,1
+53,2ea95f9f-9fce-4cde-a9fd-565d3966800b,Ángela de Jerez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:31:34.045978,vegan,,4
+53,07c6e289-1382-46a2-ba40-7edfb9b56095,Marino Carrasco Cuadrado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:48:23.223281,with_onion,6.05,2
+53,bc76c1dc-40a7-43c4-a66c-99987e971038,Belen Mayol-Vendrell,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:58:27.914613,vegan,,5
+53,3cd93311-0a4c-4193-9a29-63a4a0d0bcd1,Victor Rodrigo Teruel,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:14:48.056066,with_onion,N/A,4
+53,0350dc66-9bdf-4957-b039-ee97a1ffcf7e,Ricarda Hurtado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:38:04.677158,without_onion,,3
+53,f2e34fe3-3474-4ff8-85c5-e7b1a5eb6bff,Débora Tena Calvo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:08:04.941610,with_onion,14.01,5
+53,d737cd2a-b28c-47b3-8df2-2f75857b1b90,Lucho de Hervia,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:26:41.853541,vegan,N/A,5
+53,e3c57d66-f59a-4c48-8765-51a025cb6078,Chema Calvet Cano,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:53:38.447136,vegan,N/A,3
+53,d3196739-784f-40d6-bb2e-a82f36db1f54,Eufemia Casal Espada,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:10:05.762314,with_onion,N/A,1
+53,403d7e08-0686-4a75-9b00-65fecd5ef5b7,Damián Raya-Solera,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:18:02.362728,with_onion,N/A,2
+53,640c933f-0b5f-4baf-bbcf-9a76ce32b5c2,Sancho Emiliano Diaz Méndez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:09:15.045628,without_onion,,5
+53,3a7dfad4-c077-401b-98bc-501bcd9dc9f7,Kike Santos Narváez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:51:00.394055,classic,N/A,1
+53,5d55562c-4738-4289-a5e1-d5b93e0a7492,Ángel Galván Olivé,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:03:27.515804,without_onion,N/A,5
+53,80f3852c-70cd-4962-969a-1ad48fe0744b,Narciso Zabaleta Marcos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:11:21.209149,vegan,,2
+53,a64f0a93-e36e-4766-a5e1-7b0d06eedb63,Lucas Bermúdez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:35:54.476805,without_onion,,5
+53,4356b592-19f7-46c7-9c5b-a52aec33b0e0,Gastón Dalmau Millán,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:33:28.232772,vegan,,5
+53,3f9d3689-63ff-4881-989b-d0898937ce7c,Adelaida de Pol,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:43:30.096931,vegan,5.67,5
+53,c060c34b-a881-4b30-9e6f-348a696c4278,Gabriela Noguera Barrio,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:25:12.854616,vegan,11.71,5
+53,b8fa4077-20d3-4922-8003-485fe077e613,Ileana Maldonado Páez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:55:46.117750,classic,13.29,4
+53,b5ea3dbf-7b8c-4c47-880c-8f16797b4db7,Lina del Calderon,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:06:18.463260,classic,N/A,3
+53,48c826c1-6407-4433-bfd9-831bccd2e84b,Apolonia Bauzà Ferrero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:53:50.510294,without_onion,,4
+53,42bca73e-e82e-43f7-95e9-d471bec0d1ea,Jennifer Sola,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:57:51.928221,vegan,,2
+53,f46688d1-be34-48c2-bf40-87a4bae0531d,Lucho Mayo Valenciano,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:23:22.792174,vegan,,1
+53,0c15fc67-704e-4822-b41d-8044cbe7e705,Emiliano Elías,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:11:25.516734,without_onion,N/A,4
+53,d0014677-2214-4d41-8dc1-918a90801d7e,Cristian Armas Arranz,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:24:40.517505,vegan,N/A,1
+53,d6da7ce5-0325-45f7-b19e-0e19332ccfb6,Paco Puga Maestre,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:53:53.691681,with_onion,N/A,1
+53,e91b134c-b153-4ec6-96d9-8e7eeda62a17,Luisina Solera,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:36:45.390535,with_onion,,2
+53,bcfffe94-aa4b-468f-ba80-8e268f77d3a7,Luisina Ayuso Borja,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:57:04.968484,vegan,,5
+53,16d20c41-229c-4402-810a-687f5e7f5361,Soledad Alfaro Chaparro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:52:56.134521,without_onion,N/A,4
+53,38b3efae-fc50-4b4e-9652-797c9636fef5,Estela Abella Cid,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:39:32.238694,classic,,4
+53,c4b518a4-471d-425d-b815-6e4ad1cba48e,Virgilio Cortina Alcántara,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:08:00.986637,with_onion,,2
+53,186596a5-c5d4-410a-8187-abc870514b32,Luisa Domitila Cerdán Cervantes,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:39:14.798869,with_onion,,1
+53,0bc37d95-20a7-4a12-92a9-58e1ed5aac67,María Pilar Bernarda Bautista Villalobos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:33:52.662717,vegan,N/A,3
+53,77774f2d-44c8-4537-88c0-32eb05ba6ab6,Teobaldo Borrell Bellido,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:37:26.238104,without_onion,,4
+53,d81cf2e0-e5b3-4fa8-aac6-a679193b1501,Leocadia Abella Canales,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:42:41.787780,without_onion,13.44,5
+53,4ee60266-de2f-48ee-9bbe-4273e47ee78b,Eli de Pablo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:55:21.629480,vegan,6.09,2
+53,91302223-6064-4c30-be45-5b62293ebfb8,Sofía Correa Barrio,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:14:38.416736,classic,,2
+53,5b9fb4bf-97c2-492c-8d85-a8108bf10482,Arsenio Cruz Céspedes Rivas,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:34:14.124431,without_onion,,3
+53,5c3a00f2-373e-4ba2-aa49-929176db401a,Julie Díaz-Gómez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:54:55.570951,vegan,6.1,3
+53,87655364-221e-4e73-bbae-9ef9abe5ab27,Dafne Ríos Llanos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:03:25.248529,without_onion,N/A,3
+53,7d77f23d-d272-443e-babb-d453c66264d3,Alejandro Cuenca Cal,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:14:07.048453,vegan,5.63,1
+53,f5230bba-1166-40a4-a8b8-ec67cd127130,Javiera Arias Lozano,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:14:40.760721,without_onion,N/A,1
+53,c4843b67-e56b-40eb-a167-81c57faca72f,José Luis del Gimenez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:00:47.856451,vegan,N/A,5
+53,779018d7-41ea-46ad-9034-4a8df9718756,Plácido Granados Amigó,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:35:38.118070,vegan,N/A,1
+53,337d562f-cfb4-41b8-834f-37a71ea1b6b8,Armida Tamayo Julián,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:32:22.793115,vegan,N/A,5
+53,4546d844-d105-4b50-88e6-edbae8d5d542,Hector Palmer Godoy,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:05:19.137230,without_onion,,2
+53,43d99b6a-c464-477d-9491-3170433a7f14,Chus Asensio Montes,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:36:12.443161,vegan,N/A,1
+53,7c560bfc-0a37-4136-80ba-6bdc21cb1d39,Priscila del Baena,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:20:08.039578,without_onion,N/A,3
+53,f30c0221-70eb-4327-b41f-e12f23940f24,Ascensión Benavente Piñeiro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:02:45.581266,with_onion,5.72,1
+53,382ce414-c273-4572-acc1-45018e489d02,Celestino Aguirre Anguita,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:22:30.965258,with_onion,10.64,4
+53,9093a2c2-eb4e-43c9-888e-970cde80a6e0,Lalo Valencia Adadia,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:54:16.353126,classic,N/A,5
+53,7fdbc094-2ce5-45c9-874f-e2038fbc09c7,Timoteo Bonilla Montalbán,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:01:04.479871,without_onion,N/A,1
+53,9d903c01-fcac-4de9-bd23-ce63d4a46639,Germán del Portillo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:49:17.438987,vegan,N/A,1
+53,f722a76e-d151-42b1-9331-cdcbe9e453f4,Samuel Santos Rosa Cal,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:02:25.377271,with_onion,N/A,4
+53,43431e47-5df5-4c8a-90ae-e48b2b853150,Ceferino Angulo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:58:45.640467,without_onion,8.83,5
+53,490cd541-2f65-47ad-bd21-812a46b5ffcf,Milagros Vara Aliaga,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:36:38.595698,without_onion,N/A,5
+53,5cc3083b-ba3d-4c92-bbf2-c389e3dccf99,Daniel del Mendizábal,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:02:16.058913,without_onion,10.26,2
+53,e7adb8f6-0b1d-42b0-9f15-66569e1fbcfb,Manuelita Tamayo Castellanos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:44:14.993309,classic,,1
+53,238f926a-3748-4396-95b2-1ff8aaac9390,Valentín Torrents Valenciano,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:38:58.756730,without_onion,,4
+53,6f0cfb46-0d82-4a14-89b0-b2abeb686139,Desiderio Morcillo Gonzalez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:15:06.045931,classic,,4
+53,bc9fbdf1-697f-4f1f-a3fe-a82f38540547,Agustina Ángela Alcázar Solera,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:44:02.932937,classic,N/A,2
+53,bc6bdaab-5528-4583-99ad-631dcc48f1e8,Chelo Cayetana Abella Sanabria,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:38:34.367592,with_onion,,4
+53,e9e1fbd3-a6b2-4e29-abbc-f85eb0586774,Fanny Alfaro Barroso,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:57:54.909718,without_onion,12.7,1
+53,65253510-8e25-4fb5-8e41-7968d5dbc597,Herminio Jimenez Ortiz,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:58:57.706851,classic,,5
+53,0a266fa6-2503-4e3b-ba9a-ba57aabc6786,Asdrubal Jeremías Figueroa Palacios,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:11:11.695861,with_onion,,1
+53,cfe199fa-fb82-4243-b654-126b1fa36d91,Telmo Martín,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:25:41.687901,without_onion,,4
+53,b4e0ac6e-94f8-4940-bd29-2ca58bc624e3,Andrés Morante Juliá,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:15:14.704173,with_onion,,3
+53,6f9e9fd7-a09f-4034-bb17-eb2b57d641e5,Octavia de Carretero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:39:27.312344,classic,8.52,2
+53,f14b2ef0-3317-4eef-9281-7e5a1b87a456,Cristian Barral Rey,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:20:23.460517,without_onion,,4
+53,559ede29-55ce-435b-8cc3-44d1bce41153,Zaira Navarro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:59:00.787634,with_onion,13.02,2
+53,58dfd19a-c1bb-4bf7-890d-a5793e11d2d7,Eutropio Viñas Oliver,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:06:15.128332,with_onion,,4
+53,a7fdc9a2-ef8c-4f8f-b26a-53e9c7eb2e8c,Pili Sala Peralta,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:43:41.607327,classic,5.24,5
+53,a4512f38-cf13-47b5-8f3e-99e3541b1343,Juana Oliver Terrón,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:43:22.517639,vegan,5.67,4
+53,b23b8872-2fea-4f6b-87ff-ff09656361f3,Guadalupe Amador Montserrat,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:36:06.516396,with_onion,N/A,1
+53,faf11a9f-7841-464d-b6d4-c6b926088816,Íngrid Cepeda Granados,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:47:12.968620,with_onion,N/A,3
+53,c7fb9960-9d58-473a-9c26-abe8dc28c95b,Haroldo Serrano Ayllón,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:43:00.503991,with_onion,,4
+53,f01d97df-e759-4a0c-9594-8813ff8143e8,Claudia Donaire Español,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:53:19.320684,without_onion,11.02,5
+53,368d60b8-8fbe-47f8-be8a-f7f90a4bdcec,Tristán Vara Prieto,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:24:19.537329,without_onion,,2
+53,fe1b0713-d696-4649-bc34-cf9c227335b8,Mohamed Miró Rivero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:44:01.808650,classic,9.85,3
+53,fb58ad18-0fa5-4c6a-9d3e-0a07260d1a7e,Martín Chucho Escribano Pinedo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:51:55.352234,with_onion,N/A,4
+53,9bbf4b58-5482-41f8-bb0e-1e61b862f74f,Estefanía Manuel Bustamante,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:59:49.993754,with_onion,,2
+53,1d56ced2-8abe-4e92-b346-5dbeb43510d4,Mateo Salazar Artigas,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:34:26.856024,with_onion,,1
+53,5cbe1659-a0ee-487f-8512-dc6bf2acf4b7,Julio del Pallarès,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:51:39.219896,classic,11.49,5
+53,6e458a7e-8708-4fe7-a39e-27d90ab485b3,Godofredo Cifuentes Cabezas,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:02:11.153447,with_onion,11.08,3
+53,cdfd33ba-90eb-4c24-bc48-b9da289db092,Raquel Pont Baena,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:35:46.534128,with_onion,N/A,3
+53,b0ca697d-af8d-4c92-b3ab-e43967940c6f,Martin Bolaños,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:33:52.182169,without_onion,N/A,2
+53,d9c00a12-dbe8-4c2e-82c1-09cecf88f8f7,Mamen Solís Quintanilla,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:45:50.472066,classic,,3
+53,42ae117a-0563-4b6e-a605-a036799bab88,Moreno Perea-Vall,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:16:11.932233,with_onion,8.72,3
+53,a6018bb7-2e4a-4946-8358-4b2360c8f0de,Flor Pastora Oliveras Goicoechea,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:58:30.384476,vegan,N/A,2
+53,102c55db-0fc5-44a0-8d76-13a906f123a7,Aurora Arnaiz Galvez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:34:22.623808,classic,N/A,1
+53,e82866a3-e465-4309-82fe-decd4259a9f0,Reyes Luque Mas,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:26:50.717529,classic,,4
+53,6a618fe9-26a3-42d9-9fe5-bf1bfa9787db,Etelvina Jiménez Manjón,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:01:09.207451,vegan,,2
+53,c84b1eab-8fff-4e7d-b9d3-87be7a1a7e3f,Irma Tomas-Villaverde,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:43:02.276385,classic,13.85,4
+53,436cdd8c-2cf6-4e89-8cd6-7069fd6b5388,Esteban Chaparro Hoz,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:48:23.165298,without_onion,11.08,1
+53,996fa04b-d600-4047-bc45-953c7d5c3dde,Salomón Montenegro Somoza,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:19:19.072135,with_onion,N/A,2
+53,8f67a02b-df4f-471a-8902-c1e9a799bb68,África Asensio Gonzalo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:36:09.102580,vegan,,3
+53,c82e4ee7-dd2c-4be2-be7d-ee0d4e2949ca,Xavier Bello Ballesteros,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:56:55.157931,vegan,N/A,1
+53,03c7b6d8-eadd-4f10-9b7a-61c665221045,Hugo Carpio Palomar,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:06:59.697043,vegan,8.9,3
+53,26f9b896-e201-4813-8de2-167c51f5ddd0,Concha Alvarez-Castellanos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:18:11.047750,vegan,N/A,2
+53,b2386652-0a5e-4988-a268-7acd51e60b12,Xavier Alfonso Amo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:23:10.413045,vegan,N/A,4
+53,fa455268-a20a-4b97-a2dd-e98c535b02aa,Teresa Hernandez-Agustí,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:21:12.051602,without_onion,N/A,3
+53,0d42295a-b829-4851-8b15-14b7b75a14ba,Eusebia Montesinos Río,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:53:16.763406,vegan,13.83,5
+53,0dc188b6-7da5-447c-a0b6-3570e96bf51d,Rosalinda Fidela Garriga Sarabia,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:42:30.717319,classic,10.92,1
+53,8059365a-c7b6-42ea-bf63-23d1fa532341,Sol Méndez Ayuso,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:30:28.104067,without_onion,N/A,3
+53,5844489c-c7c7-42e9-81d6-9b81265bb38c,Evelia Garay Zamorano,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:50:51.599100,without_onion,,1
+53,bd43a725-2982-476e-958c-09a627bf096b,Paco Asensio Cabo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 01:47:37.408330,with_onion,,2
+53,293cb522-e092-407d-800b-cffc80d4d5e6,Herminio Peña Perelló,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:14:23.515826,vegan,13.68,5
+53,860fc404-3a3a-4f46-9c7b-f67461821efb,Edgardo Gascón-Frutos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:30:53.285304,without_onion,N/A,5
+53,4bd98056-ccea-4b28-89c9-2b3bbef72343,Lourdes Hierro Gras,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:17:48.494008,vegan,,2
+53,55dcee68-a617-4e4c-a17a-7859e6bd08df,Hilda Nadia Montes Nuñez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:41:32.054931,without_onion,N/A,3
+53,36855032-012c-4689-9840-15954a905a19,Amaya Robles Haro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:44:52.621769,with_onion,N/A,1
+53,b0349640-fc7d-46d4-b47e-cb8087e78f1b,Calixto Rodrigo Carballo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 10:55:49.218557,with_onion,6.36,5
+53,ad6d7dbc-13e1-41af-896b-019d9555244a,Primitivo del Baeza,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:44:34.183443,classic,10.42,3
+53,24c47166-a121-42c2-bc25-a6955a3216eb,Rosalinda de Maldonado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:35:44.881268,classic,,2
+53,bfc7f496-56ec-4a8b-9656-8027940b8e33,Marta Tomás Clavero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:39:05.389502,vegan,,5
+53,a4d6ff0a-b719-4b97-a1ea-aa6dd85abc0d,Amado Carrasco-Cañete,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:41:57.242972,vegan,,2
+53,63452791-6b3f-4f8b-9918-938f83f725e1,América Báez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:03:00.159298,without_onion,N/A,3
+53,9c0c4899-379b-4b10-8b5c-e4c4d9f3d4cd,Silvia Llorente-Jurado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:44:39.563325,without_onion,7.6,1
+53,b410c0d5-3640-478e-be32-dcd965e33997,Úrsula Bermejo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:30:52.779569,with_onion,N/A,4
+53,02efb2e4-f024-47de-bf3c-258e5d6dab17,Marc José Ángel Pedro Borrell,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:34:30.538920,without_onion,,5
+53,cae861bf-4230-40b6-8139-6a6eb6e28de8,Conrado Camps Carreras,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:07:09.249369,without_onion,N/A,3
+53,d2fae672-4c57-48b4-9c23-9e6d30b6129c,Leonor Sobrino-Ramirez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:29:59.686494,vegan,11.02,1
+53,eb62f500-2bcc-4d8d-974e-96a6f443b321,Evangelina Oliver Mendez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:51:12.234030,vegan,,5
+53,f01803d6-1ac2-4835-b40c-a5aa1fff8a71,Oriana del Álvaro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:55:21.849966,classic,N/A,4
+53,bbd80309-8274-42f2-b0e5-4ae9968668c1,Poncio Toni Casado Badía,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:46:02.416740,with_onion,N/A,4
+53,a246a114-aba1-43f9-8f2d-532fc6a96ebc,Trinidad del Fiol,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:38:04.046321,classic,,4
+53,812db62a-c91a-4131-8549-1f039404b838,Luna Sanmartín Agustí,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 15:34:17.694619,without_onion,6.66,2
+53,f86eea53-878d-4c53-8f2e-87cd5ff5c7db,Clímaco Ávila Miranda,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:06:18.197810,vegan,N/A,1
+53,5a009b58-5a9f-4a81-8a1e-606206c5691c,Ligia de Diego,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:18:39.418329,vegan,,2
+53,e8c1540c-b404-40cf-8a60-3b982ddaa8cf,Pascual Calatayud Rivero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:20:38.356524,without_onion,,4
+53,bf54b1e8-eeff-40e2-98ec-f2b249c9b2f6,Emigdio Celestino Jaén Benito,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:46:28.515597,without_onion,N/A,1
+53,b331c334-8b0c-44c3-82e9-4cceb6762ddc,Geraldo Jove Guijarro,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:45:20.007908,classic,12.93,5
+53,209c4667-a3a2-4832-adbb-dd6011dc3c99,Daniela Felisa Palmer Zorrilla,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:43:41.155007,without_onion,,3
+53,c9191299-b08d-41d3-bb56-cbecb539fa64,Ricardo de Pou,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:55:06.589883,vegan,N/A,4
+53,d8401d78-56b6-463b-a165-4881b5702c10,Ruperto Olivé Tamayo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:44:10.983258,vegan,,4
+53,56955974-3ca7-4520-ba32-e55768a2b814,Diana Dulce Piquer Granados,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:20:36.542878,without_onion,N/A,5
+53,acf218c7-4e82-4cd6-b4b3-1178e497f94b,Luciana Rosell Briones,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:40:50.100173,classic,10.39,5
+53,0545ec5c-91a2-4bae-9cbb-ca0a8e2dd428,Gastón Aparicio Montoya,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 08:56:17.256069,vegan,14.5,4
+53,fb5e3423-c50a-4ad0-9b29-87ae4bc43d32,Salvador Sacristán Torralba,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:19:27.292671,classic,,3
+53,be5fc349-03ed-4c2d-ab92-64d81963e8f8,Trinidad Posada Segovia,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:44:52.674442,vegan,,4
+53,2e08d4b6-1d0a-4318-97a7-cb9c12015377,Hilda Pérez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:11:35.264670,classic,,4
+53,f4bd61f1-f4ba-44ae-9069-19fad6d6c3ca,Anna de Moliner,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:21:20.757662,classic,N/A,1
+53,a9bd0c8c-4035-468b-8277-2a8e748f75e7,Mario Álvarez Rosado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:57:56.338324,without_onion,,4
+53,2518c079-009f-4407-8ac7-48da154227d3,Pánfilo Sanjuan León,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:50:30.875016,classic,14.92,5
+53,5917a9b4-1311-48da-afbb-af0541ed279f,Lucila Lluch Mayo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:54:27.651987,vegan,,5
+53,30b0a055-8daa-4521-b4b6-4683aba056ff,Saturnina Moraleda Aguirre,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 18:02:32.095651,vegan,,3
+53,9f9d5fce-2625-48b7-9c0d-1d750d60490d,Dan Piñeiro-Aparicio,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:23:08.312594,classic,,2
+53,8cc939e6-9e44-4655-831d-a48d3ce337d8,Teodora Barral Tormo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:53:34.130120,with_onion,,2
+53,52b59a66-69b4-4277-b20e-770dd46f21a1,Purificación Ledesma Arévalo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:49:30.428610,vegan,N/A,3
+53,2aa756b4-73f9-47ef-affc-7088db556212,Rosario Romero-Téllez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:52:15.944717,without_onion,N/A,2
+53,537faea7-423a-4f45-b0d5-1b609dbb1e89,Dan Leopoldo Barreda Alberdi,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:04:45.231708,with_onion,N/A,1
+53,b45005d1-c820-40ad-83d3-ddc529f2fe8e,Lina Folch Ros,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:06:39.862945,classic,13.29,5
+53,66f5a1e5-8339-454d-8115-592c013d4356,Celso Novoa,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:13:54.183304,without_onion,11.9,2
+53,d42088ae-0063-4d7a-80c3-91ee03947155,Adelia Benítez Solana,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:09:23.478333,without_onion,,1
+53,905af23e-63e5-4b48-ba8d-a6006cfa2e34,Hernando Castells Nevado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:25:48.024795,with_onion,8.61,1
+53,f3109848-00d0-435c-9a36-439a8b1f92ba,Albano Clavero,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:13:33.013870,vegan,,5
+53,60e74b48-e4e5-4968-a56a-4ec0770ba7e5,Malena de Torrijos,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 11:27:11.849556,classic,N/A,1
+53,3022782e-d567-427d-b671-f9ce519d840e,Prudencio de Duran,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:22:32.482300,classic,,1
+53,443b97a8-992f-430d-8f14-16b6581150f2,Teresa del Luz,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:23:50.972537,with_onion,,1
+53,00a05bb3-d20c-4ad0-a59d-1887daa6769d,Dolores Fuentes Ricart,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:59:36.352304,without_onion,N/A,3
+53,8bccbed8-b60f-4951-aff0-1b5631cb2071,Anastasia de Marqués,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 19:23:49.110398,classic,13.31,5
+53,438ff799-9a6f-4deb-8793-9b770d101804,Tecla Segovia Ángel,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:27:59.719880,with_onion,,4
+53,8f0670ad-8e4d-4546-81ef-12c8b218931e,Antonio Sacristán Andreu,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 17:51:46.452894,without_onion,8.26,2
+53,6817a73d-396b-495b-bd7e-ba0c5acb6b15,Zoraida Bravo Vazquez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:08:11.390911,vegan,11.31,3
+53,9d2e2ecd-c699-46c3-934c-663b5d8f0e2e,Marta Raya Cabañas,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:15:39.151057,classic,N/A,5
+53,6b73132b-106b-44af-957e-86bfcf45de46,Carmela Soria,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 16:03:14.478037,without_onion,14.66,4
+53,198605a7-8844-4e0f-87aa-d13a3b494dd0,Agapito Luján,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 21:05:32.024769,with_onion,,5
+53,a013f88c-70a0-485f-8c20-3d96417dc2a2,Nadia Bayón Gisbert,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 12:23:46.589592,classic,N/A,5
+53,b7cbee4c-7d9d-40c4-aed0-584e17447d49,Francisco Javier Ortuño-Roman,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:51:59.000419,with_onion,N/A,2
+53,f716c7d7-649d-4b4b-90e3-a41b797e38c1,Cesar Coloma,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 04:57:29.490430,vegan,11.42,1
+53,52da9f94-a984-4740-9308-52475c8d69c9,Bienvenida Arnal-Miró,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:51:38.173435,without_onion,N/A,2
+53,fecda537-4a8f-472c-9fd4-6569f2be72d4,Rafa Manso Garriga,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 02:57:45.277482,without_onion,5.72,5
+53,c1f63325-3612-4e0e-9201-5065a730bcad,Ramona Cruz Mercader,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 20:50:55.957571,vegan,,3
+53,dc9fa73f-448c-451d-b6d1-4f014078ecb2,Leocadio Tello Velázquez,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:17:31.509289,with_onion,,5
+53,83e0ea75-7a31-41d0-b9f4-7ac6b47e5238,Álvaro de Salazar,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:07:16.503485,vegan,,1
+53,32f92950-2619-4a15-b7b6-ad663cd8e523,Vito de Ángel,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 05:28:14.095161,vegan,,5
+53,4ca9eacc-3e35-40d0-9754-503516d6c7bd,Leticia Heras Almazán,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 00:13:59.751538,with_onion,N/A,4
+53,b3740961-7dcd-47a9-a717-594972e4823b,Fortunato Gras Maldonado,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 23:24:37.488565,vegan,,4
+53,266978e3-b6c0-46c1-9eb8-053adab2009a,Jessica Tolosa,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 06:43:59.922458,classic,8.82,3
+53,38de5ae6-50e0-4c93-816c-af66a994bb4f,Jerónimo Abad Puig,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 22:19:44.770983,classic,,1
+53,b90748b5-3db2-4f84-bbe0-73ed9c90ac42,Ana Font,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 14:17:32.090107,with_onion,9.73,3
+53,7d8f1279-4ba6-4ccc-8d14-bbe42ff32964,Pepito Catalá,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 03:09:59.506737,without_onion,,5
+53,b46baced-e778-47d3-89de-2708c8105c6c,Germán Fernández-Gordillo,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 09:43:19.147364,without_onion,7.47,5
+53,d7347e4a-aac5-4f4a-825e-b02ea5799eda,Arturo Porcel Piñol,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 07:06:39.341046,without_onion,N/A,5
+53,f5819298-3f9a-461f-a676-f22d96e7cc9e,Flora Valencia-Ferrán,Palma,"Cañada Eva Castilla 42, Valencia, 39340",2026-05-01 13:33:22.810390,with_onion,N/A,2

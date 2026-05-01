@@ -1,0 +1,407 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+62,ab8e131e-929a-4935-978b-dfd2ab215a88,Patricio de Lorenzo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:20:03.033995,vegan,,2
+62,dc80cfef-ad15-408d-9a6f-b329f960a0b5,Leticia Jove Estévez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:28:20.158437,without_onion,14.55,1
+62,baedd060-14a9-4014-b047-340bc8fb6d0d,Camila Ferreras-Iniesta,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:08:46.647736,without_onion,13.47,3
+62,7aed6a16-3846-446b-98b0-07549d3e3c74,Dolores del Caro,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:57:46.376332,classic,N/A,1
+62,9e6fcabf-ff66-4ee4-81c8-0b003fded83d,Pacífica de Calderon,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:08:18.653212,without_onion,,4
+62,ee23f13c-9e13-4040-a2cd-ff989874001f,Coral de Domínguez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:51:43.901913,without_onion,10.76,1
+62,4c3d9b6e-d4d3-4af1-850f-360ed7186995,Toni Agustí Guillen,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:22:16.555715,classic,14.19,1
+62,5a7b188e-311a-4b5f-9cb6-09599e71dda9,Valentina de Arias,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:45:14.849710,without_onion,5.08,1
+62,d7aac72f-d547-43ff-9c35-93ca0d22e61c,Yago Montaña-Reguera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:03:31.007875,with_onion,N/A,3
+62,708b67d7-50f6-4f06-aff3-31b5101a052b,Nayara Iglesias Juliá,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 23:11:14.181743,vegan,9.99,4
+62,95162e2d-51c8-4468-88b8-c2a64ef35153,Santos Parejo Yáñez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:12:20.377426,without_onion,11.89,5
+62,407573c2-2ca1-4470-8b43-c4351f3e941e,Abilio Bruno Pereira Hurtado,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:04:45.607509,without_onion,,2
+62,e29ffa46-3e0c-419d-b604-a1290074cd2e,Amado Urrutia Sureda,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:16:33.692535,without_onion,12.44,4
+62,a9323cd8-2e84-4c89-9ab6-1535c5183655,Elodia Solsona Huerta,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:06:34.360900,with_onion,,5
+62,cd45d002-fddc-4195-8b3d-1559a4e570c5,Porfirio Pedrero,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:04:22.366831,without_onion,,2
+62,e64b3c9c-348f-4fb7-b84c-1d332fe852eb,Teresa Agullo Santiago,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:34:19.929348,with_onion,N/A,5
+62,40d5e84a-b6f4-4df6-83fa-2dc81dd2ead6,María Fernanda Baeza Guzman,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:51:59.022627,with_onion,,5
+62,a0a7fd92-3249-4752-8585-e0b4854c7526,Vilma Espinosa Martín,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:17:56.250872,vegan,14.09,4
+62,ead73461-8e6e-4af2-b2b9-2708c8b80295,Iker Lopez Díez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:47:40.723378,without_onion,,4
+62,0d0a3450-047e-4d5a-b3f3-1c3bca5eaa65,Claudio Pera Coll,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:42:24.791671,classic,12.0,2
+62,2306882c-26fb-49ef-a974-c15f1803e094,Rita Mayoral Fonseca,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:06:21.330895,classic,,2
+62,60de7cce-8f21-4100-b416-5153c99e5fbf,Amor Gracia Escrivá,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:51:32.265170,vegan,6.56,3
+62,8501b6ee-1dc0-44b7-8aa9-f40dc5c04d5d,Pili Antonia Mariño Tena,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:32:08.803998,with_onion,N/A,5
+62,82de4771-e7a4-4e9f-96ab-8cbc78aeeaa9,Nerea López,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:37:30.109722,without_onion,,1
+62,987e81e1-9dbb-4e43-bc48-e106bf99bea5,Bibiana de Salinas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:07:03.153312,classic,7.41,2
+62,06ec4681-bb40-4bb8-a6eb-6934194bd2da,Ildefonso Moliner Jaén,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:43:27.469246,without_onion,,2
+62,21826ee6-0915-42b0-b8b8-98da0799407a,Natalio del Dueñas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:33:59.675332,without_onion,9.81,5
+62,05043dfc-e50a-47fb-b7ac-346e79f684d4,Jeremías Pavón Jódar,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:20:25.576002,vegan,,4
+62,d9c85fc6-48b0-4198-9241-09f86b107a6e,Anselmo Abascal-Andreu,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:42:06.867932,classic,13.61,4
+62,86c19c40-9b66-4796-a71c-604636e06a69,Renato Basilio Fabregat Quiroga,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:11:36.357935,without_onion,N/A,4
+62,322e2672-7208-4c93-8ad3-d21aa8e5e80a,Celia Pi Pascual,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:05:01.856856,classic,10.94,3
+62,bfece228-b31c-48b6-b6bc-64ce5b6d0009,Elena de Nicolás,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:01:57.109461,classic,N/A,3
+62,16609f2e-cfae-4165-9ad7-e7ca04f60769,Patricio Mur Bárcena,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 23:08:52.094587,vegan,N/A,5
+62,b16dc3a2-0f0a-4a0d-81d9-a10cd684ed91,Sarita Recio Varela,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:15:20.142791,with_onion,11.75,5
+62,f3c7c013-d535-4bbe-bafd-105da0c2d834,Cebrián Cobo Agustí,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:12:10.710790,vegan,N/A,1
+62,d7609e3b-8dd7-4cc9-a20f-1859fec30c9b,Martín Mercader Miralles,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:00:00.172638,classic,,1
+62,5335ded4-bcd6-474a-b793-aa1326858b05,Sandra Eloísa Quero Quero,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:32:53.099374,classic,N/A,2
+62,b73389a6-9c6d-4edd-ac12-fd58ce3e00e3,Eva Ponce Barroso,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:34:07.443559,classic,N/A,3
+62,db0d8a94-ea02-4bc7-bf05-280ebc66e06d,Quirino Agapito Requena Belmonte,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:04:32.703551,without_onion,,3
+62,fbc9c810-b14a-475c-a73d-2f62b0194c7e,Daniel Herminio Balaguer Viñas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:42:42.439383,without_onion,,4
+62,43a93634-8076-405f-bd54-2e6e1aaed3d8,Hernán Escalona Reguera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:08:19.273529,without_onion,,1
+62,206bdf00-9e7a-493a-9400-4832d79540f0,Amanda Esparza-Manjón,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:37:47.806567,vegan,N/A,5
+62,29a5af4a-0b99-4734-b080-1178ad9d37b2,Otilia de Izquierdo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:24:47.964003,with_onion,N/A,5
+62,8419180d-bc9c-4da9-ae53-89fae356dcbc,Ani García-Cañizares,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:17:41.922812,vegan,14.78,5
+62,bbedab9a-5322-44c8-896e-a8a6509a844d,Ale Collado Goicoechea,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 19:17:35.428805,with_onion,,5
+62,4de5f557-e1c3-476e-80e9-6001c4da8cee,Javier Cazorla Cuadrado,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:11:43.792950,vegan,12.75,3
+62,f1aa588c-4d40-4071-bd66-6944bfc4bcc4,Loreto Soria Rozas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:27:14.748197,classic,,5
+62,bb543550-ea5b-4bc7-b9a4-94f74d20e275,Celestino Valero Goicoechea Carranza,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:12:27.543289,vegan,9.68,1
+62,efbd0624-076a-4779-8c2a-9068a6271da3,Eligia del Rey,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:14:42.211290,without_onion,N/A,3
+62,5cf38873-e0d1-4bf4-8516-47d570a3366e,Macarena Portero Torres,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:52:50.244349,with_onion,13.31,5
+62,ef140170-4a7f-4db1-aaf9-c9ab7aab35c9,Olalla Ledesma-Lastra,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:46:09.743272,classic,14.22,5
+62,2cc665cb-39ef-4b26-9585-c57ad2f92055,Águeda Quero Alvarado,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:15:09.123224,classic,N/A,2
+62,b577870f-9e15-4234-af6e-97082b84c30c,Anastasia Pérez Canet,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 19:17:58.905194,without_onion,6.72,4
+62,bc510f6d-fef3-41b3-9af1-f9e2d87403cd,Eugenia Dafne Moreno Toledo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:03:46.835934,without_onion,N/A,2
+62,73734e2b-5873-4a6f-a7e4-f18c405b324c,Graciano Porcel Pont,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:21:23.407564,without_onion,7.24,1
+62,73f6538c-e3f3-4a0f-976c-24c637e01915,Constanza Acedo Calderon,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 19:44:51.314716,vegan,9.7,5
+62,4080acc2-4739-48b4-9196-4fd1a2067e0c,Bautista Izquierdo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 23:20:56.537017,vegan,N/A,3
+62,a5eca964-7934-44d7-a938-f0f3e2b94c42,José Sáenz Palomar,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:36:06.922962,without_onion,N/A,3
+62,dec2d384-83ee-4713-9697-b7b284daed57,Rocío Beltrán Sobrino,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:19:47.130527,vegan,,5
+62,fd8e688a-14b2-469e-b795-0e2e0c8f7bf5,Rolando Artemio Querol Riquelme,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:13:28.913175,vegan,,2
+62,89bd565b-dc63-49c7-a763-fa48c9bb44b6,Sol Medina Roldan,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:08:48.437179,vegan,N/A,1
+62,d72949f4-43a8-4f1f-b229-0f954178172a,Marisol Almansa Andreu,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:01:38.294711,with_onion,N/A,1
+62,8161ca53-fb8d-4dd4-ab68-aedc2b71c869,Balduino Benito Gálvez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:43:24.771024,vegan,,3
+62,94125451-9bb4-4f81-9653-8ddd530cb609,Gil Llorens Cantón,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:55:46.951168,vegan,5.29,2
+62,55940c32-16c9-4935-b708-239a7bdeff4f,Mohamed Amaya Garmendia,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 23:59:47.975011,classic,7.42,1
+62,6cb60f5d-e80a-4f73-a342-5e5d9f50711d,Glauco Pol-Gomila,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:10:24.124661,vegan,N/A,1
+62,7deb4414-8c8f-4c04-8e3c-c66835a8d4b3,Judith Piña Fortuny,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:16:51.452806,classic,N/A,1
+62,452141c7-7433-4fb9-a32f-5f93d2767b1d,Paula Guzman-Prieto,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:02:02.277512,with_onion,N/A,3
+62,0ff92c69-952d-4006-b746-3a3663a42c15,Eugenio de Bravo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 23:54:36.842340,classic,,4
+62,8d133cab-9664-41b9-8654-c3c842be7304,Roque Bilbao Carvajal,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:06:52.413664,vegan,N/A,3
+62,8983fcb3-a7ca-48cd-98e4-340f5c812741,Yolanda Alfaro Rodriguez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:49:28.524154,without_onion,N/A,1
+62,c3049015-5436-4f6a-b42b-b323e230eda9,Inocencio de Galán,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:25:17.613373,classic,,3
+62,0b0af4c7-2365-4524-9c7b-fe172e5b9dd2,Gustavo Palacio,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:43:14.285315,classic,11.87,4
+62,71cc9396-59f1-4d65-813b-30124e74fb5d,Roque Quiroga Diaz,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:44:48.537476,with_onion,N/A,5
+62,6ee0c362-faa6-4e47-aa67-2ba7d1ed1d55,Lucas Higueras Roman,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:31:20.173070,vegan,,1
+62,3eddded4-e932-4a0b-bdb9-a8a8d8cb13f3,Marisa Fortuny Castilla,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:31:37.233868,with_onion,,2
+62,f0f7c03f-5e07-4690-abe4-db7cbfac87a8,Dani Barrio Roma,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:15:01.828738,without_onion,,1
+62,a6f614b2-773c-4ee0-b00e-7a3bc07b7f37,Galo Sabater Peinado,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:55:47.958623,without_onion,N/A,5
+62,a2ad671e-fb85-41c7-a83d-9def81851d1f,Emelina Guzmán Castillo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:33:01.581181,classic,,4
+62,c253e466-11f9-4f6d-819a-0d98541eab24,Arturo Caballero,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:57:17.895393,classic,13.97,3
+62,87b47769-f6f6-4076-816f-d7677945a599,Glauco Figueroa Quintanilla,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:17:14.611176,vegan,12.88,5
+62,b7c21407-59a2-412a-873e-770abd74626a,Zaira Rosales Mur,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:05:06.688546,vegan,10.91,1
+62,087babc0-dd82-4141-9b66-2fa00635f9b3,Adora Vera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:44:24.090801,classic,N/A,2
+62,5e8d2212-c02e-47bb-a5cd-8e7872c84b32,Odalis Mancebo Molins,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:43:25.396270,classic,6.85,1
+62,8001edcf-3862-486d-989a-5812296b9285,Concha Zorrilla Gonzalo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:33:51.774945,vegan,,5
+62,c0d9b3a4-4de7-4480-89cf-f673bd97eee6,Irma Alba-Pardo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:30:03.254798,vegan,6.58,2
+62,5d782f03-885f-40a5-9444-5dcbea94548b,Leticia Chico Gámez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:03:22.076756,with_onion,N/A,2
+62,b659fe22-c810-47a1-9d5b-1c1357c0f8bd,Charo Ureña-Benet,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:33:37.249226,classic,9.73,4
+62,22588a23-45fb-4548-baa1-6a7a7338ddfe,Juan Luis Río,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:45:48.928238,with_onion,,2
+62,5ec44c9e-a2b8-4a79-8b65-985a3e122616,Che Franco Portero,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:40:55.216596,without_onion,,2
+62,9c72889e-1bdc-4a03-89db-ab995fdac1cf,Casandra Iniesta Castell,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 19:10:54.160003,vegan,13.96,2
+62,db85d4ec-bdff-44f3-8e99-b5a100002c4c,Amaya Falcón-Aragonés,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:20:08.854019,classic,,2
+62,919e4d72-58bf-4f74-8ad6-847b57bd4139,Amado Menéndez Pascual,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:31:10.189486,with_onion,N/A,4
+62,e4ffa29a-8f36-489c-bad8-1a739c9e2592,Verónica Quiroga,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:50:26.230445,classic,8.28,1
+62,3b97b545-662b-4901-ad77-b53714c6313c,Isabela Martínez-Pareja,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:36:11.302097,vegan,N/A,3
+62,5ec28b40-4978-4c43-a6e5-d58abed07027,Elisabet Bernad Pintor,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:17:07.751933,with_onion,N/A,1
+62,196f90fa-148c-455c-a34d-02863638a964,Amelia Perez Frías,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:18:36.768774,classic,,5
+62,b21ec70c-9b0f-4fc7-8b1e-3e701d384b5c,Tecla Manzanares-Arranz,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:18:09.692080,with_onion,N/A,4
+62,945fc81d-07f5-4db5-95b2-202528d99056,Marcia Zabaleta Cózar,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:15:29.125222,with_onion,13.07,2
+62,d5c28b5e-71a3-4e88-93b2-e96e5e1b3dd3,Jonatan Santana Aliaga,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:48:12.829496,classic,7.74,4
+62,5b42e500-808d-4b57-a75d-44beb3e61831,Eufemia Perelló Crespo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:31:34.525662,with_onion,,5
+62,7d985094-b0bc-4c32-bdc6-07cc1ed7fda2,Joaquín Pellicer Cuadrado,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:42:29.059546,vegan,,2
+62,8c827837-a387-4d91-acb9-d6537761ae3d,Cleto Villena Montoya,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:49:19.821170,classic,N/A,5
+62,9074aa40-7e1b-4390-92bf-3c840b93cc9b,Rufino Casas Pastor,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:58:39.901019,without_onion,5.68,1
+62,8c93b245-76c3-4ce7-ac13-cd704a9d8514,Pía Ruperta Baquero Piña,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:02:21.894409,with_onion,12.79,5
+62,5b4df4a8-2cb8-4ddf-baba-868505934b83,María Ángeles Sanmiguel Macias,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:51:51.263452,vegan,N/A,5
+62,ea8e0140-01e8-4e57-90f2-59b7f1a81b3b,Agustina Arnau-Cobo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:46:22.196861,with_onion,9.04,3
+62,f24ea411-aa36-47e6-9267-d0dda5828cd6,Serafina Gomez Álvaro,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:50:17.820872,vegan,,2
+62,3e96250b-707c-45c1-a98e-9c6106697e85,Soraya Enríquez Llopis,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:27:09.309845,vegan,N/A,1
+62,c676aa13-16a6-4ed4-8684-7c3fc8a8d614,Manu Izaguirre Arias,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:44:31.525566,vegan,13.14,3
+62,da33a76e-272b-4d2e-b359-806223a7d0ba,Adalberto Miguel Medina,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:10:56.069565,vegan,14.19,5
+62,f344ab07-1ca6-4e08-94f8-6b737b6fe515,Felipa del Goñi,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:26:32.628577,without_onion,N/A,2
+62,32a235de-a025-435f-8187-445a0bf92b55,Ruperto Carretero Alegre,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:14:34.747384,classic,9.93,5
+62,d07def1a-e429-4897-9a29-2106eb29e2ae,Araceli Vazquez Solana,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:30:53.330252,without_onion,6.0,2
+62,0ea1bbd4-9db6-42f1-84c5-2491e002cce3,Saturnina de Vall,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:02:51.874090,with_onion,9.31,5
+62,a516ebd4-b077-4be2-8f58-e2b2366c29af,Lara Inés Arnaiz Cazorla,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:53:07.729921,classic,14.48,4
+62,9b6f1af8-51cf-4fcc-992d-db6a515e93b3,Roque Conde Llamas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:44:12.172600,with_onion,N/A,5
+62,ed9f8fa5-c947-4156-9df5-4c0f99b0deef,Flora Collado-Sales,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:53:41.911859,vegan,,2
+62,f97df3ad-ee5e-4474-93cf-f664ac75db4d,Custodia Gras,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:15:44.897597,vegan,N/A,2
+62,59a69903-8ea4-48f9-9a36-28190d957a1d,Tiburcio Escudero Soler,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:21:01.629294,with_onion,9.46,4
+62,89c870d5-5624-4d4e-864a-285893fddb6b,Celestino Palacio Cáceres,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:09:52.077173,classic,,1
+62,54be848e-1aa0-4d3d-9669-a395d88bd5db,Daniel Carvajal-Seguí,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:07:33.435986,with_onion,N/A,4
+62,cc8c787c-8aa6-4875-992e-c2a49ccca699,Yésica Marí,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:16:47.600511,with_onion,N/A,2
+62,100e3623-4edc-45c2-be82-2ed8aa158671,Ainoa Ojeda Muñoz,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:25:11.330797,without_onion,N/A,2
+62,4d14c270-665c-45fc-8d12-799534a02449,Juan Antonio Lamas Villalba,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:14:30.132967,without_onion,N/A,2
+62,9317b644-8552-4d8c-985b-b27e28951e7d,Fernando Aguado Juárez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:04:41.630097,vegan,,2
+62,31122793-14c2-4b38-ad49-d407ba6467ad,Antonia Alma Marti Cuenca,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:27:16.948250,vegan,N/A,5
+62,9f02e688-e6e5-42ad-ba7c-1af0e031d70c,Sarita Rodriguez Marti,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:48:30.399950,with_onion,,3
+62,946c7424-3a18-4f04-b802-009430bd2c8a,Ramiro Planas Julián,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:25:00.827963,without_onion,N/A,2
+62,19f9f720-1980-48be-a5e1-c25d519222a7,Severino Ceferino Casares Barragán,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:43:14.770435,without_onion,N/A,1
+62,c7b06707-89de-4c61-9063-3aa959c20f7b,Modesto Hernandez-Araujo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:53:31.154715,vegan,,4
+62,6fd3a391-6f21-42e0-8dbd-7c1dcef17727,Toni Querol Casanovas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:32:54.618315,vegan,,3
+62,b7095488-ccff-4b7b-97ee-d9ebe5199c00,Nicolás Jordá Soriano,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:29:19.215411,with_onion,N/A,1
+62,3b87b6d7-a6ee-445b-adca-865e1a0de5c2,Heriberto Somoza Moliner,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:11:48.227872,with_onion,8.91,4
+62,884f0435-28c3-417f-98ec-863ad6ad6d4b,Lucila Enríquez Mosquera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:35:12.829810,with_onion,14.22,1
+62,dec7c2bd-6c3a-48af-93bc-cd2998b8945d,Santiago Tristán Sierra Lluch,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:23:02.976663,with_onion,8.27,3
+62,9202c58a-1818-4dcf-877b-6f6b3c6e1280,Águeda Vergara Garzón,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:55:46.876780,vegan,10.86,2
+62,4e470bc5-d30e-4e3b-9994-be2896c1e648,Fermín Salas Ariño,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:13:03.024313,with_onion,5.2,2
+62,364559de-bd46-44b6-bc1f-d8ddeaf78198,Florinda Mendoza Moliner,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:26:23.041344,without_onion,13.9,2
+62,ac25cda2-542a-47b9-8af2-fef5e73ded72,Socorro Bejarano Sacristán,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:42:12.464063,with_onion,N/A,1
+62,3d29ade3-f595-4f9b-a78f-b830c2061ed9,León Jódar-Contreras,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:00:26.873075,with_onion,N/A,4
+62,bd8505c6-d209-4eab-86bc-c2b43f23a751,Isa Castilla Castañeda,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:57:15.393589,without_onion,N/A,5
+62,46288652-0310-4c17-a121-0382e69c7d5a,Toribio Vicens Ochoa,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:27:23.563369,without_onion,14.37,3
+62,b3fa7fe9-4f87-4a88-9ede-a4161064cca5,Ceferino Martín Escamilla,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:59:20.224719,with_onion,N/A,1
+62,02b1f520-e50b-419b-be7c-0f30bdb08ebd,Maribel Pereira,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:27:42.256085,vegan,6.88,3
+62,1b66118b-9c1f-42dc-9e41-472ac485ca1c,Salvador Villalonga Ledesma,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:42:53.805537,without_onion,N/A,3
+62,3a4f9ca4-c6c2-449b-8ead-b7d612166c5e,Rosalinda Simó Araujo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:07:17.146078,classic,N/A,5
+62,aa5bb4b5-92ea-42eb-8e1b-dec1cfda65b0,Carlito Farré Jover,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:14:41.193479,with_onion,N/A,1
+62,0744b261-2cb7-4b09-9e0a-4152b96fad91,Amelia del Ríos,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:45:12.582853,vegan,,5
+62,88a17f75-fb73-4b75-bffd-9efee0d93207,Gema Montes Valle,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:17:00.626997,with_onion,,2
+62,4a222ba1-fec6-442c-958d-4d3660b4f7df,Brunilda Angulo Gallardo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:52:22.998296,with_onion,,4
+62,6ac1a134-c851-4b68-a6b2-298ad6a7d927,Guadalupe Mena Saavedra,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:41:36.088858,without_onion,9.68,2
+62,4a4ece7d-a7f2-4316-b4d4-aeeda44c5d85,Felipe del Gomez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:51:20.903408,vegan,N/A,4
+62,6755e4a9-cadd-4fab-8e62-416b7fca570c,Mar Velasco Bernad,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:58:22.793344,vegan,,1
+62,80cedc72-83c4-493e-83ae-5f1a4714c693,Jose Ignacio de Navas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:12:35.438471,classic,N/A,1
+62,7dd4ae4a-b88e-44f2-adfe-49549786d930,Isabela del Robles,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:13:48.251315,without_onion,,2
+62,789c87bd-3798-4c5d-85a6-fa77ae82142b,Josefina Soler Canales,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:45:22.550016,vegan,N/A,1
+62,d65d7e94-b6f5-4594-b07c-168708c1e613,Mayte Viña Aguirre,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:57:45.694893,with_onion,12.19,4
+62,b83a4b4b-a90b-4f0b-bc66-cd599d44136b,Delfina Donoso Font,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:21:46.958212,classic,11.96,1
+62,ff711fc7-c349-43a6-be64-60aa38d5d2d0,Plácido Torrijos Aguilera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:28:01.619811,without_onion,,1
+62,bbaf39c8-1d56-4d36-904e-c5d7f13c622c,Olga de Nicolás,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:14:01.917754,classic,N/A,1
+62,616373d8-8d2f-47b7-a3de-634e1eb7fa17,Rufina Cazorla,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:24:26.978650,vegan,,1
+62,847efe47-a227-4875-b014-143187156f68,Candelaria Aragón Tello,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:27:31.823132,classic,12.68,3
+62,2f3b6a38-2c4a-4c5a-8dd4-db527fcb44e8,Soledad Chacón Ruiz,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:22:29.410712,vegan,N/A,1
+62,537dc7de-fb3f-4c23-8651-07193dbedecd,Macario Aller Salazar,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:40:54.378101,classic,N/A,4
+62,b824699e-e81f-4703-9e7b-2cf2e229219f,Josep Aurelio Sanchez Vallejo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:08:04.174849,vegan,,2
+62,d6162e8c-57e4-4202-9440-cd8f2c351620,Cebrián de Benitez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:16:01.822194,vegan,,1
+62,b6d16831-5b66-4e19-a343-b8f5408185fe,Emilio Salazar,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:56:21.784180,without_onion,N/A,1
+62,952a13ca-4aeb-4578-a6bf-b7b4b1b0e07c,Moreno Acero Parra,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:58:56.862813,classic,6.17,2
+62,565d2216-846f-4aeb-9adf-522fc6902403,Prudencia de Alcaraz,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:39:24.229584,without_onion,N/A,1
+62,8f427d9b-a4d2-4644-a879-949d247db6c1,Emiliana del Palacios,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:50:23.107783,vegan,,5
+62,8875a13f-1cdb-451d-b7f0-0cee4b6e596d,Fidel Hoyos Ibarra,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:34:14.008856,without_onion,N/A,5
+62,7d80a6a5-a682-4524-a215-f9d78e2c29c3,Dafne Castillo-Riera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:06:29.656557,with_onion,N/A,1
+62,f17ebfc1-426d-4bcc-bcc5-55a31dacf9c4,Salomón Haro Reguera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:20:47.233172,classic,N/A,5
+62,87892145-2af6-4dac-8059-b866b18a7ae6,Renata Garcés Varela,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:27:09.761978,classic,N/A,4
+62,9029f32b-9e3e-4001-844a-9d16c155bfda,Inés Aroa Almazán Palomino,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:03:15.684095,vegan,,4
+62,3ceb96cc-a191-4e97-82f7-22b77781f0fd,Emiliano Gutierrez Lastra,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:35:22.978800,classic,,1
+62,e2241563-35c5-4256-b2c2-cb5c98640b15,Encarnación Antúnez Múñiz,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:14:07.823673,vegan,,1
+62,58e9c0f6-6cc1-4656-b3bb-dcf42ce5dc3f,Adán Artigas Piquer,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:16:57.922849,with_onion,8.28,4
+62,5c82b3f0-917a-404c-82bb-5abbf2f90c96,Yésica Acuña-Yáñez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 23:35:11.880999,without_onion,6.57,2
+62,e0900606-f8bc-4b23-8f22-24ab93d9f2cd,Galo del Viñas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:20:34.619689,with_onion,,1
+62,fa78f70f-fb53-4a9e-aaf8-2c7f46726232,Ana Belén Luz Miralles,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:35:02.281963,with_onion,N/A,1
+62,d9e2d638-e2cb-4871-8652-b8de93773c10,Eva Gordillo Rosa,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:45:44.159214,without_onion,N/A,3
+62,80dc030b-9e9c-4732-a84c-58426d4686cc,Plinio del Amo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:49:27.014756,without_onion,N/A,4
+62,103a99d9-4f59-484b-94d9-0e49f978e481,Juan Manuel Camino Sabater,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:47:54.829894,vegan,N/A,2
+62,47013d9c-9c69-4038-a331-d32d2e50b10f,Flavia Acosta Izquierdo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:45:47.888479,without_onion,N/A,3
+62,6900bfa2-32a8-4817-8887-edc003ef8a2f,Ángel Torrents Pagès,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:22:06.530205,classic,N/A,3
+62,9ec93f9e-43af-4106-9549-f5d6ef18e17c,Epifanio Sosa Arjona,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:24:20.418329,with_onion,13.16,4
+62,bce88a50-7f41-4a37-8062-7283d366c757,Adoración Valero Armas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:24:52.679095,with_onion,11.84,3
+62,18273463-ba82-4037-8e2e-b32ba05fc748,Eusebia Vall Talavera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:37:49.296907,classic,N/A,5
+62,878a856f-786f-4b92-b019-c0fef1cedb65,Adelina Yolanda Cortés Berenguer,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:07:55.351390,classic,10.43,4
+62,aa5da1f9-b753-4801-afd2-d3c05acd3b82,Rodolfo Cazorla Soria,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:22:26.583922,without_onion,,5
+62,cf2ca917-ffce-40be-89cb-f012d9accd2a,Oriana Barros-Mate,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:06:18.713767,classic,,5
+62,21b8ef8a-b171-4e7b-ad83-8a60a345ba92,Aurelia Prado Ballester,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 19:32:50.751942,vegan,N/A,5
+62,a6e1b9d8-f813-426a-bf49-3ef793fdba55,Felipe Contreras Marcos,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:49:30.573591,classic,N/A,4
+62,f56bec4b-5ae3-4dfe-a496-5108013e904a,Gema Valentín Acosta,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:16:39.212351,classic,12.55,3
+62,c5bf6c04-4ab4-40e2-8d22-9d029945fdaf,Emilia Ferrera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:02:37.149851,with_onion,N/A,4
+62,00a5348e-01e1-4555-b8b5-ea2eaeb8acf2,Rosario Fito Almazán Porras,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:07:28.321277,with_onion,,5
+62,226b15b1-ea93-4e06-8e3f-516d3025ca3f,Toni Pla Mercader,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:50:55.665262,without_onion,8.7,2
+62,ea8b6660-52db-4a6a-a28d-c41405e2b9b6,Francisca del Gil,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:06:27.387134,vegan,N/A,2
+62,099c0809-df5b-4b8b-84f9-c7e70c06f7e3,Gaspar Campoy,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:05:59.460016,without_onion,7.91,5
+62,d52cc5c8-4dcc-4ed2-80e9-f41f1f9f4aff,Rosalina Calatayud Martí,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:31:55.830367,classic,N/A,2
+62,9afc5cd2-3e29-4af9-bef8-0259bd10f75a,Marcelo del Bárcena,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:23:28.344597,classic,,4
+62,c9612c42-5075-4fa5-964e-c1ddf0dd5433,Ramón Valerio Vila Calderon,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:44:00.818287,without_onion,10.06,2
+62,74c22e5d-21ca-4f55-ac99-22c138a9839d,Anna Carballo Mosquera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:14:10.916544,classic,N/A,3
+62,9596ce64-5787-4718-b035-af5e9c6bc680,Judith Guardia Padilla,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:19:42.368225,with_onion,N/A,5
+62,304cee3b-4767-4caa-92b8-53ec3611ee5a,José Antonio de Chamorro,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:18:59.156677,classic,13.32,5
+62,ed85303a-9b11-4fcd-81e0-5b6c97472485,Dionisia Galván Perea,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:49:01.947383,classic,,4
+62,8975860e-8416-403e-b9ae-01818de10537,Apolonia Zurita Morillo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:14:48.883461,with_onion,,3
+62,bdb6267a-3159-4c06-b8cb-65d37cbd1006,Emiliano Trillo Riba,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:15:49.402782,with_onion,N/A,2
+62,59715bd7-751d-42a3-ab15-bd0a5066a17b,David Pinedo-Roma,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:14:19.499663,vegan,N/A,4
+62,eaedc68c-e0f9-45fd-b2fc-2ed7e3c58021,Anselmo León Orozco,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 23:18:20.849721,vegan,13.63,5
+62,2eaf26a5-fae6-4b04-8e18-9bc9749a735f,Vilma Llobet Nevado,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:09:42.032619,classic,,2
+62,34a597a3-5e95-4d17-a112-a5eb7423c54a,Flavia Villa Bustos,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:35:20.493772,vegan,,3
+62,70faa945-bc0a-4a4d-8be0-8e9e958e3d5b,Cruz Melchor Bastida Quintanilla,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:48:03.940300,without_onion,,5
+62,c747f305-53af-4498-a3a5-4fda45ae60ff,Miguel Ángel Domínguez Maldonado,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:02:15.598544,vegan,N/A,3
+62,2ac132ea-d93c-4a83-a22c-d4701ba65829,Macaria Atienza Vigil,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:34:34.907992,without_onion,,4
+62,1b71f2a4-4139-41e9-8435-13b225271cdc,Jonatan Dimas Botella Aznar,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:49:22.971661,vegan,N/A,4
+62,0fb77a67-3b33-4a44-ac73-02708c347359,Pastor García Burgos,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:32:16.751308,vegan,5.25,3
+62,f20a9664-e65a-47f6-a08e-902c27e8d1ab,Yésica de Segovia,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:05:07.980704,with_onion,N/A,3
+62,a7b9ba26-f3b9-4f7a-8332-43f6b5562cbf,Hernán Marquez Rivas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:58:53.594276,classic,7.64,5
+62,4c2155f4-c86f-4d02-99b7-87b0217bc9a6,Berto Adán-Vila,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:35:51.047495,vegan,11.46,5
+62,d0217bfc-f057-4001-9485-08ec5ff5d03d,Noa Torre Mata,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:49:42.300845,vegan,N/A,2
+62,5c99c81b-9506-4a28-9987-e64a0a830942,Fabián Calderon Iniesta,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:19:15.947507,with_onion,14.53,5
+62,c90c34c0-5330-4512-aa32-25c9866107f4,Matilde Capdevila Cerdán,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:50:40.078979,without_onion,,2
+62,7f24fc5e-ba47-41d9-a8a2-19722b8750cd,Aurelio Almazán Mas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:38:05.788609,without_onion,13.38,2
+62,63248d14-9bde-454e-b764-b3deba4ae822,Olimpia Rojas Romero,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:24:08.840640,without_onion,8.45,5
+62,79f2a21b-791b-4d63-9a17-a21a7edae0c8,Odalis Bosch Borrego,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:30:44.986019,classic,N/A,5
+62,9381cb04-69d8-4075-9d38-28b66d883dc4,Lupe Huertas Lara,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:41:41.482496,vegan,14.39,1
+62,bc4648cf-4f9f-41e7-a7a1-bee7fbf65ac3,Rodrigo Gargallo Múgica,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:25:46.889498,vegan,N/A,3
+62,ab230941-cbcf-4b2f-86a4-bb60d4547f73,Isaura Valbuena,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:26:12.404338,classic,8.15,3
+62,d58df0d2-f5e9-494a-8866-b53afc53d026,Remedios Cifuentes Asensio,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:25:24.277149,vegan,N/A,5
+62,ba9e789c-dad1-4393-9e79-ee005b9eb390,Joaquina Andres Gomis,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:37:56.904404,with_onion,,5
+62,75ef3790-f20f-4a27-bbab-9a67ee46913f,Alonso del Lastra,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:43:10.543347,with_onion,,1
+62,2aa7fee5-9581-46ee-a623-9747d670db66,Trinidad Teodora Bru Sedano,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:24:39.667895,without_onion,6.57,1
+62,79333499-9f16-44d9-85f8-67a0e2d42f73,Florentina Solana Moll,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:52:14.538039,vegan,,4
+62,8bae6edc-e2ba-4564-b9a0-059c0d18769c,Eloy Guardiola Talavera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:42:57.551742,without_onion,10.49,3
+62,d0ab52a4-8466-488a-b9bc-0c8448f08959,Agustín Ildefonso Fuentes Luque,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:20:22.736163,classic,,5
+62,1f3dd2f9-0b39-47a7-8882-fd611805d74e,Apolinar Ropero López,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:39:47.383102,classic,,4
+62,03e3aaa7-c704-4b99-9eea-c2878e1b2498,Alfredo Lobo Solera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:31:17.224393,without_onion,9.25,3
+62,a553cc42-4c1b-4d7d-9698-40a2a47208c4,Aristides Pastor Agustí,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:31:22.564539,classic,N/A,4
+62,8496c57f-7a65-495d-b81b-f18e2a0a7023,Benigno Cervera Solera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:26:44.743552,vegan,,2
+62,1c6e4959-def3-4a19-823c-368a17091356,Manuel Manuel Santiago,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:52:19.306696,classic,,2
+62,bf68c9ab-54be-4f9d-85ce-76773281dad5,Amílcar Arjona,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:15:00.672546,without_onion,14.01,3
+62,e532a07c-4887-40e1-9cd8-e7263df9616a,Susanita Mayte Gutiérrez Llopis,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:32:46.056638,classic,N/A,4
+62,550ea7d2-6723-4617-a046-d176f6e662dd,Félix Pera Quesada,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:32:58.060687,with_onion,,1
+62,2cf06ae9-77d9-43ac-9473-b51527f9a9c0,Pía Jimena Catalán Cabrero,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:53:22.078772,vegan,,3
+62,1d23584a-2972-4d7d-8051-259561948f70,Consuela Cordero Alberola,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:09:36.492405,classic,7.13,1
+62,998c2b0f-af48-4aa5-9b3e-48538ecb99fe,Zoraida Torrent Segovia,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:36:10.833735,with_onion,10.92,4
+62,ec31c656-02ed-447d-af2b-39502a1ba872,Prudencio Vives Carpio,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 19:46:08.826176,with_onion,N/A,4
+62,7d5fd73a-2596-49c7-abaf-2042575ea616,Alberto Rolando Sebastián Terrón,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:19:42.837881,with_onion,,5
+62,515f8348-6468-4eae-bd4d-cc7548934255,Trinidad Santamaría Gámez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:24:11.627146,with_onion,N/A,1
+62,9b6f9f12-686e-4a6f-b763-b268d0216490,Juana Corominas Lara,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:16:06.187953,without_onion,,3
+62,2c1e3aa1-0d9c-4a1e-bd4b-6f41c7a6b39c,Sebastian del Gallart,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:52:30.264954,vegan,,3
+62,a4462216-d462-4c2a-bb81-73f86f06d455,Álvaro Morante Galiano,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:19:21.088598,with_onion,,5
+62,41dbed3b-204a-4d71-887e-221545689c61,Agapito Álamo Alfaro,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:00:13.948024,with_onion,N/A,3
+62,41020209-fa08-4797-9489-743d325a1ad9,Abril Calvo Oliva,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:31:33.002223,with_onion,,4
+62,fafa2e25-eaca-40ff-9dec-a063736185ae,Onofre Osuna Amaya,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:48:57.900434,without_onion,,5
+62,c82058ed-5c07-4265-b8c4-80a2720850b9,Alma Vergara Arias,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:04:47.828588,with_onion,,1
+62,cb8c160f-39f5-42d2-a092-90ade7b1969c,Juan Alvarez Portero,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:41:26.882189,without_onion,7.43,4
+62,016a82ad-4a17-401a-988b-e544a3a02efe,Zaira Cabo Alberdi,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:07:07.556306,vegan,N/A,5
+62,2b15d535-8d34-4e85-adf1-31e03d6a27a0,Sebastian de Bou,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:07:55.348906,vegan,12.49,5
+62,fe126b0d-a411-4f2c-96d3-269becad79c6,Rita Angélica Real Daza,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:13:05.288197,with_onion,,1
+62,b6d429c3-a568-4a0e-9cc2-d289278db969,Conrado Osuna Roman,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:49:48.572630,classic,,2
+62,5883f50d-4465-4ad6-be37-c9626a1c0ab3,Berta Nebot Carretero,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:16:45.110269,with_onion,,4
+62,341b8f8f-68eb-4373-81fe-64dcfc9ee3f3,Edelmiro Solís Chico,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:18:04.583160,vegan,7.21,4
+62,78c35163-a8d9-4a02-8062-38824b6e515e,Cayetana Noriega Batalla,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:13:59.136680,classic,14.01,1
+62,a4e1d547-3af3-4514-adeb-95609451c80a,Ascensión Cuesta Macias,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:40:17.936947,classic,N/A,3
+62,bfe4d8e8-49a6-45d7-b559-db072e8fa261,Bonifacio Cristian Arévalo Raya,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 19:50:30.560210,without_onion,N/A,2
+62,299dae01-a68e-4304-a134-0771e130456b,Pepe del Rodriguez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:18:00.688808,vegan,,3
+62,5c6beb30-0d5e-49f6-8949-6afa09c5f693,Marina Chelo Montoya Machado,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:44:16.779234,vegan,13.48,3
+62,4fe7b695-9829-4887-8588-36b4666a3654,Ofelia Azcona Castell,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:26:18.603940,without_onion,N/A,2
+62,224fe4fd-2924-47b0-a5ef-8f7266382810,Asdrubal Vives,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:00:10.114406,without_onion,,4
+62,3193a94f-85ae-4bf9-a967-21938d3d2582,Rosalva Benavente Agustín,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:38:02.792464,vegan,,1
+62,48c8b28a-eb3d-402d-afce-e46124b8af42,Marcela Carlos Bastida,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:37:31.025755,with_onion,11.32,4
+62,e081fd94-a2ed-4a7c-8b5f-a50476deb9e2,Ileana María Pilar Lumbreras Puig,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:34:06.049465,with_onion,,1
+62,36e1daf1-261e-4910-b588-43f6de0d18e0,Maribel Salazar Vazquez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:43:08.474625,without_onion,,4
+62,c9d68882-4e37-4e79-9807-a558c4145457,Paola Arjona Uribe,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:38:13.411063,classic,,4
+62,764a95ff-cc82-4460-ba90-7e038f3e07d1,José Ángel Chacón Riquelme,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:17:19.793855,vegan,N/A,5
+62,f61c4955-468e-4e72-85c8-56450bc79e54,Eugenio Calderon Salmerón,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:13:31.828759,without_onion,,3
+62,6c884c50-2f57-4fd5-9b85-e157aa1f61be,Urbano Acedo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:16:04.594743,vegan,N/A,3
+62,025385fc-9c06-4d33-8485-8d0a17da7815,Juan Antonio del Uría,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:23:21.483372,classic,13.3,4
+62,6bdf5401-bb6f-4f45-8394-5efbd10407f2,Chuy del Saavedra,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:20:45.684834,classic,,2
+62,1b2e710f-d839-43d2-8b8a-d416031617c4,Albina Gracia Bertrán Echevarría,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:15:13.173595,without_onion,,3
+62,67cf2c91-574e-4d82-acff-ccb3c488965e,Ramón Soto Cepeda,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:19:45.854258,with_onion,,4
+62,a4a249c0-f820-48be-9fa3-7ba8e1adecbb,Anselmo Company Seco,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:40:17.357252,with_onion,12.08,1
+62,bbeadf3b-3d54-400a-acbc-3861d4a186e6,Silvia Borrell Román,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:14:00.214174,vegan,N/A,1
+62,4bdbf0ba-1037-4f95-a0e1-d3e4e7500413,Gerardo Chucho Bayo Olivera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:05:41.352682,classic,N/A,1
+62,eebea216-1c33-47ff-adbf-98e7f6762328,Felix del Pedrosa,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:22:58.518801,with_onion,N/A,1
+62,13e3234f-fde9-4503-93c5-ce367ad8ddb4,Amada Cid-Blanes,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:05:03.900698,with_onion,N/A,5
+62,b8d68cf0-e90c-4e6c-904b-d4a6e783fc37,Dafne Duarte Acedo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:13:45.904854,classic,N/A,2
+62,838b9bab-9ece-4b1a-a216-e0a514967162,Álvaro de Pedrosa,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:24:28.950967,with_onion,14.1,2
+62,913ff09f-5490-4b9c-8e2f-1c4f67859b2f,Noemí Anastasia Olivé Ángel,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:33:07.281941,vegan,,4
+62,f7252c87-cefb-4ac8-895c-a3dcd1642de4,Pili Villar Ponce,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:53:46.690537,vegan,9.33,4
+62,5049ec92-100b-442a-9382-ae228fa7faaf,Natalia Florentina Belda Rius,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:53:37.146853,without_onion,,5
+62,08bac149-b4d0-4682-95d2-323528b0e889,Amaro Gelabert Acosta,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:34:21.634113,with_onion,12.24,5
+62,1204c419-f82e-4ad5-b96b-e32e954865aa,Guillermo Andres Palomares,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:14:53.024500,without_onion,,5
+62,682a03be-556f-47a6-a6b6-7669efde7382,Jacinta Esparza Jáuregui,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:30:22.473060,with_onion,,3
+62,6271971c-4b87-47d0-a3bb-c21fbed51f08,Susanita Tamara Enríquez Peñas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 23:06:49.172475,vegan,,3
+62,60cc3097-7941-4880-b4cb-1c82b23d58c7,Mohamed Simó Luz,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:26:58.809907,without_onion,5.07,2
+62,54d082ab-575d-48c7-991c-a44a41a6cf1b,Celso Leal Peiró,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:14:15.958780,vegan,,4
+62,eed9003e-4043-4d18-9e84-ce99ea430d36,Adelina Julián Carreño,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:30:20.445211,vegan,,5
+62,f3914290-b4ee-41a5-b8ba-4b0e27f17403,Eli del Coloma,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:39:16.162760,vegan,,3
+62,dc30efab-04ff-40ee-8ed9-e82970d8fe4e,Omar Beltrán Benitez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:06:46.699606,classic,N/A,3
+62,fc2ae644-2514-442e-b992-fc6a7c519d1c,Heliodoro Arellano Acevedo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:33:41.701182,vegan,6.17,5
+62,710de256-90ed-4608-9a1d-90dd670a22a7,Abril del Diez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:30:44.314399,classic,,1
+62,c0fd61da-b34c-4c36-81b9-70637751138b,Francisca Valle Lamas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:47:41.340106,with_onion,11.21,4
+62,092ee8bc-8cb8-461c-bf39-ef12e1df71d9,Aníbal Morata Donaire,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:13:07.885037,classic,5.6,4
+62,ed581776-cfec-4a10-88bd-56a167520af0,Javiera Vélez Alegria,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:11:28.415470,without_onion,9.26,2
+62,cc0c7050-a30d-492f-b0cf-1b535710db12,Eugenio de Rey,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:08:30.839013,vegan,N/A,3
+62,3e2f8027-ce65-464e-b6e0-b0bec0107899,Nerea Socorro Castro Fuertes,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:15:43.323272,without_onion,13.39,5
+62,cddbdb24-8d0e-46c1-adef-d84133b30d26,Amador Alcaraz-Solana,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:00:50.127946,with_onion,N/A,2
+62,656f09aa-bb9e-4087-bc9c-08ffee3e839b,Odalis Bellido Aparicio,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:07:38.110396,vegan,,4
+62,6bac38c6-2804-4415-bdee-efaece7ea574,Octavia de Salvador,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:24:42.481626,classic,12.08,5
+62,a8b69b50-0d79-4a39-8ae8-170fd8cfa4bc,Ernesto Borrego Gomila,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:42:27.046716,classic,14.82,1
+62,6df4e035-7497-4928-897b-7a24f88f6501,Xiomara Castañeda-Salcedo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:52:00.163412,without_onion,N/A,3
+62,e216b3d3-ab6c-404f-9aee-d48c0b83f902,Belen Real Castell,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:06:01.479258,with_onion,,2
+62,9d13425e-bfea-49e8-af9a-8a22a9cbb2c3,Etelvina Benito,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:25:48.515173,vegan,N/A,2
+62,4f86b5ed-c4d9-4d62-b2a2-d9a08e058039,Rómulo Sabater Múgica,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:55:07.726123,vegan,,1
+62,f0a09916-f5db-42b0-a712-fbb08592d48e,Paula Carro Tamarit,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 19:59:11.096129,without_onion,12.64,4
+62,3ecab53e-da67-4af6-bfca-39a6e59607aa,Gervasio del Marti,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:56:08.021239,vegan,N/A,4
+62,310e219c-6021-428f-a953-e2d14e0029e9,Samu Valcárcel,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:49:32.207643,classic,,4
+62,f293cb24-5a83-46e0-9be4-472d69b71972,Perla Casares Lerma,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:06:33.424223,with_onion,N/A,4
+62,1bca1b52-c329-446a-9323-a28995931275,Eligia Tirado Miralles,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:30:45.904890,with_onion,N/A,4
+62,5789381c-d899-4342-8d67-8a8b9661d4e2,Emilia Rufina Ferrán Aragón,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:48:23.681848,vegan,N/A,4
+62,023ff82b-6601-48bf-b0e8-e6698f2cbde2,Hermenegildo Vidal Solana Martinez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:17:59.229511,with_onion,N/A,3
+62,c6ef231d-437a-497b-a8f8-89f31b1545a7,Felipa Dalmau Arcos,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:54:21.945052,classic,,5
+62,99828b60-cf24-495a-ae0b-5cbda07a04d4,Miguel Pedraza Font,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:02:43.301163,classic,,2
+62,59a7309e-2ec9-4cd9-ae8e-be99fd0ee499,Reyes Mariño Guitart,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:06:26.249143,classic,,4
+62,044818ba-25d0-41e3-bda8-455d784c1fd3,Isaura Ferreras Girón,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:53:41.445842,with_onion,N/A,4
+62,bd25cfb0-6264-4ca4-ba22-b5a082076421,Lilia Bou Yuste,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:51:43.483715,without_onion,,1
+62,8ceed69b-e298-47a4-88d5-68947996a7aa,Adoración Calvo Riquelme,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:44:47.686682,vegan,,5
+62,edcc10df-8925-454a-b130-f5c2e8cb8ff4,Azeneth Pino Corominas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:05:51.095530,classic,9.28,2
+62,0efc8fd7-525b-4712-b7e8-cad3039619da,Eleuterio Garrido Gil,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:58:25.027107,vegan,,4
+62,00f22cd3-2456-4bd0-99d2-ec41fec4437e,Ema Sarmiento Herrero,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:24:57.269110,with_onion,,2
+62,e8c145dd-659f-46ce-bf4a-3826b6890790,Roque Puente Pagès,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:30:03.020263,vegan,12.72,2
+62,f8b60bc0-037c-4297-8a32-07a8b9c87699,Antonia Crespi Pozo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:44:24.065800,vegan,N/A,4
+62,9ccdd84c-6d95-4c65-a432-662a324fc3f6,Ovidio Pablo Planas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:20:39.286321,without_onion,,1
+62,9e41afb1-8542-419c-b92b-fdd434654bb0,Nereida del Tejera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:53:22.272913,without_onion,N/A,4
+62,c94a3b9f-79ab-4d2d-a4c1-adc038c2884d,Margarita Cózar Coll,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:21:53.646163,without_onion,N/A,4
+62,a699a698-25db-4fb5-888c-14abc213f038,Nacho Vall,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:13:57.721734,classic,6.82,5
+62,8de32305-9313-40e5-9da9-6a44dea0581d,Juan José Coll Blázquez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:06:23.090371,with_onion,,4
+62,4960185e-2060-448b-9f8b-60d57935f052,Vanesa de Lorenzo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:05:13.289588,vegan,,2
+62,1b02733f-8bb9-46d2-8732-94f12f864217,Amada Ribes Elorza,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:08:31.247097,with_onion,5.99,5
+62,54c803dd-1102-4807-b606-54c57f6190e7,Judith Corominas Pera,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:55:59.211515,without_onion,N/A,2
+62,cd60a3b1-2df6-46ca-a709-3240a7249d21,Gil Cazorla Pozuelo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:36:04.162847,with_onion,12.26,2
+62,dfd888b9-408c-4a5a-aa6c-a5357fcaec00,Prudencio Carro Reig,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:48:11.549390,vegan,,5
+62,865ad460-eb29-4a62-bb63-b92dfce6dd04,Ruperto de Elorza,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:27:12.750761,vegan,N/A,1
+62,a0607d9a-c830-438e-a76a-fa2fe41d57ff,Cándida María Teresa Márquez Manuel,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:59:14.365711,with_onion,N/A,1
+62,69de156b-79b9-4b01-a7b7-4f672cdf41a4,Felix Pelayo Benito,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:03:07.912112,with_onion,N/A,3
+62,394ce8fb-b73b-4ac6-94ac-c27bff788325,Carlota Escamilla Morales,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:18:54.588233,without_onion,N/A,3
+62,2f653ce4-d841-42b4-b7bd-d5de4c50eb79,Benigno Valcárcel Elorza,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:48:56.342117,with_onion,13.82,5
+62,b6422026-bca7-46d3-a1f9-4a626eac279a,Natalio Calvet Tenorio,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:30:05.839221,classic,,5
+62,1ce11313-0d4c-45f2-937f-779e344040e7,Cloe Castillo Menendez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 15:11:22.536236,with_onion,N/A,4
+62,36b9df84-776a-4666-87af-57f3cb165eb8,Cloe Torrent Querol,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:05:31.025484,classic,N/A,1
+62,bf8aae50-5d9f-4e46-85ce-6af179f2647a,Eusebia Gonzalez Catalán,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:35:13.820596,without_onion,,4
+62,d86e7c59-b917-4f05-8a1b-3d50643eb5ff,Benita León Rosa,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 11:38:15.399152,with_onion,N/A,3
+62,0fbc8db8-16fc-4b8b-ab2f-62f64dd23241,Calixta Castejón Ochoa,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:47:20.997659,classic,N/A,2
+62,5f76fc16-5e70-4194-ba6d-6f79a3cdbbe6,Ciríaco Maestre Cid,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:51:38.374343,without_onion,9.86,1
+62,a1df69e6-539e-45f0-8ead-7e9386b8fde6,Tristán Soler Bonet,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:39:44.647251,without_onion,6.76,5
+62,a152fdb0-778f-4bb3-83c8-862d7b617584,Dominga Expósito Cuervo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 17:13:55.595816,without_onion,,2
+62,015ecfab-c65b-4b0e-9c1d-f1bf37a91610,Vicenta del Villar,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:36:50.609835,classic,5.74,5
+62,6fe979ae-3180-4e2d-8758-cf2fb1f81d8a,Inés Flores Blanco,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:13:36.746652,without_onion,N/A,3
+62,10b86a8e-d249-4aa5-9920-7b3d1f6f85ce,Aurelia Herrera-Alvarez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 09:39:29.476721,without_onion,N/A,3
+62,139f0f34-7828-4773-9a7b-34947a5ae7ba,Lola Pedrosa Conesa,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:54:46.252207,without_onion,,4
+62,bd23c677-f3ee-4f43-8e77-92b792a9f5e0,Encarnacion Agudo Zapata,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 14:49:29.417315,vegan,11.31,3
+62,16c657ac-46f3-4878-9923-4b362194d77e,Chema Almazán Huguet,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:36:35.072176,vegan,,4
+62,8a3ceea2-ca57-42af-afc8-7623398c1f69,David Guardia Blanco,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:02:12.492478,vegan,N/A,5
+62,4ba5670b-4df4-4977-a722-0fde5fff9a24,Remedios Palau-Baena,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:58:18.874767,vegan,,4
+62,54fe7f2f-4fbb-4306-b9dd-7fdb447bed3d,Vera Acero Sureda,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:32:14.435823,classic,12.24,1
+62,ab58338c-ce1d-4077-8360-b0a27e208689,Felipa Esperanza Casanova Valderrama,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:06:16.183010,vegan,,3
+62,bf26c357-66aa-4ddf-afba-c3c4f344831b,Trinidad Aramburu Santos,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:25:08.689771,without_onion,8.81,1
+62,6a5b6927-1268-4a4b-a8e3-e2607b5afadb,Gregorio Segismundo Casanovas Oller,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:48:57.743683,classic,N/A,2
+62,f907e12b-f925-49ef-98ff-7c3fdee09080,Baldomero Bernabé Andrés Sanmiguel,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:02:54.036714,vegan,,3
+62,066cb6af-c9bf-4954-a6a1-e522d73e7409,Celestina Olmo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 21:12:47.335214,with_onion,14.9,1
+62,96080266-6135-4d7c-82a4-0edb3fd116cd,Ainara Tamara Tirado Castrillo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:30:43.681496,without_onion,N/A,4
+62,ad78fd54-fbd6-4a0e-a6a2-1fb05fd257e3,Jafet Ruano-Olivares,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:16:55.751188,classic,N/A,5
+62,fde55864-2a5f-4262-9e49-cb8ccca3680f,Roxana Peñas,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 13:37:41.872798,without_onion,N/A,2
+62,54854f44-85c8-430b-a530-2e44e8a0f97e,Abril Querol Revilla,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:00:12.628639,vegan,N/A,1
+62,b24b6329-fbb8-4746-895a-48d543c3dc25,Raimundo Peiró Andres,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:12:42.438843,vegan,11.89,3
+62,c4e73454-efac-4875-9508-02d54ccfaa1b,Clementina Gimenez-Paz,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:44:42.251592,classic,N/A,2
+62,5d65e07a-dada-447c-a481-198841c70d97,Blas Collado-Mir,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 22:35:28.271033,without_onion,13.93,5
+62,45fc4f33-9dca-4a3b-a100-50d4b620fa7f,Leire Luque,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:25:42.382116,classic,13.45,1
+62,0cea51b7-6e9e-43f1-9a88-adde68827c52,Ana Belén Pizarro Correa,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:32:57.222337,classic,N/A,1
+62,006f551d-96d2-4f2c-932c-192efe7946e5,Juan Pablo Campillo-Soria,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 00:54:09.455679,classic,N/A,4
+62,f024a242-4c36-406a-b913-19306753baed,Nazaret Amat Perelló,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:27:40.816621,classic,N/A,2
+62,f3906baf-db24-4d3b-be83-39819cadc6fe,Vilma Valenzuela,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 07:00:01.889743,without_onion,9.88,3
+62,6749bfce-88f9-4643-9cae-8e81da6d5903,Florentina Llanos Jerez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:37:51.308098,with_onion,,3
+62,bf007375-5290-4ba0-a06d-3565a650346b,Jose Ramón Macias Gallo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 23:29:15.773738,without_onion,N/A,2
+62,eeff13a6-3250-42b1-a415-fac051b80800,Guiomar Pedraza Lluch,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 02:41:15.315267,classic,N/A,2
+62,0b88738e-142d-454d-a8ef-7f3c31e5073d,Bernardino Porta Molins,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:49:17.698387,without_onion,,2
+62,7c6989e9-2b35-45a3-b0c4-b59731e705f5,Pepito del Manzanares,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:53:06.130890,with_onion,,4
+62,dbf6a341-2745-460d-981a-58cba153eb3e,Rodolfo Valero Sainz,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 20:26:15.665584,with_onion,8.65,4
+62,2360dae7-3126-4d4f-b9a7-b96d92f52147,Caridad Almansa,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 10:43:31.199566,with_onion,N/A,1
+62,6a261a61-a798-45f8-990c-6ccf5f242ec5,Selena Vallés Ávila,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:36:50.378666,without_onion,10.44,4
+62,76a7e684-ed34-4df8-aa79-dd71c47f6879,Piedad Francisco Villalba,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 08:43:49.741257,with_onion,6.25,1
+62,537e286a-9426-4291-b97e-bf4f6105489c,Almudena Crespo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 16:03:06.671100,without_onion,9.07,5
+62,c768f248-6594-4aa4-9bc4-148152baded6,Custodio del Manrique,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 06:27:00.915195,with_onion,,2
+62,a563a32b-ee47-459e-8053-c78549d7ed5d,Julieta Caparrós-Rubio,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 04:50:07.286160,without_onion,11.88,5
+62,5eca7ec3-a0ba-45e8-89df-75a64b9b8b50,Albano Barriga Perez,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 18:40:51.870098,classic,,4
+62,5c16a277-fd0c-4aa0-b40f-fc6894478ca9,Araceli Albina Zabaleta Cortina,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 19:16:28.672949,without_onion,12.22,4
+62,47677e01-c0a3-4faf-9724-6ab4e5236cff,Morena del Andrés,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 01:08:39.106773,classic,,4
+62,a4f32a28-8b81-4941-aeeb-64f97d7db590,Clara del Olmo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:19:25.613230,without_onion,14.32,2
+62,feeb7b27-1e35-498b-a708-1e97210dbc6f,Adelia Sancho Mercader,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 05:59:02.954018,classic,,3
+62,3f86dd2e-7f88-4c8b-bb29-1e721ba2194c,Roque Cañete Agullo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 03:59:39.466905,with_onion,,3
+62,4d643730-2938-47ca-82ee-db2199e5e580,Teófilo Artigas Sotelo,Valencia,"Urbanización Adolfo Dominguez 42 Piso 8 , Badajoz, 32537",2026-05-01 12:20:47.346261,classic,,3

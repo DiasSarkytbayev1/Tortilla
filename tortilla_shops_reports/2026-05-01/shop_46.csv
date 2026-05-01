@@ -1,0 +1,275 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+46,df71ec1f-03e9-47b2-97f9-d9dd0ad88c76,Mateo Taboada Pelayo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 11:40:26.278370,without_onion,7.28,5
+46,df7f7eee-50e7-44e7-9fb5-1796df56a72b,Cristóbal Alegre Coll,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:35:04.593239,with_onion,13.13,4
+46,8d92bceb-88f7-40af-9ef0-9fa81a524c7f,Corona Garriga Verdú,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:51:36.652850,without_onion,,2
+46,93a84f4e-820c-4e2f-88a3-24c2b911f01f,Raúl Salamanca Sotelo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:05:35.983776,without_onion,,5
+46,a951c3b8-459c-4bf9-8405-aad09e6874c4,Vera Leocadia Aguado Bustamante,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:12:29.513539,vegan,14.03,3
+46,02e5c633-7e03-4d2f-9705-6ac30251193c,Mercedes Acedo-Pazos,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 09:44:50.708022,with_onion,9.5,4
+46,8f69f691-5b77-4fd0-81d0-7bca05bb9de6,Pili del Moya,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:50:46.830673,without_onion,N/A,5
+46,3b574209-617e-4f79-a50a-117fe28612d4,Áurea Quero Infante,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 19:40:10.214213,with_onion,,4
+46,1cff4a6a-65eb-4a4b-a475-a98f9756f7ce,Noemí Macias,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 22:50:18.610972,without_onion,N/A,1
+46,c35ca487-aa01-45e8-ace5-49e2f08af9bb,Toño Salazar-Abascal,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:01:55.584627,with_onion,6.62,5
+46,9437aaf7-c138-4dd8-abf6-e6c982f03a80,Roberto Cepeda Galiano,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:07:19.357887,classic,7.38,3
+46,cb567a48-1197-4c1b-ad69-34278fab7ec6,Antonia Carballo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:36:04.828017,with_onion,N/A,1
+46,be7e7edc-560f-4eea-bd14-abb57ee1489a,Obdulia Vives Botella,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:24:03.935222,without_onion,N/A,2
+46,6978da76-7591-4c50-91ec-961de1e8cc39,Ale Solsona-Mariño,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:44:13.448847,classic,,3
+46,795d6077-194b-47f1-953b-e98cdb5136ad,Ligia de Roca,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:03:16.718423,with_onion,N/A,5
+46,93e7c934-86fc-4e23-a7da-dce6a8ae4af5,Benjamín de Abella,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:37:10.594263,classic,N/A,5
+46,a170a65d-247e-4855-bb83-b2ea9388a572,Rafael Cobo Jordá,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:49:21.942126,with_onion,N/A,1
+46,05614a51-4eca-4b5b-9edd-fcfd43e5c213,Juanita Palomares,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:02:49.481610,without_onion,7.26,1
+46,0abbff14-afe3-40f1-8415-47a1709a8635,Ligia Barranco,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:00:38.932861,vegan,N/A,1
+46,b2cd240a-0afb-404e-affa-b52913f5e3a9,Estrella Pareja,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:10:39.886932,without_onion,N/A,2
+46,894d1d99-83e2-4088-a6e7-b8e3426dac2b,Santos René Amaya Tejada,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:23:51.453592,without_onion,N/A,2
+46,cbdcf4f2-df7a-4989-8e0e-b72b15bf0cf8,Mirta Duque Tormo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:57:44.014401,classic,,3
+46,f4439921-3dd1-4654-a20a-cf32b28e5346,Regina Torrent Carretero,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:34:47.590229,without_onion,N/A,4
+46,629a2da6-15bc-4853-8f20-58b18753703d,Urbano Fonseca Cantero,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:36:25.293586,vegan,10.37,2
+46,f5f5a6ea-d0c4-4b1a-974c-48c478293405,Julia Lucas Nicolás,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:27:53.777406,without_onion,14.53,2
+46,33dbfa2a-60f2-4545-ba8b-d17c16321b92,Ofelia Castillo Torrent,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:12:12.364930,with_onion,14.7,2
+46,d61587f7-2315-4727-bb16-ffb8be95012b,Amanda Vega Sanjuan,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:16:01.379201,with_onion,N/A,3
+46,74e82eb1-305c-405e-9adc-821810d84a04,Benita Perera Calzada,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 21:18:24.590604,vegan,,2
+46,3d1f64dd-364e-49e4-b0b2-3bacfb5e30df,Abel Lladó-Fuertes,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:31:25.936125,vegan,13.82,2
+46,62637b08-9f22-4120-b0fb-36dbb18c0797,Amparo del Sola,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:44:52.131592,vegan,12.02,2
+46,7b97c865-1ffa-49ae-ba35-84ea32693c98,Gregorio Octavio Samper Plaza,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 22:13:20.002838,classic,12.93,1
+46,ed469c5c-6ce5-4d87-afd1-4ae6533b4ab0,Melania Navarrete Agullo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:58:59.656585,classic,,3
+46,119b2d6e-afa8-4c99-9fe4-6c871c3f2896,Blanca Márquez Roldan,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:34:12.860198,without_onion,,1
+46,a158f45f-5f05-4392-92b6-79af0869a41d,Emigdio Alcaraz Vendrell,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:14:20.586625,without_onion,N/A,1
+46,2913e448-a794-4977-a90a-e3acfdb8c47a,Quique Cerezo Godoy,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:33:21.064699,with_onion,,1
+46,2ff073eb-75f2-4066-bdb3-219cee7eaa91,Natividad Estrella Reig Uribe,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 13:33:52.425239,with_onion,N/A,3
+46,fab4dfc7-1516-4927-a100-b1723f16a961,Cornelio Llamas-Fábregas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:07:04.092324,with_onion,N/A,2
+46,3b2b70b2-cffd-403a-8d49-e2411d8c8c15,Ignacia Vallejo Escalona,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:15:17.245038,without_onion,,4
+46,18fe2066-a8de-4ad6-b7d9-16b3f1f783ec,Dorotea Salazar Gómez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:00:33.160932,with_onion,N/A,4
+46,c3458d30-a598-4ca3-89ac-11518c9a4b3d,Fortunata Amaya Barba,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 21:46:14.082273,vegan,,1
+46,e602ec98-cd8a-4dce-a4da-8148cf782f39,Eleuterio Benet-Arribas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 13:45:07.146913,classic,,4
+46,781b33e5-5b2e-4a7a-ab90-399a58c8c7f9,Eutropio Duran Olmo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:05:57.007782,vegan,12.38,5
+46,6bea4b61-30b2-4dfb-8f40-8ca8ef908d4e,Rosendo Chacón Rivera,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:25:29.107323,classic,11.11,2
+46,a64b71b5-628d-4e01-b233-407e32a6ee2d,Yaiza Ortiz Mateu,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:57:51.950993,classic,8.5,1
+46,c6f46ced-e911-419a-843e-b43bd39c281f,Mateo Rius Ramírez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:11:25.791583,without_onion,N/A,1
+46,0693b49c-fd1d-481e-ac47-65cd51e88ae0,Ileana Amorós Cid,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 00:40:30.853153,with_onion,,5
+46,b9e1b47c-db39-4ff6-b491-330f83614519,Óscar Sanjuan Vilar,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 13:13:42.483570,vegan,N/A,2
+46,031a26b4-2d50-4015-9329-44af4d445e1b,Ruth Soraya Alba Amaya,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:09:01.680837,without_onion,,2
+46,f48c6f08-f88d-40a7-ba24-7345779fba38,Esteban Baró-Sobrino,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:25:08.150746,with_onion,N/A,3
+46,63f4d9ed-9af4-499b-8700-fc48dacd4bdf,Cecilio Trinidad Camacho Llorens,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 00:30:42.817437,with_onion,N/A,5
+46,b36283cf-9725-49b6-9e52-c7408c9503a6,Florentino Iglesias Serrano,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:16:59.970246,without_onion,N/A,5
+46,79a07e3d-9c71-493f-8389-59fc1ce98d9c,Fulgencio Nadal Gutierrez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:49:47.710560,vegan,N/A,3
+46,358a11de-da2b-486e-b5b2-aa9dc15cbc44,Víctor Villalba Salazar,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 11:01:25.592688,without_onion,N/A,2
+46,267e918a-3702-4943-814b-a42ea693e645,Áurea Caparrós Borja,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:28:45.900191,with_onion,9.73,4
+46,5deaa861-93c6-4fed-ab3e-ad8bcd6ae5b8,Ariadna Hernández Figueroa,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:03:31.479151,classic,N/A,1
+46,bdb4ba74-4ad7-4157-994f-d03cb822f872,Pascual Rey Toledo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:25:34.257144,with_onion,,3
+46,92336547-bb60-4c46-8742-f3a01a5f6e99,Sandalio Zabala Calvo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:17:42.424665,vegan,N/A,4
+46,d2778efb-cb3d-46a1-94b5-17b77d3b0d5e,Felisa Bas Alegria,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:10:17.063913,vegan,N/A,2
+46,2f8a0847-e0b7-4ac3-8fc5-9b8c690e6d56,Juan Manuel Luis Miguel Peña Prat,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 09:01:52.925309,without_onion,,2
+46,b7aec96a-437d-44ed-a41d-e5e239eb2a16,Gerardo Cuenca Rodrigo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 00:13:48.136076,without_onion,,3
+46,0553d0e4-da5f-4d37-a89e-85f531896c24,Juan Carlos Muñoz Iborra,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 21:30:39.984388,vegan,N/A,2
+46,db132edb-a3b5-400d-869d-830cfabc7370,Gertrudis Iris Salinas Chaparro,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:48:21.635001,without_onion,N/A,5
+46,5bc3ef3a-6e06-4299-a751-b082d939205f,Guiomar Bertrán Fajardo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:31:42.571698,classic,N/A,1
+46,1f88e8fd-ec39-497e-92c2-3182dd7e1ed2,Amador del Gomez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:30:22.983737,classic,N/A,5
+46,26e6a641-3a17-49c8-a673-dd8d58c9d481,Perla Barceló Balaguer,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:48:39.530792,with_onion,,4
+46,e315ba52-63e8-470a-9b92-48b77b471be0,Encarnación Anguita Pujol,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:03:11.466264,with_onion,14.67,2
+46,97c6bb64-13c1-4fb9-a771-b6a088110f61,Aurelio Benavent Valverde,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:20:54.526926,without_onion,6.07,5
+46,dc581af6-eada-49ba-8547-2661b663608f,Lupe de Benito,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 00:07:15.965948,with_onion,7.82,2
+46,d4fefb4b-471e-4bcd-9489-91440cc99c11,Cesar Escribano Amorós,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:43:01.113722,with_onion,6.73,2
+46,741e3e42-b102-4668-b6a6-ea6082257145,Faustino Murillo Vigil,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:47:27.562343,classic,11.83,2
+46,8d6c50c2-0d8f-4e81-b066-87ddd3d2f3e2,Carmina Reina Sanabria,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 17:19:13.904483,with_onion,,4
+46,83993ff7-9f43-4f22-9427-3070a36062af,Purificación Miguel Cuevas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:40:43.719270,with_onion,14.16,1
+46,0423c57d-c195-4713-8da0-d2e3c15b73b3,Jose Ignacio Grau Mateos,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:41:37.163524,with_onion,N/A,4
+46,20259c35-121f-4d03-97d4-765972eb8178,Anselma Zurita-Fábregas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:45:06.103269,without_onion,N/A,4
+46,867cadd6-ee3f-45ea-b9c9-05fd5513abf0,Maura Susana Cazorla Rosa,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:27:28.312584,classic,,1
+46,efa63b88-d5f0-4cad-a14b-ab2f6126a9ab,Erasmo Asensio,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 19:38:59.620882,without_onion,,3
+46,62f715af-c3a6-4699-a88a-beaa8a2d05e8,Benigna Fabregat Mayo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 00:28:58.558079,without_onion,12.61,4
+46,ce4bcabf-eccb-45f5-a0f5-3fa790afaf15,Fermín Cano-Aragonés,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:40:55.401154,without_onion,,1
+46,6bb2970a-7f7c-4afa-8126-f96516fb657d,Manuelita Rosa Vallés Cantero,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 11:00:01.011163,classic,7.81,3
+46,33eb3504-bc67-4f45-8f02-6946b548b6fc,Curro del Giménez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 21:31:33.304309,with_onion,,5
+46,ac2e8538-a7a2-4a49-bab9-14bd0b4591c1,Graciano España,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:13:42.660982,without_onion,,2
+46,364013d0-be0e-4b8f-809a-a27ae78f59e0,Pastor Bolaños Lastra,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:33:57.824336,classic,7.69,3
+46,60fb1957-490b-435b-b356-bd3306be67a0,Rebeca Azcona-Valle,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 21:21:58.075322,without_onion,11.78,5
+46,8d93f988-72ad-43da-a3eb-54b48311d845,Adalberto Tormo Martín,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:34:08.359526,with_onion,,1
+46,34802984-adf0-4bd6-93b3-2cf3a78bc316,Martirio Lozano Palomares,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:24:52.258964,with_onion,,1
+46,fc260e83-8e31-4899-800f-e63a88e68c93,Amada Bayona Reina,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 00:25:37.780837,with_onion,,2
+46,21ff2bb9-039d-4038-b32b-d2cda46efec2,Viviana Catalá-Goñi,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 19:40:49.044477,without_onion,,3
+46,2f714054-e912-43ba-9b96-d18506cac21f,Samanta Anselma Quevedo Izaguirre,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:11:37.943752,without_onion,,4
+46,b09156c8-7ed7-4ea6-b8c6-5a79e5ab5c8a,Lara Paz Llobet Priego,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:03:35.340162,classic,,1
+46,68fde47d-aece-4310-9b6b-3d6675984951,Lola Gárate Torrent,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:28:17.952747,without_onion,N/A,3
+46,0ebd630b-0e02-4735-8807-f999f5d63954,Jacobo Gallego Saez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:11:43.671455,without_onion,,1
+46,ac3b638e-76d9-4750-8d63-d0ac338314d7,Lázaro Marin,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 21:31:11.969560,with_onion,,3
+46,081af985-c08a-487b-b583-617f7cfc4841,Rubén del Arévalo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:38:18.164803,classic,6.64,1
+46,8f359b42-0586-4778-ad0f-5a5e948a145b,Mohamed Díez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:34:20.733328,classic,13.0,5
+46,973a476b-c0c6-4ade-83b7-834022b62a26,Olga Rozas Chaves,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:07:33.659688,with_onion,,3
+46,e278d058-0fef-493c-ab67-13a409e81449,Joaquina Rojas-Montserrat,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:58:30.621373,classic,,3
+46,fdb2ab59-46fb-4cd0-897a-bfaaf1520ab8,Ulises Piñeiro Mur,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:26:16.537114,with_onion,9.8,1
+46,62a4314f-bc62-4003-899d-8a1600d71d69,Teodora de Bustos,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:05:17.170350,classic,,4
+46,7c0c3c13-d6d8-4080-91bf-b0b9bb49551c,Sol Bravo Cobos,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:13:31.462426,vegan,N/A,4
+46,24f29d5e-2206-489c-9fd5-fb419b766e3c,Cebrián Chamorro Vargas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:00:56.661831,without_onion,,5
+46,fbc639a4-541b-4826-9efb-8a671796957c,Ágata Roberta Muro Lluch,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 19:17:40.702300,with_onion,13.26,1
+46,a03a26cb-bd20-42a8-923d-7be3e8c0d0fd,Eric del Calatayud,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:47:47.248067,without_onion,,5
+46,a115cfd8-46b0-4d90-96a3-47da6d24768c,Paola Sala Chacón,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:37:45.706305,with_onion,,4
+46,71da5e93-9f0a-4ae3-a643-b41a3eab7e6c,Vilma Osorio Cobos,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:47:20.896881,without_onion,N/A,5
+46,272a2d09-e044-46f1-ace4-e9f7967a1e9f,Teófila Paniagua Coello,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 11:17:31.027033,without_onion,9.84,2
+46,cfd5a56b-613e-45f9-ac7c-1552d924f0e3,Eufemia Jiménez Badía,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 11:23:24.400778,vegan,5.0,2
+46,694d247c-ec10-45ee-8652-130d040e7098,Jerónimo Conde Soriano,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 19:19:32.459884,vegan,10.13,3
+46,692cc279-ebed-4783-910c-4000c36e009e,Juana de Belda,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:40:54.869668,vegan,,2
+46,66cad9b5-6d4d-4033-ae75-f8300328ba83,Vilma Goñi Rios,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:09:41.212211,vegan,12.09,5
+46,17282e2a-5082-40ca-8690-1bcac31b1c5b,Leticia Quiroga Palacio,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 17:29:35.824716,without_onion,N/A,2
+46,38ac2185-cdb3-4e23-bdab-822d2ec5a4a8,Saturnino Galvez Chico,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 13:43:24.047444,with_onion,14.98,4
+46,0fd8448f-4aee-4664-be29-5f7b708cdcb0,Elías Conrado Patiño Calatayud,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:01:05.261973,vegan,N/A,2
+46,7467b56b-1a1c-43c0-bc1c-96f93b0a6ea7,Azucena Soler Segovia,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:28:11.762953,vegan,7.78,1
+46,297ea0c7-8c01-4308-8e48-47230c33e768,Rosario Quirós Martínez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:40:22.749519,without_onion,N/A,4
+46,28ce9c22-0a7f-448f-b94e-7337ee977211,Maricruz Nogueira Ibarra,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:21:42.765565,classic,N/A,1
+46,91d83141-36c0-440b-8bdb-9c744c6dbeb1,León Carrillo Pulido,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 21:17:50.021139,with_onion,10.79,2
+46,68795483-9e1f-4a42-9b11-3f991a7531ec,Pía Julie Puente Tomás,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 22:50:42.708969,classic,10.73,1
+46,d9ca477d-034b-4407-92bc-dbc1493f946b,Octavio Tena Mayo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:10:40.534270,vegan,N/A,2
+46,3b1e936a-f883-4e65-9d13-4adbd80a2a16,Lino Almazán Benavides,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:39:08.509852,vegan,,5
+46,4c2ec1be-aac8-4348-ac13-4215d72b7007,Ciriaco Asdrubal Vilaplana Cisneros,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:37:40.403705,classic,14.28,3
+46,b3248a2b-1c2d-4155-81f2-b4263f5222bf,Isaac Carreño Cabañas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:38:51.309295,without_onion,N/A,4
+46,d020634c-c6ef-4750-a784-9f01fd1979a2,Nieves Perera Giralt,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:14:59.749472,without_onion,N/A,5
+46,074c4f37-1eac-44d5-9cc2-eef2423301a9,Quique Pinedo-Pastor,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:11:31.856632,vegan,N/A,4
+46,d3db40b7-ce58-401a-a6b7-e4a6c6fdfbf1,Juan Francisco Puerta Espada,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:53:03.408915,classic,N/A,5
+46,06a1a344-3d23-4d6c-b2c1-6fd129dd60e1,Venceslás Cuervo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:52:59.069370,without_onion,6.67,1
+46,0053f948-fd49-4fbc-85fb-9e25fcc258f4,Octavia de Silva,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:58:34.131486,without_onion,,3
+46,eb7338cb-21f1-4b64-b8d3-783b15787c04,Eleuterio Alcolea Gordillo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:57:05.985366,without_onion,N/A,4
+46,d8ae4bb4-f26b-4ec1-b854-33f2ee4c8ad0,Gervasio Echeverría Perera,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:18:34.376216,without_onion,N/A,2
+46,98050e9a-6665-42ab-b58d-bfbaa0098ee7,Benjamín Velasco Guillén,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:07:48.400625,with_onion,5.61,5
+46,c78caf65-30d7-4056-9be8-83ff6fe49b9d,Íñigo Tomas-Rueda,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:42:17.067621,vegan,5.28,1
+46,01f8d9fc-ea91-41c0-93cc-09fc7f07c82a,Dani Sainz,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:19:08.694581,vegan,N/A,1
+46,1e3438dd-3e42-4335-a5ab-ea7e0a88845e,Antonia Gárate Manuel,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:18:21.071061,without_onion,,1
+46,fb275c5f-9f48-421c-9428-e9c9919c8f85,Diana Tejera Viana,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:22:14.702088,with_onion,5.42,2
+46,f6f7a728-be62-4082-9304-9fbe32fddd40,Josep del Estrada,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:53:37.510884,with_onion,N/A,3
+46,aabebce5-dedf-4a15-a00b-5f77267b5b5d,Juan Francisco de Pellicer,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:27:12.230029,vegan,N/A,2
+46,29bf0cc4-1c46-44ed-991c-9f75debc65d5,Jesusa Baena Molina,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 09:45:58.063252,classic,7.09,4
+46,5b56bced-8275-466e-a6cc-a0d198e87bf8,Luz Saldaña,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 13:32:46.206711,without_onion,12.96,3
+46,355de0da-a1ca-4697-a007-896839c0de5f,Estela Nieves Ayllón Ochoa,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:37:20.161857,without_onion,11.35,3
+46,93726afb-ab59-4491-aefb-dc70e3296b43,Teófila Galvez-Burgos,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 11:49:15.570704,vegan,N/A,2
+46,b30d8238-0964-4596-aacc-0d910f8508eb,Efraín Batlle Piña,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:53:03.378071,without_onion,6.82,3
+46,a2e803e0-7273-4499-9304-544e2b12b788,Ciro del Torrents,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:48:30.846062,vegan,N/A,3
+46,d71b6fe3-5ee7-4eb8-b139-d7536592f9a4,Adelina Susanita Villena Padilla,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:04:03.879715,classic,5.95,3
+46,14b77a1f-6e32-4ac5-82ff-e74f0976bfdd,Maite Martí Morcillo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:33:16.420244,without_onion,,4
+46,9dd1283d-5f47-450a-b336-8fdaa3ca6fe3,Damián Escamilla Montero,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 13:21:46.597578,vegan,6.28,2
+46,5a0e90e3-b5a8-409b-8db0-b8b86fd59870,Maricela Nadal Pellicer,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:38:58.466484,classic,N/A,3
+46,dd0e6210-b317-4a02-860c-8230d7990403,Alexandra Sancho Alarcón,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:56:48.946453,with_onion,10.42,2
+46,20de4550-d921-4994-b65a-1e46ae67000b,Belen Pelayo Solano,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:05:35.294945,without_onion,13.9,2
+46,3e139cd7-b045-4765-be4b-74cd3c603e38,Agustina Ayllón Rosell,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:08:56.575907,classic,,1
+46,7d4e822c-8cb4-42d1-bfe8-89a39ba0dc25,Corona Baeza,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:04:01.321811,vegan,,3
+46,b7f92fda-5c77-4418-9fba-f406f53f4c6a,Cristian Raya-Nebot,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:11:26.085129,classic,7.73,4
+46,8d6a5682-0bed-40c3-a7ab-630bfeb2298e,Berto Valle Belda,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 19:49:52.423209,without_onion,,4
+46,9512a6f6-f0ac-4be7-84dd-e9cb898db14a,Emilio Mateu,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:00:13.379871,without_onion,,2
+46,f0f8c40a-aca5-45d3-8328-61f19d182004,Ofelia Enríquez Barrios,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:44:52.403090,classic,10.16,5
+46,5d1d2e02-a70c-485d-9166-92a2c1946e44,Ariel Pedraza Calzada,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:16:21.188679,classic,N/A,2
+46,0faf0b0c-665b-474d-9f88-93a8faa49443,Teófilo Rocha Bustos,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:29:41.225060,vegan,,1
+46,13524930-14b9-4234-bf7b-99dfd2826239,Felipe Costa,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 17:47:33.070771,without_onion,,3
+46,93cf505a-3ffd-4855-a561-8f6cfabd42d4,Eliana Anastasia Toro Bartolomé,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:17:18.542555,vegan,,5
+46,d0ab147d-018f-44d8-abfa-3285418b4b86,Teófila Agullo Manrique,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:13:46.579299,classic,N/A,2
+46,046c6c91-ceb8-4b58-b30e-a19a6c48827f,Carla Sandoval Alcántara,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:08:27.008976,vegan,10.03,1
+46,eb0077a2-f866-419c-bf44-ec93a551eecc,Loreto Pinilla Corbacho,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:24:42.903873,vegan,14.02,4
+46,4f2caec3-37a0-464c-92f3-fbd67e9233da,Hernando Solano Ortuño,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:54:31.916231,classic,14.75,1
+46,4ad68b04-6783-42e3-946d-c07ac508fb1e,Anna Lobato Arnau,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:25:04.694236,classic,8.29,3
+46,58302e7b-4758-4479-aa67-082667a1c1cb,Paz Polo-Robledo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 17:13:48.385710,vegan,,5
+46,ff21f6c0-1e15-4878-b9f5-20379fc4e8c5,Marc Aguiló Aguiló,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:44:27.486799,without_onion,,3
+46,e50e74ed-6549-4eca-b1f3-eea30d6aa4c6,Consuela Eusebia Ferrándiz Álvaro,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:36:43.660901,without_onion,12.12,3
+46,1b203ab3-5f73-4a94-a5ab-1ab9fc035886,Dolores Cuéllar-Garay,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:57:36.400349,classic,N/A,1
+46,d42fe542-8f05-4f31-b4d8-6e89f81c858c,Jacobo Vidal Gilabert,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:47:10.044818,without_onion,,1
+46,ea8fa88e-a203-4801-a50b-5c0180b170f0,Cecilio de Escalona,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:16:22.147374,with_onion,13.72,1
+46,7af2e819-a417-4ae4-9f5e-914e005613cc,Sara Iniesta Batalla,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:27:27.708342,vegan,,1
+46,9e1ce8ac-0022-44c0-9b69-1f34f0cde6e4,Heliodoro Álvarez Ródenas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:47:03.966714,vegan,N/A,1
+46,699befae-6589-4914-a36b-7679a1254e2a,Chucho Barreda Roura,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:03:25.185614,without_onion,N/A,4
+46,8cd01e9b-8062-4e07-9114-93cf5dc9a523,Ignacia Elorza Mayol,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 11:52:15.684588,classic,5.37,4
+46,7fe8fcf6-ecfa-46d3-880e-aa100103ba8d,Vasco Zaragoza Trillo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:50:55.411160,classic,7.59,2
+46,5d61e0a4-264d-4170-923a-6ca933501b1c,Gisela Alvarez Escudero,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:39:05.374647,with_onion,7.69,3
+46,df5768c0-ae7e-401d-8503-b268a3fa8f95,Bibiana del Lumbreras,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:55:39.605407,vegan,8.52,2
+46,6333c671-1891-4c4f-9f82-12634b342013,Lope Hoyos Asensio,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:29:42.053019,without_onion,N/A,1
+46,ea99f853-6349-44cb-9f52-daf7d1a47548,Berto Ferrero Luz,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:28:43.449140,with_onion,,2
+46,f22789e6-216f-40bc-a159-8ad7ba71e44e,Odalys Malo Manrique,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:18:10.024746,vegan,5.96,5
+46,435cb6a1-e9aa-49eb-bf80-bf92eba898d2,Irma Madrigal Fiol,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:14:53.929528,without_onion,13.22,2
+46,51d282aa-75ce-4852-8d1e-48f2bf472aeb,Hilario Espada Manzano,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:00:28.902644,without_onion,11.7,3
+46,cfd81933-cdff-4562-9755-7a982ab8038c,Tito Uría Palomino,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 22:42:57.951258,with_onion,,3
+46,7e74c223-331c-4566-8bd2-e5679a6ad18f,Jaime Quesada Galván,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:54:31.627272,without_onion,13.97,1
+46,b7e929ab-1989-4e23-a791-d3ad1a16a641,Santiago Arnau Garay,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:22:19.515098,without_onion,,1
+46,f751f2f8-bc93-4e71-bfe7-478944f9702a,Nazaret Pagès Feliu,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:53:39.090279,vegan,12.26,4
+46,2237e340-8d7f-4643-92e3-556f08707e6e,Carmela Cabanillas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:51:57.718802,with_onion,10.98,5
+46,fb099799-f8fd-4ad4-9b36-98423a095f14,Edu Julián-Rebollo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 00:18:27.042080,classic,N/A,3
+46,6e81550f-ccd2-4b1b-83b1-4205b7ae2d67,Pilar Gimeno Arévalo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:20:03.004871,classic,12.72,2
+46,4a1a6856-d6bc-4e41-a929-653e48a8ac6b,Jordi Vallejo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:26:30.494071,classic,,2
+46,686efadc-95fa-4f87-b67e-28971b25f080,Quirino Cruz Salvador,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:25:34.733324,with_onion,11.09,3
+46,2fe8381a-7610-4aa0-a020-c5edb3e4e140,Marino de Gutiérrez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:45:16.573929,classic,,2
+46,e8708643-30b7-4b96-8e58-ea29aa23d4b2,Ligia Andrade Moreno,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:15:20.415289,classic,N/A,5
+46,ab6a4c7f-1bc8-4d86-af66-152195e32ac1,Donato Amigó,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 11:33:28.930048,without_onion,5.39,4
+46,8cb21322-4d8a-48ec-adda-9a31acc42d8a,Jesusa Luisina Cabeza Portero,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:47:19.339479,vegan,N/A,2
+46,559bce92-a40a-454e-91c2-3809ab211595,Noé del Donaire,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:43:54.423256,without_onion,,1
+46,40fcedc9-e6da-4396-9765-4915c15544c9,Marco Aguilera,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:17:22.998367,with_onion,,4
+46,d6cf1baf-3130-4ebb-9b89-9887cb720d13,Pelayo Heras Palau,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:07:14.156328,without_onion,N/A,2
+46,01158473-6fd7-43de-88ea-f48bead16332,Montserrat Salud Ruano Huguet,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:12:28.142394,classic,N/A,3
+46,dd1371c0-8d03-494f-b0e0-5ac95dadaf8a,Rogelio Peña Uribe,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:00:47.577512,with_onion,,4
+46,2746db50-fee2-472b-b910-53f4ab27cc5c,Pilar Casandra Serrano Matas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 22:12:18.861650,with_onion,N/A,4
+46,986ec530-35df-4446-a9d8-986eae38c1a7,Chus Aguirre Valencia,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:59:19.287774,with_onion,8.7,4
+46,005aba14-d54d-4904-9688-7b2956284127,Paulina del Jaén,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:49:51.139890,vegan,,1
+46,1fd4c9c0-2b00-445a-9c24-1309a88b26cc,Lourdes Rosell Benavente,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:27:59.791099,classic,N/A,3
+46,d443a3ca-de68-4c97-9a97-b6fab8f25859,Hipólito Avilés Rueda,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 21:13:07.917179,classic,N/A,5
+46,6c531d63-9501-44da-a4b7-2c1ab8f17355,Gregorio del Roda,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:37:24.116321,vegan,14.1,4
+46,6e8ad463-b600-4503-8fc4-908753147076,Victor Manuel Torre Blasco,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:49:23.371584,classic,N/A,5
+46,87aa4a67-a7e8-475e-9987-9eff420d3cfc,Felicidad Bolaños Castilla,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 09:59:28.653469,vegan,,2
+46,f2e17b12-095f-442d-8849-eecbb78bb48c,Delfina Vallejo-Giralt,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 22:18:51.798404,vegan,5.12,5
+46,fa47e670-2702-455b-ad30-d3c5cc683e6b,Eduardo Cózar Real,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 18:56:55.072381,without_onion,7.05,4
+46,873a820f-cb87-4c35-a945-aa54648171f0,Arcelia Estela Robles Ballester,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:51:37.165570,vegan,,3
+46,26e331ee-a41b-4cd9-9507-d0e1f40e0589,Rodrigo Lucas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:42:39.944412,with_onion,,1
+46,6816619d-092b-45fa-92b0-786c0b4730b7,Jordán Barceló Ocaña,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:30:57.884877,classic,N/A,2
+46,8a05b137-4b6c-4dc4-824a-583fe81c0a10,Teófila Espejo Sanchez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:44:54.711742,classic,N/A,3
+46,a12078af-e8f0-412e-8389-730363e7267b,Sancho Francisco Herrera,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:41:56.465407,with_onion,N/A,3
+46,66fe0305-ac8b-448d-a659-1cbd2848cddc,Carlota Vara Gutiérrez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 17:42:18.462625,with_onion,N/A,4
+46,db0e00d5-7f66-4b93-8722-87455fe92ff7,Juana Noguera Mayoral,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 01:43:40.615132,vegan,,5
+46,5519dccb-15c9-431b-ab5d-03bead54f3ff,Sergio Vila Morell,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:23:56.883994,classic,,5
+46,7a8a47be-ba43-4a80-91ca-c12ed9c5ab8a,Flora Bernardita Roldán Vicente,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:27:43.430833,with_onion,14.17,4
+46,2e7fc360-6cd5-485e-9c71-44621ee8d258,Edgardo de Viñas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 09:00:16.525873,without_onion,,2
+46,724024d5-0ea8-4616-afff-a9b145dec3c3,Dulce Ayuso Pagès,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 17:57:26.100298,without_onion,6.37,4
+46,066e01ff-34b4-4a56-b929-45d50f1b2f8d,Victor Manuel Calatayud,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:15:48.451452,without_onion,9.2,4
+46,d5939675-8268-4bee-95be-b7ea4cb2aea6,Augusto Mateos Clemente,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:29:31.757922,vegan,N/A,4
+46,863ee250-8c88-4d41-bdf9-d68e5c2350dd,Cirino Saez Vergara,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:51:20.301205,vegan,N/A,1
+46,de7f95a4-b75b-4957-90ff-235b377dba09,Sebastián Llopis Uribe,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:53:57.898921,vegan,N/A,3
+46,7cdd3887-7c58-4f31-9c0e-1382727f5b84,África Cabrero Guzman,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 09:02:58.895428,without_onion,9.66,5
+46,23147349-9b63-4158-8aad-40942972bd0c,César Valverde Peñalver,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 09:00:28.804958,classic,5.56,4
+46,d0e7da69-5468-49d6-8175-2ad02bc0c2e2,Lisandro Guiomar Gimenez Giménez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:29:23.794894,vegan,10.78,2
+46,e34ae72c-80b9-4030-9c17-2dfe4ea64dcb,Fidel Oliva Navarro,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:02:41.563788,without_onion,7.52,5
+46,43b79fe9-25d3-4d9b-8b97-d80bf14628db,Pili Aramburu Cabrero,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:50:33.187244,with_onion,N/A,2
+46,c1608e84-bd70-4b2e-a8c5-dd1e3fc8064c,Vilma del Castilla,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:01:44.062418,classic,N/A,2
+46,6026fbe1-d75c-4aec-a2d9-8288ad263da4,Jordana Anunciación Bayo Tamayo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:35:36.452911,vegan,,2
+46,b2dc135e-21ae-42e3-a1e7-f487adab1c9f,Roque Baró-Valle,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:36:22.862784,with_onion,12.03,5
+46,1299a7d3-aff2-41d4-906d-fea8bcff3f04,Cristian Priego Sanmiguel,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:38:58.596373,classic,N/A,2
+46,29eeaaff-4215-4c0a-b76a-35ec70f586f1,Epifanio Coca,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:18:07.655857,classic,,2
+46,32e22319-94c0-46b2-a22d-efe9b07074de,Maura María Pilar Canales Vazquez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 15:13:50.679112,with_onion,N/A,3
+46,a0a2b5b9-20cf-4670-9de7-8df5d3299dae,Juan José Niño Maestre,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:41:13.463426,without_onion,,2
+46,38f08d91-69d8-473c-9fe8-dcfac2fb0171,Dora Borja España,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 13:51:12.135587,vegan,N/A,5
+46,2d6c02e4-fe0b-430e-9499-f48d19356748,Albina Grande Malo,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:02:43.671452,with_onion,,4
+46,5a0e5fb5-d004-4289-8115-d5348a18a676,Eva Ángel Antúnez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:12:52.846986,vegan,,2
+46,1b1efc5b-4f51-46a5-9a57-6c7494fdfae7,Rosalina Castejón Antúnez,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:33:22.408940,with_onion,,2
+46,4554088b-b2ba-4ed5-9239-78e79c0e602a,Jonatan Gomez Flores,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:35:32.834280,classic,N/A,5
+46,2176234b-e104-4bb7-846d-7bec03229a66,Leopoldo del Montenegro,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:29:25.720240,classic,9.45,4
+46,4cfcc80c-d229-4f0e-a2a1-1d5458bbf9c1,Federico Márquez Tejedor,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:47:45.971776,without_onion,N/A,4
+46,e0b32b99-c518-4e6d-a302-8ec90b486b04,Juana Terrón Bejarano,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:38:21.540409,classic,11.84,3
+46,f272ef40-9c91-403a-8249-b5b4efb91fa5,Teresa Guzman-Castañeda,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 13:42:53.018856,without_onion,9.73,4
+46,cafba958-94c6-4eb2-aa75-d6da29f9691a,Danilo Carbonell Espada,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 17:01:39.718217,vegan,12.52,5
+46,a5aac920-d4af-4656-9eb0-eb79bb90b618,Ximena Querol Ribera,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:45:09.220779,with_onion,10.72,3
+46,8a5e6127-e258-470b-b915-efefc4be2bde,Sebastian Real,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 06:41:36.455026,with_onion,6.88,3
+46,64d3d2b0-b8cd-4d7d-b39a-670db0984c0e,Alejandro Almazán,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 08:44:17.572378,with_onion,N/A,3
+46,e43957a5-1c12-4283-8541-f04a1a53389d,Reyes Iniesta Farré,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:27:01.668181,classic,N/A,5
+46,8a9e6ac9-f504-4428-99ad-a54c57e5da31,Lucía Puig Tur,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 02:47:36.627160,without_onion,N/A,2
+46,a3a78435-cd8d-4f3f-95fc-8aa1e94b1d36,Seve Blanca Valera,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 11:15:32.504510,vegan,,4
+46,94e00c31-bdbf-4b8c-a432-db87bbcdeb1c,Samanta Sancho Gascón,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:47:18.189487,without_onion,,5
+46,6b038472-1a3c-4e53-9421-a56e141166b6,Marco Granados Roura,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 10:26:55.331556,vegan,11.96,1
+46,143a2f7b-0ad1-44ae-bb06-a05e9e74aed1,Isabela Carrillo Pou,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 21:10:47.113579,with_onion,N/A,2
+46,8cc3c402-36ad-4ea6-9c4c-e706fc15770c,Jenaro Galindo-Mur,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:11:35.961729,without_onion,,1
+46,265a796a-e25e-4698-858e-0826bc95ac89,Lucas Garay Rosell,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 16:29:01.490909,without_onion,11.33,4
+46,679a3b55-4d91-4d84-a42f-9e1089d92df7,Violeta Aguilera Ochoa,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:40:21.161410,classic,N/A,5
+46,d6c12d6d-e986-41d2-9d82-53739e128648,Vicente del Vaquero,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 22:41:56.526510,classic,,3
+46,da688443-f89a-4593-97ce-fec58c224d14,Rita Morera Quesada,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 04:41:08.976472,with_onion,,2
+46,817f64f9-dba8-4792-aa78-059be43a0981,Lisandro Huguet Cortes,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 05:35:06.681744,without_onion,,4
+46,51dbf3fc-9bda-4fc5-8a56-89ceb08f15b3,Emilio Acevedo Francisco,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 07:39:21.148295,vegan,7.06,3
+46,e2fe6821-59a9-414d-8c6d-f2582a17b601,Felicidad Alba Ojeda Bosch,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 19:39:32.292802,vegan,5.64,5
+46,d78fefd4-f930-47da-ac4c-1d52a57eb037,Joel Perales Anguita,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 09:30:32.938731,classic,N/A,4
+46,4f86473e-75a1-4dce-8456-d3686108de1b,Juan Luis Gutiérrez Valenciano,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:17:42.125889,without_onion,,3
+46,cf82bf90-0079-431a-8103-3cc70081e6fc,Manuela Prudencia Blanco Alonso,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:42:18.019441,with_onion,14.91,2
+46,3237ad9f-22fc-4910-a5cc-954a6de0ff4c,Saturnina Rojas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 22:21:56.328187,classic,,4
+46,3b00b0cb-e525-474b-909a-d1421df3baae,Américo Héctor Villa Cabezas,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 23:21:55.614949,vegan,,5
+46,e6f0dd6a-b159-4721-888c-1887596e83b2,Felipa Quintana-Cano,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:38:41.959826,with_onion,N/A,5
+46,1a823e8c-b908-4fc1-879c-1ecdd34ddaee,Adelia Lorenza Bernal Alberto,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 12:09:13.968241,without_onion,11.57,1
+46,fc5b097b-20ba-454d-b008-ba968f1b7f6d,Leopoldo Che Saavedra Pol,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:41:04.301023,classic,10.22,4
+46,c717d786-4754-4eff-abcb-9ebf6ba19758,Elba Barrena Sala,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:47:08.658082,classic,,1
+46,98b60742-3dcc-4708-afeb-7fdbe273da42,María Carmen Tomé-Soriano,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 14:12:17.068615,with_onion,10.32,2
+46,98ae4c01-5564-48b6-9cc2-c1e70abfc47b,Segismundo Rivas Gracia,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 03:43:40.771111,without_onion,N/A,4
+46,8e6fc27b-e824-4c16-a3d4-b64413b3df02,Cándido Gaya,Valencia,"Acceso de Baudelio Beltran 16 Piso 1 , Santa Cruz de Tenerife, 37467",2026-05-01 20:16:27.227747,with_onion,7.28,2

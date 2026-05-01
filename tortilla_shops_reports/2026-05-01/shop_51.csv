@@ -1,0 +1,483 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+51,fbb5c0fc-d818-4a66-8851-7cc9661073f0,Emiliano Morata Tudela,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:40:10.186079,with_onion,,5
+51,0d3a62e0-e2d2-4d14-bb08-8ccf21ec2162,Loreto Piña Ochoa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:11:54.230735,without_onion,10.76,5
+51,5a9c22dc-8bc2-453c-9b4a-183a3413592e,Eduardo Mendoza Hoyos,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:20:33.113780,with_onion,N/A,1
+51,c3905dcd-fd0e-419d-aa77-a6792c63c797,Alonso Molins Pardo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:56:30.268051,classic,12.73,5
+51,1a6fcb53-de56-408e-aeb6-222e1d933ac0,Ale Lastra Terrón,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:40:29.064558,with_onion,7.88,1
+51,f860cc6e-0fda-42b7-a7d4-114b679f7fcf,Juan Pablo Cepeda Escudero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:09:13.286759,without_onion,N/A,1
+51,3c52df57-a235-48e6-893b-8e088d668a18,Leandro Amo Carrillo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:06:33.654717,with_onion,14.88,1
+51,8405b176-ede6-4e41-a62c-2ab407d1ef07,Jose Manuel Jose Canales Carrión,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:18:56.553585,vegan,6.65,3
+51,af7d9657-0dc8-4647-bb65-3eaa822bb1b3,Aristides Canales Figueroa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:40:31.949048,without_onion,14.42,4
+51,ea1408ab-f212-4cd7-ab0e-815507851046,Tere de Nicolás,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:52:44.752280,classic,N/A,3
+51,478f52ea-348c-471b-b476-50f3018ebf2e,Rosenda del Miguel,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:10:01.000371,without_onion,,4
+51,c6ca182e-06b3-4006-be06-83e02ed19b31,Yolanda Comas Valderrama,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:27:01.632149,with_onion,,5
+51,7cf05bd0-f9dc-4d6f-ba66-0a5a82e7d87a,Calixto de Huerta,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:46:38.698647,with_onion,N/A,3
+51,9544f179-6db5-4432-9736-db0ea878a685,Pili Oliva Pascual,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:38:07.417141,with_onion,,1
+51,c179ffaa-417b-4532-80f0-71d512b8cce0,David Larrañaga Galindo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:32:24.838207,classic,,4
+51,fdb02ad9-c801-4c11-b118-75c33ebc3478,Amancio Ugarte,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:32:34.471168,classic,12.97,3
+51,91942ba0-f694-4c68-b85d-6864523e96fb,Rogelio Higueras Neira,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:25:38.532321,without_onion,5.6,5
+51,65d95fa5-0399-49d8-92e5-fe2252ec75a4,Fabiola Corbacho Gibert,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:51:24.036630,without_onion,N/A,3
+51,4c3f2c45-35e9-4bd0-852f-80ede207e8f0,Angelina Beltrán-Bernat,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:40:51.383856,vegan,13.12,2
+51,17277825-0240-43b1-8f55-42ca8ceabf6e,Rosario de Tena,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:34:48.556714,vegan,13.9,3
+51,3ebe05d8-4c56-452d-895c-f270d229305c,Jose Angel Echevarría Royo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:22:22.982861,vegan,9.64,3
+51,68777159-2719-497c-bf85-fdb7c24e1129,Gerardo Baeza-Andres,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:12:43.460125,without_onion,,5
+51,8aa0f87a-0489-4039-833e-2e965d074107,Roldán Villanueva Montes,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:36:18.820783,with_onion,N/A,3
+51,92888106-9fac-4c3a-b614-43816061bee3,Fabio Plana Pi,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:57:20.252247,with_onion,11.41,3
+51,51b027f3-3e71-4bc5-a02b-9ead3c5283e3,Odalys del Valls,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:27:13.392401,with_onion,8.77,1
+51,1f002998-558b-43b2-a544-b3d0119625b6,Humberto Ruiz Batlle,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:09:52.111508,vegan,10.93,1
+51,e546f367-5d89-497f-979e-c01678e7aeae,Catalina Febe Trillo Pla,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:33:20.657193,vegan,12.16,4
+51,b25f3882-6a3f-40b1-8205-a79525eb2039,Hipólito Salas Gelabert,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:24:20.356116,classic,11.99,1
+51,b42bb977-2c41-4073-bd49-97aad60f86fd,Sigfrido Giner Carbajo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:45:28.219710,without_onion,N/A,1
+51,8fe3df18-51ca-4fce-9318-b90774698f13,Glauco Amigó Rodríguez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:39:38.890276,vegan,,3
+51,c15159e7-fef6-48c9-bcd8-de762e92c827,Luis Miguel Reina-Expósito,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:09:13.018730,classic,6.85,1
+51,f741f20d-aaaf-4747-a7e1-0ed90a511bfb,Aureliano Ciro Bartolomé Alberto,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:25:39.057574,without_onion,6.56,4
+51,0f68b07c-70c0-4396-b4aa-130cd0a03009,Perla Alemán Amaya,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:32:15.968572,without_onion,10.96,1
+51,773b2e79-b224-4a59-97f1-1b7a1ad839c4,Eliseo Manuel Anguita,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:02:44.632941,vegan,,2
+51,549f886a-78a6-45a9-9d10-1ab199e78215,Eustaquio Blasco Hernando,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:10:50.777474,classic,5.88,1
+51,aaf6456e-b16b-4d6d-b168-39dd88eea355,Candela de Romero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:40:36.521474,vegan,,4
+51,e8d3b4af-5a75-4a8e-ab7e-6200ee06236d,Benigno Segismundo Abascal Yuste,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:08:46.961591,with_onion,N/A,1
+51,8e888b5b-83d5-4318-8dbf-b52ba7a35dc8,Luis Ángel Novoa Alegre,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:38:49.446503,with_onion,,4
+51,d28537d2-2191-448d-9532-2b04ab7dbf2c,Renato Jiménez Sevilla,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:23:54.257770,vegan,N/A,3
+51,7c4c8753-f03a-4dc9-a39a-ceda4336d01d,Zaida Aroca Fonseca,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:54:41.155592,with_onion,N/A,3
+51,ed11aacd-3ae6-462b-b1a6-69fb4aa8e5e5,Balduino Nazario Camino Manrique,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:25:00.518072,without_onion,13.25,5
+51,dfed5860-4de0-4575-b440-1d4f0054eb5b,Lisandro España Paniagua,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:05:15.141835,vegan,N/A,1
+51,c29f3df5-48c4-404d-9305-3bcba4d4877d,Consuela Vidal Ripoll,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:35:15.025897,vegan,,3
+51,ef1d31f6-02bd-4a77-af23-be8fc2a78f71,Adelaida Amo Ortuño,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:42:52.201697,without_onion,,1
+51,5a6a5aa3-55b5-4286-ba45-06267c2ed49a,Bonifacio Carretero Salgado,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:51:29.699509,classic,14.81,4
+51,9f99096f-9554-46ba-ac86-a5f411f31c97,Aura Barranco Durán,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:08:35.596296,without_onion,N/A,4
+51,e52eb0f7-8519-4003-8db0-2b0f673b67ba,Víctor Lladó Cepeda,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:21:33.711625,with_onion,N/A,1
+51,c4aa3a70-d0c1-4ed8-990a-312a93dab670,Fermín Tirado Gámez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:25:21.428174,without_onion,N/A,2
+51,01fbe2ff-955e-4e90-9412-82b4f1951686,Calista Ribes-Osorio,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:39:54.741584,with_onion,N/A,3
+51,cef351b1-8503-422a-924e-c1b2b62b46c7,Demetrio Losada Galiano,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:12:26.502533,with_onion,,1
+51,05b8ed10-31c9-4a4f-a5d7-0e450421506b,Marcial Roca Vilanova,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:48:09.380557,without_onion,,3
+51,8527e68f-9b32-48e7-aac2-9a2d9cd53d69,Clara Higueras Múgica,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:25:01.135800,with_onion,7.88,1
+51,8f660a94-5765-4d1d-a633-8447589dfc74,Adolfo Joaquín España Izquierdo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:52:40.794062,vegan,5.07,2
+51,12313566-6d8b-40dd-a532-70090de0d84f,Juan Carlos Escribano Benitez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:31:48.239372,classic,13.05,4
+51,07553afc-bf00-485c-86fb-af96792a28ed,Nicodemo Manuel Borrego,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:40:51.869466,vegan,N/A,4
+51,4e45cac1-6d35-43e8-9d6b-b2e3dc2ee1a0,Fidel Francisco Toledo Caro,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:42:22.992234,without_onion,9.17,5
+51,896066a5-6987-41d8-9e24-7c8dfd76386d,Nerea Casado Morales,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:39:50.712216,with_onion,,2
+51,c77df0f2-58c0-44c0-aa11-ac266065dd90,Efraín del Barragán,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:13:33.258320,without_onion,N/A,2
+51,2276b3bb-4f69-49d1-9b59-41f8e4326bf8,Patricio Coll Bernal,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:18:29.504115,with_onion,N/A,3
+51,991955c6-f1ca-4db1-9137-6f7aaa15ca8b,Herberto Nevado,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:19:37.829610,vegan,N/A,3
+51,8db32a8a-c24d-4b5e-8c87-83178f94e56f,Teobaldo Gastón Criado Ariño,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:47:02.194139,without_onion,,3
+51,110435d6-a6fd-4bdf-8387-696f3ba54552,Vidal Cózar Abascal,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:21:08.096572,without_onion,,2
+51,d1b11a21-12e2-4239-80d2-82aca8c4e065,Andrea Calderón Amor,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:37:04.031620,without_onion,14.28,4
+51,e47faf16-9a4b-400f-bc29-987c429b7114,Albina Sola,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:19:20.575037,with_onion,,2
+51,274796a2-8d7a-4327-8983-c1dc02467cd4,Luis Prado Bustos,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:52:11.970951,classic,,5
+51,ed00b353-56bc-4d96-9222-378282752eb7,Jafet Duque-Murillo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:13:59.278120,without_onion,,5
+51,ea847af7-0beb-4cd7-81cf-f5af4a37c332,Nazaret Corbacho Ribera,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:18:12.799374,classic,5.69,5
+51,2917f902-de5a-4b19-9539-bd74c19d9dee,Pedro Peral Bárcena,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:22:50.778020,vegan,,2
+51,abf2a2de-1432-4535-b23d-6ffee3a1f4eb,Paulino Mariño,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:28:43.667101,without_onion,N/A,4
+51,32ec3528-d942-480e-8180-eb97bcdeaba0,Martín Galiano Catalá,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:35:31.308257,with_onion,N/A,5
+51,99b2cd98-b1d0-4add-aecc-4057960425a4,Demetrio Bárcena Barral,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:25:01.191355,without_onion,10.94,5
+51,cd64d22a-bf21-48bc-a8fc-63516cf2e7fd,Marta Rozas Verdú,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:42:28.583036,classic,N/A,2
+51,31197b67-800f-4c7b-af4f-a416c182004c,Timoteo Aparicio,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:41:28.612259,without_onion,N/A,2
+51,04b0907b-ece2-4bcf-b748-f7ccaf7de1cc,Amancio Naranjo Valenciano,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:04:03.821396,classic,,3
+51,86ec8d78-beb8-4dbe-8bdc-d8bb91c4c11d,Tecla Guerrero-Morell,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:33:19.562890,classic,,5
+51,f8d55f95-d54a-441b-b88c-f5e805103424,Elisa Fábregas Osuna,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:29:29.765082,without_onion,N/A,2
+51,34c82691-94bf-40bb-b39a-92bcf348d893,Noé Atilio Tejedor Quesada,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:47:50.980336,classic,,4
+51,92450ab7-e3b9-439d-b610-ab50dc4f8512,Bienvenida Losa Clemente,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:27:02.649608,vegan,10.17,5
+51,ed0935a5-4894-447a-b180-48fd373515cd,Sonia Cal Rivero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:21:16.803572,classic,8.1,2
+51,82a2ad0f-6085-4602-93d6-3242813251ef,Oriana Alegre,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:11:19.870737,classic,,4
+51,96560666-93d7-4789-b37f-cbcdef7715ec,Iván Barrios Araujo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:54:40.068420,without_onion,N/A,4
+51,6e5d8b6a-712f-4bf4-b3cb-d17aed05b0d4,Javier Andrade Arco,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:58:05.644745,vegan,8.15,5
+51,5eb67b47-2252-4fa3-a3dd-f26e30f21325,Valero Soto-Hoyos,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:21:03.230442,classic,,2
+51,2b75c051-2efc-4ac8-a7b8-9a15b0883840,Miguela Cano Fortuny,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:10:43.977376,classic,N/A,4
+51,b33edcb7-76d2-4bda-91c3-f67934cbbe4d,Luis Miguel Pastor Vazquez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:10:19.453256,classic,N/A,3
+51,ccc372df-cdc5-4741-996d-ad4969c19254,Noelia Carreño Nevado,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:03:29.509332,with_onion,N/A,5
+51,fc110ff7-199c-4dfb-b611-b0e3446b2bbc,Maricruz Martinez-Acero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:57:18.076903,classic,,1
+51,525a75f7-19c4-4fd3-a9b7-ec4bc3578a5b,Encarnacion Soria,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:18:10.782481,with_onion,10.74,1
+51,9ed5cad9-0477-4b57-a952-aaac38e78b6e,Maura Villa Nevado,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:47:31.919725,with_onion,12.16,5
+51,08696f6d-34ef-4f37-acfe-606294f58e2a,Ernesto Calderón Abellán,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:25:29.508317,with_onion,N/A,1
+51,490e089d-376c-49ce-80b0-2cde4b75484b,Lope Verdejo Lasa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:57:06.306560,classic,N/A,3
+51,7ddcdc88-af32-455b-a002-5405fc0e950e,Isidoro Moraleda Escrivá,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:16:58.366822,classic,,3
+51,82cf5d68-ff71-4377-accf-197f1b579aa9,Visitación Pi Tomas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:23:19.087834,vegan,,5
+51,f3a60efb-22ea-4a9c-a0e0-e757b1977a41,Andrés Pino Palomares,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:16:31.520776,classic,N/A,4
+51,5cedd35c-6296-4801-b5c0-62694854d738,Pío Sandoval Gárate,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:31:07.795213,classic,,5
+51,c05fb358-a904-4a96-87f0-0392925c45b0,Elba Vilaplana-Ferrer,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:57:11.610372,without_onion,,4
+51,e8c14954-ecd4-4d02-b3a1-a4a5d9b685cc,Curro de Navarro,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:53:36.452444,without_onion,12.08,5
+51,22861614-c089-474f-82e7-50a8cb6b16f6,Gabriel Oliver Fiol,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:50:59.599242,vegan,6.78,2
+51,dcac6eab-567b-41de-b7c7-8b0e17fd5d20,Felicia del Leiva,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:41:26.171276,without_onion,,5
+51,1f23d036-8796-49de-b511-59e87833b84d,Marcia Maricruz Seguí Pedrero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:33:50.250027,with_onion,12.98,5
+51,d3801237-34c9-4010-a704-b731b5507624,Maximiliano Sastre Mateo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:20:15.355508,without_onion,,5
+51,b1da76e1-dbf6-467d-a1d3-2b6c204016bf,Evangelina Jaén,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:14:39.311814,vegan,9.94,4
+51,d9d50e49-95d5-4079-b7d5-70defa8dd27f,Fortunata Carrión Arce,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:57:03.568226,with_onion,N/A,2
+51,ddb43e1e-237a-4192-9c5f-09b922c11c80,Zaida Pino-Pulido,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:25:17.316742,classic,,4
+51,d59407a4-15bc-478e-ba83-ca0de320a416,Rafaela Marqués Gomez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:21:30.976536,without_onion,7.33,2
+51,ba39e415-9272-44c2-b5c1-5ae508370407,Caridad Campillo Solé,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:23:12.219973,vegan,,1
+51,b8b42376-7dd6-4981-b101-1543be330e71,Ricarda Castejón Asenjo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:58:06.848069,vegan,7.9,4
+51,f30f9899-1296-4301-9656-13463c52667c,Calista Falcó Palacio,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:38:37.967114,with_onion,N/A,2
+51,fa0b0ada-761e-42ea-ae84-f1b5f3c9e5fe,Domitila Batlle-Iborra,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:47:03.947742,classic,5.35,1
+51,d51367ca-1755-4626-9515-072dbc224b0e,Héctor Revilla Isern,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:16:28.897762,classic,,3
+51,45608ee3-b106-4256-970d-b82bf8409d25,Ester Peinado Navarrete,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:15:36.359625,without_onion,,4
+51,eeb9607f-ed32-4aed-9fe9-956601402481,Emilio Pedro Camino Fuster,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:53:58.525908,with_onion,N/A,5
+51,f1e5acae-cf9b-4a8a-b34f-0ab295c76515,Celestina Tenorio Estrada,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:04:00.239779,without_onion,11.94,1
+51,4234e751-7b87-4c01-bd78-267504fc2745,Aránzazu Anguita Maldonado,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:15:10.012479,without_onion,,4
+51,56f74a8e-5665-477b-b1ca-15201b84077b,Florina Menéndez Gallart,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:59:04.833737,vegan,7.77,5
+51,48a8400c-fb07-4fc7-8179-60e5d16b9cea,Onofre Abad Puerta,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:19:00.504169,vegan,,2
+51,60068771-176f-4d6a-801b-05a467fe02e8,Pili Suárez Higueras,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:11:25.296444,without_onion,,1
+51,95ca3c5c-c19c-44a5-bb73-95648579d884,Rafaela Osuna,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:11:49.061708,without_onion,N/A,3
+51,04838638-a903-4a48-97ef-e11c24da11f3,Néstor Alvarado Bermudez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:48:22.912972,vegan,,1
+51,4bf9e9cb-83be-4548-a946-41898e0ab04b,Graciano Cañellas Valverde,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:43:40.992537,with_onion,N/A,4
+51,6db961a8-d034-41f0-bd5f-c4f1adb9d740,Inés Elisa Palmer Isern,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:28:18.602874,vegan,N/A,4
+51,baf6a856-e714-4c43-bd94-84c4b4dd1976,Elvira Ayala Villa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:13:31.861201,with_onion,11.08,3
+51,9ed7c4c1-c5f1-4fc3-b4b1-98f43d1ea0dc,Belén Cordero Garzón,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:35:55.911693,without_onion,N/A,1
+51,dcd2e569-c3ca-4d64-9fb4-3b356a0ae733,Víctor Folch Merino,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:07:12.198555,with_onion,6.13,3
+51,9d84e163-3d75-4d80-b83f-8f2559bb989f,Abel Torre Carballo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:15:21.429652,without_onion,7.26,3
+51,54525e6c-e235-41a3-bae8-ab1c953a9c01,Fabio Sales Casanova,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:45:11.880649,without_onion,14.15,1
+51,3876703b-5ac6-48b6-8c8e-3e24151e6494,Maximiliano Pujol Alvarado,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:01:45.248413,vegan,12.12,2
+51,eca80b69-5df9-4cbc-8a22-3f4d0b3378fa,Celia del Galván,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:35:36.380859,vegan,,5
+51,b87decec-042a-4fd7-b810-56cd5514cb3d,Pepita Lumbreras Cruz,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:13:20.888699,with_onion,N/A,1
+51,3fc68405-88cd-414d-b155-f52a5758ea97,Renato Joel Sotelo Cózar,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:02:45.794344,vegan,N/A,2
+51,0233b3b4-99a1-430e-82b6-936f5ea34705,Anastasia Villalobos,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:00:47.557179,vegan,,4
+51,cdbef4a4-9198-4d18-b5bc-2774346b1c25,Wálter Andrés Felipe Baró Trillo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:32:18.985133,without_onion,5.12,1
+51,5a058c3b-fe55-43ca-87e1-96878c641cee,Pancho Alba Pi,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:15:12.233631,vegan,N/A,4
+51,c60c43cb-3ae8-4689-8c10-720411c760a0,Anastasio del Torre,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:43:51.679659,with_onion,N/A,4
+51,9da6c2cf-e4a8-4050-9c80-72a76ffcde07,Aurelia Aguiló Carro,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:18:27.486488,without_onion,9.0,1
+51,0c50b6d5-9739-447f-8484-e9401206a4f9,Nacio Luna Verdú,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:04:51.675312,vegan,,5
+51,335f9a92-a0dc-4714-8e55-dddf2de7bab8,Dalila Neira,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:36:16.018246,with_onion,,4
+51,2ddf2306-b683-4126-99d0-2fa87db775cd,Delia Jerez Pozuelo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:57:49.872080,vegan,,5
+51,681db876-2bdb-4b81-886f-dd7aebf63006,Ariel Jaén Lopez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:08:59.282000,classic,,1
+51,edfdaa5b-346f-4bbc-88ed-a48ea8f08e92,Eustaquio Riquelme,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:39:21.935675,with_onion,N/A,3
+51,a70123f9-11ce-4f51-abea-36a79323aa01,Lupe Elías López,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:58:48.360400,without_onion,N/A,2
+51,4238e7c2-3e73-48d3-ad3a-cefe371db1c9,Ricarda del Manuel,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:46:29.751658,with_onion,8.83,1
+51,5bbf4140-cc84-42d8-9cab-f62b7d0103d1,Eloy Llano Vendrell,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:38:49.132326,vegan,10.3,4
+51,bc01ec73-af98-494a-a40d-ec4f3d142123,Blanca Inés Frías Quevedo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:40:58.407898,vegan,6.33,3
+51,a29bf51f-27c6-4898-96fa-73b829685c44,Roberta Morán Martínez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:26:26.150710,with_onion,14.87,4
+51,2fd572a0-f08c-4161-9436-6f0c3cf2631c,Pedro Mendoza Ramos,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:54:42.240646,without_onion,,4
+51,0247e7a9-3c94-40cf-b783-15f30de5f1e5,Gil Barba Coca,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:07:07.182108,with_onion,N/A,2
+51,5955b5e8-2ae7-41bb-8e33-d8c5859cfe50,Cleto Adelardo Mora Blazquez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:06:32.800405,without_onion,N/A,3
+51,f6346961-0c86-4a6b-81ed-31f004e764da,Noelia Almeida-Roig,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:09:04.501431,classic,N/A,3
+51,0ae42a67-69c8-4a3a-aa61-373e07180c80,Rolando Mateos Escobar,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:02:36.284904,vegan,,3
+51,edfe7ddb-5bd9-4cb7-9a02-7bd37c0a75e2,Lupe Gaspar Nogués Vicens,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:56:10.263305,without_onion,,2
+51,6b016c96-dbb6-4d08-9288-2a328a3f7ee7,Marco Rocha Ferrando,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:44:50.488939,with_onion,,4
+51,d1d767e2-6975-4933-9bf7-85f398a7a05d,Luisina Castells Vargas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:14:30.689053,vegan,12.27,5
+51,e3aff8df-8f61-475a-b156-505de0567002,Odalis Manzano Lladó,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:23:52.064305,without_onion,,4
+51,b2371768-9046-4b01-9987-31eba77e6436,Marcela Abad-Arnal,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:45:04.267580,vegan,N/A,3
+51,503d2d0f-f344-415e-9685-fe46c2b8ace4,Leyre Lobato Cornejo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:58:15.251291,classic,N/A,3
+51,f61539ce-04dc-4c3b-9458-87d8bc2a8a34,Dalila Anaya-Duran,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:31:23.634052,with_onion,11.39,2
+51,5c9eb403-505c-4955-8ad6-c778e7c33c6a,Anselmo Escolano Bosch,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:28:45.153444,without_onion,,3
+51,9116ff79-7000-429a-a675-16ea86a9e51b,Nazaret Sainz Pineda,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:08:31.993047,with_onion,,1
+51,17fb12a4-f334-4500-95a1-322734d9cfb5,Amancio Abril Amat,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:13:52.943684,with_onion,N/A,2
+51,7fa83006-5020-4ec0-9fcd-201debfd1ef4,Heriberto Jurado,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:48:30.745483,without_onion,N/A,4
+51,5533a51e-f0bf-4a11-aa76-2656b4777ee1,Nazaret Duque,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:55:36.910595,without_onion,,5
+51,f690cb97-7619-44c3-9774-ebc3a74e9d89,Angelino Silva Uría,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:22:41.261722,with_onion,9.05,1
+51,57ef920e-ab8c-4677-a942-9d4d9272e813,Melania Montoya Almazán,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:15:41.108122,classic,N/A,4
+51,2c926a31-3cb6-475b-a8bb-1fec77d27277,Chelo Sedano,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:19:48.682442,without_onion,N/A,4
+51,0c57277b-3cb6-4a3d-a690-e2397dae7681,Caridad Lamas Vall,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:50:29.016866,classic,8.87,3
+51,cd5d1cf8-5008-438c-b75e-7853f29ca73f,Ezequiel Dominguez Bayona,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:11:49.327667,vegan,7.44,1
+51,a1d2103d-9676-4f88-bfd4-45f2844051d2,Lázaro de Figueroa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:04:13.634645,with_onion,N/A,4
+51,07e6aae0-73bf-45f3-955f-a6a82be40b1e,Saturnina Hervia,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:06:48.185487,vegan,N/A,3
+51,ec46f141-8b1d-42fa-843b-9c8c8fd0e840,Ambrosio Alvarado Melero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:01:54.422685,classic,N/A,1
+51,6f6e48e8-4814-4d98-8949-cde56763e887,Nicolasa de Torrents,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:58:29.993960,vegan,,1
+51,d7d1ae90-94c9-4d3f-98a7-97f32b04df04,Imelda Peñas Luna,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:05:33.828828,vegan,N/A,5
+51,e01c789d-7d1d-4766-a5f7-6245d18465bc,Ricarda Pérez Flor,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:06:00.104642,vegan,12.75,2
+51,1400fa5c-e581-4380-b2fb-7cbb862df60f,Nazaret Aranda Figueroa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:43:54.821569,with_onion,10.0,5
+51,7cc2d0f2-0f94-44e0-8171-0c85e751a7cb,Raquel de Teruel,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:44:33.036906,vegan,8.92,4
+51,ea228832-8643-4f8f-a7b4-6c3df46569ab,Danilo Juárez Parejo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:48:20.305087,vegan,,3
+51,90595e44-3664-4d83-846c-9ffd862dd7a3,Graciano Donaire Niño,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:20:32.951843,without_onion,N/A,2
+51,e5a17bf5-bc67-4d58-880f-95766b7364cf,Toño Uriarte Villa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:15:28.388239,vegan,,1
+51,d5798acd-b824-45be-bd10-cc67a7553213,Jessica Bastida Roig,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:50:03.109700,vegan,12.54,1
+51,13533b15-1501-43f6-a0bf-97765ca1f6d0,Primitivo Bernardino Baró Pinilla,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:14:32.719736,classic,14.34,5
+51,67bd0e3f-6ecf-493f-a529-0aa5cf3f8abd,Consuela Muro Gil,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:48:00.333595,vegan,N/A,3
+51,74c875eb-26cd-49d5-aafe-34028b8f8fbd,Pedro Feijoo Galván,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:14:35.024337,vegan,,3
+51,6f7ad709-05c9-4898-ba84-6dc86c99a93a,Rosalva Tudela Arroyo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:14:25.004623,classic,6.02,4
+51,d837e005-48a9-48e3-b7bf-2498bd634e4c,Eligio Redondo Palomo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:02:28.266176,classic,5.31,4
+51,c9180ba2-2662-4342-90d1-66c8e50d06bc,Cristina Guillen Ángel,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:39:02.248025,vegan,13.29,4
+51,90ca98a3-9192-42d2-a803-dcd44755f669,Lalo Múñiz Vall,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:40:16.099294,classic,,3
+51,e4c57629-6c6d-4000-9a58-5e8871a1390e,Wilfredo Cámara Morante,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:18:54.031570,without_onion,12.81,5
+51,4e63e018-b493-40e5-9a2d-75ec7c4315c7,María Nilo Lasa Rebollo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:20:46.716246,without_onion,12.3,3
+51,1fdd5249-f34e-4c25-ab3c-b6a0f2dd588a,Arsenio Morillo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:49:12.509904,without_onion,6.94,5
+51,94ad5136-f54c-4910-a94f-bea7ea9545a2,Calixto Ferrán Coello,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:55:07.965229,vegan,8.01,5
+51,c5efae43-1ab5-483e-94c8-910e0bb6c51c,Jose Ramón Águila,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:27:04.293740,vegan,9.61,1
+51,c8554c1e-2ba6-4b4a-9497-76d45cf0a39d,Zacarías Boada Jara,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:06:08.481125,with_onion,10.89,5
+51,f3df425e-4ab3-4559-833b-2c9a2a0d30a4,Débora Corominas Rey,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:40:24.377836,classic,N/A,1
+51,56c21eb6-cfd7-4a8d-9e89-354d16aa2ec5,Américo Godofredo Coello Lasa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:37:49.251982,without_onion,,4
+51,15fba174-78d1-4f84-a058-86592c3cb905,Juan Carlos Vasco Mascaró Larrea,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:10:14.113740,with_onion,,5
+51,2259d4b6-f1f2-4396-8c50-4ee5020c59d1,Prudencio Hernando-Caro,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:03:42.922231,with_onion,N/A,5
+51,554fe183-74b2-4911-aa13-ea086440f5c0,Lope Pastor Franco,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:58:38.252843,without_onion,14.9,1
+51,93e8fe56-b8b4-4a47-a1a0-f83781415893,Encarnacion Velasco Gaya,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:12:28.584947,without_onion,N/A,2
+51,c16c90a8-911e-461e-b4af-b1d2acb20ffb,Adolfo Vilar Arnau,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:42:58.867939,without_onion,10.56,3
+51,c64e0dd4-3b29-4bc5-8f1a-0eda84e7430b,Amor de Pareja,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:14:40.330247,vegan,6.01,3
+51,44527ed6-1109-4b33-b6b8-f663c520a7f3,Bautista Zabala-Naranjo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:12:18.073928,classic,,5
+51,0ae0e4d6-7f7a-44e2-b976-790e39ad75c4,Lina Sola-Crespi,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:44:29.575908,vegan,5.63,2
+51,8b4264ad-f9b6-4126-8497-88a1f67bc94e,Loreto Granados-Sosa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:41:31.127983,classic,9.28,1
+51,ad452568-baaa-47a1-be3b-3ab9263f9756,Venceslás Ayllón-Giner,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:08:33.118005,vegan,9.81,3
+51,194af28b-058f-4b30-8653-ba775668bed3,Sergio Romeu Costa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:59:18.304611,without_onion,N/A,3
+51,ae7f4b8b-f81f-4004-9833-2c0fd64e2b1c,Felix Recio Baeza,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:09:17.539627,classic,N/A,5
+51,778158aa-a663-4752-93de-be073cd9d6ac,Amarilis Abigaíl Santamaría Mora,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:47:32.160376,without_onion,,3
+51,ac0bfcf2-17fc-4bde-b68f-c1a916088d28,Enrique Trinidad Bueno Valera,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:08:07.173707,vegan,,5
+51,4e50f436-ea78-44a4-8af0-d560ac4628ae,Eric Quirós Mayol,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:13:33.252836,classic,9.91,2
+51,ca026434-93b7-4992-8a12-3fea2fbadd3f,Begoña Nieves Bartolomé Real,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:24:29.884907,classic,N/A,3
+51,f56cdfd3-5a60-4f96-b265-61d2967d28f3,Demetrio Cifuentes Albero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:28:12.079690,vegan,,1
+51,8c4ba464-a53b-464a-ba5a-7941ac3fd5bc,Manuela Cabanillas Sarabia,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:55:30.033006,with_onion,9.29,1
+51,691028df-7db2-4bc0-853b-11dd8bbdbe25,Ángel Pazos-Vazquez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:21:43.823139,without_onion,13.62,1
+51,9f32de93-b404-4d03-bf2d-cee4f6c88842,Dimas Rivas Armas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:57:33.354016,with_onion,N/A,2
+51,a538561a-fe7d-41c6-9567-e74affac53ad,Ángela de Castro,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:30:12.809199,vegan,N/A,1
+51,99bcd930-f445-4513-a74c-cd81ba8e5e3e,Encarnacion de Lozano,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:29:29.575306,vegan,N/A,5
+51,a494b8f9-fef4-40bb-8ea3-2c227a2293d3,Feliciana Cortes Cueto,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:46:44.214653,classic,,2
+51,44cf0bf5-107f-4715-aea8-be60fe830ae3,Daniela Fátima Valdés Terrón,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:45:52.554877,classic,N/A,5
+51,4aae049e-1fdc-45ed-a31a-bd03a8dafd68,Cristian Gaya Gómez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:25:25.432357,with_onion,N/A,1
+51,b618fcf0-6cc9-48cb-b852-ab579df3fa8d,Ana Gárate Lopez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:58:35.555336,classic,9.84,2
+51,4545f96f-3094-4a72-915d-5e25d987563e,Gregorio Lamas Ibáñez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:01:49.797973,classic,,3
+51,d8785083-93fa-4180-8de4-79c6d1c0608a,Andrea Lidia Campoy Alcántara,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:43:05.933627,classic,N/A,3
+51,5c2b8d1e-ebfe-41d3-addb-613619e2ddfa,Araceli Barreda Duque,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:57:10.490611,vegan,N/A,5
+51,c7454354-30e5-4859-ac9a-0feaa77d0cc1,Ramona Llopis Aguiló,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:56:09.782967,with_onion,,5
+51,cd6eca52-11d5-4aa8-8b5a-454501a92bb4,Yago del Briones,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:43:09.350960,with_onion,,1
+51,6d8bb512-14c2-4962-bd4e-b387050d9552,Dionisia Vizcaíno Alba,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:00:52.482567,without_onion,N/A,4
+51,ac91116c-b105-4c2f-a9d7-ee08a59a59be,Candelas Garcés Barriga,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:46:05.360332,without_onion,,4
+51,370bdfd2-2dbe-4a7b-87e3-e8db17890113,Hipólito Avilés Fabra,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:47:39.159644,without_onion,,5
+51,4bfd4e33-8f02-4932-993c-eaf12a72fdcd,Joaquina Mulet Falcó,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:16:30.066274,without_onion,,4
+51,063eab9b-d491-4c2e-bac0-6df26b04ccef,María Dolores Cuenca Villegas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:31:16.833804,without_onion,12.28,5
+51,fdfb678f-b3be-4e5e-83b4-725544d6d459,Isaías Peral-Rebollo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:19:45.160727,vegan,6.84,2
+51,485032b4-402c-468e-b0f3-c35b8f3d1125,Alonso Capdevila Ledesma,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:43:55.766501,with_onion,,4
+51,975d3f38-4301-40ee-b584-ae1f7205b61d,Heliodoro Borrás,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:34:05.122959,with_onion,,4
+51,0b7e3cbc-8c16-4fcc-9850-4eb913cdf018,Álvaro Anguita Larrañaga,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:18:03.045047,with_onion,,5
+51,5dfa0289-78a5-45a9-86e8-1c97a671fb15,Angelita Mena Vall,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:05:05.562944,vegan,9.65,4
+51,339bddd1-af26-47b9-866e-6657adaceac8,Macario Boada Gual,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:30:54.250642,with_onion,N/A,5
+51,a755b96b-00db-48fd-9fe5-eb2d98176c4a,Anastasio de Zapata,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:50:43.318192,classic,8.08,4
+51,3059f34d-c0b9-44bd-bbd6-8b4293c86ca7,Domitila del Canet,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:08:54.503805,vegan,N/A,3
+51,8ece9243-466c-4267-b873-3b88a09df31a,Guiomar Carlito Mayol Calvet,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:40:17.180022,without_onion,N/A,2
+51,05c9db96-255c-453a-9901-6b35c0bae945,Yésica Lucas Camps,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:19:28.598477,classic,,1
+51,e66cbe7f-385a-441a-95b0-5a86db038998,Gervasio Federico Girona Mármol,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:48:56.112647,with_onion,N/A,4
+51,dee4d08e-38ab-4f9f-ba7c-5cf11e0f38aa,Manu Valbuena-Ríos,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:02:40.170145,vegan,,1
+51,4931a653-f097-41d9-85e6-fdbbbb4b7d4f,Toni Pol Osorio,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:14:53.307942,classic,,1
+51,360d9d93-ac89-4abb-add4-1a29a434b065,Florencia de Valencia,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:40:11.864449,classic,10.77,5
+51,0411c867-26c1-4da0-8094-cefb5e01960a,Gaspar Rozas Zapata,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:14:33.970073,without_onion,6.01,1
+51,b385a35a-8cdd-48a1-a296-53e9438b0c5d,Juan Cebrián Abascal Ortiz,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:35:08.188955,with_onion,10.57,1
+51,18b40bfc-c0df-4ebc-9f07-03aadf788650,Vito Aguirre Fabra,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:59:12.412605,with_onion,12.9,2
+51,37a6e29d-675e-4048-8d47-02013c0f3959,Chus Ortiz Leiva,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:52:48.950675,without_onion,12.14,1
+51,229673ad-a9a6-4056-879d-4424f311e2ba,Severiano Vilalta Barranco,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:31:42.475810,with_onion,,4
+51,6f0dda24-e5e2-4b20-81d9-fe578b4feda4,Viviana Pont Álamo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:05:41.558173,classic,12.16,3
+51,474fd809-ffca-44e0-b58b-c43bd6e6f62f,Emigdio Jimenez Carbajo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:18:50.867523,classic,,5
+51,deb3c3db-cfcc-4e2a-a032-250341920398,Jordi Verdugo Antón,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:34:48.206345,classic,,2
+51,0b4f7fb6-f699-4185-b5c3-4e433a1098a8,Octavia Bello Chacón,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:55:48.563997,vegan,,2
+51,a63907ba-6c22-40ce-b75a-71f0cf99d3f3,Amor Sanabria Caro,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:38:09.297021,vegan,N/A,2
+51,d6046f80-0b3e-40a7-afae-caa22ea73016,Wilfredo Crespo Santamaria,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:14:29.770307,without_onion,,2
+51,6d217f53-c54b-4dad-b78d-67f1c29ae960,Daniela del Martin,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:16:57.480199,vegan,,5
+51,f5c6889a-eee4-4b9b-bcdc-6306c7791d4c,Aitana Gual Ledesma,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:37:58.776277,with_onion,11.67,4
+51,a177c1fd-2575-4be6-9cc0-485fcd839f26,Lucho Jiménez-Pintor,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:24:46.715108,vegan,11.14,3
+51,6dc40f5a-4390-4610-bd25-588ee26ff248,Maite Salamanca-Lloret,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:36:01.102078,vegan,N/A,5
+51,584dec9b-14f9-4a26-b449-ce9dd326630f,Herberto Perelló Villalba,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:49:25.540621,vegan,,4
+51,42fa13ed-1f51-4c37-a232-31ff71fd0bc0,Julieta Rozas Carrera,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:58:13.666651,with_onion,N/A,4
+51,8385516a-6f02-43c3-ab5d-d2fbe4141332,Ileana Lorenzo Ortega,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:24:45.586797,classic,10.23,4
+51,15392a10-3a8e-4c29-94d5-13eb12486016,Ángel Fernández Portero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:31:42.225899,classic,13.78,1
+51,fb3a43da-291f-453d-a77c-c625c058959d,Flor Marín Ibañez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:32:31.527581,classic,,5
+51,717da779-c0b7-416d-af19-ee5cbfdd40ed,Paco Reina-Balaguer,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:26:34.214986,vegan,14.42,1
+51,3c9a6d36-18c8-4b5a-9f5b-7300deff27d6,Eusebia Isa Gaya Oliver,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:42:12.172329,with_onion,N/A,2
+51,2b8744da-cc74-40e3-b119-24a557c7e3dd,Purificación Cervantes Bou,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:47:05.860667,with_onion,,5
+51,44fdff72-1904-45e2-b7ad-cd69bb1d77f9,Chus Arellano Fiol,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:43:59.590346,vegan,,4
+51,29fd1c70-4149-4141-b5a8-a71ff8ba5be4,Manola Rivera Bustos,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:35:44.398994,without_onion,14.33,2
+51,04e69b87-0178-4c54-b6a5-d31b5e5bcbc5,Cándida Florencia Feijoo Pino,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:25:42.098696,classic,,4
+51,c6dd1f3f-aa6b-4127-af46-91e40414a961,Merche Cózar,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:25:31.477425,without_onion,,5
+51,e0dcf7b6-b623-4f04-b3b9-53271940e540,María Luisa Leiva Sedano,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:46:34.982228,without_onion,N/A,3
+51,f76ab70a-ec92-41e7-816e-af185b5b242a,Porfirio Benítez Alba,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:17:54.465429,classic,,1
+51,ec46e8d4-5b26-40f9-a62c-2095cb019361,Jennifer Arco-Roman,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:22:45.623251,with_onion,N/A,3
+51,9a3b06ec-b7c6-40d1-a083-04bc11163595,Trini Monreal Pujol,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:34:16.157677,classic,,4
+51,3011ebc0-7b08-4427-bde1-93c45c4ac5ee,Isidro Puente-Cárdenas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:08:23.308055,classic,,3
+51,0d2d9ed1-d723-4ccf-b0bd-6661a9e4dec8,María Pizarro Bertrán,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:32:38.901362,with_onion,N/A,2
+51,71b3234f-20ae-42d4-ba25-d757edb57878,Esteban Pombo-Murillo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:12:05.762307,without_onion,,1
+51,63dafb31-bd57-4f7f-bc94-21ea445ffc12,Fulgencio Cañete Figuerola,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:57:21.802305,with_onion,,3
+51,7bd71e3d-1989-43d2-b555-3b37070f9875,Maximino Pereira Ordóñez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:09:46.544956,vegan,,5
+51,d5e05375-9e0f-480e-8f14-76eaa6d02348,Vera Portillo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:21:48.250416,classic,N/A,1
+51,b576d414-18db-42d5-9ab9-efa2e48df4f9,Lucas Jove Merino,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:02:38.625363,with_onion,N/A,5
+51,188b5441-beac-4c54-86e3-ec380368b855,Cosme Anglada,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:37:26.444237,without_onion,13.61,5
+51,2d58cebd-a52e-404c-9e23-fb40870500f8,Brunilda Llano-Solís,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:53:33.282699,with_onion,,4
+51,84d385a2-ae6b-4be2-bc35-c543cb507626,Clarisa Arrieta Paz,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:39:27.028971,with_onion,10.38,3
+51,d59acdb4-e77a-4b9e-b2fb-ebf8338c1780,Anita Roura-Salvà,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:40:55.175330,classic,N/A,5
+51,013ce9a1-e1d8-4d81-b79d-dd5cf1c623ac,Constanza del Abril,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:29:17.171930,with_onion,5.21,2
+51,6541dc4b-0326-487f-a8d0-e64c46337e8b,Ester del Falcó,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:26:36.359859,without_onion,13.74,1
+51,95e8b58d-b2d7-4e9f-8958-1eb466b2f94e,Bienvenida del Grau,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:10:07.543591,classic,7.42,3
+51,6a4448b8-1ed1-497d-a89e-50ac3ec9048d,Felix Gual Bou,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:31:23.713395,vegan,13.24,5
+51,2365449d-387d-454f-ae47-4d85fdb26ac9,Plinio del Perales,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:35:24.297435,classic,,1
+51,23fc118b-263e-4174-bcc5-28872c041d8a,Espiridión Landa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:22:55.192857,with_onion,8.04,1
+51,cb24e6ff-7d62-47cb-8835-cc4c0efb02df,Roxana Roldan Peláez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:43:34.803899,classic,,5
+51,8eeec163-cbd2-4e65-8e23-58707bc80ed2,Pascuala Gracia,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:15:25.814373,with_onion,,2
+51,918966f7-c946-4d6c-9ec9-02f495173c49,Amando Prado Pou,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:13:10.830589,vegan,12.55,2
+51,1278cf56-c958-4210-b791-fb0faaa9e519,Nieves Atienza,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:14:55.915732,without_onion,,4
+51,5f1abf82-4179-4e5c-9aaa-7c37f0145770,Chita Ramón Suárez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:33:25.342595,without_onion,N/A,3
+51,7e27078b-6b51-4d4f-a506-2d07c9ae0057,Luna Cifuentes Puig,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:32:13.175167,classic,12.46,3
+51,9c67089e-09bd-4007-87fb-635e2c91add9,Felix Almeida Montesinos,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:25:57.952328,with_onion,12.64,5
+51,c658cf27-888d-488d-b2c5-b3085dd54e93,Ale de Garzón,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:12:41.403196,with_onion,N/A,2
+51,100d941d-b533-4fb1-935b-8198c5cb56cb,Roberto Roldan Baró,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:53:47.457098,without_onion,N/A,1
+51,1d57d9d9-ad55-4b2b-afa7-93c6dc2e2346,Eusebia Echeverría Bas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:34:53.592200,vegan,8.08,1
+51,b3223286-8e1f-46f2-9bba-b063ea43dde9,Plácido Bas Gomis,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:57:39.472697,vegan,7.0,2
+51,3f75b1bd-769e-4e29-b2b5-f894c05df080,Trinidad Carlito Vargas Franco,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:32:29.086008,classic,N/A,2
+51,d6f56f7e-8137-4791-92ec-9211d109f141,Emiliana Espejo Páez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:11:02.736856,vegan,N/A,2
+51,5d30da29-59d8-4ed3-8bd0-21cf4f750beb,Adalberto Amo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:58:53.284598,vegan,N/A,2
+51,5b1efaf8-24f4-4255-a541-7159c50ab412,Raquel Bastida Calderón,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:05:12.415283,classic,,5
+51,c89a521e-5cdb-4eb9-83e3-12fa6d53b904,Leandra Carlos Redondo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:31:41.163650,vegan,,5
+51,d484b394-390c-493a-af32-6e4966cb9ed1,Pío Fernández,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:07:11.022106,without_onion,,3
+51,a2fe3e9a-2b96-404a-86da-05eb9695a44d,Anita Rocha Bellido,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:40:35.613596,with_onion,12.21,2
+51,6dd86b95-b960-4955-aca4-7aa86706a5bb,Magdalena del Mayo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:51:48.672390,without_onion,8.74,3
+51,d1d7a2f8-a796-4681-b3a1-eec14332f785,León Caro-Acuña,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:22:29.410642,with_onion,N/A,1
+51,1ba527b8-dd12-46e4-b867-5966a80c7968,Isaura Muñoz Mercader,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:42:08.837851,classic,,3
+51,c376a5a4-03c5-42bf-a5af-a6c679371bcc,Yésica Peñalver Vaquero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:53:10.979622,with_onion,,1
+51,c3f7c72d-b6bb-4d7b-ab98-19ac37ff58b4,Edelmira Marti Patiño,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:28:22.823223,without_onion,12.49,2
+51,6e03e6c0-9db1-49e2-8bba-19a564a7ab25,Pastora Nevado Villalonga,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:04:33.660235,without_onion,N/A,4
+51,eef95547-ccda-442a-b2b5-b5c3733b7c8e,Lucio Valencia-Rosales,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:47:05.947544,vegan,,4
+51,6c7388b9-5244-4408-8311-7842ab851add,Marcelo Boada Camacho,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:52:34.957778,without_onion,,3
+51,5eb9de3d-2822-4758-9927-33d01c8e4db9,Ruy Clemente Alba,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:59:59.018409,with_onion,,5
+51,16a153c5-7102-4833-ba12-12e8991a794c,Isabela Ferrero Losa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:45:28.864926,vegan,N/A,2
+51,dc891ec5-2849-40b7-8cda-b90a556e1a14,Onofre Esparza,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:41:20.379265,with_onion,N/A,2
+51,c6a99301-f138-4580-a8e6-75955cccb0a8,Vera del Quintero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:25:33.227806,vegan,10.34,2
+51,a0bc66bd-e67d-40c6-9260-ce0adf1b1c0e,Onofre Bustos Roman,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:59:25.905244,with_onion,8.79,4
+51,6282f918-0f39-40ee-8bab-1c7431037921,Maxi Chaves Artigas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:19:35.639698,with_onion,,1
+51,5cd1c499-d212-40b2-8c80-3f4bd855ba0b,Julio Arnal Ariza,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:04:31.779067,classic,,4
+51,e02de4dc-8f07-4829-bbc1-3dd55d819ff9,Bruno Agustín Pedrero Lumbreras,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:26:57.024767,vegan,5.66,1
+51,5766fca5-c48b-4b0d-9ceb-ee080c2d52c2,María Carmen Carro Vicente,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:49:59.498265,classic,5.57,1
+51,d362d155-bf1e-4741-99c5-2d497eced88c,Cosme Criado Garcés,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:37:24.387760,without_onion,,1
+51,24281b76-9e2d-40f2-b33c-f67257ab8ffd,Bernabé Serna,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:48:35.643860,without_onion,N/A,2
+51,de2b9b8f-3f47-4275-a84f-f4ab700f5576,Mayte del Calzada,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:40:37.416302,without_onion,,3
+51,df516029-5f79-49fc-a73b-7fbd3b369c40,Fabio Pombo Tudela,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:23:22.609562,classic,N/A,3
+51,5da68964-b153-4d5d-90e1-b2505f53d5a5,Vinicio Alegre-Diaz,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:34:24.371622,vegan,,5
+51,2afc92b4-1bba-4bcb-80bc-e5d0e8aa0c94,Jose Antonio del Jordán,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:18:42.492829,classic,N/A,5
+51,9d9e8256-cbfc-41f0-9268-50c4001849d6,Nicodemo Nogueira Malo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:14:40.939181,with_onion,N/A,1
+51,39ec1495-3bcf-402d-abef-aa321dacec10,Ema Botella,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:59:20.230423,classic,,3
+51,573b79c1-0727-4f3e-b1a6-2619644c9522,Timoteo Llorente Exposito,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:10:24.242097,with_onion,5.72,2
+51,87cf22cc-6f99-414d-a2a8-e28cdd58c9cf,Juan Francisco Paz-Vila,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:13:29.214359,with_onion,N/A,1
+51,3db0e398-e831-4e69-901a-3d16b263a2d1,Genoveva Barrera Fuentes,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:27:58.902193,classic,10.36,2
+51,680d27b6-9b2c-467d-adec-bc9ab4fa07f6,Ana Sofía Barco Arellano,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:03:36.655535,vegan,N/A,4
+51,935abf45-f806-4cc1-a50b-4bc205282381,Vicenta Guitart Rocha,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:46:12.936869,classic,N/A,2
+51,1d202489-4413-420c-986c-30655cd58652,Julieta Fernández,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:06:46.561476,vegan,N/A,1
+51,37ddee27-755f-455e-b11f-a1c754b3152a,Amancio Acedo Jódar,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:50:28.193363,without_onion,,3
+51,6fd1dc0a-3598-4963-8c6a-f2b6ec153243,Remigio Alcalá Villalobos,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:45:11.699036,classic,,2
+51,2410fb9a-a20c-40fd-990c-f3696d14688e,Juan Vilanova Diego,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:54:36.032026,without_onion,,4
+51,9b9bc35f-ac1d-4068-84f4-2a2979f7e5d9,Nuria de Jáuregui,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:42:20.440427,vegan,9.33,1
+51,d576d74d-8c58-4208-a1ae-d127f8c69114,Teresa González Llorente,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:21:28.240059,without_onion,12.07,1
+51,9eae5f12-0e34-4e30-842c-e67394d61444,Ligia Reina-Asensio,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:42:39.469156,vegan,N/A,2
+51,93dc3ba1-f556-494b-81a7-8ae5d413c334,Elisa del Núñez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:12:59.957799,classic,12.95,4
+51,880afaa5-58dd-4624-8231-3ffd6a590b32,Yolanda Carbonell Cámara,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:40:01.678708,with_onion,,3
+51,c3eab70f-b8e3-439b-a6ad-418829b16e53,Fidel Frutos Mayol,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:54:44.136005,with_onion,9.64,1
+51,4989e80d-2ee7-4768-bbbc-794f9744b508,Julio César Álvarez Morell,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:31:47.449542,with_onion,N/A,4
+51,e127f67f-ddbf-4033-8857-aefadb3db051,Máxima Montaña Atienza,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:57:12.268194,vegan,6.94,4
+51,e2bbc3d2-6f34-454a-ba57-2e450d741006,Celia Medina Solana,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:24:43.497181,vegan,,5
+51,da207603-2621-4a82-8dc0-0b0290007232,Nidia Fabregat Escobar,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:01:03.820706,classic,N/A,3
+51,3993199e-8879-41a6-a5d1-b054bc3e964c,Julie Girón Martí,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:50:01.833020,classic,,4
+51,b081d97e-c7bd-4567-b615-cfeb3a8d4e08,Silvestre Luís Blanes,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:11:48.048493,vegan,N/A,1
+51,0fdb88f8-5c87-4466-bab2-4bef8323fdca,Cristian Félix Roda Lucas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:58:14.246394,without_onion,,5
+51,8f2a55c7-89eb-49a4-ba19-ded5a936e68d,Aroa Garay Calatayud,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:04:08.317651,classic,N/A,3
+51,b502c7c7-fa6d-4e05-ae68-4b591e0ac358,Arsenio Barón-Alberdi,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:46:42.427440,with_onion,6.34,2
+51,1d5f15f4-8f74-4cca-9f18-e31b3d5a6e32,Ariel Tenorio Reig,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:09:11.770413,classic,,4
+51,65234d96-1ae0-45f6-aa7b-f2755b524dbe,Hernando Castillo Alberto,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:35:30.206273,with_onion,N/A,4
+51,162f56c3-22ed-4e30-b313-9cf8172c7621,Isidoro Martorell,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:56:09.436135,without_onion,,4
+51,e989007f-9661-4046-8291-16514eca6521,Maricela Arnau Palomares,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:25:29.054334,with_onion,,3
+51,c18d24ed-5bf3-4674-bf3a-260ba908e454,José Manuel Gutiérrez Anglada,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:35:44.006846,with_onion,9.64,1
+51,e9791481-d51a-4fe0-8936-15242bc81281,Tecla Seco Prieto,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:36:37.777952,vegan,N/A,4
+51,911a5f33-39bb-4b4b-907f-7c12cc3254c2,Cleto Alemany-Cañellas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:34:14.991560,vegan,14.04,2
+51,38f59d22-1662-4e8a-a0f3-7aa471035ceb,Albino Ramón Taboada,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:13:42.485448,vegan,,4
+51,e97d8a88-aed3-49d8-b3bd-eb97c53435b8,Carmina Rosaura Galiano Poza,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:39:08.500308,vegan,12.14,5
+51,1f3e99b7-b919-4e20-8be2-f2b9a298f2af,Magdalena Iglesia Múñiz,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:11:16.653423,without_onion,,1
+51,2cb46d80-db11-446b-94c2-4d02a09642b8,Mariano Bou Poza,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:00:20.792764,vegan,N/A,1
+51,97608dff-562f-426c-9a5c-9761ccbe2e1e,Flavia Montserrat Sanabria,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:55:39.207457,without_onion,,3
+51,64ea2e35-df88-4424-b21c-2656a9447b09,Eligia Fidela Parra Seguí,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:49:07.962191,with_onion,,5
+51,3d29c9ee-1b1e-4c5b-8f6c-94e43bc7bed6,Herberto Prieto,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:39:20.704616,vegan,N/A,5
+51,63eff92e-7744-458e-aded-2e91e33c4e28,Aurelio Roda-Olmo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:32:15.826650,without_onion,N/A,5
+51,5878a769-f002-4366-8ed5-20f9fd564804,Diego Yago Ramos Tovar,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:22:56.433582,classic,,4
+51,409f4225-748d-4d7c-ac44-36e604890a43,Cristian Casal Rodriguez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:57:18.537291,classic,5.56,1
+51,1066c44a-5995-4f8f-8281-898cb999a107,Pepito Lladó-Tejera,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:27:28.023535,without_onion,N/A,1
+51,2e7c2008-39cd-4608-9be5-907d458d9c1f,Clotilde Niño Báez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:38:21.248648,with_onion,,5
+51,7d7e5ee7-29e8-42ae-bf88-ad93ecb4a248,Lupe Donoso Abril,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:11:52.791505,classic,N/A,2
+51,c5dcbaf3-46d5-46c1-951e-46371e715858,Joaquín Escribano Alvarez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:55:06.890841,without_onion,11.1,2
+51,bd77193e-08c0-41b4-bfee-6b581d394905,Jesús Lledó Parejo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:53:47.428014,without_onion,10.04,2
+51,3fa28c6e-8bb5-48ec-b7af-3fc80c98e18b,Faustino González Belda,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:30:56.495339,vegan,N/A,1
+51,8040b413-9956-44d1-bf79-93bf94474927,Gervasio Mosquera-Daza,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:05:44.650373,with_onion,,4
+51,379f60f7-9ee6-4a00-b9b1-27b8b2cebcc8,Cornelio Alfaro Company,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:32:53.026493,vegan,7.13,3
+51,65c71468-f33a-4497-ae3a-bbc5aa55e71c,Borja de Mas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:40:54.614341,without_onion,,5
+51,a01b923c-269c-4638-b36f-7713c2fcf749,Perla Chamorro Puerta,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:00:58.770297,without_onion,N/A,5
+51,b8a97400-c563-4c77-8a67-beb1db01bb0b,Catalina de Aller,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:22:15.158436,vegan,N/A,1
+51,4f88d65c-7ac8-45f1-a91b-7c639afd52ad,Flavio Paniagua Garcés,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:54:43.178865,without_onion,11.99,4
+51,858b7f10-0ac3-433d-8605-aa4ea9c9bccf,Fermín Dalmau Pomares,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:52:58.045965,without_onion,N/A,2
+51,b0adb077-ddb7-4049-8045-aacb55a6c975,Benito Bermudez Villena,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:59:00.403303,with_onion,10.0,2
+51,25f6494a-b4c9-441c-a780-226c14f7a008,Arturo Orozco Arregui,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:32:21.291257,without_onion,N/A,5
+51,20d03d6b-dd3b-415e-8980-c25231c2c10c,Graciela Gordillo Escrivá,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:36:00.398331,classic,,3
+51,89f2aaaa-daf2-4092-b96b-b9420110d435,Julio Pujol,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:23:38.702303,with_onion,,5
+51,a9f0fb3c-a4f3-4023-8635-04663f5ef6b1,Manuela Chacón Prats,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:10:58.507028,without_onion,,5
+51,c3672775-dee9-41bc-a130-22ec9a871551,Néstor Torrents Sosa,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:04:49.864143,without_onion,9.51,4
+51,f8de2958-503e-42c5-a02e-d24ded1395d7,Nadia Hervás Raya,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:40:50.516847,without_onion,,1
+51,e8a4f677-6f49-4a08-bfa7-89b821d3edfd,Ruperto Valero Sainz,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:55:40.980953,without_onion,N/A,3
+51,22862ab8-342d-4325-bd06-021d8290289b,Araceli Cornejo-Albero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:35:06.206893,classic,6.01,5
+51,17e56a0a-6bd7-48a5-bdd2-c29781d485d4,Amarilis Guzmán Muro,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:26:00.270545,classic,N/A,2
+51,673fd0ba-6b9e-4a59-95fc-f39c5b51213a,Dionisia Arjona Piña,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:50:51.607476,classic,11.16,2
+51,07ce01eb-a861-4b48-b764-545e7ba736ff,Emilia Raya Alsina,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:58:25.463946,without_onion,N/A,2
+51,27a191d2-49dd-4c87-b493-f70811290a87,Artemio Romeu Ayuso,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:17:38.007227,vegan,10.75,2
+51,e37cfc84-f83f-4fb3-abe0-22042ab70019,Aníbal Collado,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:22:33.209432,classic,N/A,1
+51,23e5fbab-d269-4a4b-bea0-8400a9857527,Jonatan de Mariño,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:56:24.232343,without_onion,13.68,2
+51,f70c1031-195f-4f2d-8dd1-313c5dcf6383,Nicanor Cabrero-Oliveras,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 14:13:08.969934,vegan,13.14,4
+51,44b3d6e5-0fcd-4c14-984d-3f32b679e9c4,Lope Tamayo Garmendia,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:20:38.254952,classic,N/A,5
+51,b2d4db0e-cdaa-4053-b448-96f7ac6713d0,Venceslás Ávila Guzmán,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:02:40.967809,with_onion,10.05,2
+51,9ab74761-761c-4380-9e73-73316645553f,Isa Gilabert Cánovas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:56:19.980881,without_onion,N/A,5
+51,a2a4c48a-6615-4908-a8d1-c1fd1f3b3e64,Natalio de Solana,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:28:53.824585,with_onion,6.13,4
+51,f43035c6-9704-409d-9adc-364cb104ed3a,Josefina Ortiz Roca,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 12:47:31.909868,classic,5.75,5
+51,d3bb5d80-da60-4bdd-9e20-e0114defa29a,Teodosio Santiago,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:55:21.270314,without_onion,,3
+51,ef8222bc-1897-4775-aa55-c309b4aa5212,Ángeles Cerdán Diez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:41:31.202369,with_onion,N/A,4
+51,f4b6c0e9-dcf5-4946-9189-529dda427d96,Mario Bonilla Manso,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:12:17.967859,without_onion,7.37,2
+51,b898733b-ec7a-4c80-a326-d78556937b82,René del Casas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:04:45.097769,without_onion,,3
+51,45630dd2-22fa-4099-8930-fb9c8eda2a1e,Etelvina Navas-Bastida,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:21:45.490285,vegan,N/A,5
+51,dd27c372-d0a4-43ce-a1fd-de1ed53ef5ab,Beatriz Higueras Tamarit,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:31:11.021802,classic,N/A,4
+51,2fa37836-3af7-4025-98d0-8e3d15933879,Geraldo Pelayo Torralba,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:36:22.775218,with_onion,,5
+51,019eef6f-b26c-4f3f-be3e-b68d20d89c67,Juan Antonio Benet,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:39:33.170712,vegan,8.84,2
+51,1113e973-09a2-47cb-9531-f6a8ecd57fe0,Aurelia del Cerezo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:42:34.557723,vegan,13.45,3
+51,394e543a-79c0-45c7-873b-d29b2c8d6653,Marcelo Marcelo Oliva Quiroga,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:36:08.839376,vegan,N/A,3
+51,a7f75d52-8437-4e0a-87b7-4c52f34a64e1,Ruben Camps Girón,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:45:23.244691,vegan,N/A,5
+51,18e44b0b-dd85-4291-bd61-261223250226,Anita Llabrés Barberá,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:39:25.059609,classic,N/A,3
+51,f94052be-0551-411b-8d24-a54302cf27de,Carmelo de Ferrero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:24:20.700468,without_onion,,5
+51,e7524817-8cf7-413a-a5fd-66c1292996e3,Ernesto Villanueva Colomer,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:41:02.048051,with_onion,7.65,1
+51,466fddb9-286c-47c2-aed6-a891adc1ff31,Estela Recio Julián,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:42:47.375222,classic,,3
+51,88be2839-c408-474d-a73e-57a8ac8960cb,Luisina de Baquero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:13:34.848152,vegan,N/A,2
+51,e95f9a54-85d6-48e6-ace1-02d6792809d8,Francisco Jose Royo Figueras,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:22:33.774822,classic,11.78,5
+51,fff14698-f56b-4a20-8d73-43d118bd18e9,Poncio Acevedo Moll,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:34:40.570075,vegan,N/A,5
+51,92300429-234b-4e94-ba9c-7c2578f65fc6,Patricia Maza-Mulet,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:05:45.185345,without_onion,7.1,5
+51,cbd919b3-a56c-42d8-bf50-36dd66e3459c,Adela Parra Ayuso,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:34:31.204463,without_onion,,4
+51,9fbc3de6-2b09-4157-a811-fecb72941767,Pastora Escalona Tormo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:21:02.246711,with_onion,N/A,2
+51,9972b234-f6e5-4688-abc6-cf37efeb8005,Ximena del Contreras,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:22:34.556095,vegan,7.06,5
+51,875251f4-2726-4655-a038-ec7a7ade5f5b,Esperanza del Palomares,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 10:59:10.725084,with_onion,N/A,1
+51,92f4b413-8f55-4e7b-8056-c0a285e67159,Pancho del Tello,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:36:07.142071,classic,,2
+51,2fc66e58-6106-465c-92c5-42544ba065e5,Dalila Ibarra Ibarra,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:23:49.656731,with_onion,N/A,4
+51,08bfc0f2-a307-444b-aca5-729cb345df6d,Prudencio Ibañez Redondo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:26:16.601963,classic,,1
+51,00daf295-49b4-43a3-97b1-10caa9285534,Bienvenida Corona Lamas Mayol,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:33:05.024614,vegan,12.98,4
+51,8dd95cca-5326-4378-8dac-36bcac41cbf8,Manuelita Román Moya,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:31:32.265314,vegan,,4
+51,68ccb3bc-ef3f-4458-9887-166f45506e6c,Ezequiel Bou Rivero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 21:59:54.135901,without_onion,14.83,4
+51,71bce4aa-ed27-42b5-86bc-4fc59e1c4b5d,Paula Armas Amores,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 07:55:14.936288,classic,14.43,2
+51,e5a97560-f458-47cc-84df-4c4ab2f73a4c,Débora del Aramburu,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:32:21.966844,classic,10.11,3
+51,a4806930-4ee7-4af6-96b7-80f3279a6243,Fátima Delgado Juárez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:19:55.847673,with_onion,12.5,3
+51,29f48c4a-72dc-4d45-9a70-8d67fde7bf01,Olivia Burgos García,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:03:40.666968,classic,N/A,4
+51,3222682e-7a3c-4519-82aa-03da307f86a1,Silvio Ramis,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 09:00:44.105793,without_onion,N/A,4
+51,4681452c-4610-4731-a8b0-785ee7fed16b,Piedad de Alberto,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:02:21.232472,without_onion,7.23,2
+51,90317bcb-0423-4ec1-90e3-d718286c52ff,Roque Zorrilla-Ferrer,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:28:16.948246,without_onion,11.74,4
+51,5143bb7d-efe7-4b58-882f-663f260b9874,Rogelio Ayllón Sancho,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:56:59.735938,classic,N/A,2
+51,cec3d6ca-1628-4e74-9005-9201dabded11,Sebastian Leiva Saldaña,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:12:30.268032,with_onion,,2
+51,a5eca480-300f-4a8c-95c5-f05d35eeef3f,Evangelina Prada Portero,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 19:11:58.454127,classic,14.88,2
+51,d2479e17-7ca1-4403-9c8b-fd803b9c84ea,Pastora Cuevas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:38:24.149698,vegan,5.28,5
+51,8f3e80ca-5fa2-4bfa-b5ea-0847838fb6d7,Xiomara Evangelina Palacio Isern,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:42:44.356849,without_onion,N/A,4
+51,a4fbfd43-94b1-43f9-a7a2-be313e5d9b45,Flor Nevado Navas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:35:22.184569,vegan,N/A,5
+51,625679bb-f3fc-4ec3-b913-9828e90a73b4,Matilde Palomo-Nadal,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:31:11.113342,with_onion,7.01,3
+51,08d01d3d-0b25-48ce-9ffb-2935fda5b268,Cristina López Royo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:59:45.558468,without_onion,5.4,1
+51,9bd0f425-36c1-4d41-a0fc-88287b06b3fc,Emilia del Vara,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 17:54:09.450588,with_onion,,3
+51,a735de65-8c6f-441d-bb83-95f3f3461269,Paz Pedraza Ibarra,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:57:08.618085,without_onion,N/A,2
+51,92990565-cfa6-424f-897b-4c994a615c50,Máxima Cerro Álvaro,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:29:52.366526,with_onion,N/A,5
+51,3a9f7006-d735-4479-abfb-d2b0ae17f47c,Joaquín Zabaleta Ferrando,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:01:48.708157,with_onion,,4
+51,fb0576bc-ccc7-4031-ad59-cb8b7c2e77db,Raimundo Azcona Rodrigo,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 02:39:50.721650,with_onion,N/A,2
+51,0af0dba3-69ed-4a20-8856-5a3c3e815d16,Claudia Estevez Ferrán,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:44:22.195235,with_onion,,5
+51,a7567696-5182-4859-b0d6-22033bf68af0,Adelardo Belmonte Mulet,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:37:02.091713,vegan,,3
+51,4b7d1bf7-e5ad-4a5f-b79b-2a6c659730e9,Adriana Armida Blanco Camps,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:42:03.492936,without_onion,,5
+51,b153ff95-0b55-4fd6-88b3-6c5d54a4de8e,Tamara Mariño-Leal,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:09:00.198102,classic,,3
+51,c1f9fede-b384-4924-9b9c-154651254f1a,Sebastian Taboada-Díaz,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:42:52.332409,with_onion,N/A,2
+51,43a05fd0-0a72-45f4-aef2-a8ea34257eff,Rogelio Cantero Gascón,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 06:05:39.998435,with_onion,,1
+51,cb574319-7a78-4a63-bfa3-3499047da8f4,Jordi Romeu Jaén,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 18:55:45.811675,classic,8.11,5
+51,df8458c5-377b-42a7-af02-25f3db2b24a5,Sabas Exposito,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 16:09:38.615961,with_onion,14.22,5
+51,9a1aded9-8463-4038-9ebd-3b42e393f8d6,Leopoldo Pascual Pina,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 01:43:21.879410,vegan,8.21,5
+51,d695331f-afda-4d7b-82ef-6c46367d46b4,Carmen Lluch Anaya,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:27:35.853073,with_onion,10.82,1
+51,e5f98d70-4364-4be9-a6d9-da3821f09d54,Bienvenida Sáenz Prada,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:36:49.933908,without_onion,9.09,4
+51,4bbb97cc-ce7c-441c-99f0-3068cac788d9,Darío Ortega Vargas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 15:10:58.771763,without_onion,,5
+51,ee4a1762-12fb-4f67-90ad-dfa4943c8bd7,Celia Morillo-Ripoll,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:45:59.427119,vegan,,1
+51,440250b4-355e-4a52-984b-b80f6e49a74c,Andrés Felipe Tomé Farré,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 13:39:36.069543,vegan,N/A,2
+51,41035544-2fd1-4772-a474-ba9794a60398,María Jesús Ochoa Rius,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 23:06:48.028168,with_onion,7.2,1
+51,fd89c378-5cce-4bcf-b93f-4de7a8fd5055,Porfirio Vidal Lopez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 05:23:20.821145,with_onion,N/A,3
+51,60af7086-1d34-401b-8982-4748d30d5007,Ildefonso Folch Lamas,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 08:05:41.447920,with_onion,N/A,5
+51,ff86bef8-21fb-46bf-9138-26a6c57283c5,Conrado Teobaldo Pareja Vera,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 22:49:09.597046,classic,13.35,1
+51,ee33e825-89fb-4900-9e2a-8c3518c1599b,Ildefonso del Menéndez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 20:42:44.298090,without_onion,9.85,3
+51,758db353-459e-4f71-8e2a-870bb7bfbf58,Luna Antúnez,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 00:14:11.221140,classic,9.77,2
+51,647d4dbb-044f-4849-b0e2-b9b8218dd6d7,Octavio López Santamaría,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 04:05:57.100740,vegan,13.11,3
+51,53380273-cbb6-4c4d-9ac1-ff61ba851cb8,Joaquina Serrano,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 03:40:11.582270,with_onion,,3
+51,b3937bfc-6b62-4123-ac6e-7033e1b90364,Jenny Gil Nadal,Valencia,"Cañada de Nicanor Nebot 86, Huelva, 27994",2026-05-01 11:08:31.626300,classic,N/A,4

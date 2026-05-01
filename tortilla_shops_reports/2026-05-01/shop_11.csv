@@ -1,0 +1,107 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+11,efda01a8-b5d2-4bbe-865f-44f4d7e558f4,Olimpia Ángel,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 12:36:18.493528,classic,10.92,2
+11,572888f9-54f4-4b93-8c83-ac8784044bdf,Merche Herrero Nieto,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 16:42:29.202085,without_onion,,3
+11,4982a409-2f3b-4ed5-8290-7994d088b5f8,Domitila Santos Cerezo,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 18:05:44.234953,vegan,8.61,2
+11,30f44105-21cb-4cf3-9450-5acfffc63823,Anastasia Mateo Salinas,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 20:35:29.238384,without_onion,,1
+11,35880e8e-b39e-4b77-b1fb-4cc2eedc6387,Raúl Ayuso Piña,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 17:36:01.613945,classic,N/A,5
+11,e8327f32-1b9c-4a9f-aefc-de9e60483e4d,Rosalva Fajardo Serna,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 14:31:54.819973,vegan,N/A,4
+11,1ae6f185-3226-4031-9141-d8aa1716921d,Carlito Segarra-Esparza,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 21:16:59.435197,with_onion,,2
+11,00827ee6-157a-4db2-addf-7a5b1711e5df,Judith Arana Alonso,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 17:06:31.225830,vegan,,3
+11,b8335545-0906-4c17-bc60-89af33e5e034,Carmela Villanueva Benavent,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 15:30:06.029952,without_onion,N/A,5
+11,04917056-4edf-46b6-95f8-aa9518f6f0a2,Maricruz Prat,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 00:41:11.162246,vegan,14.82,3
+11,4d7e235f-c4be-468e-8cf1-d9b4f9b5d118,Julieta Barrena-Garmendia,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 03:27:45.512476,classic,,1
+11,dee916f5-51ba-495f-9f97-3fecec9cd191,Victor Alarcón Soria,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 07:45:59.991525,classic,N/A,2
+11,77a41683-04c4-415d-bddc-d0dc1f159eec,Petrona Escudero Arrieta,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 23:15:21.988745,without_onion,,1
+11,9ec5dc6a-816d-4401-a5c4-d4a96de7a568,Emiliano Torrecilla Vila,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 07:54:27.393562,vegan,N/A,1
+11,5c995c93-ad4f-4757-b289-8b67a6db7b54,Delfina Paniagua Laguna,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 16:59:23.705615,without_onion,14.18,3
+11,b23c284b-8b5f-4a12-965f-ab821a653e85,Alfonso León,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 21:49:40.638883,classic,,5
+11,71fdee98-8f78-46fb-b9e9-110c156d30e6,Guiomar Baró-Mendez,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 17:46:14.086776,without_onion,,3
+11,29b8e036-7c71-443f-976d-0540107e8267,Jeremías Echevarría Vélez,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 20:06:11.744659,classic,,3
+11,3f4fa208-ee65-4d77-b22a-f4d149f77287,Gabriel Campillo Amaya,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 04:23:45.576119,with_onion,9.62,1
+11,7dc70cc2-d387-45c6-8225-d8eac679bb49,Rico de Sastre,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 16:58:41.065834,with_onion,N/A,1
+11,9a5150f2-39d8-4a4f-929e-4176c58de701,Cristian Marino Zamorano Núñez,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 05:44:10.517575,classic,N/A,1
+11,ba5cde5b-8f78-4697-b25b-d88862a08ff0,Rosa Peinado Roda,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 18:28:51.439154,classic,N/A,2
+11,94f6a0ce-3c12-41b2-8992-8179172c2a82,Porfirio Gallardo Hernando,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 19:19:03.153443,vegan,N/A,3
+11,e2b6ec2e-3969-4801-9770-51499fa7fb92,Clarisa Garriga Uría,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 08:09:58.703906,vegan,12.95,5
+11,a4ce1ffc-9033-4dc2-ad18-b779ccfbac8a,Pastora de Girona,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 16:08:31.614351,without_onion,N/A,4
+11,abbbdd84-c2a9-471a-91a8-29cd01284e0b,Evita Posada Prat,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 07:53:38.916380,without_onion,,5
+11,5ddd4cf0-8e22-4fbe-b223-5fcd7b5435fa,María Jesús Riba Bertrán,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 22:12:01.146160,vegan,N/A,1
+11,5df2d865-767e-412c-a695-43b88dab8318,Julie Berrocal Pujol,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 02:23:34.848959,classic,,2
+11,8a824955-8f9e-48b6-8a70-92ea5160961b,Nuria Comas-Osorio,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 07:03:23.456655,without_onion,,4
+11,c8ce72b2-bd06-4851-8e6b-f1c41504f0d0,Rita Carballo Reyes,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 07:20:34.746579,without_onion,N/A,5
+11,a57f8448-abf3-4180-8b6a-1b98d7e0401e,Carlota Acosta Nevado,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 16:24:14.594074,with_onion,,3
+11,9220b35c-164a-4c01-adf5-98b54793c337,Carmelo Peinado Bosch,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 09:35:48.449230,vegan,11.91,4
+11,61ee209f-59e1-49d4-91ca-6030b7e83987,Francisco Héctor Pallarès Laguna,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 22:22:05.544783,with_onion,8.5,4
+11,0d3e103e-5368-4c6d-8c45-c14cbe122892,Aitor Meléndez-Requena,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 17:32:06.058104,with_onion,6.3,5
+11,8c21c27a-659d-4799-939a-27fa76cda331,Jorge Estevez,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 06:26:14.146374,vegan,N/A,1
+11,a8146552-b3ef-4d11-a0ff-d896c8c5e71d,Sabina Ortega Pujol,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 23:34:09.212360,vegan,,2
+11,8554271a-77e5-4b7d-8096-0e2c027965b8,Francisca Egea Llano,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 03:29:00.808848,classic,6.24,5
+11,f9b019a2-8f6a-483e-8262-c9d279a432c5,Eulalia Solera Miguel,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 15:57:04.792886,with_onion,N/A,3
+11,f7b4fa11-e79a-4094-8c9d-f9b5499613a7,Venceslás Berenguer Iniesta,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 05:14:08.419876,vegan,N/A,2
+11,a252539b-aa21-46ed-9db0-9ff8573096e7,Emigdio Peinado,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 23:49:37.579842,with_onion,,1
+11,9b510269-1c1e-45c3-9e24-aa1b821b9ef1,Zaira Roman Miranda,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 15:27:49.469877,without_onion,8.83,2
+11,24712ea7-5bfb-4091-85f0-be361c054ba8,Ascensión Solís-Piñeiro,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 19:07:16.926374,with_onion,N/A,1
+11,a3612c0e-fdd5-4060-bb80-37a592097c21,Viviana Sanjuan Ruiz,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 04:28:59.704721,with_onion,,5
+11,71887bf1-72eb-4268-b370-6712d8805ca8,Vicente Marín Parejo,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 14:26:59.376202,with_onion,N/A,4
+11,916d269f-5e0b-475b-a3c2-21a37d762887,Hernán Núñez Millán,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 10:15:08.342696,classic,N/A,3
+11,6e4dc04e-f72f-4404-ad7c-56f058ee1bfa,Elena María Dolores Seco Calvo,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 15:58:35.892981,with_onion,7.25,3
+11,ed7dc4f3-96d5-43de-b605-76f2f2d5e47a,Ildefonso Pagès Salas,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 10:47:38.772254,classic,N/A,5
+11,dc817bbf-bab2-4663-9287-e947e909ddab,Agustina del Tudela,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 23:09:18.779234,vegan,N/A,4
+11,ea427fff-0e79-493a-b242-6f96609a1711,Bautista Merino Garmendia,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 03:57:28.079366,without_onion,9.81,1
+11,b0227b44-3b6d-43be-bdb8-35b5eb109f72,Darío de Cobo,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 06:17:47.370755,vegan,N/A,3
+11,68d8e24e-e2e8-429f-b588-fb9b7085d999,Nieves Quiroga,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 10:27:26.528453,without_onion,N/A,3
+11,bca92386-720d-46eb-aa54-d4d0b42f63ef,Isidora Monreal Farré,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 05:07:33.996776,without_onion,N/A,3
+11,b775fbd9-755d-446f-a3eb-f287695ddf13,Fátima Aragón Sedano,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 17:34:50.555158,vegan,N/A,5
+11,1d8da221-93fa-4fde-82a8-97a8e9635fdf,Saturnino Borrego Araujo,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 19:02:09.476712,without_onion,N/A,4
+11,b88ac436-2121-4b10-974b-0592d89f27fe,Galo del Mínguez,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 04:55:07.402866,without_onion,12.68,5
+11,9796e1e0-4719-4d04-8a9d-1cb15fa3ac9b,Custodia Sarabia,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 16:34:31.125993,classic,10.76,5
+11,f92e767a-2f07-4fd4-8a0b-0424c3247b18,Desiderio Moliner-Rosado,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 09:30:18.324485,classic,,4
+11,495f4b6e-9f40-46ea-81f2-12fa377da2f2,Che César Clemente Villegas,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 16:47:27.518150,classic,13.03,5
+11,d7b3d36b-eb8b-4fb1-8190-21833dea504e,Marcio del Bartolomé,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 22:54:14.364116,classic,8.7,2
+11,d5ab857f-9785-47a1-bedc-6af3ea19dd56,Elvira de Arcos,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 12:19:11.188515,without_onion,,5
+11,b40f49bb-d0c9-40ad-a5d9-ad12e0b523f2,Visitación Coloma Goñi,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 06:03:23.028839,vegan,N/A,2
+11,67b1589c-697d-41d1-ac54-f90e28a1abb1,Abril Agustí-Pomares,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 14:46:03.200533,classic,7.14,1
+11,81363f6b-60f6-457e-8425-095500265c95,Calista Camino Manzanares,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 00:04:14.076452,without_onion,10.68,4
+11,7268e253-a4f1-4202-a409-5fd5a431b084,José Pareja Cánovas,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 13:36:45.068148,without_onion,10.41,3
+11,194c03c4-9f8f-4533-bd1e-4a2d163ab813,Julián de Adán,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 18:21:58.356140,vegan,N/A,5
+11,3516c1d2-eea1-4299-9352-7a24d182e038,Rosaura Gonzalez Cabrera,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 04:19:31.965337,with_onion,8.21,2
+11,e7c652d1-5346-4f4d-900a-2e7063d78ea5,Marina Vaquero Coronado,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 06:01:30.697148,classic,N/A,4
+11,06198ecc-260a-438d-b070-0e92d3a87414,Edelmira Gibert,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 04:33:22.682152,vegan,14.56,4
+11,3d809fa4-9db2-4e2b-b4e6-7b715afc2a35,Prudencio Pareja-Millán,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 12:48:30.812410,without_onion,8.79,1
+11,21d1759b-79fc-4a53-b5e3-76fe9ff723b8,Cristian Tolosa Andres,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 00:03:54.993213,without_onion,7.42,5
+11,9355eb40-e115-4eae-a7d2-097142696065,Daniela Benito-Recio,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 17:49:15.359001,vegan,9.41,3
+11,04598adb-feaf-47f0-83f9-aec518a23a54,Florencio Pareja Araujo,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 10:59:03.213996,without_onion,,1
+11,55ad7683-9c95-4762-957d-57836c173c73,Esmeralda Valle Giralt,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 11:28:26.288083,classic,13.58,2
+11,4a6a5c4a-03a0-4f1f-872a-bc4cc74e631f,Ildefonso Amaya Sastre,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 01:49:24.652800,without_onion,N/A,3
+11,b67b2786-e3b9-4649-bba5-d2adc5edbd25,Luciana Rius Alfonso,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 01:39:06.868630,with_onion,N/A,2
+11,cae94445-fbde-43a2-953c-acf38ac04d1e,Vicenta Calatayud Velasco,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 04:59:07.213573,vegan,14.74,4
+11,e713a07b-2781-4118-9a3a-53486a850a5b,Soledad de Casanova,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 15:24:18.687701,vegan,6.11,1
+11,226a1a4c-01f0-4b4b-991b-e2053b660d93,Martín Tomas Tamayo,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 05:31:18.378619,classic,,1
+11,ed82634b-4bd8-415b-bf9d-fb6d4816b6e3,Viviana Batlle Cózar,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 17:51:41.883806,classic,,5
+11,c836cf2b-4e86-4bd4-9d67-3c70fb66651a,Maite Rosalina Jordán Terrón,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 23:24:41.005591,with_onion,,2
+11,e036258d-3d54-44e6-8eb4-9ecda3ad79a2,Carla Reguera Bolaños,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 18:32:28.467512,vegan,N/A,4
+11,4b41d14b-1125-443a-a40a-12319d281246,Yéssica Haro Milla,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 15:02:56.468044,classic,N/A,1
+11,f613e963-9972-445e-af79-230d1b4a3c7d,Noa Viña Yáñez,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 18:17:50.390451,with_onion,N/A,4
+11,02877ccd-1526-4ce5-b7ca-76e460e96d8d,Débora Alemán Oliver,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 15:09:26.865242,vegan,8.91,4
+11,03d474c7-15c7-4551-9a0c-245db1475711,Nayara Sola Garcés,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 12:18:48.902811,classic,10.76,3
+11,64c96f8c-e3ae-409a-a4f2-42248a7297a7,Leonardo Vigil Romeu,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 17:33:40.859784,without_onion,,3
+11,6be6f944-a1b5-4803-9b89-98024a1fb481,Malena de Sabater,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 15:38:34.516388,classic,,5
+11,ec0ece99-923a-4d13-8190-317a650590ac,Adán del Villena,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 01:00:58.192502,with_onion,5.3,5
+11,b686f306-d368-45eb-8c13-d9b59e02b220,Benigno Barbero Mosquera,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 08:00:19.519856,with_onion,N/A,2
+11,01f1990f-0b32-446b-8ae7-6046da42d74c,Julio Marcos Mendizábal,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 12:29:45.790353,without_onion,,1
+11,12e720ae-22c9-44b6-940b-bf0223b35326,Jeremías Cruz Pineda,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 05:56:48.253033,vegan,,4
+11,c133078b-79a2-4a73-b612-91857f38dcd1,Luis Padilla Rey,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 20:26:13.180188,without_onion,12.0,2
+11,d7748d3c-96f0-40a2-8c38-8a5cfc2e5f53,Eliseo del Colom,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 02:05:45.350746,classic,11.5,5
+11,89b3e293-8f18-488f-9edb-1499102cc907,Juan José Pancho Quintero Revilla,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 13:51:40.276035,with_onion,,4
+11,60e99786-21c6-4da7-9403-be3b1bddbd72,Alma Calvo Soria,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 11:39:34.884473,classic,14.22,3
+11,390c3e06-4785-47b5-8694-cdbc6bf61ed2,Paloma Alarcón Pedraza,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 19:38:48.866468,with_onion,N/A,1
+11,eb30db96-3a2d-47a1-b25e-ca51929f6a4e,Osvaldo Marc Martínez Sandoval,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 21:21:48.907852,vegan,,3
+11,01594ca7-dc82-4656-a244-759c6493444b,Evelia Patiño Pinedo,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 03:19:31.900958,classic,N/A,4
+11,f2e6f4ab-7026-46c6-9800-aeccf7b21578,Celso Lopez-Ibañez,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 02:16:27.182561,without_onion,N/A,2
+11,dc8dec1d-2b14-4200-b242-cc2f34c1f3bf,Manuelita Micaela Gutierrez Amat,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 23:21:15.869888,classic,N/A,3
+11,a0d72133-43a9-4b34-8016-31ff612c2557,Amalia Cantero Ricart,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 05:27:51.060997,vegan,,3
+11,2323b9f9-7336-47d1-bd1e-b0eb8a9a1b9c,Hugo Garriga Sola,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 03:24:30.319915,classic,,1
+11,30e4b8c6-1cb7-44d1-8d6b-56beb783dde4,Liliana del Giménez,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 14:27:08.747410,classic,N/A,4
+11,69f86dc9-a785-44b2-be45-7bcf3bd54704,Vidal de Torres,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 04:58:40.997500,vegan,7.9,4
+11,db6636a2-246b-4443-904c-745dc94e32ae,Benito Garrido Garay,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 17:07:31.495441,vegan,N/A,5
+11,6246dbbb-390c-488a-be79-40efb312915b,Jose Angel Pla,Sevilla,"Cañada de Javier Solano 28 Apt. 82 , Almería, 12425",2026-05-01 18:39:59.536292,classic,,3

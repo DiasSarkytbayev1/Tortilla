@@ -1,0 +1,350 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+9,f233bdff-eee2-4bc7-b609-3bb1923d0c15,Carina Recio-Corral,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:17:45.332501,with_onion,N/A,1
+9,db7c50fc-4b3b-4896-b698-3b2200c0dd47,Tristán Caballero Mora,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:35:42.946234,vegan,12.16,4
+9,873c5ff9-c2d8-4a11-84c5-e7af4fc3c0e5,Tadeo Valentín Gisbert,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:32:32.180358,vegan,N/A,3
+9,73595460-b90b-4de7-8a51-4eb83dffbbc2,Juana Solé Mir,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:31:06.933893,without_onion,5.47,1
+9,87e3eab3-8d3f-49ac-9204-1b8885f81ebf,Virgilio Raya,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:18:22.144376,without_onion,N/A,1
+9,27dcc48c-834e-4c7c-bd61-c06a1d7f86ad,Angelita Frutos Escudero,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:37:36.892661,classic,13.64,5
+9,04ee78e0-b61a-46f9-b450-6954f630efc8,Pedro Malo Rosales,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:37:39.447353,classic,N/A,5
+9,369fc971-2a61-494c-9bb2-35c9cdf6d338,Leocadio Buendía-Estevez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:30:46.381684,vegan,,3
+9,98bdddc8-b458-4733-a8d9-4e8ceeaebded,Isabela del Macias,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:50:27.608240,vegan,,5
+9,6f9cf205-7432-4102-9504-159a7df21f8f,Maristela Madrigal Fajardo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:41:43.922523,without_onion,N/A,1
+9,ca0581f4-eaa5-4292-9144-b804e051879d,Sandra del Mármol,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:48:28.840544,vegan,,5
+9,6aabe05a-37a9-4ca9-9e04-299b4fca41ac,Mariano Carlos Gisbert,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:08:31.141663,vegan,,5
+9,38132d6a-8229-4752-a692-11637b5dc3fa,Adriana Gras Trujillo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:15:12.187250,classic,N/A,4
+9,38216a35-b72b-4c6c-a423-1d861e57f499,Luis Ángel Palomar Esparza,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:03:08.507938,with_onion,N/A,4
+9,9082f5bd-7dbc-47c9-b1ea-661fee8ec686,Almudena de Rosales,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:59:27.384574,classic,,3
+9,96ac3e72-87a9-48a5-a72b-1ea56d6cfb36,Abel Anglada Jordá,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:45:24.628871,without_onion,N/A,1
+9,e89b0bbc-9c43-435d-bd6b-0779d17093f2,Arcelia de Nicolau,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:06:55.245030,classic,N/A,4
+9,c117e2d0-b1dd-4145-b017-bbe20ea61ff9,Dionisia Guerrero Nevado,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:18:32.152167,without_onion,9.54,4
+9,0e4c6f74-69d2-475c-bda5-3ee0cb59d2a8,Reyna Navas Rincón,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:52:20.047878,vegan,,4
+9,44c5cad5-f771-4757-8651-9bdcb22477cc,Germán del Barreda,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:37:58.508893,vegan,,4
+9,b23de955-0740-4bb6-bfed-425084959760,Leonardo Amaya-Bastida,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:43:37.195824,vegan,N/A,4
+9,3b916cbd-96ba-47a5-be1a-3cec3c203e07,Efraín Maza Ferreras,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:42:11.727735,classic,14.01,1
+9,79224c9c-d390-44aa-bad5-b06bdf95880b,Maite Teófila Paredes Arco,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:04:37.452490,vegan,8.5,3
+9,ef447fe9-232a-41a2-979f-48b722a8be06,Domingo Chaves Carrillo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:06:48.772436,classic,,1
+9,b3ad1c75-951e-43c3-9177-b1f467340beb,Emiliana del Quevedo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:20:21.083877,without_onion,9.91,3
+9,e78c25e7-6c7a-4792-82b1-14ac53a9b644,Toribio Portillo Casal,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:32:09.443507,without_onion,N/A,4
+9,d53b914e-140c-48f1-a69d-edf3e3c3acc4,Palmira Rico Agudo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:42:07.035592,with_onion,6.31,5
+9,aca66986-b40c-4375-9cb3-ce4b2d8b3317,Irma Carballo Asenjo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:06:06.337503,with_onion,,2
+9,3de09e80-2098-43c8-a679-7b46677ade0e,Eusebia Vázquez Sans,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:39:43.851011,classic,,4
+9,5783c52d-ed68-4e29-9dbb-683fa0f2506e,Coral Pilar Jara Zamorano,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:06:34.264352,without_onion,N/A,2
+9,f6b13d66-e870-4015-864d-13a0d6ea2e4c,Dora Jimenez Portillo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:50:14.893332,with_onion,6.11,1
+9,349bfae1-c516-4175-9823-7f76ff607c5a,Severiano Pinto,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:35:51.574683,without_onion,,4
+9,124a5cf3-d595-4224-9709-6ad0589e3633,Fito Cáceres Baños,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:30:35.562643,with_onion,8.52,5
+9,e27328a0-3377-486d-83fc-5abeddeb2aee,Borja Planas Domínguez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:21:50.376737,classic,N/A,3
+9,a4378731-fe7e-437f-a9ee-06e018dbd92f,Rosalinda Murillo Villaverde,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:17:55.640741,classic,,5
+9,c3827176-f7b5-4b47-ba2f-da1bd71698cf,Óscar Rozas Tomás,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:40:57.566040,without_onion,12.74,3
+9,d7b33025-209a-419c-a7f4-4a7931b9eb85,Primitiva Salcedo Terrón,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:02:11.431478,vegan,7.08,3
+9,ef870056-da9d-4b91-a628-8379335223d4,Edgardo Español Ferrández,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:55:01.081976,vegan,N/A,2
+9,3e38671b-52f6-4c52-8870-0e0231a32624,Luciana Bravo Gallego,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:58:07.232505,classic,14.72,4
+9,7841dae1-8642-4765-9fdc-0021032a544b,Rebeca Pinto-Ramón,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:46:05.387116,with_onion,,2
+9,1b14a40b-2db0-48e7-85b6-efe5ff15c0b9,Elvira Perelló,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:26:50.309246,classic,N/A,4
+9,0c00bff1-4f97-4e74-a56c-9662129a6e76,Nieves Contreras Redondo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:08:33.950591,classic,,2
+9,8abe9d03-132d-4236-8083-3659739ee6ec,Bibiana Benavente Belmonte,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:14:31.141117,with_onion,,4
+9,4c7fd6ba-1daa-4aad-b352-80674b91dd4f,Juan Francisco Escobar Ibáñez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:55:08.985112,with_onion,5.59,4
+9,a4ebce4b-be22-401e-b888-8f53e09ef0e9,Juanito Díaz-Rius,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:51:34.270906,classic,N/A,1
+9,6b1ff83f-8a2b-4962-b769-529fc9eb70e6,Catalina Santiago Villalba,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:54:32.365674,without_onion,N/A,3
+9,6b74c481-9ddd-44b1-865b-b6fbedda7a67,Fabiola Pastor Armas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:23:24.865523,vegan,N/A,1
+9,6b129924-80fc-4865-8815-666dc0fd333c,Cloe Aliaga Arribas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:45:32.028701,vegan,,1
+9,e4bde2b8-d11c-4763-9745-e534fe414dbe,Gala Sala Peinado,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:13:25.386043,vegan,12.37,5
+9,9765da8f-eabe-4a00-934d-d273b8f4c631,Marcia del Rocamora,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:47:42.560132,without_onion,N/A,3
+9,77c8c667-7230-45d9-9923-3f1aaccd6ba3,Reinaldo Manjón-Echevarría,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:24:01.142491,vegan,,2
+9,95a57c3a-313f-4a56-8118-74396e8d0f81,Casemiro Emilio Benitez Contreras,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:33:54.560800,classic,N/A,4
+9,474729af-fe26-44f1-9db5-d465fd2f5c70,Diego Pineda Sarabia,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:58:34.542225,without_onion,11.31,1
+9,90fd8311-9760-478b-851e-d6f8b2d16238,Irene del Pazos,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:42:14.356289,vegan,10.79,1
+9,4d025a31-fdab-40a8-9399-ac745a4da827,Verónica Solera Cortes,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:09:07.686001,vegan,7.78,3
+9,1a577aa1-e904-4030-822c-715a00507a24,Hector Vizcaíno Nevado,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:22:53.010944,with_onion,N/A,2
+9,36bb3d0f-a15d-4a55-b129-fc15976a2c4b,Diana Dueñas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:19:28.337955,classic,N/A,4
+9,440b6f76-6665-4873-8637-cb44dece3455,Darío Tejero-Posada,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:17:45.103221,classic,,4
+9,cad8164f-ba17-45b7-adb8-1ea2402363a6,Elías Garcia Gargallo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:42:36.147687,with_onion,N/A,4
+9,3c9897af-521b-4479-ac08-4d63280c6a75,Aitor Juanito Torre Atienza,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:32:41.623968,without_onion,N/A,1
+9,a2cd63fb-a783-41ec-a279-5cb4907c3288,Josefa Cuesta Alcalá,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:58:09.373149,without_onion,5.63,1
+9,ec294f36-139e-498f-8aae-c98cba4fdeb6,Isa Exposito Andreu,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:36:28.864590,classic,10.57,1
+9,824ab3ab-ee8d-4dd0-8344-70ff196b4360,Gerónimo Garcia Iglesias,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:10:40.421579,without_onion,,1
+9,06a306ab-d739-461c-a902-692362556b40,Valero del Solera,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:33:31.376967,without_onion,N/A,1
+9,983e17e3-8ec4-4f9a-b74f-f528311aec5a,Montserrat Marcos Cobo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:50:49.435604,with_onion,,3
+9,b8bd9e2d-fda3-482b-9245-e2c75e26befa,Eustaquio Francisco Torrijos,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:15:05.776067,vegan,,5
+9,6a488768-0241-467e-a00a-364981d042dd,Bartolomé Lisandro Olivera Font,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:29:27.004285,classic,,3
+9,72f9f0c6-5db4-4655-8b9e-5aec04fcdc5d,Ainoa del Paredes,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:30:43.748529,with_onion,10.93,2
+9,0848c090-5a4e-4eb2-a87b-b9a7a7ea2c48,Teodosio Javier Menéndez Ibañez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:47:34.460211,vegan,N/A,2
+9,4d96fd25-6fe6-44ed-8351-882cb00a9e42,María Luisa Felicidad Aragón Priego,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:08:26.935044,classic,13.04,3
+9,296d557c-6b54-4153-b14b-8261f97d802d,Celia Iglesias Calvet,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:07:43.419188,without_onion,N/A,1
+9,380fd54f-80ae-4450-83ec-102697b79874,Teodoro Manzano Grande,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:08:19.455365,vegan,11.23,1
+9,e4dbedd2-0415-45b3-9394-87ff788fee6a,Begoña Huertas Macías,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:12:51.176690,without_onion,N/A,2
+9,80fdab9f-7b66-4320-aa28-a00dc9d6deaa,Ana Sofía Badía Leiva,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:22:09.741197,without_onion,13.85,2
+9,d6ace506-7ab3-4b95-8770-def7e4a823c7,Fortunata Olmedo Real,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:31:55.829894,with_onion,14.79,5
+9,9de398bc-095e-499c-8383-99a4114cba1e,Osvaldo Valle Carbó,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:37:08.940648,vegan,N/A,5
+9,75ca5580-7496-4ecd-bad4-aa00a2bac328,Encarnacion Anaya Gascón,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:10:04.357638,classic,7.28,5
+9,a3070303-67e6-4cef-b493-e149cfaf2032,Inmaculada Vallés Ferrero,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:26:09.332618,without_onion,9.53,5
+9,cce8aed7-77ea-4790-86b3-53c1f0ed178d,Baldomero Bueno Carrasco,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:46:20.248569,with_onion,,4
+9,2c419205-8888-47f1-ae95-869a76eec052,Baldomero Julián,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:00:59.189992,vegan,N/A,5
+9,74c1db14-8be8-48b2-9bff-572467e00f45,Cecilio Rubén Olivares Pacheco,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:05:43.567080,classic,N/A,3
+9,ee1c3b5d-d82f-444e-a747-e0978cbf47cf,Ciríaco Izquierdo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:13:55.222137,without_onion,9.02,1
+9,60a64ec6-2b5e-4238-b31d-09d9a14c508b,Emiliana Barberá Rios,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:26:31.303970,with_onion,,4
+9,12f01d2f-29a4-4162-abd4-aa099bb20ad6,Narciso Llorens,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:52:38.919463,classic,5.51,4
+9,0675b989-4ca9-47e6-b75f-d30713b52a99,Rosendo Matías Cuesta Barberá,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:56:34.386854,without_onion,,4
+9,177c76e7-22f8-469b-8c53-369f2d1cf6f8,Anastasio Pineda Coello,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:44:11.052323,with_onion,,5
+9,c2625caa-0bab-4769-a4f9-070a934f570d,Julieta Mercader Pedro,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:00:20.951943,without_onion,7.8,3
+9,a628e252-e5f9-4895-a4ba-1234ecc44d0a,Cristina Blasco Aguilar,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:10:30.034459,with_onion,N/A,4
+9,ceb3aa94-c39f-49fc-b5b7-b6777aaddb1e,Eusebia Flor Rosado,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 09:35:56.880613,classic,N/A,1
+9,6a781d07-47dd-41ca-bc8f-d80723b3e9f3,Javiera Colom Casanova,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:59:52.628813,with_onion,11.08,4
+9,4951c84c-1eb0-41d2-b5ac-6f212f024d6f,Anastasio Sebastián Larrea,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:30:02.112700,with_onion,,1
+9,9b5dd6fa-08be-44bc-8740-2bf4d555ab4b,Victor Manuel Salgado-Pelayo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:38:26.706855,without_onion,,3
+9,ac5baedf-13ee-49ca-b22b-70e2d2b5cf91,Charo Aliaga-Castelló,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:20:30.475042,vegan,N/A,5
+9,4479221b-52dd-4507-bd4f-8556e12fd55b,Tatiana Tomas Vendrell,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:05:25.423673,with_onion,,3
+9,05885d3b-82c0-4712-a361-53a61a0441c0,Julieta Acevedo Castells,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:55:18.053031,with_onion,14.29,3
+9,3147514c-a753-4dd5-ad47-c87d317825f7,Adelina Bilbao-Sanz,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:49:16.974455,without_onion,N/A,4
+9,23713b3d-dae5-41c7-8356-5c13f99e2887,Laura Royo Oliveras,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:58:06.417212,vegan,N/A,5
+9,d265f350-71ea-4dda-b6d6-a1d6542e07b9,Abel Nazaret Barceló Chico,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 09:19:03.037925,vegan,,2
+9,0084c84e-3632-456d-9b1d-1860e041590e,Macario del Tello,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 09:53:48.982681,vegan,,4
+9,f878f31b-0d36-46cb-a0ea-784c73a370d5,Ricardo Murillo Marín,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:41:28.099275,vegan,,1
+9,3652aa69-4581-4b1e-b6da-33423c511963,Nicolás Cornejo Orozco,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:59:01.085837,vegan,N/A,1
+9,e355739d-1f92-423a-8254-2dcdbc7aaa45,Viviana Redondo Diéguez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:50:41.242280,vegan,N/A,1
+9,5f108fae-1c6c-4441-ad1f-c974067d2281,Nicodemo Carlos Benitez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:40:11.092871,vegan,12.68,5
+9,4967e8b4-bde7-4fd7-b4bd-36a1179799d8,Paulina Plana Iglesia,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:18:21.134830,vegan,11.08,1
+9,f2c72e96-ec1f-49b8-bf8d-13f41b56bc41,Asdrubal Ribas-Prada,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:58:50.083958,with_onion,14.69,5
+9,5c9bc8e1-01de-48a5-9e0d-b3d53ad6f41b,Aurora Alsina Arranz,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:45:34.402632,classic,6.6,5
+9,928c8226-55ce-4277-b552-885e551be2e8,Manuela Páez Parra,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:53:32.293741,vegan,8.64,4
+9,4cfa5eb3-aaf2-4013-b456-a060991266c9,Primitiva Franco Cañas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:08:36.533581,classic,N/A,4
+9,40c0d949-200f-4911-aed6-d322a6f800b1,Goyo Robles Zorrilla,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:50:04.345381,with_onion,,4
+9,3487f7b0-369d-44a3-bb9d-1e3cf9de7c82,Ainara Mateos-Pinedo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:26:52.148331,with_onion,6.09,4
+9,f1c045cb-b77b-4262-a956-b4fb800a899d,Carmelita Jimenez Paredes,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:03:45.274815,classic,N/A,4
+9,e83f5f31-b625-4f75-9a89-8fbea2b453ac,Dalila Frías Carmona,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:47:49.631610,classic,6.83,5
+9,eec050c6-8955-4d36-bb73-e411a7e9e6fa,Yolanda Gálvez Cobo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 09:45:54.181750,vegan,N/A,5
+9,177a6b7f-3806-4e08-a18c-6a9ee89b65b6,Nazaret Navas-Mosquera,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:21:53.486555,vegan,,1
+9,46f8b08e-7232-48f2-9183-bb1b335ad79a,Fermín Iborra Arana,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:55:00.642626,classic,10.51,1
+9,34ad2158-dcb9-4795-8343-3fd2ff966d84,Adela Navarrete,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:51:51.985599,vegan,N/A,5
+9,7e68c9c1-4c37-423f-a2c7-a26a21f5fc5f,María Fernanda Roca Ureña,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:50:19.698795,vegan,N/A,1
+9,6847c525-b170-4269-b2ae-bcc6d9af7479,Mauricio Oliveras-Acero,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 05:24:06.960863,without_onion,,5
+9,a1346f64-c93b-40ca-999b-c6c1e919946c,Jordi Montenegro Gras,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:07:54.613358,classic,6.55,1
+9,e095a37e-1fb6-43d7-b51c-715f077875e9,Atilio Verdugo Godoy,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:52:10.382321,classic,,5
+9,d537029a-0aec-4ab0-abbd-ad1819f38161,Amancio Gaya,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:31:59.193984,vegan,,1
+9,9d4a588f-adca-4ee4-abe1-2a924c34b693,Prudencio Baquero Chaparro,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:09:44.793410,vegan,N/A,4
+9,f6e69b95-4842-47d5-af6a-1f71d5682bb7,Berto Castejón Pardo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:04:23.196201,classic,8.32,4
+9,84bb1592-915f-406b-b75d-50f8a1d85d72,Gema Ramirez Talavera,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 05:05:31.168514,vegan,8.82,2
+9,669d8933-1413-42ed-8665-b87e5cfd31f8,Apolinar Gallego Barroso,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:42:06.470210,without_onion,10.31,5
+9,5e5a5d70-1371-4323-9743-fe4f9da3e483,Rafael Azcona Montes,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:21:52.818270,with_onion,,4
+9,c1527d8b-fc37-45e5-8736-7a2c706c51ed,Adán de Belmonte,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:49:45.661055,vegan,7.36,1
+9,fbcdc3f4-18cc-44ca-bb6b-5c1d492e623f,Íngrid Peralta Salcedo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 05:47:08.828878,vegan,8.39,4
+9,e1040c88-1bbd-49fd-b4df-abbc2cbf9dee,Toño Graciano Corbacho Solé,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:27:18.725681,with_onion,N/A,4
+9,97b2cd13-5ad4-439c-b431-d0cee7b50900,Florentina Isa Garzón Guerra,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:50:08.346772,without_onion,6.81,4
+9,5cea1c38-281c-41c7-abeb-c24a9ab74d6d,Perla Ale Vázquez Cerezo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:35:38.802988,with_onion,N/A,3
+9,03346bd3-26aa-4fc3-b38f-a7a3f1587101,Amanda Naranjo Serra,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:30:10.060688,vegan,,4
+9,e9bdff1b-442d-47d8-89b4-44c69dc1bb5e,Teodosio Ruiz Lorenzo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:12:53.839618,classic,,5
+9,e369b346-fb43-4b67-8e32-bbfb21aa1d6b,Encarnita Aranda,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:58:20.930339,classic,,1
+9,69ae2226-d4eb-4008-9ac9-973cb94985dc,Griselda Valls Muñoz,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:51:28.730783,classic,N/A,1
+9,bc620084-7033-4fe3-8550-a48ba5bb4a69,Cristian Esparza Pizarro,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:44:48.145617,without_onion,N/A,2
+9,6a5550bf-3908-4b76-8743-fbc5336caf59,Maximiano Novoa Torrens,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:13:19.235040,classic,,3
+9,3315c8e3-64af-49cc-b49f-e94fa7822637,Javiera Carolina Ochoa Giménez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:13:00.446792,vegan,,5
+9,872d2cc0-3127-4ff6-bb6e-eee9b26715e6,Marcela Seguí-Rebollo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:51:51.001004,with_onion,N/A,2
+9,5f55d172-14c9-4bee-acfa-c57bc2f3e6cc,Jesusa Leal Jódar,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:49:12.379749,vegan,N/A,1
+9,7dc08328-7557-4d4e-8851-13b02f23bb9c,Segismundo Rozas Ferrera,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:19:09.670044,without_onion,,5
+9,423e3836-8d14-4974-b14d-f33bfe35c1a3,María Dolores del Mínguez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:57:40.760050,classic,N/A,2
+9,65b1af47-ca7e-4fae-a831-9eb1aee2b453,Haroldo Jover,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:38:37.525108,without_onion,13.65,3
+9,6c935608-ebbf-41aa-8d6a-a9c68ad73e6a,Itziar Mendizábal-Antón,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:17:13.056592,classic,N/A,2
+9,2da15b6d-8666-4cbc-abe3-4095582b438c,Elba Bayón Álvaro,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:34:37.228515,with_onion,,1
+9,414ae7d7-7da1-40d5-9350-8c8c813f42da,Leonardo Almazán-Gras,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:29:49.094147,without_onion,,1
+9,02e51b12-67a6-4c78-9216-2b785fd21f83,Carmen Ávila Nogueira,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 09:28:14.363875,classic,N/A,5
+9,fa1e8125-b2d4-4e44-b2fb-26528ddedb5e,Quirino Juan,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:48:15.636840,with_onion,,1
+9,be878239-e401-4ba3-ab5d-4ba27ebd4a1d,Dionisio Larrañaga Vilalta,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:27:35.312482,without_onion,,1
+9,b3a03c8f-69a6-49cb-9160-2b7ac392d77b,Marisol Sobrino Caballero,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:03:46.738045,vegan,N/A,3
+9,0b16839c-f493-47ba-80ad-b8f906e5eb0d,Pascual Doménech-Valcárcel,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:20:20.430074,without_onion,,5
+9,8e472f13-64d7-4cdf-804c-77a5f975ce9e,Begoña Alcántara Canales,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:58:55.020921,classic,N/A,3
+9,14c38e93-e6ff-4198-b702-777dbe71bbe7,Chus Fuentes Calzada,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:07:25.976465,without_onion,,5
+9,a474af06-09be-4575-8c5b-83281519cd22,Octavia Simó Gimenez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:19:25.140958,vegan,10.55,1
+9,ec6301fd-5b35-4b63-a54e-1a2f8bf74127,Eva Blanes Asenjo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:48:28.199397,classic,N/A,4
+9,09f5d00b-43a4-43be-895d-32c29ee44ad8,Alondra Ariza Beltrán,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:19:42.658101,without_onion,N/A,5
+9,4f525d29-4be8-45a4-8477-f0e08d6c3d37,Baldomero Cifuentes Higueras,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:42:30.904613,without_onion,,1
+9,d492ec79-265b-43e7-922d-a8e1ae69f447,Octavia Jódar Mendoza,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 05:28:30.975817,classic,,1
+9,d04b0763-c468-49bc-a787-d9d0feaecd41,Asunción Mayoral Palomar,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:15:16.832159,classic,14.47,1
+9,17ed8e6c-95d4-4c7e-b775-f1fcce2a3b59,Calixto Cañellas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:33:28.943097,without_onion,N/A,4
+9,9cc0e948-a6cf-44fe-bd9d-155be54985fb,Eusebio Fabricio Goñi Pombo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:31:57.886506,vegan,5.66,1
+9,d31664bf-ac8b-4e31-97bb-77add5c08715,Jose Luis Cándido Capdevila Duque,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:39:01.161037,classic,N/A,5
+9,80596c44-a166-473e-8720-2436521a8972,Evaristo Santana Haro,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:30:09.168856,classic,N/A,4
+9,db222fc2-f58f-4bb1-8e3a-6a2e7666f7ae,Leonor Maza,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:04:02.105554,with_onion,N/A,5
+9,c3dcebb2-4dc3-4329-80ce-49be15e18847,Etelvina Sevillano,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:16:07.854432,vegan,N/A,1
+9,798a4e20-1fef-4bda-ad81-074b558bd810,Jose Carlos Cárdenas Amat,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:49:12.249261,without_onion,N/A,5
+9,574e5f2d-5ecf-4d60-a925-e27aa5bb022e,Ignacia Castilla Cabo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:00:35.507532,with_onion,7.71,1
+9,200aec1f-8e2c-40e8-a6c6-d63152399f0a,Aránzazu Francisco Clemente,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:38:42.020532,with_onion,N/A,5
+9,fdfded34-e325-4266-a73c-567d13cf1159,Blanca de Company,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:16:19.036613,vegan,6.56,3
+9,84e7bd7f-5d2d-47a0-bf44-634e65a65b1c,Encarnita Alcántara Barco,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:04:01.598782,classic,,2
+9,39e84f0b-8270-4e85-af4c-8afb143714be,Martin Roca-Asensio,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:18:46.394847,without_onion,N/A,3
+9,ab5559d8-ce08-432b-9389-42e53bb8e17b,María Dolores Olmo-Casares,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:18:01.168241,vegan,N/A,5
+9,b48dc427-c15c-404d-b421-0aac80c2d968,Fabiana Montaña Llobet,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:43:25.534257,without_onion,,2
+9,432850a1-212e-4585-bac6-97af18f0316d,Vasco Taboada Cerezo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:22:28.685331,without_onion,N/A,3
+9,c64b04f4-fca8-4496-8a0f-b35b98390cf4,Carlito Juan Francisco Tirado Comas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:49:30.984635,with_onion,,2
+9,513ab046-62bd-4e08-88e2-19f64ab04393,Melania Castells Perera,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:21:42.154796,classic,9.06,1
+9,a37de62d-3c61-4d22-9686-2eca2d9f221a,Juan Bautista Espinosa-Rosell,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 05:41:57.201481,vegan,7.62,3
+9,378349ab-97f1-4802-b8c0-492ababff9b6,Cecilio Llorente Español,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:24:57.735815,classic,,5
+9,7918fb4a-a6a6-4e9a-bf08-07326522be82,Santos Bejarano Milla,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 09:32:41.790830,classic,7.51,3
+9,e085a7a9-1ffc-4eb3-950a-d24f4c4df1eb,Jacobo José Bustamante Ayuso,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:26:08.671427,with_onion,13.33,4
+9,2ef91c07-d38c-48d2-b9ba-b1c03a80d642,Sebastian Cuadrado,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:44:46.982176,with_onion,N/A,5
+9,20d8b905-fce8-478b-9b45-ceebb9ba9e30,Zoraida Guzman Piñol,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:34:20.044146,vegan,,4
+9,7d45fd74-b1d4-4bd3-8c14-102006cdea73,Teresita Millán Báez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:12:46.425573,with_onion,13.93,2
+9,6a7ec7b4-370e-48e4-8c56-19b57a87e3ac,Leonardo del Solé,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:06:18.878583,with_onion,,1
+9,4e41461c-9619-48f4-8ab4-f9e3b8c42b9a,Nayara Almeida-Alegre,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 09:34:43.286637,without_onion,,3
+9,ca8575f1-dd83-4c26-8fc0-29c6aca309f4,Lourdes de Nicolau,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:08:48.992833,classic,N/A,5
+9,c0427f2d-35ea-4662-9c10-35708c56378b,Adora Lledó Tapia,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:54:55.788984,classic,14.02,5
+9,6afa955c-94e5-487c-bc4f-488e3fde3f4f,Leonor Somoza Reyes,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:49:30.193919,without_onion,5.82,1
+9,fbc7d02e-4d05-472c-aa5b-48e033129e83,Lola Vicente Morera,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:32:38.116018,with_onion,N/A,5
+9,e67f533c-3ab1-4950-badb-a4c766d1673d,Mercedes Gargallo Sans,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:50:51.843141,classic,11.36,5
+9,e870491b-a6fb-4020-97aa-527f92d944cd,Reynaldo Ayala-Méndez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:17:44.063783,with_onion,,5
+9,8d89731e-8f78-4964-811e-36eeb2f94f55,Enrique Ariño Miguel,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:47:54.598041,with_onion,N/A,4
+9,144ca575-3d5f-4108-97dd-2d5f73717ac8,Rosario Carmela Ariza Artigas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:04:55.648984,with_onion,,3
+9,3294e3b1-d8f3-4386-8a56-325b3d021f36,Nereida Asensio Chico,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:45:40.294008,classic,7.15,3
+9,718009e6-31a3-4371-b44e-ff28fe1f6858,Teo Boix Tomas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:35:29.009239,with_onion,,3
+9,4cf048d0-4a80-4f38-8788-5bf56c529b71,Jenaro Arturo Revilla Ledesma,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:02:11.000798,with_onion,7.62,5
+9,4ceb6182-a83e-4811-9ec3-62b9eb54f71a,Itziar Múñiz Saez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:08:02.937208,vegan,,4
+9,81aa0d61-beab-4117-b98d-1ddc5924ac5e,Rafaela Ferrández Gutierrez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:00:53.886119,with_onion,N/A,2
+9,d1452a36-3f8e-46d0-94d9-83fe6d830153,Fidela de Carrera,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:19:26.411615,vegan,5.15,3
+9,d5dc45f2-2686-41f6-9e7b-b0e4d712770d,Dionisio Arévalo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:53:08.115561,classic,N/A,3
+9,02ac0464-4a85-4966-8e7e-13f08f24b454,Angelita Cortés Ibarra,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:38:22.513952,without_onion,,2
+9,7fe5af18-432e-4f22-bec1-536aba8abc44,Natanael Villalba Menéndez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:41:12.067741,with_onion,,3
+9,6b6bc719-3920-4db1-a95d-87216aebb025,Guiomar Cortés Talavera,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:37:08.157420,with_onion,,3
+9,0e10de5a-b0df-41b6-a33b-d9243688afa6,Eliana Baró Jáuregui,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:40:09.161894,classic,14.93,1
+9,f91042cd-6e49-46ce-8617-d5a84478d90f,Lupita Etelvina Taboada Castillo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:59:29.731340,without_onion,,3
+9,24951563-1620-4bff-84c3-130cfbbda57d,Lourdes Ribera Perelló,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:47:58.264447,with_onion,N/A,4
+9,4e554ddf-8b33-4049-9a9a-81e7b1ef349e,Chus Serrano Corbacho,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:11:14.852906,without_onion,N/A,2
+9,cc283f09-05ea-44af-8d0e-bd6cdf8c521d,Máximo Serrano Manuel,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:51:27.819828,without_onion,N/A,2
+9,2b72d632-e3c8-439d-bb73-aa34aa7efb82,Felix Cantón Chaparro,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:46:44.249968,without_onion,11.57,4
+9,ec646a0e-7e82-4a3e-bf5d-545fd715343b,Ani Obdulia Novoa Esteve,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:02:33.921818,classic,,2
+9,702eb713-2b08-4d14-931a-7e2b39f8e495,Jose Méndez Valencia,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:05:42.822601,without_onion,N/A,4
+9,8ce91f40-292f-499a-8bdb-331395495de7,Genoveva Lamas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:40:58.779858,with_onion,10.28,4
+9,00d4af17-4aeb-4a95-832d-7875cc019f98,Nereida Gaya Dalmau,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:20:41.941746,classic,14.03,5
+9,743b8181-83bc-4de9-940f-d574fe96aab4,Reyna Hierro Durán,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:07:59.658566,without_onion,N/A,3
+9,fcf6712f-59e7-4fdd-8c4f-8cbeefcda279,Mireia Vicente-Reyes,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 09:53:54.092073,without_onion,,1
+9,754017a0-0f34-40dd-a7c7-0be1ada5c023,Aura Almagro Barceló,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:38:32.191112,with_onion,14.25,5
+9,acf1650d-8218-4c9d-94b3-c4a24eb706e3,Zaira Amat-Cervantes,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:48:41.976766,vegan,N/A,4
+9,a90cb4e0-30db-464e-9102-82c506951f39,Febe Bello Armas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:11:09.851668,classic,14.5,5
+9,0fbd2c00-5098-402c-bbc8-ddd07715c1b9,Vicente Paz-Pallarès,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:33:28.519931,with_onion,,1
+9,9aab401d-43a4-46e2-b529-475f87545218,Marcio Conesa Corbacho,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:02:59.356608,with_onion,N/A,5
+9,66ac0127-59ab-420b-ab6c-93d2744db62f,Ana Belén Rosalina Jaén Vázquez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:22:52.093344,with_onion,,4
+9,8e48e42d-ca39-4e58-8302-82ec7bf5947b,Morena Nicolau Valcárcel,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:29:29.092988,vegan,14.3,2
+9,bf576b67-90ca-4f44-8f16-0c3c552971d7,Fabiola Mulet Martorell,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:15:47.323272,classic,14.57,3
+9,cb296ba0-91d6-49f3-ba9c-bd77cdb3ef73,Renato Escamilla Vendrell,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:29:51.665928,with_onion,N/A,4
+9,eaf4c372-1016-4297-94a9-1165b694c001,Espiridión Villena Antúnez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:45:09.049520,classic,N/A,3
+9,48f10bda-89a1-4d60-bd3c-6a67cb72b740,Román Gilabert Hernando,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:31:24.728230,classic,N/A,3
+9,396e1b0c-11b9-4a6b-a900-1c3828c5b5e4,Ximena Puga Coello,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:03:24.575971,vegan,N/A,5
+9,dc53fa8b-995b-4571-879f-18090a63015e,Nayara Losada Borrego,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:06:22.333024,with_onion,10.5,1
+9,f1fd5050-d82a-47c7-b957-a2c41d3996d3,Eduardo Torrens Hidalgo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:59:49.166729,vegan,N/A,1
+9,8ae75d9f-8f2b-4ea6-a1c2-67c9d7cfb13a,Ramón Pino Goñi,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:08:12.452659,classic,N/A,5
+9,45460cc7-94c7-4b7e-a9c3-500de31fbffd,Salomé Castells Alberdi,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:59:05.470840,classic,8.68,1
+9,06767561-313b-4e5a-886f-706ff6b34447,Aroa Suarez Amor,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:27:01.841641,vegan,10.01,2
+9,65e559e8-12d7-44af-96ab-b285dbf5b473,Olimpia Calleja,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:44:03.937218,without_onion,N/A,2
+9,f7e36211-8a33-4cd5-8d45-a2876b3a5fde,Teodoro Gálvez Carretero,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:28:27.548659,with_onion,5.74,1
+9,d9f14cfe-4b10-4ecd-8d74-efa08983bf09,Tomasa Elías Sosa,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:50:32.799383,vegan,7.07,1
+9,e96ca2d1-accf-4c09-92f4-d8215a18aea6,Luis Durán Almazán,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:19:37.127200,with_onion,N/A,1
+9,82051db7-f77c-410a-aa36-495cf306cc92,Vasco Grande Morell,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:08:46.740311,without_onion,N/A,1
+9,ccac64af-d926-4596-9e82-c0639e4543e4,Domingo del Garzón,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:55:52.033477,classic,,1
+9,ed37774b-739f-42cc-bf6f-98163c56052e,Francisca Pacífica Merino Gisbert,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:47:33.408272,without_onion,,4
+9,7eda050a-61d4-46b6-82cd-ae4a67ee2477,Vicente Almazán,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:11:04.954152,without_onion,N/A,3
+9,69e639be-1f4b-4a86-a4c8-e8f2868b7553,Hilario Merino Marí,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:14:25.643436,with_onion,,2
+9,9f831a62-7840-4c82-b37c-954167c8d379,Bibiana Mate Pelayo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:35:38.675071,vegan,,4
+9,5b142e64-2d7e-4a98-90f9-0f47ce36e130,Ezequiel Torrijos Salcedo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:55:17.905019,classic,9.53,3
+9,edd64fc5-f3f2-4824-b828-d7c110df615e,Eusebia Donaire-Tolosa,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:07:06.084574,without_onion,9.33,5
+9,cfccee0a-061f-4717-9b37-9b02ae6f2697,Lino de Huerta,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:45:03.854778,without_onion,,4
+9,05808c12-8ed9-4df2-98d0-aed29efea737,Amelia Vicente Alvarado,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:58:08.635650,without_onion,,1
+9,7bf30850-9b9f-44a7-a1fb-d09f5f730e8b,Eusebia Ramirez Gracia,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:54:35.686692,classic,10.4,3
+9,62197f22-4ed5-43b3-ac29-7ec64c2edc52,Nydia Acosta Vallés,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:00:17.761405,without_onion,14.04,4
+9,522325e9-542c-41b9-957e-5df203227bac,Yésica del Andres,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:19:00.638035,with_onion,N/A,4
+9,5b8879e6-ad15-42f4-8281-cbff84df8cb4,Ciriaco Novoa Lucena,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:24:26.381712,vegan,11.15,5
+9,a73431dc-4187-4b10-9c8d-8f2775392e37,Manolo Salvà Linares,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:22:53.700129,classic,,2
+9,ce9c16ca-3a8c-4603-a6eb-a6b2a9db2c30,Morena Malo-Alberdi,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:21:35.657416,with_onion,N/A,3
+9,b7fb6485-6942-47c8-b6b3-a9cbed6bbd90,Nicanor Lucas Cortés,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:22:28.429204,classic,,1
+9,1f75138d-9d16-49c1-9b50-8b3aeaad7d91,Trini Manuela Lorenzo Simó,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:50:14.523797,vegan,,3
+9,a4d2772d-0c62-4937-b230-0793daba1b75,Georgina Abella Sevilla,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:52:45.005331,vegan,6.08,5
+9,1b648079-af64-419a-af78-700a3b02e25b,Estrella Osuna,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:53:04.714720,vegan,N/A,3
+9,0188e9f4-f254-47ba-877a-800e6e36ad89,Vito de Domingo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:43:13.463511,without_onion,,2
+9,c31b9dd6-62bd-4b92-9d25-b70ac417bfa9,Anabel Gálvez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:54:28.411215,with_onion,13.21,5
+9,3bcbac84-dff3-4d82-b72c-b8e35b5cf079,Lino Pardo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:30:26.321542,classic,,4
+9,1ee7a8b6-d70d-4dfd-96d8-ef489d8774ba,Abilio de Cañellas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:44:18.971141,vegan,9.48,4
+9,3e800a76-25c4-458b-8903-3ac610c73f05,Fausto Pastor Cazorla Aramburu,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:24:33.108348,classic,5.49,1
+9,b5220fb2-d4e6-4f5c-b56d-9d2e42f879eb,Silvio Álvarez Linares,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:56:38.038426,classic,8.79,5
+9,559f57e4-5ac7-4699-a2d4-d919bd3ef7ea,Inocencio Bautista Maestre,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:26:06.558808,vegan,N/A,3
+9,e6fd6bc7-a0e2-4f2f-8759-e199787a399b,Lope Canet Barceló,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:42:53.359353,without_onion,N/A,4
+9,0557e6f0-0619-4f11-854f-795681f4e369,Francisca Frías,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:07:58.511243,without_onion,,4
+9,70ba7002-b3b3-4308-a749-cf7b1d06c1fa,Eligia Somoza Bellido,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:49:06.460949,classic,,5
+9,610743f7-4004-4dec-82d6-7e2566e4b99a,Matías Barrena Campo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:07:43.841407,without_onion,N/A,5
+9,6a1f6a7c-2a0a-4c57-acb8-b800312350ee,Cecilio Evaristo Agustín Manjón,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:57:30.395330,with_onion,8.47,4
+9,ecaa0c0d-2b35-4095-a9d6-23c3a508b619,Azucena Octavia Donaire Alberto,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 05:53:52.621800,vegan,,5
+9,6c0f7021-7423-4331-af85-13090c9421f2,Berto del Figuerola,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:24:33.983811,with_onion,N/A,3
+9,35f9202e-f69d-422c-9772-32f548a9c13d,Luciano Álvaro Silva,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:59:49.291024,vegan,11.75,1
+9,8dc6be6c-439a-414d-8f12-ce344c19c7a5,Tiburcio del Barroso,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:52:10.144520,with_onion,14.83,2
+9,c9af4825-fa44-455a-a87e-c06904f242b3,Armando Bermudez Gomez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:55:56.533429,classic,13.77,2
+9,f725996f-c4a7-4f77-a39e-9f32ed6a3dfc,Jose Luis Sánchez Peral,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:41:06.154773,with_onion,12.9,5
+9,2f8a0bec-7aa4-4a26-969e-6ff863fac4aa,Luis Martinez Morell,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:47:13.953215,with_onion,N/A,1
+9,3aa51b91-b5a4-4a18-b0b2-00646f6d0a7f,Amor Morán Aguilar,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:34:34.573834,with_onion,N/A,5
+9,b9d44410-b009-4bdd-81c5-8922d0046be1,Emiliana Tejera Folch,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:09:48.784201,with_onion,13.5,3
+9,22ca9fe8-18cb-4054-b72a-854ba1ac94fc,Rufino Cal-Manzano,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:25:56.578380,with_onion,12.0,3
+9,182c0ed6-c403-48fc-bff0-da2cffa4358f,Azahar Paredes Sancho,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:49:30.533857,without_onion,,1
+9,7d60f677-4a89-4c1f-b5da-19a7801d0a24,Ariel Boada Gibert,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:12:00.902675,classic,N/A,5
+9,1357eb96-68a8-4bd1-99a9-0ef679460650,Olga Cuervo Estevez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:31:28.302878,classic,,5
+9,526ce66c-314c-4724-afeb-b148a2cfc97a,Ibán Geraldo Porras Pinilla,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 09:43:36.330780,without_onion,,2
+9,569a6e22-b460-4216-bcec-e3daab41fd69,Plácido de Gomila,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:22:10.906983,vegan,,4
+9,4f8ebbf2-0a45-4bb5-91af-d05e5fe71bd4,Manolo Saura Marín,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:41:13.929140,without_onion,,3
+9,5ac35989-b599-44d8-8752-f65753add6f5,Moreno Montero-Cuadrado,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:31:01.902854,without_onion,N/A,2
+9,91ef4a79-9d7a-4b11-82ba-51de13cd1734,Milagros Ibáñez Garriga,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:37:13.367006,classic,N/A,1
+9,7421daed-3b47-4dcf-adad-09ff3199a105,Remigio Torrent Heredia,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:23:50.210818,classic,,3
+9,c55115b9-71a9-451f-9623-4b45c78f051f,Wálter Zamorano Abad,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:01:11.814976,vegan,N/A,1
+9,11bd67a3-3ddc-4bfb-ad7c-622f717ede26,Amando Marqués Andrade,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:25:24.111854,classic,7.39,4
+9,ccd3fcdb-1a51-49a8-ac9d-f1e9af813eef,Edgardo Céspedes,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:19:03.506446,without_onion,N/A,3
+9,62e33066-a96e-4118-a896-f16ba445e34d,Patricio Dalmau Reyes,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:47:34.214891,without_onion,N/A,2
+9,6d3c0719-6883-4bab-b6fe-9c75b0dc0013,Roberto Lloret Pacheco,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:12:05.977196,classic,,5
+9,c5afd492-7ace-47d4-8f52-00c3b901a13b,Lucas de Chico,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:19:01.446875,classic,,3
+9,37497e91-19dc-4a45-b557-2de43c46953f,América Morell,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:55:43.101052,classic,,3
+9,d565ecf4-7e5a-4af3-8cb0-45e79caa1d0f,Paca Yéssica Porcel Amorós,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:24:10.145715,classic,N/A,5
+9,9b03f910-4052-426c-b7a7-1cc552111deb,Silvia Fábregas Naranjo,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:10:21.267857,classic,12.78,1
+9,1b1607d3-f237-427e-9554-09e2e316d13b,Eliana Belda Menéndez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:18:35.881019,vegan,,4
+9,73d7a0eb-05d7-4759-a144-390afe8c23f0,Reyes Fuentes Osuna,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:18:13.477363,without_onion,,1
+9,67aadf38-90c4-41fb-bb3f-ad83f7d637c6,Evita Quesada Cañellas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:30:35.724009,vegan,N/A,4
+9,63dc1df9-e992-47a5-a271-ef643349ccda,Sebastián Ayala Bernal,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:30:38.697862,without_onion,,4
+9,d7bec8b3-5201-4c97-ad4c-369233f7dfaf,María Cristina Sebastián Zabala,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:49:08.383680,with_onion,N/A,2
+9,87ab9595-55d8-48db-a983-c8c222b8f859,Carlota Garcia,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 19:14:10.273713,vegan,N/A,5
+9,fc01737b-f2bd-4a4f-9acc-c10b7ffd5607,Celia Elías Huguet,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:36:28.537798,with_onion,8.68,3
+9,9eac1cf9-18d0-447c-a21b-3b4b9da19989,Pedro Mendoza-Bejarano,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:37:16.466557,without_onion,7.95,5
+9,69569329-3e14-43f8-abb7-22c7d3ac7bca,Gastón Iborra Ribera,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:21:49.925600,with_onion,N/A,5
+9,5f859523-ba25-4ec7-84a1-8823a9c2e02f,Heraclio Marco Cases Garrido,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:36:58.445783,classic,14.02,5
+9,bf932ff9-f708-4a4d-b9b6-0482283a268f,Jessica del Herranz,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:56:46.861735,classic,N/A,1
+9,c81a1359-1fce-46e3-ba5a-79ffb98ca541,Paulina Roda Miranda,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:13:24.794561,vegan,N/A,5
+9,7c534cad-57f8-4124-9fff-8abf39d02d98,Ruben Carmelo Leon Báez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:30:27.859172,vegan,13.28,3
+9,0e386aff-d3f1-4618-903b-e426398cb41c,Salud Folch,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:08:41.956959,vegan,12.18,3
+9,d5a3959b-4656-427a-8504-dc5429535b6a,Leopoldo Abellán Zamora,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 04:43:08.233701,classic,,1
+9,ce72d7d8-650e-4d65-a2d4-fe2220a9b0ab,Isabel Escalona Chacón,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:02:56.739331,classic,N/A,3
+9,4ce52ee0-e4d5-4553-8c1f-13e308835981,Jorge Busquets,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:24:13.436156,with_onion,14.32,5
+9,5cfd707a-fbd4-467d-9136-909eb7987ef2,Trinidad Torre Huertas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:42:02.861674,vegan,,1
+9,5de2b97b-5246-42df-8184-ae4609ff9f81,Marita Escolano Cruz,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:21:22.836873,vegan,5.23,4
+9,fc708cd3-1c06-4cea-87d0-20655c9f9052,Teresita Egea Expósito,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 20:31:22.541285,without_onion,6.56,5
+9,96320052-7595-4329-a383-6053337b5553,Nicanor Rosado Tello,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:26:13.224054,vegan,,1
+9,ac3b87eb-aea6-4630-a08b-a5ac125959c5,Aurelio Lastra-Noriega,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 05:03:52.314973,classic,13.41,5
+9,66f49f29-ed0e-4407-879f-dcdc307ccc29,Clara Armida Alvarado Prieto,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 07:16:40.716720,with_onion,,3
+9,5c0b1682-9db4-479d-8e5a-d1858044f82d,Saturnino de Marquez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 15:05:34.283642,without_onion,N/A,5
+9,683fcaab-37cb-486a-8f40-37a483407eca,Natividad Brígida Cazorla Casanovas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:50:15.998341,without_onion,N/A,3
+9,e7d70a97-38dc-44c5-9d50-ae7fb5ad4f32,Artemio Jara Morales,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 14:07:37.150011,vegan,N/A,2
+9,d718739c-3817-4798-a2ee-972f2b2ae9dd,Bernardo del Guillén,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:45:56.005372,without_onion,,5
+9,6d632e9b-c40e-4aa7-b924-d4269138bee7,Santos Gallego Alcolea,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 23:48:00.817527,classic,N/A,2
+9,4b94615e-7903-49f7-91dc-88e7bc53036c,Sebastian Lladó Noriega,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:01:05.420188,classic,,3
+9,8d941d20-bdda-4bdc-b79d-95c03e466a70,Sandra Samper Aranda,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:23:47.313099,without_onion,13.34,4
+9,3c117c40-f578-47d6-aae8-30b286c04489,Aurora Marti Alegre,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:56:12.847217,vegan,11.22,5
+9,409530b4-c919-483b-a3cd-569db9832375,Severo Sedano Arco,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 11:56:02.326641,with_onion,12.2,2
+9,9c6ffbd2-1dba-4bed-99af-925587174944,Rubén Cervantes Font,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 08:44:49.251805,with_onion,,5
+9,8f116adc-139f-4fb1-a4d8-cc76323b4e05,Remigio Calderón Duque,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 16:22:52.201890,vegan,11.35,1
+9,514fbb30-0ced-4043-a717-73772cc5b2ff,Rosalía Rico Báez,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:16:23.673355,without_onion,N/A,2
+9,a2c80062-e97c-4902-8aa9-3bd65ccb3225,Leandra Pascuala Gimeno Iglesia,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:20:17.280829,vegan,9.26,5
+9,1dae1263-bef5-4640-9862-47e3b41e3cc2,Bautista Nogués-Ariza,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:19:03.843222,vegan,8.63,1
+9,6c78af14-7ef9-4ad1-bd5b-ba3cd9309892,Cleto Mariano Torrent Pedrero,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 17:06:46.400339,classic,N/A,1
+9,a1fd6242-07af-42a3-a603-9cc2ab98cd8e,Abilio Leonardo Barón Palomares,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:30:14.632625,with_onion,,1
+9,43e26d1e-95ed-463b-826d-6d0097c34fb6,Úrsula Galán,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 10:18:55.987679,classic,,2
+9,c3df9827-c80b-44f6-95c1-cdb3d5c58709,Jordana Juliá Robles,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 18:05:53.904420,with_onion,N/A,5
+9,2b6f1bdf-966b-49af-a28e-420173de83a4,Selena Pozo Pinto,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:40:19.456084,vegan,,2
+9,20aae3ac-3dcd-4cc8-8ded-d1c554644270,Lina Cuervo Mendizábal,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 01:52:25.932784,vegan,,2
+9,6790d4ee-9139-4daa-8523-04138ad79d0c,Elvira Íngrid Reguera Tello,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 00:04:46.893903,vegan,N/A,3
+9,716a28e8-8a40-479b-8092-d1f1183cdf4b,Tania Mas Belda,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 06:32:37.418089,classic,5.33,5
+9,5ff35c1e-47a5-4eea-916e-c32de330918f,Adrián Conde Hernández,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:14:35.318350,without_onion,9.38,4
+9,6df93cc2-516a-45c3-a3a4-bda3561a125f,Almudena Barragán Leon,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 13:10:29.836102,classic,,2
+9,f7f62624-e4d3-4ad5-8c83-dbd25fe324bb,Ester de Abad,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 21:21:59.734244,classic,N/A,1
+9,38076a7d-117f-47db-961f-88b961205135,Adelia Cárdenas,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 12:26:14.596848,vegan,9.66,4
+9,bb8a91bf-22d7-48e5-b826-f3ada14b3d5e,José María Macías,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 05:30:19.998602,vegan,6.6,4
+9,32faa0ec-9930-4d20-bbf2-425cce4315d3,Baldomero Llano Coloma,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 03:58:42.774091,without_onion,N/A,1
+9,688eaa61-ff58-40ce-99bd-239d5eece260,Esther Borrell-Mateos,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 02:25:32.190250,without_onion,,1
+9,5f567509-2e6a-4392-8ce2-8afd28233b54,Asunción Folch,Málaga,"Cañada de Nilo Cobos 71, Murcia, 13467",2026-05-01 22:56:47.648036,without_onion,,1

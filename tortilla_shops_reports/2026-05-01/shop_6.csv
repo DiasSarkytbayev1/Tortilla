@@ -1,0 +1,279 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+6,290e3b49-32ec-4c9e-89e7-07b142708beb,Lina Sosa Adán,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:32:54.896353,classic,N/A,2
+6,c051f223-70c2-4a57-a0b6-12915013f3dd,Natalia Villalonga-Rebollo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:53:29.369115,vegan,,1
+6,96530fb8-60f7-4ac0-9f28-1f0e7894c7b6,Irene Lucas Vidal,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 14:39:52.522379,classic,,1
+6,5bfce49f-7182-4b3d-b8cf-be2813d6dfda,Pascual Caro Coca,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 14:03:13.422603,without_onion,7.79,4
+6,fce2a319-3433-4c24-b137-39a91317b344,Domingo Esparza Estevez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:33:55.081087,with_onion,N/A,4
+6,717baee2-ba48-4b38-8cb9-c9a92c674473,Corona de Almansa,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:52:44.741916,classic,,2
+6,362c0baf-38e3-423b-87e3-c3e30c5f431f,Lara del Gonzalo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:27:46.378565,classic,10.9,5
+6,123865e8-0cff-40ad-b300-aff3d36f1177,Samanta Díez Huerta,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:02:18.648332,without_onion,N/A,5
+6,cd242824-3400-4078-974c-370257b11384,Tecla Goñi Cañas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:56:45.975584,with_onion,10.12,5
+6,b08d4a8f-6678-4f93-8df7-69c4bd4158ec,Ovidio Arias Poza,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 15:23:12.533920,without_onion,13.62,3
+6,d63ce94e-e92c-4adb-8cf7-a3a765cc7fee,Miguel Azcona,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:42:21.508233,without_onion,,1
+6,9ab2831d-edbd-4352-a81b-41d262f0b4f0,Juanita Uribe,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 02:43:59.533356,without_onion,7.23,1
+6,cb250f81-5a0d-4a43-be60-ed2f6df3de6f,Gerónimo Solís-Agudo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:31:01.091192,with_onion,,4
+6,7fd078d8-dd06-4822-90e9-75f817456ddd,Faustino Barberá Rosales,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:30:02.809698,vegan,,3
+6,e9e4abac-b5a9-49dd-a002-46efb9c44edb,Luisina Arjona Quintana,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:32:28.994196,classic,11.79,1
+6,69afda34-13c8-4d41-9446-7f40d4fb914b,Eugenio Salamanca Hierro,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:55:19.364939,classic,N/A,4
+6,08e533e0-a3ee-41f5-a281-bf31575702b3,Alejandro Carlos Malo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:42:50.335088,without_onion,8.98,5
+6,9d0d5a94-b54f-4f08-8c7b-b48e7813d17f,María Del Carmen Lorenzo Amigó,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:03:19.974120,with_onion,9.5,5
+6,52d9a925-a44e-4157-a0b9-6144227d9349,Odalys Bartolomé Cuadrado,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:07:04.431546,vegan,,2
+6,87c54dc5-80d2-4168-9e9c-4e4aed12b3fd,Hernando Flores,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:41:38.059164,vegan,5.9,2
+6,2690761d-ca22-4aa9-9401-03808d3923b8,Pablo Villalobos,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:47:55.887190,vegan,N/A,4
+6,4425d485-ad91-4348-b046-3cc58d181c9d,Marcio Yuste,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 07:06:45.006087,with_onion,14.43,4
+6,250105d1-3112-42e3-815d-6e49f50f91fb,Rosa Escamilla,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:13:36.978388,without_onion,N/A,2
+6,eb739753-9abd-4e79-b958-b4384adfb83d,Albino Blazquez Ros,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:19:47.320584,with_onion,11.79,2
+6,c74b496b-bec4-4ace-a5a1-e0081f116eca,Estela Odalis Rosa Múñiz,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:45:10.437076,classic,14.98,5
+6,8df26aa5-7086-4ddd-b881-9c95d077d7e7,Lupe Escobar,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:19:05.629875,vegan,,3
+6,65aa9d54-3a04-4b5c-b8d5-80269d33b8cf,Eligia Gelabert Porras,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:01:20.896695,vegan,,5
+6,c6f70c06-e8b3-4281-a4bb-9c8d8c63f785,Leonor Bilbao-Gisbert,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 06:14:11.358435,classic,10.0,2
+6,6b5511e4-afff-4457-9bfc-3916160f1514,Fabián de Losada,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:00:51.554911,without_onion,N/A,5
+6,f1f5c99d-c092-46d5-bcf7-5c842b39be05,Mariana Noguera Jove,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:40:23.798908,with_onion,9.16,5
+6,41da4b47-ca1c-47b8-814a-a36ce75cee21,Celia Cabrero Bernad,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:15:16.660422,with_onion,,2
+6,50d86da2-e60a-4ee9-b32c-b3a7fac2508e,Joaquín Izaguirre Pozo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 07:44:18.945908,classic,N/A,1
+6,611076a2-7404-46ad-b2c6-304a6983d85a,Candelario Chico,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 02:28:19.698920,with_onion,,4
+6,1f16e6ba-cae0-4a06-b3e4-1ad58ffffd78,Dorotea Carmona Badía,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:35:25.910330,without_onion,N/A,1
+6,2945f60c-bd44-438e-a242-c3144f63684d,Fermín de Valentín,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:17:22.818996,classic,N/A,2
+6,8ab95fe4-56b4-4855-ae8b-f02af001f87b,Clotilde Maxi Ariza Fabregat,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:10:22.344219,classic,7.35,2
+6,88f081b2-a554-4aae-a49d-22ec202f35d1,Fernando del Romero,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:21:39.307240,without_onion,,1
+6,9e2ec4af-4f34-402b-9c9e-3e01a1c105f1,Gerardo Alvarado León,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 16:54:45.408943,vegan,,3
+6,f63a206c-9d82-49a4-9bf1-e4a9e8d7f3ff,Gema Nicolás Huertas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:48:08.327557,without_onion,8.11,5
+6,d22b3d3d-46cc-4a35-877b-2fb18702abd6,Brunilda Camacho Saura,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:46:52.697725,vegan,14.91,1
+6,4a03ae0f-773f-41a5-9254-0124c085bf9c,Iván Porta Grau,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:49:42.068466,classic,13.12,3
+6,3373ee35-a5f6-49ab-8755-1b3c97bf3850,Jesusa Bueno Porcel,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:08:32.856526,with_onion,6.67,5
+6,c1c0771b-52ed-4e1a-bb8a-5c73db716407,Sebastián Galán Hervás,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:16:13.411409,classic,8.15,1
+6,1a8ace6e-185e-47d8-a0bf-192d94f5a39f,Tania Artigas Madrid,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:55:19.514347,without_onion,N/A,2
+6,e68ad9bb-27f8-4535-955b-f0e8dfc07510,Hernando Hierro,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:22:09.424854,without_onion,12.2,4
+6,23ada19f-74e5-42db-82a7-2fbd01d7d69b,Margarita Castillo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:47:00.061980,with_onion,N/A,5
+6,1e2abf2f-2c4d-412c-8fe2-a326c5054189,Jordana Gimenez Mariño,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:07:55.281861,without_onion,N/A,1
+6,3c32e9c0-8193-41d6-a4e6-7ac9310e15a5,Agapito Cañete Fernández,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:17:19.101843,without_onion,8.42,4
+6,66ae0e60-7cc6-4586-8e7b-0fb6964d5e39,Fabricio Rocha Fiol,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 06:03:29.442500,with_onion,12.09,5
+6,d29c9c90-dac8-4256-a542-cbcf884094b4,Alexandra Marquez Salazar,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:43:15.485143,classic,,2
+6,522f2906-1dbf-429e-8004-bccd09fa9df2,Ale Robledo Lloret,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:27:03.577703,vegan,N/A,4
+6,026fd2c5-0834-4e5d-9519-3ebe4db7b46d,Manu Sancho Hernandez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 06:16:40.862245,without_onion,N/A,2
+6,da7758db-f069-43d9-b499-f6c6dcb6af59,Mateo Galan-Agudo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:18:32.178188,vegan,7.6,5
+6,efb0612f-fdd1-4044-b38a-a1b731d30561,Miriam Palomino Bayo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:29:00.312002,without_onion,,1
+6,ec90b65e-30c6-46e6-abf3-93c72dbb20d7,Claudia Tomás Blanco,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:37:48.552610,without_onion,,5
+6,7f7bfc41-2214-4d9b-b84b-5be0a418469a,Dominga Gibert Tormo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:24:59.067617,with_onion,14.24,5
+6,998b0cd0-e26a-4f15-8fba-b360c1e0f316,Viviana Burgos Sacristán,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:50:32.952591,without_onion,N/A,4
+6,90c64d25-11f5-4172-a8b2-a563c3098493,Juanito Manjón Gomez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:58:31.799193,vegan,,4
+6,6f313f53-71c5-4c83-8e0f-ea97e613732f,Primitiva Llobet Galán,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:18:30.957505,without_onion,N/A,5
+6,ea9fe9cf-c54d-4c6e-82ba-3175a7d5b907,Roldán Parra Yuste,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:42:00.990133,classic,9.18,2
+6,38a7d51b-7933-436f-be76-5e79c148211d,Jovita Múgica Villaverde,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:43:30.196057,with_onion,,2
+6,56852418-a059-4c6c-8434-bdf953e686e2,Prudencia Graciela Álvaro Sola,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:43:22.523344,with_onion,,3
+6,f5e93154-1e3f-446f-8b24-fcec6b15451c,Abel Daza Elorza,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:23:15.545629,vegan,N/A,2
+6,fafd41b2-abd9-4c07-a638-f2fa94b47fbc,Olimpia Higueras-Alcalde,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:45:30.956147,classic,13.37,3
+6,c49d3b3a-07d4-467e-8375-3d4b88b59352,Olga Barberá Gibert,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:43:13.508569,classic,N/A,5
+6,5bd5eb34-1747-4763-8496-e2011970747d,Emigdio del Plaza,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:07:50.832821,without_onion,10.71,3
+6,31f4ef58-5a44-41bc-ab53-9fe947ff70bb,Delia de Gargallo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:42:20.021276,with_onion,N/A,1
+6,d3aa20ad-118c-4afd-80c3-cc44e621845d,Osvaldo Bernal Sarmiento,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:33:58.397113,vegan,N/A,5
+6,856338a6-bdeb-4c06-82f9-f230096022b5,Pío Valle,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 07:16:41.842105,with_onion,,4
+6,c452af72-e3c3-43f0-9432-bc07605dff61,Paco Aragón,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:30:12.033646,without_onion,N/A,3
+6,63561f5f-3f51-4108-849d-5b43d37e1ad7,Renata Moya Morante,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:08:40.006431,vegan,11.96,1
+6,ed2f5876-2e6f-46d9-bc6e-db52b295cc3b,Gabriel Mur Soriano,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 09:31:24.189679,without_onion,N/A,1
+6,1d57b78c-170d-4a7b-975e-06a03fa92af7,Irene Calvet Echeverría,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:47:19.268916,classic,12.67,2
+6,23b3003e-2efe-4220-af77-25d068bb15da,Pío Mir Barceló,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:08:01.078033,without_onion,,5
+6,1f96a35f-b042-40ce-96be-003eeb58bf68,Segismundo Clavero-Quiroga,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:13:40.217283,without_onion,11.23,1
+6,f6a39129-a99e-418f-acf9-1b7ef75bddf0,Odalis Azcona Narváez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 16:32:03.191975,with_onion,11.47,4
+6,a284a45e-fa53-4d4e-9fad-4b0a5bbdb025,Manuelita Cabañas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:03:09.388474,vegan,,5
+6,c6fdcb76-8931-4e80-9e98-b36ce3aab56b,Humberto Bartolomé Haro,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:05:02.698548,with_onion,12.36,1
+6,ec1802b9-3f94-4c68-ad64-5c9585f8b13c,Genoveva Barragán Calleja,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 09:17:12.347971,vegan,,4
+6,51a0b3b7-483a-4152-9f21-cd43d422611a,Porfirio Bermúdez Angulo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:17:48.543975,with_onion,,5
+6,3bf5e463-b898-41be-86a0-46dedfa6170b,Artemio Belmonte Barón,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:09:50.072710,vegan,N/A,4
+6,c23796f2-8a0b-4177-8c7a-83ab73e76602,Reyes Arenas-Saez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:35:34.142915,with_onion,,2
+6,9b102689-1f04-4d07-9875-758ad9d5161d,Aura Pineda Montaña,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:25:41.843050,with_onion,,3
+6,3e184d93-38d1-40c7-bc2d-c549ff4e4234,Regina Villa Cabo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:49:19.955204,vegan,,1
+6,cea4c89b-e642-4092-82a7-cd18302c9066,Severo Basilio Muñoz Tejera,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:14:37.747038,classic,13.24,4
+6,a8779199-1df1-4aaf-b839-3b6ee91511d6,Valentín Pla Franch,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:57:48.723792,vegan,11.73,1
+6,e111d303-8885-43c9-947c-5beb172d683b,Clementina Porta Mur,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:32:20.966334,with_onion,,2
+6,23b205cf-7cda-4587-bd95-0059c138d9c2,Aitana Llobet Alberto,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 09:08:31.509948,without_onion,9.1,3
+6,31ecc115-b1a6-40d2-ba5f-0b18434fbb2c,Carla Bru Aragón,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 09:37:42.752366,classic,,5
+6,719c0834-144a-43c7-a07e-0befcc2e91a1,Abilio Luciano Pagès Cabañas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 16:21:01.068640,classic,N/A,2
+6,389d50aa-c3b9-4127-93b2-bcdee0d867dc,Javiera María Luisa Parejo Oliva,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 06:58:40.594855,without_onion,,4
+6,2cd07253-bdbb-4873-9230-fe9f146870e6,Chus Bru,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:33:13.345092,vegan,,5
+6,bd84c1ee-f3a7-412f-bff1-f0dc0ca20a1a,Francisco Javier Baena Águila,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:21:59.512247,without_onion,N/A,2
+6,214bd239-7f2c-48a1-bbab-0b97fac44180,Elisabet Fortuny España,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 15:30:27.687395,vegan,N/A,5
+6,8aef1c19-16cd-40e7-a1b6-0821f65e1d7f,Débora Noguera Vila,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:32:12.687982,with_onion,,2
+6,c9c833c0-3fc8-4482-81f5-761c4ffb8801,Liliana Landa,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:53:24.951749,without_onion,N/A,4
+6,3e3c8b9c-6db0-47e2-b99e-300cdc193da0,Wálter Roura Fuentes,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:52:05.328769,classic,N/A,5
+6,b75c9b4f-a9ab-473f-9a2c-c9700e81a1e1,Tatiana Peralta-Palacios,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:29:12.990237,classic,N/A,3
+6,a68cbe75-d6c9-496a-8855-1041d5e2f27f,Catalina Giménez-Figueroa,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 02:36:32.871639,without_onion,,1
+6,1c206ecb-f96e-48aa-9c88-68a0220f7807,Yésica Belmonte Vives,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:11:22.009520,classic,10.25,4
+6,66f55d36-47e0-4a4e-b84c-a89fc6c03bed,Calista Gual Feijoo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:57:41.816833,without_onion,13.31,1
+6,ed87479a-9d55-4aa3-8fec-f5c35ce66daa,Valentina Aparicio Aller,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:58:27.283874,without_onion,11.62,5
+6,6eba4f38-41de-4daf-8028-850c568359fc,Carina de Amador,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:40:19.676511,vegan,14.0,1
+6,a78b1a9c-1edd-4883-b1da-8b80819b8b51,Lucila Paz-Reina,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:01:52.424035,vegan,,1
+6,f384938e-68e0-441d-8e00-def53c59fae2,Virginia Agustín Márquez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:08:35.496632,classic,N/A,1
+6,b5dee584-f8c6-41a5-b9e8-cf2081f4ade0,Federico Ángel-Company,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:32:43.027885,classic,N/A,4
+6,350f1cd0-4db2-47dc-aea0-4cb41596d972,Íngrid del Capdevila,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:22:56.750434,vegan,N/A,1
+6,0e254912-32bb-48ad-8c1a-3833ee845862,Luciana Baquero Pizarro,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:29:29.292977,vegan,9.49,1
+6,8c9fe85e-d125-4cd5-9945-5f312ffb3c88,Paloma Begoña Estévez Puerta,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:06:58.545864,without_onion,5.74,1
+6,1f19a0dc-2ed6-4f41-8bf1-81eda2841912,Seve del Echevarría,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:37:34.628736,vegan,,3
+6,ef155e68-9682-4522-99d5-ebebb3176ae9,Jerónimo de Barrios,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:28:10.158607,with_onion,N/A,3
+6,1c03063c-dd5a-4d87-be53-a9df8702c5e0,Gerardo Rodrigo Plana,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:35:14.725166,without_onion,,3
+6,29d6ef4f-57a3-4df2-b2db-2659053d0798,Alicia Naranjo Serra,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:04:49.234833,classic,N/A,5
+6,7376c722-6ea4-4246-83be-92e6c7675e9a,Inocencio Moliner Fábregas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 06:20:47.656305,without_onion,12.86,5
+6,58262385-b6d2-47b2-841f-6dd690646c35,Simón Vito Pedrero Luz,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:15:13.824706,classic,N/A,3
+6,75b127d3-89e6-4417-ac2d-0dd839638042,Cirino Pagès-Martinez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:45:54.267114,vegan,7.27,2
+6,f86798af-9c34-40df-b682-b0d5a452f4e1,Baldomero Andres Borja,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 15:42:04.825822,classic,13.59,3
+6,49123935-bc5d-49d6-8980-413f5240dc06,Abilio Carreras Antúnez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:32:07.919508,vegan,5.97,1
+6,7ee97dcf-1e11-4b53-b647-fec083341789,Estela del Santamaria,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:24:26.256810,without_onion,5.03,2
+6,907f2c70-90b0-463b-b978-78fab71e9b4a,Domingo Heras Ríos,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:31:01.443495,with_onion,,5
+6,ca21ceb4-3d23-4ffd-85da-98d8177cb3a8,Olivia Poza Diez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:25:56.312493,with_onion,,4
+6,3980e27d-f38e-4006-a6fa-c367650e2e49,Felix Izquierdo Rivera,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:10:57.062221,with_onion,14.53,5
+6,60f75c1d-7e7f-47fe-8166-036b163e55aa,Amada Cuéllar,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:11:03.070813,with_onion,,2
+6,9695ef60-c6c5-409b-94e0-bc18bcc5fd88,Salomé Benitez Figueroa,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:55:47.265429,without_onion,N/A,4
+6,6e47eb34-c943-4721-87d9-76d1450b2e1c,Cruz Mena Benítez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:21:00.891349,vegan,6.26,5
+6,b893a672-30a3-45a7-9fae-8cda9dc08d32,Arcelia Chacón Arroyo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:20:01.258458,without_onion,7.66,5
+6,9730c3ca-df6f-4b5e-86e7-ce36612cc5e0,Espiridión de Casals,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:30:10.792148,classic,10.28,5
+6,947d7237-85f5-4829-87f7-5ee1720a6833,Ovidio Naranjo Moreno,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:43:34.455139,without_onion,,2
+6,d4a6fb4a-1704-4012-9aa4-04fa5493877e,Alondra Tamayo Moya,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:30:21.153416,without_onion,,5
+6,453fd0a3-5d8f-4e6e-b5b8-53b2b9111057,Dimas Valera Pujol,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:23:32.171524,vegan,,4
+6,157b36d2-29dd-411b-8962-58c2e03548bc,Tania Farré,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:04:23.238284,with_onion,,2
+6,e683280f-850f-4c7c-8967-cd3f03d18333,Victor Manuel Toledo Gárate,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 14:10:27.534294,without_onion,N/A,3
+6,ac1f0c8e-7c3a-4a54-8222-229848de8deb,Apolinar Asenjo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:28:21.401678,without_onion,,5
+6,69c6bfd6-3e38-4cdb-9311-7ab294f78f43,Marc Requena,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:20:49.617478,classic,,2
+6,476cf28f-8142-45aa-9d69-a16f9c4985f2,Sergio Araujo Oliva,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:00:22.787108,classic,6.26,5
+6,af82dd66-0b9b-4584-afa5-8492d723a32e,Pascual Marqués Infante,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:21:22.973534,without_onion,,1
+6,3692b3da-dec0-44c2-bfb9-871c518db4b9,Ariadna Anaya Canales,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:01:35.612789,with_onion,,1
+6,22d962ef-70c5-4002-b22f-c000404ea37c,Hipólito Becerra Palomar,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 06:44:24.751886,without_onion,,3
+6,604343c9-76db-4fc6-b292-f41378ea9253,Ximena de Espada,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:46:50.694598,classic,N/A,5
+6,39792085-094c-4648-8c82-def81cf83518,Modesto Trillo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:44:06.628861,with_onion,N/A,3
+6,f57f2159-bf21-4e12-b83e-378d7cf343d5,Regina Cuadrado Sarabia,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:28:27.835568,classic,,5
+6,b060c804-dd7e-41ec-855d-3ab44dbdca18,Bartolomé Moreno Morcillo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 09:38:34.200468,vegan,,2
+6,3f1256d9-a42b-4d0f-8e62-ad432d338baa,Micaela Asensio-Cañellas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:33:45.900861,without_onion,13.55,1
+6,24d918dc-2015-4366-8645-04b145807890,Plinio Agustín,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 07:17:33.651600,vegan,,5
+6,1e494fd7-5f2f-4d7b-8e01-f2fba05a5c6e,Marcelino Moya Oliva,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:41:38.229521,without_onion,10.14,2
+6,e3f69d87-1519-46e6-b815-d4525079dd4d,Venceslás Maximino Villalba Ferrero,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 09:36:32.794049,with_onion,N/A,4
+6,676b8e19-de53-4633-88d0-f2322de6244c,Marino Ocaña,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:26:35.379621,with_onion,,3
+6,4ab6d69c-ee6b-47b3-9ecb-3bbfa277f317,Anabel Ferrando,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:35:55.811115,classic,N/A,2
+6,0bd34976-0440-4840-ae75-30cd85763d96,Azeneth Castejón Oliveras,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:08:12.623067,vegan,11.36,5
+6,27288407-4ff2-4f59-86ea-ae8f5a69f6d2,Hugo Leal Terrón,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:39:19.629084,vegan,9.26,5
+6,cafab602-5425-4adb-8a30-824ad252cf75,Ernesto Solís Uriarte,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 06:38:59.092584,vegan,N/A,5
+6,786d1dfc-92e3-4283-bae3-61b4de6994d5,Nuria del Esparza,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:18:02.930282,without_onion,5.53,1
+6,ae53a67c-879e-4c29-a563-3df209ab6fd3,Victorino de Alemán,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:25:49.455749,vegan,N/A,2
+6,28e946f1-9053-45a3-820e-01b659fd7803,Gerardo Mayo Leiva,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:47:04.289262,classic,N/A,2
+6,7fcfafe3-a3ac-4ce9-9d1c-1e9c3c9618fe,Macario Bonilla Carvajal,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:14:39.852379,vegan,,5
+6,d6b13cd8-4afa-4626-98c3-3381b128e9f6,Wilfredo Benavente Crespi,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:27:34.026142,classic,13.93,5
+6,2c611e32-333a-4e4b-a891-71b651cb3aa7,Fulgencio Olivé-Martinez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:58:01.771686,with_onion,,3
+6,c6ebf1e7-185c-4f68-bd0e-22e7d85e4e50,Alexandra Alvarez Bosch,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:40:57.683413,vegan,N/A,1
+6,8e392125-a94c-4bd7-ad8e-b09aa09589c3,Basilio Montserrat Baró,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:47:53.119925,with_onion,N/A,2
+6,2123ee59-c761-4e34-bf92-4275e5d8f758,Alfredo Luján Aroca,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:24:57.568463,classic,,5
+6,caa65f4b-dcd5-444a-bae7-f88c7085e47a,Aránzazu Narváez Lara,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:36:19.570140,vegan,N/A,1
+6,796db0d3-508f-4df6-beea-c4a6841c63e0,Elpidio Serna-Ferreras,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:09:03.435180,classic,N/A,3
+6,ef8fb266-b2aa-45d0-b301-20a259bdf352,Visitación de Barragán,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:43:06.542139,with_onion,9.37,2
+6,f8949bff-9637-484a-98a2-ee14b96c1cf3,Carolina Cañellas Hurtado,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:58:53.648999,without_onion,,1
+6,f9cb6f53-6795-4556-821f-fd32fbb0a792,Toño Villa Chamorro,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:03:19.636998,with_onion,N/A,1
+6,102f4334-53d9-43db-bc4e-95ce5e744be8,Elpidio Tamayo Domingo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:28:01.834830,vegan,,5
+6,99dc3ca6-d5a8-4bf9-8a91-f4b36542b5ca,Joaquina Busquets,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:19:36.806495,without_onion,14.56,2
+6,7a4cc98d-1b4f-42a3-a763-561552b5d6c7,Nicanor Viña,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 15:16:06.946107,with_onion,14.84,3
+6,ecf03160-dfa0-4cf1-9ac1-3353c12341da,Casandra Bartolomé Cerdán,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:08:19.392122,vegan,N/A,2
+6,c1e7a390-7357-4c8f-8cef-482f08bc3c23,Antonia Llanos Zurita,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:24:12.197286,without_onion,,3
+6,17639b00-084c-48de-ba77-be0693f69658,Rufino de Tejada,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:38:03.613463,without_onion,,1
+6,ad8016b3-f9ac-429f-adce-6a09690ac30e,Lino Ibañez Ramos,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:58:45.998274,vegan,9.41,5
+6,5934e205-b86b-4a42-9ff1-c977a3c95941,Silvestre Lara Rodrigo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:18:23.742159,vegan,,5
+6,0bfb7c79-ecc9-4b09-af88-51056938b47d,Benito García Pardo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:52:50.650483,vegan,14.08,4
+6,78e8c1bf-b6cf-4e19-9b7a-5a7f8331c54a,Dorita Casares Aranda,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 07:29:57.804826,vegan,N/A,4
+6,601c4e25-a6d9-4d0e-a6ac-f46e8ee78ab9,Balduino España Avilés,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:54:04.813769,with_onion,5.3,1
+6,3beb4680-ff81-4366-b6f7-4027a98fa695,Gil Corbacho Prado,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:50:13.456560,classic,10.26,1
+6,27341640-856f-4c81-b6a9-86268bd231ed,Cayetano Simó,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:40:20.943157,with_onion,,3
+6,d8a019a4-c912-4f8b-858e-1013c6a29f94,Carmelita Bello Castillo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:25:08.500900,without_onion,N/A,4
+6,dfe1d4f6-2d5e-4e7d-8338-89bd288b8ec7,Benigno del Ferrando,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:01:39.072135,vegan,N/A,2
+6,11cf9955-5666-4f93-a438-dfa0f0875340,Ariel Iñiguez Planas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:37:26.280985,without_onion,,2
+6,7c08aa79-ab76-48fd-a6e7-85b056673acd,Aroa Salas Baró,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 07:32:54.554813,with_onion,,3
+6,f139c616-c371-4e1c-befe-1b6f213f77c0,Tomás Sabater-Barón,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:18:19.628044,classic,N/A,1
+6,22b458fc-3894-410d-8f8c-bd3ee76926d3,Ariadna Duarte,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:28:25.825663,vegan,,5
+6,6393270a-ef7f-42ca-8757-c7b0b8ffeffe,Rómulo Reig Carnero,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:59:18.968076,classic,,3
+6,df50a0b3-e73b-43e9-8d02-65b503d3fae7,Úrsula Prieto Teruel,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 14:11:27.364951,with_onion,,2
+6,7db06f26-967d-4854-bdb7-0fd9c5d423d1,Flavia Cruz Barberá,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:25:20.346066,without_onion,N/A,5
+6,001055aa-8d30-4e58-843b-c1a00a769a42,Sofía Rocha Benavides,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:30:09.209367,classic,N/A,3
+6,081cda60-d016-4870-ab31-9175bd64d717,Sara Alvarado,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:20:08.836513,vegan,,2
+6,fbfc5393-5a5f-48a3-81b7-4ba8b1a1cb67,Aurelia Calderón-Cantón,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:49:28.595776,with_onion,,4
+6,bbe9a003-30eb-43be-9197-5c8d6e9b54be,Alejo Anglada Vallejo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:16:22.826870,classic,7.83,2
+6,7d9574e4-4b71-4279-9bb5-87bb1dbbc39b,Jordán Robles-Jerez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:42:24.353072,with_onion,,1
+6,5663a5b0-38af-4337-ae5d-80aa9e0454a0,Zaida Ricart Valls,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:59:04.404137,vegan,N/A,1
+6,2471a329-a0ea-4238-91c5-338a3e12aa24,Heraclio Tirado Heredia,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:45:44.734889,vegan,12.95,1
+6,89e31dcc-291d-4d65-adf1-db629be4bf6b,Herminia Vazquez-Valle,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:49:56.131446,classic,N/A,2
+6,2cd71d26-c885-4eb0-b983-f0b2199ebdec,Cristian Valverde Arroyo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 16:11:47.911816,without_onion,7.22,5
+6,5d7be971-9d77-47c3-b164-bf24edcae64c,Jose Carlos Garriga Maza,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:42:13.486626,without_onion,,1
+6,44b4ad41-ad0b-49f8-a84c-401c0a355d9d,Regina Parejo Aliaga,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:08:10.480126,vegan,N/A,3
+6,6706783d-c0f0-44ae-a347-8f821aadb39d,David Sierra Maza,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:16:30.428243,without_onion,N/A,1
+6,0411db19-19bd-4818-be4b-b2d38f1d3232,Fortunato Sanabria Benitez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:29:07.276194,classic,,4
+6,bbfcf369-cfac-4a80-8e21-edc569898c9c,Kike Prat Ugarte,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:13:09.189470,without_onion,N/A,1
+6,61450a14-1114-40d3-b614-eca1bbe9aebc,Américo Conesa-Godoy,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 14:10:20.263315,with_onion,N/A,4
+6,21cf4568-e028-41e3-bd56-85d18c387828,Martirio Pol Rodrigo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 07:08:14.854713,with_onion,N/A,4
+6,fefa2361-5733-49ea-b9ac-c022c86d0c9b,Hernán Soriano Valencia,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:11:17.130299,with_onion,N/A,4
+6,ca2f1f79-af89-4cd0-80e3-ef085e171ea8,Moreno Zabaleta Gil,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 22:57:27.665708,vegan,,4
+6,20e8fd0d-b8f3-4874-a767-3d7b1104ebca,Cruz Luque Rovira,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:25:29.217641,with_onion,5.19,4
+6,1f534873-b148-4a60-895a-39ee2ea91a31,Angélica Solano-Gonzalez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:46:41.619968,with_onion,N/A,5
+6,6e3faca9-91be-4ddc-9c8e-243271206206,Leticia Rosell-Cases,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:27:28.808361,vegan,,5
+6,d4a72762-ccd4-4856-a8ea-b708e83985ae,Manu Serna Bou,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:16:08.576019,without_onion,,1
+6,60bca7b6-ac78-47b7-8013-9d6f12ac9108,Zaida Amor-Querol,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:36:55.764160,without_onion,N/A,1
+6,f2cdc11a-a445-420a-969d-1c85902a8a30,Rosa María Rosa María Briones Ochoa,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:19:07.862743,vegan,N/A,2
+6,88067fc0-fd1a-413d-8baf-0d37ff298d43,Blanca Acevedo Trujillo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:10:08.454839,with_onion,14.34,4
+6,4355d821-04d7-4335-a705-fd90233d2d38,Álvaro Bautista Becerra,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 14:45:44.522223,with_onion,,2
+6,0369f812-fea7-47da-972e-ff99a9e73767,Anita Cuervo Boada,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:45:15.416239,classic,,5
+6,5ed89626-085d-4596-920e-270b119a7895,Clara Soler Reig,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:54:18.396282,classic,N/A,4
+6,d1933e15-2ee2-41f5-9663-de50356be7bc,Consuela Zaragoza Carmona,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:45:53.232777,without_onion,,4
+6,77ea8b42-c05f-46f3-92ce-667bd984d5c5,Olimpia Rius Vendrell,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:26:16.255569,classic,,3
+6,b25aa0bb-4a7c-45d3-81be-f10413b954f2,Saturnino de Bastida,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:56:32.815496,with_onion,N/A,4
+6,d8ca1baf-5e90-4d0d-af84-87fb4d57a46f,Américo Salmerón Pellicer,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:48:54.825260,classic,12.88,2
+6,c244b974-b1d1-4894-b4b0-2bf6d06500b7,Trinidad Albero Prada,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:00:56.883429,with_onion,,3
+6,5187c2a1-5156-48e0-b83b-c84b377c9639,Camila Aliaga Pereira,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 02:52:47.244662,vegan,,3
+6,a913adb3-16c1-4180-b27e-4de716ea02b0,Patricia Blanch,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 09:12:29.185099,vegan,,4
+6,594ae2df-8960-4785-a5ed-43367252d0ff,Paola Rios Flor,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:51:06.816308,without_onion,,5
+6,7cd2e1c1-978d-47af-9c0d-515c1d04ac29,Severo Rodríguez Hidalgo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:49:00.493539,classic,N/A,5
+6,58a358af-8f12-4059-8a41-6c7135902e34,Mariana Alcántara,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:52:24.529651,vegan,,2
+6,c7afb483-38ad-4c58-890b-2758900d7b28,Roxana Madrid,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 02:41:56.340272,classic,N/A,5
+6,1ad6525c-1bec-4724-8622-17131bca41b0,Vidal Alberto Vergara Valenzuela,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:02:49.634818,classic,,1
+6,2bdd4cfe-7d2b-40be-8c3d-a44b9b0bf94c,Desiderio Castejón,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:40:46.142164,vegan,N/A,4
+6,ec357965-d6ad-45dd-87df-4ec4edddb12c,Fidela Canals Beltran,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:21:40.698386,with_onion,,2
+6,41886289-2ff3-441e-a324-415e730e95ba,Victoria del Pallarès,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 04:21:51.493471,vegan,5.88,5
+6,a8df28c1-80a8-4e56-bed8-81b53ef15088,Jessica del Benet,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 09:41:12.738146,without_onion,12.92,3
+6,ed46d52b-ddd5-4891-8ef3-7493b3cd078f,Julio Giralt Asensio,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:45:21.807847,without_onion,,2
+6,b2268fae-e0af-418b-b742-9001861c6b91,Adelaida Silvia Gallart Crespo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 14:47:26.556638,without_onion,N/A,1
+6,4d9c2c51-045d-4a31-a922-4fd1a302f0b7,Simón Gimeno Zabaleta,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:05:29.302472,classic,N/A,5
+6,3d7811c7-b9bb-47fe-a3a4-d80e15fb5c1a,Damián Tenorio-Bernal,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:09:02.117604,vegan,,1
+6,5e9e7fd5-d883-41fd-89df-81d9ce6809f9,Toribio Rodrigo Salmerón,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 14:49:17.173399,with_onion,N/A,4
+6,57f06571-0aae-4f14-876e-abf19d32a080,Mohamed Prudencio Valera Pelayo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 16:49:09.389229,classic,,3
+6,9dc835ec-07cd-483b-8786-552fbaf612e2,Mirta Delia Villegas Escobar,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:58:16.814990,with_onion,,4
+6,160cd7c6-c972-42f5-93f9-e7fab8d3caca,Marcela de Marquez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 17:15:39.463525,with_onion,N/A,3
+6,6ac2c174-72e9-4f4a-bdf7-9ac8a7e4e9c9,Alejo Company Comas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:25:42.284099,without_onion,N/A,2
+6,90e34248-7468-4078-be6d-a68366028669,Anselmo Gomila Alcalá,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:33:17.754079,without_onion,N/A,3
+6,0c0ed910-a36c-456b-b376-d9f9b9f590b3,Lisandro Roca Prats,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:49:07.800063,without_onion,,4
+6,2a390ddc-bb7a-4ca5-8523-29751c06e66b,Juan José de Jara,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:47:52.264683,with_onion,,2
+6,38a967c0-420d-4328-90c4-faef324e7102,Faustino Velasco Puente,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 03:55:19.143672,without_onion,,4
+6,ed519c69-286e-43f3-8edc-bb2002487b13,Carmela Arribas Águila,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 20:58:57.421184,with_onion,11.45,5
+6,2fe13e71-06b8-4826-b632-1a3dce61c029,Juan Pablo Isaías Armas Villa,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 02:38:53.157494,without_onion,,3
+6,be059568-b051-4c6e-86fd-eac4953acae3,Renato Carranza Rebollo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 16:54:17.697109,vegan,9.3,5
+6,102d9573-e124-4b2f-a982-c4f421b8554b,Marcela Antonia Pellicer Zamora,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 15:16:59.509170,classic,,5
+6,bddbc5e4-1fa8-43db-8811-53607e16da42,Maricela Carmona Correa,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 02:33:29.793781,vegan,,5
+6,f3d3d59f-3af4-4932-8711-79f57e939288,Angelina de Egea,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 06:18:50.097948,vegan,,1
+6,735e3176-0fd8-46e0-a078-91776fb56c51,Francisca Robles Baró,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:29:15.060515,classic,N/A,3
+6,629549f5-560a-4b0d-a179-8e2e182b2464,Fernando Lumbreras Rozas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 10:00:15.697239,vegan,,2
+6,79f956e9-8588-4510-bc60-c8975441306f,Eduardo Badía Mínguez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:33:13.814347,without_onion,N/A,4
+6,8b85cb81-5715-4aa9-806c-fbe7057eca5b,Ramiro Barranco Giner,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:27:53.682074,vegan,N/A,3
+6,58b8ebe5-8548-4363-a5ad-8d7769633cd1,Plinio Arjona Heras,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 12:39:02.650990,without_onion,9.3,3
+6,e32c5217-881d-4c04-b81b-284a6b923507,Perlita Vélez Benito,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:50:30.046043,without_onion,N/A,3
+6,63b905e9-afed-4fa4-ab23-d6d1c3e14a83,Marcelo Saavedra Garay,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 21:45:06.206918,classic,5.49,2
+6,61b207d0-a2e9-437b-8cdf-2cb54f1feb87,Venceslás Cánovas Revilla,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:35:00.158998,vegan,,5
+6,49f0ecff-da2f-4119-8b8e-1fec45304092,Isidoro Puig-Álvarez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:25:19.806589,classic,,1
+6,73d74b8b-b2ea-4d28-8745-e5c0c31391a6,Desiderio Izaguirre-Aguilar,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 08:27:24.781325,vegan,N/A,3
+6,ee51f2e4-fdbf-4548-ba02-24ab51c2d6e6,Evaristo Serrano Piquer,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:43:31.618887,with_onion,10.95,1
+6,778fc11c-5b7f-4acd-913f-4b6443711c1e,Juan Manuel Rodrigo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 14:29:48.307787,without_onion,,1
+6,f07a025d-be28-4190-9668-a40d45fad7b3,Brunilda Amador Velázquez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 19:17:12.192529,classic,,2
+6,1021c6eb-83cc-4952-ae14-4f323c2ab380,José Frutos Jódar,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:14:58.688279,without_onion,8.43,4
+6,45899916-1228-4483-9e24-7b9f5f60ad34,José Mari Galán-Borja,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:47:24.366740,without_onion,,3
+6,708ef461-16d3-4d70-9888-9a178c39d3b9,Jenny Sierra Carrera,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 07:31:06.554500,without_onion,N/A,4
+6,ac0c1a15-8078-464e-8e80-1d001c54bfa4,Heraclio Gonzalo-Salazar,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:56:45.993035,without_onion,12.28,4
+6,a471f144-36d7-4af1-b1cd-e3ad54f7f651,Calisto Aguilera-Villegas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 09:39:17.844117,vegan,N/A,5
+6,e4b2686c-84bf-4050-a68c-40e77bc3dd8f,Brígida Manuel,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 01:36:19.629577,vegan,13.17,1
+6,72933a4d-26a1-468f-b7c3-0d3ca1dd84d5,Nuria Llabrés-Larrañaga,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 07:26:51.701152,without_onion,,3
+6,9bc53853-a183-4afa-a8da-ba8a287f5e2e,Antonia Agudo Haro,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 23:44:14.489519,classic,12.28,5
+6,6798b52b-2407-47ab-8d01-6ec4d3e74e94,Judith Ordóñez Arce,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 13:54:16.483867,classic,,1
+6,91f98bc7-c80d-4b84-b808-07ff1f866365,Anunciación Giner Cuevas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 18:02:42.432688,vegan,,4
+6,264aa0ea-3485-4bb3-8663-2bf0ff5af46a,Charo Lamas,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:20:21.969718,without_onion,,2
+6,2ef21289-93e7-4d56-bc1b-761a8880f801,Trinidad Gutierrez Fernandez,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:56:02.575885,without_onion,N/A,3
+6,bdb23d70-0cd6-4c43-b10d-3bf17ce07438,Eutropio Matías Zorrilla Sarmiento,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 05:40:11.770720,classic,N/A,3
+6,537e193c-cab8-4c4f-af17-154298facb37,Rosa Villena Pozuelo,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 00:22:45.249397,vegan,,4
+6,797f4da8-3d01-4fd6-bbe0-6e2b5f948c53,Lisandro Mascaró Navarrete,Valencia,"Pasadizo Amelia Perea 525 Puerta 4 , Teruel, 11223",2026-05-01 11:33:27.748123,classic,,2

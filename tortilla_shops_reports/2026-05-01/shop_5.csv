@@ -1,0 +1,78 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+5,800b8433-a0a2-416a-bd32-bddfcee60c59,Ciríaco Pujadas Prat,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 01:05:49.635643,classic,N/A,1
+5,cfe86b75-c8e4-44e8-be24-8ac0593e9802,Juan Carlos Torrens Teruel,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 11:50:40.212968,without_onion,N/A,1
+5,5fe0a5e8-1afb-4ae9-81a1-b82ab48a18c3,Marino Vázquez Santos,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 14:01:52.746914,vegan,6.18,2
+5,906d952f-06cd-4d52-99fa-3a70f30394d8,Amarilis Batlle-Almagro,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 15:43:49.214529,classic,,4
+5,946980b8-31f9-4e86-bf9e-23c9e9417f33,Javi Rosado Casanovas,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 02:55:08.662587,classic,8.96,5
+5,62ab0f2f-a8c8-48e7-a183-2e91966f4e25,Eva Osorio Borrego,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 23:46:33.884191,classic,N/A,1
+5,dca074e5-18f6-4be0-ae97-0a3f38cdb56b,Blas Higueras Ramirez,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 13:54:59.435106,with_onion,8.77,3
+5,74aa4466-4e44-45ad-b768-f946e444f4a3,Erasmo Borrás Checa,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 09:25:15.434308,vegan,N/A,1
+5,3fb1b8cd-cc8e-4752-a080-f412940a02c9,Luís Arnal Lago,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 01:17:42.407299,classic,,1
+5,d0a0f611-d357-4185-8da4-ed146465e286,Sebastián de Coloma,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 17:50:07.317657,without_onion,N/A,3
+5,5279ab3e-fdf9-4a60-87f7-1ef82ac7e413,Lucas Sarmiento Daza,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 06:12:27.157113,with_onion,N/A,2
+5,a20bc359-5f09-4076-9700-4232ee1bca5d,Blanca Mendizábal Ibáñez,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 23:45:48.553981,classic,,4
+5,d31d138a-3769-4a45-9f2b-84b22a00ac55,José Luis Alemany Infante,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 00:33:00.956203,without_onion,14.86,5
+5,7fd23e99-5919-4f5a-a72c-311e6b55267d,Nacio Daza Martí,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 20:19:02.100705,vegan,6.57,2
+5,10cc39d0-0413-48f5-b7d4-caa72437221b,Juan de Merino,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 02:15:20.152499,with_onion,9.14,4
+5,6f1b470f-4e1e-47ef-8fb3-5efc11abddac,Delfina Priscila Echevarría Campos,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 18:32:48.125153,with_onion,9.98,5
+5,830e5d75-f637-484c-9777-d65591a68a48,Débora Montero,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 08:16:04.019016,vegan,,2
+5,1f8080bf-ef6d-43d9-b0cd-0e6331afcddc,Pascual Olmo Giralt,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 17:12:16.948064,with_onion,13.55,5
+5,e8d7994d-9b58-48e7-951b-38d9f79e8fe9,Javi Gutierrez Cózar,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 23:50:52.160684,vegan,N/A,2
+5,7377e22d-3063-4347-af08-66d8eef0190b,Eli Bosch Enríquez,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 21:35:20.732947,vegan,N/A,4
+5,0ac6ca10-55f7-42a6-b345-66b6d64f7b73,José Mari Peral Campoy,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 08:28:52.320268,with_onion,N/A,3
+5,ff15e7d0-fd32-4fe0-9605-bb0255b03e62,Pepito Noguera Cid,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 15:08:00.437409,vegan,,2
+5,27a67695-79ff-41b1-97a0-c9a1ee7324bf,Encarnacion del Rueda,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 08:42:00.183207,with_onion,8.71,4
+5,72c91b0d-add5-4d0a-a465-d9ee998922b2,Magdalena Serrano,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 23:08:08.701379,vegan,10.23,5
+5,c9eeacae-c37c-4e34-88b9-d672b0986b8e,María Carmen Delia Pablo Losa,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 17:14:19.878980,without_onion,,3
+5,90f466e3-91c1-46f6-9881-536d8bc75592,Heraclio Tomás Castro Ferrando,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 08:56:01.682168,without_onion,13.11,5
+5,1808a19a-6b3a-4ac5-b294-46ad4ab4ac7f,Guadalupe Escolano Barral,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 01:57:09.738170,classic,5.38,3
+5,5d5a8f84-5d56-40fb-8b33-f4f313961542,Onofre Ocaña Castells,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 14:17:22.894317,vegan,N/A,2
+5,95f34475-ac31-4b33-9d7e-a7337be95d44,Eugenio de Lastra,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 12:41:36.160424,with_onion,,3
+5,27b5aa61-3958-43f8-8f59-f64c04beecea,Valero Acedo,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 04:58:03.598507,vegan,N/A,5
+5,fb4e8a99-4162-4750-9f5a-86101140f469,Ángeles Borja Santos,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 03:08:44.527988,with_onion,N/A,1
+5,496276a4-4608-49ca-b1d3-23e9ac638a19,Marita Eligia Rubio Posada,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 16:56:55.571135,with_onion,N/A,1
+5,ceb34374-4916-4282-bcd1-40d264e5fe68,Teodosio Yáñez-Bauzà,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 14:15:22.031367,classic,8.92,5
+5,4e0a3579-cc05-4d7c-ad1d-aaa48c6e241e,Remigio Barranco Contreras,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 17:16:47.013147,vegan,,5
+5,67db3a2c-f5c9-4562-b442-8fcfffe5407b,Nicanor Cristian Gargallo Figueroa,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 15:00:19.627040,with_onion,,4
+5,7db4927e-aeef-4961-8a7b-781c9e0e0391,Hermenegildo Marin,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 06:14:19.073808,vegan,N/A,3
+5,290aa4d2-65bc-49f9-b8fd-5a65117d4827,Francisco Farré Ramirez,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 18:10:47.035786,classic,14.79,3
+5,bf0a85e0-b36e-4ccb-b3e2-0c8955164eb4,Selena Serra Noriega,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 19:08:54.559874,classic,10.01,4
+5,944b9db2-8e9a-4feb-9e44-7f55e8133588,Florencio Simó Casals,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 20:19:00.647237,vegan,N/A,4
+5,b2226a8b-0ec4-40d4-8ef0-43743a2bdb7b,Iker Ibañez,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 02:04:44.906046,classic,,4
+5,7b9d0bbc-7541-4720-8218-f44bbc0993bd,Teodosio Cadenas Molina,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 14:20:46.776329,vegan,,1
+5,840bc502-b8f6-427b-96cb-4983dbdf8352,Ema Hervás Mateu,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 15:03:21.170130,vegan,N/A,3
+5,f67cbd83-90c4-4a88-be35-5c0dff0516eb,Conrado Barranco Blasco,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 14:35:47.904627,without_onion,N/A,4
+5,1f7d4d76-0adb-4530-9daa-a059790b67f4,Emperatriz Herrero Barberá,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 23:53:10.777105,without_onion,,4
+5,80551ac1-6e1a-4f35-9e26-f30f1e0880b0,Salomé Chamorro Costa,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 01:26:51.755426,classic,,2
+5,a0488db6-d5be-45ef-9243-46054a163721,Natalio Alfonso,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 13:29:15.202791,with_onion,,4
+5,219549e2-436f-49a3-a3c3-1b6e5b8ddcff,Fernanda Calatayud Pizarro,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 04:46:45.488621,vegan,,1
+5,e6049784-7244-468e-b73f-dc6b4be1da2f,Hugo Haro Aroca,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 05:20:56.644274,with_onion,N/A,2
+5,68ba3373-0f95-42d5-bce5-ea6121819ec6,Xiomara Tamarit Gutiérrez,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 22:11:46.481092,without_onion,N/A,5
+5,e2aa0909-b509-430c-bcbd-a5392e9b1444,Erasmo Reyes Seco,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 21:16:56.183017,without_onion,13.55,2
+5,7dd25af7-6d7d-4dd4-8de3-3e70636302a6,Ruben Ruperto Báez Fuertes,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 23:38:22.703489,vegan,9.76,3
+5,376c555e-34ea-4325-82e9-a9dd32d23e47,Noa Morera,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 13:17:11.958152,without_onion,,3
+5,7826a881-309e-4830-bae0-ae83d4ccb784,Pelayo Mata Nebot,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 05:39:01.896242,classic,7.49,4
+5,fffc980c-2b58-4b55-98db-bd8d86846734,Ámbar Olmedo Almazán,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 06:32:27.827736,with_onion,N/A,2
+5,d86a62b5-809c-4403-94d4-66d707fd013d,Plinio Salazar Chacón,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 10:35:52.931437,vegan,,5
+5,c7c6a2a6-9cce-4139-910e-9f0ef34ea044,Prudencio Solana,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 21:04:45.970066,vegan,,5
+5,1493c3b7-52cf-4193-ba91-7eedded93ea2,Lázaro Barros Estevez,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 17:40:48.877366,vegan,11.03,2
+5,f4cb24ce-6936-45ef-a4e2-bb32197329ba,Lidia de Quintanilla,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 14:43:39.786068,classic,N/A,4
+5,31d0a6e4-8fb0-4ac1-a14a-24993d32e851,Eulalia Martín Murcia,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 21:55:38.905696,with_onion,10.67,4
+5,84ef27d2-b815-41c0-aee2-77dcb43d6ac3,Ernesto Lucena Beltrán,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 09:57:33.160227,with_onion,,5
+5,8d5b5a89-b2b4-4430-9c2e-cb4faa07a031,Vicente Giner-Ortuño,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 13:13:15.774499,vegan,6.56,3
+5,126f4e75-ef6a-4ad7-85d3-82a87c7f2498,Sigfrido Tomas,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 00:47:51.764396,classic,6.34,1
+5,57d875ee-ff68-4070-b48b-69f3d2a5563a,Godofredo Vara Santamaria,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 23:50:40.211250,without_onion,11.77,1
+5,dc5dbb7d-88e7-4de9-8541-02373230581f,Custodio Demetrio Jover Campos,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 22:44:18.543652,vegan,,5
+5,b2b32787-6dcb-42f3-af94-48301773d65a,Desiderio Ortiz Folch,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 00:16:54.976280,without_onion,N/A,3
+5,8d3a63fb-b754-4ad4-be20-c4b5a82c57f3,Calixta Bernat Torrent,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 17:58:04.407629,without_onion,N/A,1
+5,9213057b-02cd-4b4f-b4b1-4863b0df9e2a,Macarena Arroyo Gracia,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 14:58:04.086773,vegan,N/A,1
+5,d760cbc6-534e-47a7-9548-73db07180329,Iker Morell Viña,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 10:50:16.246901,vegan,N/A,4
+5,5eb4ca60-d1b5-43b7-9adb-8e3985bd3522,Eusebia Barbero Santamaria,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 00:36:55.813979,vegan,14.19,5
+5,d66687ee-396d-4190-a9e7-6cf1b734ef25,Luz Vallejo Frutos,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 16:22:08.606318,classic,7.57,1
+5,c7bc87d0-37a6-4bc1-9efb-1c4cbc07501c,Carolina Manrique,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 12:43:19.156150,without_onion,5.74,4
+5,d436e664-e600-4b11-8950-d758d9bb805f,Pastora Uribe Grau,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 04:36:25.029836,without_onion,,3
+5,2de47913-c442-4135-8dbd-24cecdb59ed4,Fabio Capdevila Carvajal,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 03:19:56.681734,vegan,N/A,5
+5,f068135a-c1df-4e94-bb6f-bc87b5a2011d,Renato Santamaria Ochoa,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 09:34:00.035614,with_onion,,3
+5,6fbf0b4c-a982-475e-9c4e-feca269ad072,Luis del Huertas,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 06:58:17.811123,without_onion,N/A,5
+5,d25a93b8-6983-4ab1-83f5-78776f1e422e,Mónica Donoso Camino,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 14:04:00.915716,without_onion,12.11,3
+5,1d9b029f-e6dc-416e-a584-b1c4d2dcb308,Nidia Baños Blanch,Barcelona,"Acceso de Gervasio Martínez 86 Piso 5 , Salamanca, 49380",2026-05-01 20:45:26.582636,classic,N/A,1

@@ -1,0 +1,83 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+1,7da0ad47-aa50-4a1c-930e-581d70a3a852,María Dolores Agullo Martinez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 05:43:40.376912,classic,,1
+1,d4b24b44-4e2c-4c8a-b4d8-9475e665e7de,Zacarías Perales Paniagua,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 05:32:24.820002,classic,,3
+1,33850fdc-e4f2-4886-a8a3-9b7eec872b6d,Ángeles Valcárcel Blanca,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 02:55:51.395290,vegan,7.18,1
+1,073fdd68-8528-4639-aea8-7f68df39cbc3,Raquel Barberá Bonet,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 11:32:47.898306,without_onion,7.97,4
+1,b6b8628b-ab38-40c3-988f-2c86cd47cc5e,Marcio Sastre Cisneros,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 08:36:43.935186,vegan,14.71,3
+1,d37c3813-3322-4b60-a6e4-114363f675e4,Constanza Rosado-Roman,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 20:18:55.494564,without_onion,12.22,2
+1,315643c7-ba19-48e0-a6d7-0d1755fdd161,Nando Noriega Águila,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 11:29:33.083322,classic,,1
+1,55a75f51-2b58-457c-bc03-e35e59e1bc2b,Berto Román Bustamante,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 14:29:12.271770,vegan,7.62,3
+1,7a32618f-eaca-4c78-a8ad-8fbc5e04fe69,Tomás Manso,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 09:57:58.790914,classic,5.06,1
+1,58e3ce98-07b1-4a85-a0b0-ec7f9133c91f,Noa Fuente,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 23:07:01.218518,classic,N/A,5
+1,1a31dcf0-185f-4df9-a9b8-9a20fc86c491,Aarón Arregui Manrique,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 01:25:21.828826,vegan,,2
+1,0f805933-81fa-4723-ac26-fc470966fac6,Aureliano Calzada Gual,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 07:30:01.793036,vegan,,1
+1,6b44d20d-21d4-485c-9cf1-ff416d0f06f4,Manola Azcona,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 19:21:44.785802,vegan,10.12,3
+1,c68ccc57-2c85-4241-bd42-325885fb4ffb,Hilario Iñiguez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 18:26:26.992163,classic,,5
+1,1d037bae-190f-41cf-b270-4631e33d083b,Ámbar Ángel Escobar,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 23:58:06.509183,classic,5.02,2
+1,1a50a0f8-363d-4274-bbc2-342621ac1120,Xiomara Guillén Español,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 04:50:43.826502,with_onion,N/A,1
+1,6e7b2102-c8ac-4208-b578-6a3d80a652a0,Paulino León Cózar,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 19:31:15.643520,without_onion,,2
+1,d76a5926-710c-48eb-bb78-b1de82c74bc9,Marisa Zaragoza-Cazorla,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 20:37:24.024805,vegan,,3
+1,5ae54a51-b621-410c-a809-156c9d22de77,Lucila del Méndez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 09:54:58.314955,vegan,N/A,3
+1,77508abb-1091-4353-b88f-00ebef7d5281,Demetrio Sedano,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 16:15:37.285572,with_onion,12.53,4
+1,997b0365-35cc-4534-b13b-afcb63153055,Odalys Ileana Lluch Baeza,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 21:21:56.768332,vegan,,5
+1,d61fefb2-8984-4856-9383-703585d71def,Eugenia Alfaro Ureña,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 18:45:26.784301,classic,N/A,1
+1,66412c48-1d7d-4dbc-9590-b6871fb1278e,Antonio Arco Raya,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 15:39:18.624626,without_onion,13.33,3
+1,dc412e0e-be4b-4044-bfc0-6a6ae8d46891,Teodosio Martí Alcántara,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 17:26:54.068855,without_onion,,1
+1,09dd4d95-9049-4cbb-bab2-12fa31ec22a3,Emma Jimenez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 15:15:58.988056,with_onion,,2
+1,20438018-956f-41b6-8484-ba5b3193c15b,Maximino Tomé Andrade,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 16:03:59.758909,vegan,13.67,3
+1,2ecf1396-bafc-4d8f-80f0-17dfe3426675,Narciso Mercader Lucas,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 03:01:26.163083,classic,N/A,1
+1,471e19c5-2e93-4634-a029-d3ec97136f48,Clementina Bernarda Bellido Zurita,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 00:27:58.333152,vegan,,3
+1,aa42dd4f-ff52-429c-b79a-1910266d2485,Teodora Suarez Pi,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 02:51:33.086580,vegan,N/A,2
+1,6c829cdf-daaa-461f-a0e9-11749d570b94,Rebeca Perez Antón,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 06:21:51.824411,classic,,1
+1,9a1e6ed5-b265-4789-a890-c74fa59c265b,Sofía de Moya,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 15:43:49.834260,without_onion,N/A,4
+1,1ad37e5f-e234-433f-9741-f440955568f3,Emilio Luque Cardona,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 19:53:26.267062,vegan,,4
+1,31de4e5e-f3ca-467e-8028-881134b15385,Faustino Alcalá Huerta,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 03:48:22.670773,vegan,13.16,2
+1,3433f926-4ca0-4b5d-96b0-84b92933dabc,Rosario Rosa,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 03:30:48.237334,with_onion,5.08,5
+1,f7818408-324b-42e3-b89e-1bbfa2621e35,Leonel Olmedo Uribe,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 03:23:44.488870,vegan,N/A,1
+1,b5ff558c-aa00-420a-bb83-20658f0a9158,Reyna Esparza Jiménez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 16:23:04.515567,classic,,1
+1,d24255c6-cea5-4d7a-8ba2-8f89615cf00c,Chita Ribas Pozo,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 05:18:33.404695,with_onion,7.88,4
+1,19410d1f-793f-4668-b0bd-b4a213d95f14,Angélica Cuesta Sastre,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 06:11:15.066685,with_onion,9.2,1
+1,a0a88db4-b42a-45ac-bb7b-97fd9417337c,Lupita Mínguez-Francisco,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 11:50:21.857419,vegan,N/A,3
+1,7837a5c8-ee53-475f-a232-6e1a7211f205,Saturnino Gabaldón,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 16:27:41.240813,classic,14.39,4
+1,51d9672b-4d5d-4103-b802-1cb99c94ddcd,Sofía Feliu Montenegro,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 22:23:50.309190,vegan,N/A,1
+1,7a8fb761-441f-4d23-a021-12c17b46f361,Berta Almansa Jara,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 12:07:40.217722,without_onion,,5
+1,a2071795-482f-453b-8509-4d6f54b35719,Pancho Izaguirre Cortés,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 22:43:48.956751,vegan,N/A,2
+1,f23fa9b3-a4b8-4b5b-bbc0-f417a615905b,Juan Pablo Victor Manuel Castell Barragán,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 06:03:50.705964,without_onion,N/A,5
+1,a42afe98-7582-4fe5-952d-4dea01eef2e4,Ana Sofía Pareja Juliá,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 03:27:52.217006,with_onion,14.32,1
+1,1faa096b-9433-47d2-bd32-4bfbd323143b,Godofredo Jordá Isern,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 08:00:39.014151,with_onion,N/A,5
+1,a107aa4d-be4f-4460-b1be-896ae222f794,Óscar Gordillo Rosselló,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 01:08:33.824666,vegan,N/A,3
+1,283f0700-87d2-43cf-a866-b9677b311ce1,Trini Aurora Arana Sebastián,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 09:52:34.349949,without_onion,N/A,1
+1,03489503-be75-40a6-8cee-b31ff9bf95e1,Amaya Zaragoza Recio,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 14:51:58.268168,with_onion,,2
+1,93d656bf-1e6c-4aa9-82c2-0ce0cfbadff2,Paz Mateos Ortiz,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 08:10:11.280837,with_onion,7.26,4
+1,13d92d15-d797-4d37-83f2-7de92bfe7a58,Ximena del Solís,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 05:50:27.290052,with_onion,14.59,3
+1,b0bfac3e-89f4-4d23-9984-20023d25a9b3,Horacio Zurita Alemany,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 16:23:17.580447,with_onion,,1
+1,d8ba4815-4d9b-475d-91da-8185539dca5f,Nazaret Gonzalo Roldán,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 10:44:15.108847,with_onion,N/A,1
+1,c9a68a17-2bf9-41e9-a498-44f519fb2ff8,Renato del Lobo,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 23:35:11.537041,vegan,N/A,4
+1,1bc4406f-e41b-42a1-8985-642063732e79,Apolinar Muro Monreal,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 00:13:01.928720,without_onion,N/A,3
+1,b765c419-fee3-4188-8501-a8df42ea64fc,Ruben Porras Coronado,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 04:23:53.628190,without_onion,5.76,2
+1,7ad42682-0795-49e7-b31d-2274f32508e8,Blanca Albero Márquez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 11:19:00.711550,with_onion,8.15,4
+1,ee0f9f16-03e7-4f8b-b026-4ef9c16865a8,Ricardo del Enríquez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 13:24:51.407347,with_onion,,3
+1,a4d5838e-bd86-406f-ba14-35b023f51749,Pelayo Cabañas-Sanjuan,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 10:58:03.659032,with_onion,,4
+1,d42a62ca-689e-4828-a3ed-1d37e008bd13,Rebeca del Bayo,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 10:05:05.941351,with_onion,N/A,3
+1,fc20d86d-83ef-4a7d-b8d0-3273f71cd182,Danilo Río Rivera,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 07:58:42.984777,vegan,,1
+1,ff5abc63-514f-44d1-bfb6-35746a110a34,Félix Alvarado Gallo,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 14:22:09.494008,with_onion,N/A,2
+1,10eb5cae-f6d0-4ac5-a917-d85dddbbf9b8,Manuelita de Huguet,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 12:22:46.966523,vegan,14.47,3
+1,6dd4929b-a2ba-4f94-b58e-4296b376f0f5,Ámbar Benita Taboada Ballesteros,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 03:30:16.170181,with_onion,5.39,2
+1,55ec16b4-90e3-4944-8b6f-ec7cc49c3957,Reina Cuenca Montaña,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 12:34:52.880454,without_onion,,4
+1,256315a4-0dec-449d-b4ef-1d7efc6b0255,Hector Gallo Anaya,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 23:30:01.901346,with_onion,N/A,5
+1,483c1112-0ade-4aa9-9479-8737f68d1e9d,Calista Ágata Vila Herrera,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 09:16:10.981283,without_onion,N/A,1
+1,3d4cff78-2823-455b-88ea-7dce0db22b17,Moisés Cerdán,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 02:53:49.352510,vegan,N/A,3
+1,972a8d83-4fdf-44a0-9afa-307a36421d2f,Lucía del Tenorio,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 17:45:22.685401,classic,N/A,5
+1,6f230460-3397-4d7b-9a37-f8e2173cadf3,Candelario Lara Tapia,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 15:14:29.187906,vegan,N/A,4
+1,56edd403-2835-485c-96b9-72dbb7d17c2a,Natalia Noriega Parra,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 14:10:46.884461,vegan,,1
+1,b041bb43-2d0c-4fc5-83bc-af0d39626ab4,Brunilda Cid Cazorla,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 16:13:30.031659,classic,N/A,3
+1,bcc712b8-ae99-44ab-bf7d-3d2a9e9e133d,Prudencia Clemente Baquero,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 13:30:14.504573,classic,,2
+1,ced35b0e-8b00-442c-b473-2bc147197cc4,Asunción Brígida Quero Villa,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 08:21:18.174745,classic,,2
+1,e95c09b5-47c4-4e78-bb68-324227937821,Curro Simó Costa,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 06:06:43.285965,with_onion,N/A,4
+1,c16fce62-8903-4aaa-a09a-e62334091726,Cecilio Rosa Domínguez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 18:04:58.423084,without_onion,,5
+1,4ea807ad-9a16-41b2-9f98-996cf3a7cd5c,Alberto Egea Sarmiento,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 23:31:38.953605,without_onion,N/A,1
+1,07d7ff7f-1a03-4ac7-a121-fdb7d3606549,Toño Torrents Castellanos,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 05:14:13.471306,with_onion,N/A,4
+1,5c19435d-61af-46a2-bcb6-372b2e8c2761,Josefina Losa Cáceres,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 01:29:13.979683,without_onion,,4
+1,4413186a-eb4c-44a0-8d6a-67b8911e94d6,Alfredo Estevez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 20:58:03.215182,vegan,N/A,1
+1,f814961b-0055-4037-aa77-8a70ca716dda,Carmela Soler Gomez,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 22:06:38.070355,without_onion,11.14,1
+1,bc9d3484-81ed-4ff4-b8e7-f040afaaa8da,Severo Estévez Priego,Palma,"Urbanización Mario Cervantes 73, Álava, 27516",2026-05-01 15:24:47.018378,without_onion,N/A,4

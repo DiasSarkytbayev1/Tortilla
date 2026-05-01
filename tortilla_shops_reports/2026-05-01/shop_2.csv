@@ -1,0 +1,285 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+2,8a3442b7-2d7c-404a-91c1-e47d79e3c449,Víctor Acuña Blazquez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:12:42.708905,classic,,3
+2,991f2e87-06f5-469a-9947-a583ed465608,Florencio Piquer Batalla,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 09:39:35.472109,classic,N/A,2
+2,07ba9007-2820-4149-954d-ff614a10441c,Anastasio Ávila Guijarro,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:42:34.756690,with_onion,11.11,3
+2,bd87b676-9021-4e05-8eb8-38086e7db4bf,Filomena Velasco Godoy,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:30:07.658823,classic,,4
+2,a037d918-f81b-4f3e-9468-fc62bbe6ae21,Amílcar Sacristán-Gallego,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:17:49.743541,without_onion,7.58,1
+2,667b63b9-3687-4a5c-a82a-c29ee2e4938e,Emilia Urrutia-Checa,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 11:27:20.284232,vegan,6.93,3
+2,bafdfddb-e310-42eb-b068-c741b1604509,Bernardo Girona-Peralta,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:46:44.452636,with_onion,,1
+2,daf02c1b-7114-4106-9251-df41ff502890,Felipe Pastor Soriano,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:01:07.786235,with_onion,N/A,4
+2,917d2845-fdc6-41f1-873c-85f76f956901,Ale Álvaro,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:10:29.481061,without_onion,,5
+2,c9effd8b-358c-49e4-9279-c7f68b7d0c54,Tamara Páez Berenguer,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:19:35.721356,without_onion,N/A,3
+2,f2ee827b-8eea-457e-91d7-66d371a6ea8d,Sebastian Martin Vélez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:13:03.439559,vegan,,2
+2,6c2e850c-38dd-4bbe-8fde-dcd85d9701d4,Aitana Casals Tur,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:37:36.384929,classic,14.88,2
+2,3c94cf45-2be9-4f1a-ba1c-a4f240b05413,Hermenegildo Juan Francisco Goñi Porta,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:48:45.002103,with_onion,,1
+2,f9ec1032-a8e3-48f7-94f0-dee30cdde05a,Cosme Falcó Palacios,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:37:47.439864,with_onion,,1
+2,15fead80-c196-47fc-81a2-88616da55387,Elisabet Benavent Macías,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:06:54.495679,classic,N/A,1
+2,039da22c-0110-4cb7-be37-5b43f50d7b67,Reinaldo de Carreras,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:33:35.042772,with_onion,,2
+2,048bff0f-d71f-4e5e-a946-fbdd874bf637,Plácido Almazán,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:09:04.765926,without_onion,N/A,1
+2,af7fbf12-ac05-4fe0-a1ed-7892ee005326,Inmaculada Cayetana Beltran Agustí,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:21:27.712380,classic,,2
+2,91a69d32-ea61-4a13-b054-07b9d0300ce1,Virgilio Suarez Espinosa,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:23:19.648856,vegan,N/A,4
+2,5ec6a268-fc82-4afe-b9ae-f008df8edc81,Yéssica Ribera Bauzà,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:01:58.741912,classic,14.69,5
+2,40f8c68e-885f-4111-82f5-82ee8303b453,Valero Ortega-Frías,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:59:53.254911,vegan,7.7,4
+2,582932ff-b967-4a28-a329-33a00d6a53df,Nicolasa Méndez Sales,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:20:01.329352,classic,13.07,2
+2,7efeed5e-904a-4621-a155-71b28f5401d6,Pascuala Borrego Roda,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:18:38.250189,classic,N/A,1
+2,840a157b-1b8f-4cee-9bab-9cd9f77a1a06,Eustaquio Moraleda Recio,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:46:26.359636,classic,,3
+2,0df085fb-2415-4c6b-b234-eef95d224d8a,Cornelio Prats Prada,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:35:16.497739,vegan,11.64,1
+2,4dca67ae-e803-4206-a44b-76709119b8c0,María Fernanda Amaya Palma,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:33:48.559649,classic,9.65,1
+2,8da3afec-8946-4c24-afd1-d53df697be35,Rosendo Vilar Cabeza,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:24:00.320551,vegan,6.64,2
+2,e8e6ccc7-2866-4681-b31a-642480fc9cb5,Rosalía del Mancebo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:08:18.351625,without_onion,N/A,1
+2,246a32a2-2c46-4d97-a78e-f5839affe6d7,Macarena de Acedo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:25:32.560143,with_onion,N/A,1
+2,65170b7e-fd27-4e74-b280-f31d35df967b,Pío del Figueroa,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:21:51.777121,vegan,N/A,3
+2,d88d5685-910c-43ce-a04c-e92ed962bedf,Hermenegildo del Revilla,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:12:26.633082,with_onion,N/A,4
+2,c81a4794-1788-41ee-bdb5-e02b813c9675,Paz Adelaida Roca Salazar,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:09:36.874355,classic,11.93,1
+2,721325b8-6613-4c43-b577-86b621eb65ac,Gervasio Guillen Aznar,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 09:35:36.995636,without_onion,11.84,5
+2,84427de4-dbed-4037-ae21-dba3e2a40fdf,Ariel Ayuso Torres,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 19:08:44.303736,classic,N/A,4
+2,98617957-354f-4230-b4b0-6db554c88db6,Amalia Acedo Palacio,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:47:11.231646,without_onion,6.29,3
+2,7f72a368-1ae3-4d43-8fd5-9377e451a443,Amancio Valls Saldaña,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:02:18.609460,vegan,11.21,3
+2,d792d89d-2c7a-4ed1-914a-72c46c0727b2,Dionisio Maxi Bayo Donoso,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 09:20:57.081116,classic,,5
+2,0ddc1b4d-17e3-41e3-ad2c-91dc58ac8947,Odalys Arco Miranda,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:56:01.201578,classic,N/A,2
+2,87aae106-6932-4b06-98f1-df11dea90a33,Martin del Torrijos,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:55:06.235457,vegan,N/A,5
+2,9c08b069-7fd6-4328-9acf-71d8324aa8a2,Cebrián Caparrós Calzada,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:26:14.422428,vegan,13.27,5
+2,5fc8d4b0-7213-4d74-846b-c7914800fa5d,Claudia Vergara Cabanillas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:56:17.478846,vegan,14.77,5
+2,99a9d719-7e08-4bf5-8d26-f6eb481fd945,Angélica Oriana Barba Ballester,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 15:15:05.075110,without_onion,12.76,4
+2,b264e9d7-afec-489b-894e-45a9ed443a63,Eliana Alberto Artigas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:17:59.816337,with_onion,12.85,3
+2,8cd4de43-32a2-4171-b45c-c45b735128d2,Rodrigo Lluch Barroso,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:11:48.477056,with_onion,,2
+2,7b41c27b-29fd-407d-997b-4bd152a08a8d,Evangelina Exposito Viana,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 09:21:34.746864,with_onion,N/A,4
+2,8a2bcca4-c114-43e2-993f-08cf8632c215,Joan Figueroa Llabrés,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 13:54:22.687186,classic,,5
+2,ccea0993-245c-4735-b026-721e957cfa54,Abigaíl Frutos Llobet,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:54:52.256546,with_onion,,5
+2,eb03f8f3-d132-4fa2-af99-afecb09a8178,Antonio Ferrán,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:58:07.005120,with_onion,14.88,1
+2,503649f8-cb0f-41e3-a85f-f8ba940a6816,Emilio Arregui,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:31:13.533751,vegan,13.77,2
+2,7c9d30ba-221c-47f9-8623-3820bcfc3289,Samuel Damián Boada Sabater,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:34:04.108656,with_onion,,3
+2,318022e9-fd21-4699-b9a2-70439428bd47,María Belén Iglesia Acevedo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:13:27.399318,vegan,12.26,2
+2,ccb899f3-4b9b-409d-952e-5f3ef6323a3b,Prudencia Trini Jiménez Daza,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:30:34.650642,vegan,N/A,5
+2,85c585d9-33b3-496a-aa02-69b30988fb40,Tomás Cánovas Cabañas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:08:05.744308,classic,,2
+2,6c8bdc3a-e404-4f94-a5a0-67dba15c136d,Fausto de Pla,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:20:35.394366,vegan,,3
+2,67138d29-3cb7-428c-bfcc-998db07395a4,Luis Ángel Ibáñez Higueras,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:55:40.980556,classic,N/A,1
+2,e8ba944f-b7a3-4912-a21e-a840d32dc0b2,Inocencio Andrade-Sevilla,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:29:40.656633,without_onion,N/A,1
+2,865ffa0d-57f7-45c7-92b1-60154c6b63c3,Marcial Franch Múgica,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:41:32.223635,without_onion,11.91,4
+2,a1186a8c-9c14-42e6-9eed-5cf2796801af,Juliana Yaiza Ramón Olivé,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:04:36.092808,without_onion,N/A,2
+2,56462306-9b8d-4c12-afb9-4340a183ce91,Octavio Wálter Parra Corbacho,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:41:40.076469,classic,14.08,3
+2,a42d7fca-393b-41e1-bbe4-f30aa4d939db,Elisabet del Cardona,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:17:12.782079,with_onion,,4
+2,5b5b1b60-bc85-4521-ad82-d22feea415ea,Emilio Vaquero Téllez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 12:01:52.019924,with_onion,5.25,1
+2,90cb6304-d353-4d8b-ab58-d8990a522609,Apolonia Porta Peiró,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:42:38.425307,classic,N/A,3
+2,44a7f4bd-66f7-4b1f-b1bb-c35ae4f18d54,Calixto Alfaro Morán,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:43:38.220337,classic,,4
+2,c0e55d89-964b-4f09-9146-f09154f87fd8,María Teresa Laura Ramón Villaverde,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:50:14.959057,vegan,8.44,4
+2,04d28d32-399d-4ad5-9826-c16ca140ace4,Noa Zaida Armengol Quero,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:55:56.461418,vegan,,1
+2,d5d0af5f-0d4d-40ef-bb63-53b902e1ac63,Cándido Hernández Martín,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:05:33.159581,vegan,5.93,1
+2,10395337-4217-4353-8b39-6bd7f5ccf278,Encarnita Soraya Pedro Céspedes,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:04:42.462282,without_onion,N/A,3
+2,f4b2b8b2-772c-48e1-bb20-fce3b6260683,Pacífica Sanmiguel Bastida,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:18:49.716773,with_onion,N/A,4
+2,1933f098-19a3-4d79-b4fd-d822914101ed,Esteban Elías Alberola,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 20:09:18.618310,classic,12.63,1
+2,fe6eda89-d25b-450a-ad95-a69be26162ab,Trini Hurtado Ayllón,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 13:03:49.876277,classic,,5
+2,bc95f46d-b021-4e42-9307-c06e71a401ad,Estela Primitiva Elías Jove,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 15:31:26.186575,without_onion,11.36,4
+2,d1ffd30a-7677-4ba0-ae93-2d8a2ecc3bab,Azeneth González Tomé,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 20:02:38.039268,classic,,4
+2,20858eb9-d75a-47b2-a748-dda24af5b660,Gustavo Toro Tovar,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 09:18:36.587232,with_onion,12.14,3
+2,70ade19b-00d6-4941-8209-27b625938bca,Santiago Batalla Beltrán,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 19:30:42.051749,without_onion,N/A,5
+2,95d2878e-c754-4b1b-ab13-842aab7b1701,Montserrat Ibañez Serrano,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 13:50:30.829967,without_onion,7.76,4
+2,f57fd9e7-428f-4bfe-b57b-164bbb40ceab,Gaspar Cervantes Quirós,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:59:54.330603,without_onion,7.49,4
+2,d5a7df53-4dca-473d-bf81-0f0142894b5f,Irene Heredia Casares,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 15:26:13.418765,with_onion,,3
+2,e7ed6996-5729-46eb-9f5d-cdda87bd8ffc,Sarita Rosales Alberdi,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:10:36.576388,without_onion,8.43,2
+2,86c2d362-6ac9-45ed-9fd5-d609d1122706,Espiridión Izquierdo Albero,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:41:37.805870,without_onion,10.28,4
+2,72c5c569-4909-4eeb-b4a9-c28304b94d8b,Inmaculada Paredes,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:20:20.664320,with_onion,,5
+2,065e76e3-1a17-47a2-b042-1e38e77f9608,Áurea Suárez Salazar,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:57:45.603580,classic,,3
+2,cefae48a-d417-4ff3-b910-0076e9569b90,Rosalva Montserrat Ortega,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:49:53.587252,vegan,,2
+2,917436f1-8a82-4b9c-b6e3-62e00e9fbabc,Yésica Naranjo Bravo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:38:31.261795,vegan,12.01,5
+2,4b3adc38-35e4-4630-9746-627f1f6cbf09,Jordana de Riquelme,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:38:26.446970,with_onion,11.57,2
+2,daa49811-a8de-4619-a2d4-c7ede50404ec,Zaira Reina Expósito Tomás,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 15:47:45.406733,without_onion,N/A,4
+2,0355f54c-76f3-4d5f-983d-fe391b76f3f5,Gastón Peiró Toro,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:56:03.834415,classic,,5
+2,d624f687-3de4-4bf1-a4da-4c6e36a2d009,Mercedes Roldán Llanos,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:41:00.471599,classic,N/A,3
+2,a81e3e60-38ac-4aa9-a656-5a5d31ac1431,Joan Ramírez Maestre,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:47:41.123153,without_onion,,4
+2,fc18946f-9dc8-4805-8750-17338874fa4a,Benito Robledo Valentín,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:36:46.155062,without_onion,N/A,4
+2,ce737c20-5763-4e5d-8a74-e7179081f64a,Florencio de Garay,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:36:14.178375,with_onion,,3
+2,24235ed9-b9fe-42f0-aa19-525f856e7ee1,Virgilio Vélez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:52:36.233313,vegan,N/A,3
+2,e3717773-a771-4f1e-94fc-cf3667a51877,José María Serrano Soto,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:30:57.794978,classic,9.18,5
+2,59bf8fca-7cad-46e8-b6e0-df1fb7c3e07c,Reyes Olivé-Barrera,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:44:17.764010,vegan,8.86,5
+2,b3220273-0b10-46ba-ac03-adccfdcd97b6,Edu Molins-Huertas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:47:00.030279,classic,,2
+2,1621c4fd-e6e6-4ee3-8d6f-bfbab4d2e9f3,Berto Arnal Hierro,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:41:03.570239,vegan,N/A,2
+2,0954f63f-5608-455d-9306-5e631840242a,Angelino Cantero Corominas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:10:43.950177,vegan,13.49,2
+2,1f1ce6be-b847-4721-884f-8e5bbfdab260,Eva María Pino-Segovia,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:21:17.539071,without_onion,10.23,2
+2,912ba9db-c696-4d7b-a4ae-e1b7eb4df5d9,Paulina Murillo Correa,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:51:33.525946,without_onion,N/A,1
+2,35f9cebf-a496-40d9-af66-7ff322c3421d,Ambrosio Olmedo Juárez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:46:48.761033,without_onion,7.04,2
+2,aa7be0fb-0286-4e66-be7f-71c85cafce09,Tania del Gámez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 20:00:55.619257,with_onion,N/A,1
+2,61533639-dc38-4719-bfa4-b77358bb66e1,Erasmo Montalbán Heredia,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:29:03.835746,vegan,5.44,4
+2,ac8f71a4-36a0-4b3f-9dcc-5adb2d2bed1f,Inmaculada del Escalona,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:40:40.160312,without_onion,14.98,4
+2,a7deb263-6539-46f5-9b3f-3952bc687c0a,Martin de Calatayud,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:31:51.948901,classic,12.71,3
+2,9ae6ac85-be03-4939-85ac-21c97b718535,Conrado Marcial Mendoza Tomé,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:30:53.880802,without_onion,N/A,5
+2,ad320bf3-7f25-48ef-aeb1-f610b720c6d4,Eugenio Estévez Arellano,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:52:23.650559,with_onion,,5
+2,ed89cc30-63b8-4201-9f41-c210a9fba8b6,Odalis de Morell,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 20:02:33.527387,classic,,1
+2,2e0e04a7-7a0e-4963-a2f7-aea69259d8f1,Vasco Fuente,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:21:20.506671,without_onion,N/A,4
+2,b68da8a2-655d-4cde-b80e-4ff8c82b01fa,Reyes Aurelio Solano Campoy,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 19:53:06.987275,with_onion,,3
+2,e481fccf-dfc4-4e5f-9ba8-72e5694afd7e,Bárbara Iniesta,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:45:47.888613,vegan,12.72,2
+2,fca55430-9da5-4200-8802-e805389f1dc7,Eustaquio Benitez Morán,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:54:26.745575,with_onion,,1
+2,59cc9f4c-dff0-4866-9c4d-701eaf111666,Ramón Sola Blanes,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:36:41.355724,classic,6.76,2
+2,90209f23-247b-431b-a641-9b4c72690fd5,Mateo Bustamante Vergara,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:19:35.970029,without_onion,,3
+2,7760f007-dbe5-4c6d-ad69-c1f34a32b799,Régulo Borrego Luque,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 09:56:22.733010,vegan,6.81,3
+2,02f06a6a-8110-4bd7-a67b-34937eb58a43,Ruperto Rodríguez Poza,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 13:27:49.777134,vegan,N/A,4
+2,b83c79d1-6fd4-4864-8435-f65b90acf4dc,Luciano Pou Vigil,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:05:31.502360,without_onion,N/A,1
+2,e541af2d-2d8d-4d65-980a-3f86a43d87d2,Pancho Baena-Echevarría,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:16:35.999512,with_onion,N/A,1
+2,55ef714d-b1c9-4951-986a-32df333c0f88,Chus Ariño Pagès,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:28:48.432516,without_onion,N/A,3
+2,63271670-0cf2-4877-b437-5f51cf38dc29,Pánfilo Priego Blanch,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:28:16.841699,vegan,,1
+2,32ab7fa8-684a-4510-a564-cb2073ec0d3b,Amílcar Reinaldo Juliá Almazán,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:10:23.545632,vegan,,4
+2,b7301f90-b2e2-4d0f-9253-e0add0b50ef6,Ángeles de Verdejo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:02:04.270752,with_onion,14.4,2
+2,5d8c9a21-cc35-4825-9b6a-b26a42b091ee,Baltasar Tomé Blazquez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:13:24.345693,with_onion,13.6,1
+2,5a51dc66-529e-4e3c-ab04-8539b5a04680,Lázaro de Urrutia,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:18:25.670573,with_onion,8.15,1
+2,8590af99-a00e-4c83-b2d9-5558f12df7cc,Calixta Pedrosa Mercader,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:43:02.678909,vegan,N/A,4
+2,c88037da-7ba2-4e6c-a58b-97a7fcddd5b4,Amaro Cerdá Falcón,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:01:45.892737,without_onion,,3
+2,b5b27a00-7d72-411e-8699-ea0b7c4e8853,Juanita Maristela Guardia Villena,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 15:33:07.805523,without_onion,N/A,5
+2,c836af7f-4627-4a10-a0fc-957ff8060bfe,Elvira Ugarte Uriarte,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:39:05.837670,classic,N/A,4
+2,b248715a-baab-4e02-9c57-adbe9d3b1f87,Pascuala Blanca Jove Caparrós,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:37:01.144785,classic,,3
+2,d8092397-b574-41f6-a257-87b46973a0fa,Juan Carlos de Font,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:10:18.736260,vegan,,5
+2,16b3e2c9-58e1-4abc-a724-7bb9451f4455,Fausto Ferrera Reguera,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 20:27:09.637136,classic,11.11,2
+2,25246590-688c-4dcb-a7f3-310f13c45fec,Crescencia Cuevas Estévez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 19:18:58.506248,classic,5.24,2
+2,40a74b04-f288-44f1-a618-405076223071,Sebastian Contreras Cardona,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:16:21.592549,classic,,4
+2,d7e93c82-e56c-4e37-89b1-3512ff908775,Ileana Casal Ferrer,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:03:25.311475,vegan,N/A,5
+2,134ace0d-3ef0-4858-8393-3fd7c72d9607,Marc Cruz Yáñez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 09:48:24.826469,with_onion,,1
+2,f82012cd-5a91-48dc-b5e7-05586462b486,Nidia Guardia Reina,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:18:12.344716,without_onion,7.63,3
+2,b6a2de61-7347-4d52-a9e2-7fc743486bb1,José María Tejada Hernando,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:50:31.955471,without_onion,,3
+2,711d7a60-5c75-4eab-883c-e57924dc4282,Bernardo de Rubio,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:10:21.007525,vegan,8.4,5
+2,d0a67242-15d8-4fa3-8578-05dae074d563,Modesta Rafaela Meléndez Gascón,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:49:34.373775,vegan,14.03,3
+2,c2c28a24-0804-4d79-aaaf-35762330b0b1,Marcio Gaya Amigó,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:03:41.935585,with_onion,,2
+2,008a34bc-5419-4a58-9843-0a8862004261,Rosenda Vargas Márquez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:59:01.947250,with_onion,,3
+2,c8b8c9c8-5115-4d8d-a392-a23efbccb15d,Jacinto Virgilio Calvet Criado,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:24:30.446843,with_onion,8.5,1
+2,64120373-af73-467c-af03-bff5da7ab957,Manolo Roldan Arenas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:04:17.491044,classic,5.98,4
+2,34c6def4-65a1-428a-890d-73e1cdea3295,María Cristina Flores Ureña,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:47:07.379686,classic,,1
+2,b7862e7c-8124-4569-91b2-8ce73acb2263,Ceferino Bernal Andrade,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:13:57.941634,vegan,,5
+2,1537b9eb-f085-4082-a100-7a10c1b8c4ea,Eutropio Hervia Tirado,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 12:04:11.556770,vegan,N/A,2
+2,2fae1ab1-945f-4fc3-a60f-562d7b94a9ff,Paulina Esperanza Talavera Sáez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:56:43.742783,without_onion,,4
+2,2523b243-a1ed-472e-924c-bd5020c118b3,Clarisa Bustamante-Arnau,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:30:15.669870,classic,N/A,1
+2,47e518ab-07ca-4142-94be-791515510991,Javier de Vall,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:46:56.533186,classic,8.11,1
+2,870d34fe-b35f-4ddf-a544-afcfadc21ffb,Ramiro Coloma Milla,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 12:00:21.589515,vegan,,5
+2,aac7312a-b451-423a-b1a3-b988d27f096a,Isidoro Sabater-Elías,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 20:49:32.133597,with_onion,,3
+2,6bd7d641-c453-4aa4-99b4-89907d1a7318,Remigio de Girona,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:02:25.010517,classic,,2
+2,f73fedd4-a877-4207-a751-ad3745a262b7,Hernán Llopis Yuste,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:11:11.718249,classic,13.46,5
+2,505abbad-3955-44ae-9f18-075112519720,Jonatan Alvarez Pérez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:05:27.767532,without_onion,,5
+2,b13346f9-af39-40d0-bce1-cd9187ec288b,Chema Chaparro Manzano,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:32:02.378245,classic,N/A,4
+2,24c1dabd-022f-47d3-8da4-39cd99d20213,Modesta Cal-Canales,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 11:32:08.594235,with_onion,N/A,3
+2,4d35b96b-c2c2-488b-8162-9affd6513cfe,Maricruz Navas Cañizares,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:34:11.189306,without_onion,9.98,5
+2,15f6b2e3-dce9-4dd1-a9b1-c3b1010c7a3e,Marcela Pastor-Leal,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:04:47.009138,with_onion,14.87,1
+2,02d7a25b-ead7-4aba-b2ac-ca5346448171,Andrés Zorrilla Peinado,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:20:00.179134,without_onion,8.0,4
+2,5e243280-02aa-4838-906d-a3d9c2892a00,Demetrio Luís Montesinos,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:45:56.008874,with_onion,14.13,1
+2,708c8850-cfcd-4bd3-97ed-86e1bbf5c134,Ligia del Sedano,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:15:17.776807,classic,13.86,1
+2,bf7a0a1a-ddb5-46fe-84a9-9dd1efd47897,Carla de Luz,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 12:44:32.699093,with_onion,6.05,1
+2,dff2ae72-5caf-46a5-aede-718d94d1d93b,Hilario Urrutia Mancebo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:28:33.977152,vegan,N/A,4
+2,4cecbd05-8d9d-440c-867a-c0f806caf637,Gerardo Robles Garrido,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 11:23:02.978250,with_onion,N/A,2
+2,ebcce640-23de-4a35-aced-2581f0311c6d,David Manrique Larrañaga,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:08:01.791881,without_onion,,5
+2,5cd88c13-e38d-4c95-9428-a3ec0b9fc9f1,Jacobo Nicolás Cervantes,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 19:37:41.723728,without_onion,,4
+2,7f3d3218-cf28-47dc-b139-2741990c48f4,Timoteo Jerez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:02:41.635491,without_onion,,5
+2,d82f3b53-c32d-4e88-be6d-acafb20e38db,Delia Elisa Mercader Porras,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:24:48.402042,classic,7.48,4
+2,c03761a8-39b8-4d37-9b76-053dc3465318,Itziar Salas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:13:09.509986,without_onion,13.26,5
+2,9fd8f0c0-8fd3-4c10-9ea2-4f61db1a8016,Herberto Gimenez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:02:08.433862,with_onion,8.16,5
+2,18999b0d-d0f7-4435-b54f-828dcefa0453,Ale Castilla,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:06:55.736172,classic,,4
+2,b74e6b97-bcbe-4b08-8860-b1435dfc26e5,Rosa Blasco,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:42:20.105352,vegan,N/A,4
+2,64a4b491-a5e4-4daf-b2d4-ec71e44778d2,Selena Marí Ribas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:16:29.454768,classic,N/A,3
+2,9cd6383e-e556-4526-bb1d-a097afa99ad3,Marc Caparrós Mulet,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:37:33.089856,classic,N/A,5
+2,2e45fe89-ccd9-4e38-926a-62faba0b2285,Gervasio del Plana,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:06:30.863299,with_onion,,5
+2,a1689961-fc26-4c69-b8d6-d3180de7166a,Mariana Buendía Gutiérrez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:42:19.265779,classic,7.8,1
+2,ee140853-aa7a-41ca-8612-0a05937d8171,Reyes Boada,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:33:59.679473,vegan,,5
+2,8b5438e3-f469-4979-8a29-412eddce2f02,Tiburcio Seco,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:25:59.394603,without_onion,N/A,1
+2,a96996b1-784d-4c66-a698-9d29d031086d,Julián Pedrero Ferrando,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 20:13:14.187967,vegan,N/A,5
+2,374008ed-4368-42be-8a93-84c225c8bb0f,Manuela Vendrell Codina,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:54:05.150946,with_onion,6.37,2
+2,44780795-aac3-4e06-b8d1-1f40fc93d4ab,Alonso Corominas-González,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:14:40.381386,with_onion,,5
+2,817cde55-79d8-47ac-8589-21ec965dae5d,Octavio Urrutia Galván,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:06:19.946465,with_onion,,3
+2,c1c9d0c7-770e-4fb9-a7d9-491967afe2e0,Marisela Crespo Sola,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:30:45.739208,with_onion,N/A,3
+2,7ba286aa-f461-4f89-83bc-2324f6117629,Norberto Torrijos Álamo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:37:57.580028,vegan,6.23,3
+2,3cffe26f-7f5b-4363-a51c-f8f741434968,León Cobos,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:43:16.404141,classic,,1
+2,bea3ce1a-1593-483a-81c2-69e7088cb3ab,Mauricio Romero Perales,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:04:39.962602,vegan,,1
+2,32761ddf-88d7-4e66-a70d-7f14e7b3e5fb,Odalis Torralba Gisbert,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:07:08.115234,without_onion,8.97,1
+2,1fed8b0e-b950-4182-b96e-c12a28b6a609,Jose Ignacio Santana Hidalgo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:58:20.919716,without_onion,,1
+2,f6c0071b-de30-4f3f-bd16-5816a73a346d,Martirio Berrocal,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 19:52:31.165899,without_onion,,3
+2,3e75225f-adc0-45f5-9ebf-bc8198117a5f,Manu Paz-Bou,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 13:54:30.700284,classic,9.96,4
+2,f9f402ec-041a-4d86-ab27-59ac668e1f46,Valero Rosselló Cabello,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:18:26.148652,with_onion,8.22,4
+2,311bbe46-9f3e-4eef-bf03-dadf4d1b89aa,Tristán Menendez Muro,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:54:36.726393,without_onion,,2
+2,7ccd79b4-ff69-4704-a1f7-b566ae522181,Tito Otero,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 15:34:07.465343,classic,,3
+2,3dceabc4-29dd-4f42-b2fd-fe480bbcd8f8,Heliodoro Valverde Molina,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:32:04.222821,classic,N/A,5
+2,89cd92b1-3f13-49da-a8b1-46173878e152,Florinda Riquelme Cabezas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:33:07.755670,with_onion,,2
+2,49a36965-08af-43ec-95e4-47512cfa73b8,Darío Anaya Prat,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 13:03:26.918451,with_onion,,4
+2,1c3c8630-3e84-4489-8604-11d933e33188,Delfina Colom Vargas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:46:02.016850,vegan,N/A,5
+2,d93613b5-f72c-4462-aaa9-00c72f3e4349,Raúl Morcillo Menendez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 19:32:37.558547,classic,,3
+2,b3d2c9a7-d340-436a-8ff8-d28fbf916ff9,Omar del Vilaplana,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:08:01.400520,with_onion,,1
+2,0370a7e8-bb08-4f2a-bdee-1bfbb2f7b7d5,Xavier Valerio Pont Bonilla,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:31:41.028817,classic,N/A,4
+2,e0a359bb-7a34-43be-a8e2-c2c2886e8f08,Julie Rocha Aguiló,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:35:12.403307,vegan,N/A,1
+2,6c99ea52-4437-4640-b4af-d4f003a4fd55,Prudencia Castro Rodriguez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:42:19.388137,with_onion,,3
+2,eb5d73c3-3605-4e93-8853-97b0404f1d40,Estefanía Alonso-Martí,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:42:08.026146,without_onion,N/A,3
+2,abc56aa3-1f7d-4493-8f5a-08c9d4da3a91,Fanny Torrens,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:38:24.974502,vegan,10.68,1
+2,a843d2ca-c91b-4896-886d-f781022672f0,Carlos Andrés,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:52:01.226326,with_onion,,4
+2,f2740802-90af-434c-bc5c-2f95e5c7c280,Ester Morata Carnero,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:55:12.649858,with_onion,8.28,3
+2,2c99b348-4125-4d18-aa8a-d9f04644d0f3,Teodora Font Lobo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:36:29.284733,with_onion,N/A,5
+2,62214428-aed6-4c64-8856-e3d4057de92c,Arsenio Miralles Leal,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:05:37.985289,vegan,9.47,1
+2,56fad9b7-75f5-4b1d-b6b4-284411a0163f,Selena del Milla,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:57:28.917987,classic,N/A,5
+2,bc38f38b-7565-4863-9cde-52c421bd2818,Hilario del Barreda,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:32:14.942442,with_onion,,3
+2,983fdaaa-2c61-413e-8ab0-397258c9c26f,Emiliana del Quesada,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:33:41.578232,vegan,N/A,5
+2,0d7bc6ec-d3f6-4c02-b64d-11ba9a8b921e,Fito Pedraza,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:02:34.196928,with_onion,N/A,2
+2,48b79d7b-01c1-44c4-a821-fca9e67d8df1,Pelayo Navarrete,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:22:24.354005,without_onion,6.7,1
+2,92e0f9cf-b702-47fa-aae4-481380f9ade9,Fabricio Montoya-Sandoval,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 13:07:44.225404,with_onion,,5
+2,30872916-6eba-4078-be7e-4c3137307ee3,Rosenda Irma Cabrera Azcona,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 05:53:36.747768,without_onion,5.67,2
+2,acabbeb7-b915-4b3f-8478-7b2c0b66cd76,Adrián Yago Manzano Pérez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:51:53.556673,with_onion,N/A,5
+2,576d952d-7365-4a02-a1dc-add41611b0a3,Guadalupe Sastre Bayo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:52:53.030541,vegan,,5
+2,fddbaf78-dda2-4db0-9af6-f0820df3b063,Eladio Almansa Rubio,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 12:54:18.968517,without_onion,N/A,5
+2,2180a4ed-7eea-49b8-a6ff-864c1887457d,Armida Imelda Baeza Medina,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 15:09:29.924786,classic,11.78,2
+2,d9ce6d73-4e69-4dbd-96b9-9344f3474f44,Cayetana Coll Santana,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 12:09:32.017361,vegan,N/A,4
+2,cc4ed99b-b628-4223-bad4-c1b0af1c516b,Juan de Royo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 11:28:01.252275,classic,,3
+2,1a04ef6d-e43c-4e74-83f8-34b5d23456d5,Nidia Mayoral,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:19:27.216521,with_onion,11.97,5
+2,5bc3be08-c086-4db0-a13c-c33a113821ea,Cristian Quintero Barco,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:01:46.076721,vegan,N/A,5
+2,b3f83714-8fe3-4596-9630-e87c4d81e65d,Tadeo Maestre Bou,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:28:48.218194,vegan,N/A,3
+2,4664ee20-6a04-4c7a-8db6-80290d95a8e5,Claudia Verdejo Baró,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 11:00:09.906882,vegan,N/A,5
+2,f8274ee9-adeb-4c47-8e48-0f206934ada6,Araceli Adelina Villegas Castañeda,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:50:43.592696,vegan,14.05,1
+2,593dabfa-2ba6-45eb-b47b-c5cde892e0a0,Victoriano Gallardo-Sotelo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 20:45:08.820391,with_onion,7.28,1
+2,434c2c62-d3de-4018-97a5-8fff876787d4,Miguela Piñeiro Valero,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:49:55.361779,classic,N/A,5
+2,f5fae4bd-ab29-4c26-ae51-4b49046ba0c8,Ximena Tomé,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 12:34:56.495168,classic,N/A,5
+2,f0878a1c-754f-4c69-b6d6-3b3e414bd235,Amando Pereira Lago,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:26:03.889035,classic,,4
+2,1bd64e02-edeb-4428-9991-3fd91c09c3de,Mónica Valbuena Águila,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:15:31.834710,with_onion,8.25,3
+2,e42f9e93-8bbf-42b4-99bd-ff9dc75f4976,Ágata Martí Barrena,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:42:39.254453,vegan,5.53,1
+2,65f624b0-20d3-4a88-ad8d-fa56eef82112,Nieves Reina Guitart,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:06:07.515426,with_onion,N/A,2
+2,d6815e41-b9f3-4ddb-84ce-220589f9fbef,Amancio del Marti,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:25:20.742177,with_onion,N/A,1
+2,896b8833-18e1-4611-be4f-168589fc79e9,Pastor Yuste Galván,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:21:03.049211,with_onion,N/A,4
+2,7f6965a4-621b-4dee-a8f5-d9b212b8a141,Mario Marqués Amores,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:30:57.823751,vegan,N/A,2
+2,17edfd86-52c1-4ca4-8cc1-395a8dfb3886,Matías del Macías,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:47:31.251532,classic,,5
+2,d7348126-1521-4ac8-a10a-8651a889ce6b,Ricarda de Peláez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 11:06:58.236323,classic,8.13,1
+2,e45a6f51-4480-414d-9109-28681c7e8727,Carmela Claudia Cuervo Ramirez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 23:57:00.380370,without_onion,6.14,5
+2,2b79e8a5-20a2-4b44-80cf-d69ee622cb6d,Corona Gallo Menéndez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:20:12.143186,classic,,2
+2,ff0f64fa-18b2-44be-93ca-c5e1053ae403,Maximiliano Fuentes Palau,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:55:02.896195,vegan,,4
+2,b0f17543-2dff-4e07-bbcb-cf46d0e2681f,José Ribas Arjona,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 15:22:23.579021,with_onion,10.89,5
+2,777e8f4a-68f4-4cb4-ba3b-4e3df75791fa,Ágata Zamora-Porcel,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:44:22.706262,classic,13.5,5
+2,e0b829f9-917b-48b9-89bb-f1b398704041,Guiomar Leonardo Quiroga Martorell,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:04:19.851529,vegan,N/A,3
+2,2f37553c-c70a-40ca-b1cf-2c91554bc5e0,Raquel Sotelo Cabeza,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 19:49:43.582189,vegan,,1
+2,07268532-cb40-4a60-b9fc-7cd039a24c49,Crescencia Alondra Guerra Salgado,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 09:17:23.167416,without_onion,,1
+2,fc977637-483a-4f3e-ad02-0af5835255a0,Isaías de Sainz,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:25:29.444169,with_onion,,5
+2,234ecddb-db1c-4420-ace7-2c727eb41bd9,Rita del Dueñas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:20:53.638416,with_onion,,4
+2,278be372-4912-4ecb-ae5f-4faf773b4a3f,Aristides Cifuentes,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:23:03.873930,with_onion,,5
+2,284905ae-018d-4902-8606-af4e09450b1f,Rafael Marí Manso,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:16:30.897858,classic,,5
+2,9b37a766-49ea-49b7-961a-f4d9aee95339,Gala Ballester Segura,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:23:23.058369,classic,6.44,4
+2,e58766c5-e67a-4e2a-aed7-4816d698f8df,Cintia del Castejón,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:33:21.434440,with_onion,N/A,4
+2,c61048b9-1086-43e2-8565-27d4586557e7,Calixta Salazar Palacio,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 15:12:01.270487,without_onion,,1
+2,72ea8e41-40ca-4e80-b818-dcb8d0b6e7f7,Matías Trillo Téllez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:51:36.801078,vegan,12.31,1
+2,59902b1e-b19f-4784-8d2b-424f8d20c2f6,Cristina Villalonga Saavedra,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 11:43:47.777998,with_onion,N/A,1
+2,22501a6c-bb49-4099-8fe6-693c33d265a1,Maura Pou Peñalver,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:35:14.222348,classic,11.16,3
+2,cc6484c9-e9e0-492b-9096-c85d52c144f4,Amada Macaria Menendez Colomer,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:52:51.096817,vegan,13.34,3
+2,c291cd1a-72aa-4776-a5b3-660287dca02f,Teodosio Zurita Valderrama,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 03:15:30.027426,without_onion,13.68,3
+2,be0791ec-3635-4de5-8347-2efcc0a76b9d,Lázaro Bejarano,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:31:01.369853,with_onion,N/A,5
+2,21816e86-509f-4aa5-a946-4e24e77bbf8f,Josep Juan Lago,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 18:29:23.297072,with_onion,N/A,3
+2,87c50c8f-ba01-49d8-9a8c-eab74c1ca32c,Estefanía Vives Vilanova,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 09:40:47.576014,vegan,6.12,4
+2,58adcb67-21aa-475a-81fe-48b4ede247df,Domingo Egea Doménech,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 14:02:05.453855,vegan,,4
+2,5473ca06-0241-4c49-84c9-e1d4ff16f70b,Sol Galván Rovira,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 12:47:04.360198,classic,5.27,4
+2,0ed8c344-a0af-40c8-9a0e-31eb2680d530,Sarita Pereira Pozuelo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 13:20:07.777726,vegan,6.91,2
+2,71f77652-9183-446b-8b3d-8056b229c9b7,Florentino de Carnero,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:44:25.527721,vegan,,5
+2,01c8b87c-1bf5-4871-9ac0-2ac37858d399,Emperatriz Gargallo Pagès,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:34:37.513987,without_onion,,5
+2,95935940-8b92-497c-ac52-a6d55e830dd4,Régulo Reig,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 16:35:07.564995,with_onion,7.38,1
+2,1712571b-9dec-44a5-b935-62b0c33c81b8,Ciríaco de Gisbert,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 13:30:14.900848,with_onion,,5
+2,665362e3-ea74-49b4-8058-4939c36f4257,Lucila Peinado Soto,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:01:50.146494,without_onion,N/A,1
+2,18de3be8-d794-431e-9603-1a2c4c249edc,Lilia Feliciana Alberola Ros,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:30:08.782653,classic,8.39,5
+2,f6d2f1d6-edc3-4021-a998-eaff6b5498b2,Leonardo Alfonso-Angulo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 10:10:40.566687,without_onion,N/A,5
+2,90195e58-17c3-4fec-b019-95c249aae7c9,Casandra Pérez Zabaleta,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 02:28:43.689551,with_onion,N/A,4
+2,8413d09c-c953-4fd7-955c-f185bd59888c,Manolo Cañellas,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 21:22:36.284200,vegan,9.79,1
+2,105b1c04-38cd-4b3d-9e08-472ff32e9317,Ascensión del Garcés,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 06:21:18.443986,with_onion,N/A,4
+2,02590765-7e3c-4d25-94c1-d4a16d971522,Jonatan Rocamora Ríos,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:53:40.810089,with_onion,N/A,3
+2,e9e04a22-cd7f-40bb-beab-df505d5f027d,Fabio Haro-Mayoral,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 01:00:19.393539,with_onion,5.82,4
+2,331b79b6-eaaf-42cc-9083-438b6c79a8fb,Arcelia del Madrigal,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 11:35:40.682488,without_onion,,3
+2,240650ce-9418-4519-a660-5c11acb70c54,Martín de Cal,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 08:24:39.954706,vegan,12.38,1
+2,fd40e3b1-0a12-424f-ae99-12e38d44c8bc,Elena Alonso Murillo,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 07:06:34.026617,with_onion,N/A,2
+2,0b7d0f77-6e65-4571-af6e-e6f6b7170510,Coral Roura Uría,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 17:20:39.774962,without_onion,N/A,3
+2,561a0654-ccb4-4f67-a17b-45b1ae1fee3c,Ariadna Mur Villalba,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 12:30:56.196222,with_onion,,4
+2,c1e46730-03d8-48cf-af54-e7fbda34df65,Lázaro del Galiano,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:10:09.414595,classic,N/A,4
+2,ce87eba5-16cb-4bf7-a8d0-51f8605cdd91,Roberta Valenzuela Blázquez,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 22:08:05.754368,vegan,,5
+2,fe491490-de10-45b7-87db-eea20cbe9bc6,Jose Antonio Mateo Marqués,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 20:13:58.019717,classic,N/A,1
+2,d1e132df-b4fa-4441-99e8-f78dfe2aed38,Valentina Sotelo Hoz,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 04:25:57.791253,classic,N/A,1
+2,a5fa2551-a2bc-4462-a596-7ef7d1896057,Águeda Zurita Montero,Alicante,"Callejón Leandro Roda 273 Piso 4 , Palencia, 29207",2026-05-01 00:43:33.423772,without_onion,,1

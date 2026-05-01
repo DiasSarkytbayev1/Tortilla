@@ -1,0 +1,338 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+78,29ccb0ce-60fd-4d81-af96-10ffba75ff31,Loreto Lara Montoya,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:54:08.063004,without_onion,,5
+78,922ca825-c4be-454c-8709-cd30b4b4e491,Félix Carro Huertas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 00:25:23.733751,vegan,,3
+78,b1d2a2f4-9d59-4df8-849a-80c113837022,Flora Zamorano-Fernandez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:45:21.647862,without_onion,,2
+78,c9c7ed1d-9de7-46aa-9d8d-8b7c516b9314,Aura Quevedo Mulet,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 19:58:17.726303,without_onion,N/A,5
+78,a1828b0c-2b45-42e6-8b65-4c3f034ce877,Anastasio Segura Castillo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:01:28.170596,without_onion,6.4,4
+78,cbe22942-4bd0-4c7c-9ee4-5d5c965bb1fb,Custodia del Ricart,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:48:47.012833,without_onion,12.76,2
+78,1b452b3f-56cc-4441-94ea-8af97eaaf933,Fidela Escalona Escobar,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:30:48.114444,without_onion,N/A,1
+78,320a2404-f93e-4aff-9379-dc36b36c36cb,Amílcar Esteban Valera Herrero,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:57:24.927649,vegan,N/A,3
+78,c72ed1a0-6881-4cb7-81f1-f7e8d898f955,Sabas Casas Vega,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:42:46.569859,classic,N/A,3
+78,d431c157-e656-4b89-93c0-d7158d647841,Trinidad del Garzón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:00:43.230476,vegan,N/A,5
+78,d3fff0eb-4d60-455d-b6aa-8fcdd982cd28,Calixta Bartolomé,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:19:28.397471,classic,10.16,3
+78,2f573494-1c8c-4f9e-aa39-f8201eed292d,Aurelio Pedro,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:22:30.917527,vegan,8.31,5
+78,85752a82-cd56-446d-a75f-b2afa6366230,Maxi Ortega Cueto,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:25:55.429888,vegan,12.65,4
+78,beb134aa-a83d-4b1e-94d7-715c3564bb3e,Jose Luis del Manrique,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:26:30.734882,with_onion,N/A,2
+78,902de814-19c1-492f-8859-c9b960aad346,Eugenia Cano Carro,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:41:32.734359,classic,,2
+78,df18f1c3-b8f2-4b1b-b5bb-c0278c20266c,Zoraida Castilla Antón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:03:33.521437,vegan,N/A,5
+78,27b62f51-bc8b-41b0-9c02-8125a7dd5a75,Eugenio Cal Manso,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:12:36.809328,vegan,,1
+78,1cee7f71-8384-44b2-bc43-72a085f728b7,Gabino Fortuny Narváez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:44:10.011102,vegan,N/A,2
+78,7bc8b2e8-5fa1-46a8-9d2e-af6d483a51ca,José María Pedraza Reguera,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:53:15.900394,without_onion,N/A,2
+78,00d04a0f-f8f2-4d44-a183-3f27a967e048,Guadalupe Valverde,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:20:32.260423,classic,,3
+78,16993f07-8297-4889-b185-e7877323f5a7,Marina Gaya Río,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:10:45.754453,with_onion,,4
+78,32a51dd5-fe9d-4591-a291-f0ef4005d104,Judith Dulce Sanmartín Belmonte,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:07:22.028534,classic,,1
+78,5e5e71a0-cfb4-416e-acfb-806fd0cab3a6,Corona Leticia Canals Anaya,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:29:44.030828,without_onion,,4
+78,844c3750-2356-44a5-b66d-ce46d8b461eb,Lucho Aller Gascón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:04:39.189229,with_onion,N/A,1
+78,f44acf02-98d1-49b8-9ab7-2d24c3c5165d,Calista Carbó Sala,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:33:32.471439,classic,9.9,2
+78,1bf1dc58-77a8-42b7-a622-dd557331b897,Maximino Fernando Bayón Diéguez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:41:48.740540,vegan,N/A,5
+78,82fd85fa-1e73-4d4d-88ed-7b47d0769bb1,Sancho Rico,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:18:33.504837,without_onion,,5
+78,013e69ef-912d-4e0d-af74-d1ac5effdcda,Eric Bustos Soriano,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:55:32.507667,without_onion,,5
+78,82b5dfd0-c526-4f11-9cee-f1d892a1efd6,Charo Mur Nuñez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:43:10.394558,classic,5.78,1
+78,47ac8d74-f95c-48f7-8823-73abae55e202,Rodrigo Molins Cañizares,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:29:13.896217,with_onion,N/A,4
+78,6eaa7dd1-0d00-4ac6-8084-b0a0e4b79834,Jose León-Oller,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:13:56.477022,without_onion,,3
+78,615f75f2-1d4c-4099-a5ff-8cff7bbd426f,Nacho del Pera,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:03:07.819336,without_onion,N/A,5
+78,49a236c3-1f6d-4536-8356-3d3d598bd603,Jordana Donoso Mancebo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:54:05.329016,vegan,N/A,4
+78,7285cd76-c546-4635-ac4c-aa45a47b295a,Jenny Casas-Arce,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:53:45.852472,classic,N/A,4
+78,474ac3ae-f550-4b31-9bfe-348e7a7aedd4,Victorino Navas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:45:52.488137,classic,N/A,1
+78,d9c349e5-6e7d-47e5-8b3c-4b7761c650e6,Victoriano Valera-Roldán,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:51:07.523954,with_onion,14.61,4
+78,ae7b68c2-0fe6-4681-9797-36b06dc0eb48,Nicolás Pina,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:36:56.011625,classic,,5
+78,8df4749f-2f4f-44c7-bae4-075e9531930e,Paulino Carbajo-Villaverde,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:39:32.576896,vegan,,5
+78,5e7964d3-7fe9-48f8-8ee7-f239a03fd213,Merche Carro Amaya,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:05:24.716592,vegan,,5
+78,c548f0c7-777a-4dd2-a87c-34aeda31a8c5,Félix Chico,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:22:56.377806,classic,,1
+78,9804c268-a0fe-4509-abdb-48f5c39748d8,Corona Pinedo Saura,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:05:31.567407,without_onion,,3
+78,917ecada-5fed-41c6-81d5-2c479cb44226,Omar Porta,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:12:32.354711,with_onion,,2
+78,33f8a354-4e89-4fa6-a716-453be50ea7b8,Esperanza de Barba,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:27:41.050261,vegan,N/A,5
+78,eca9f757-d4f4-4e45-8d8c-c13d724e6212,Desiderio Valenzuela,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:46:47.085935,vegan,,1
+78,64f5b4b2-c932-4122-a057-69169815ea12,Aura del Cañizares,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:41:56.227912,with_onion,6.35,3
+78,b0efb942-3bb9-4c9c-89a5-4c2fa7651e87,Máximo Giner Bello,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:21:51.879424,classic,,5
+78,d92ef618-a4f8-4bbb-b8a4-c83ec383557c,Efraín Melero Uribe,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:39:46.684230,with_onion,,3
+78,e3435e36-731c-49d7-8a86-102ef20ab816,Tristán Dueñas Morera,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:39:45.185262,classic,,3
+78,53ac15b0-4cc5-408f-83a3-e6a7b8039d1c,Alex Ricart Cerezo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:01:35.856666,with_onion,9.04,1
+78,29ade32d-9115-4a5e-b540-51c25e2df2ec,Natalia Serna Aragón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:44:23.603675,classic,14.51,5
+78,e15d2687-3e2d-4776-819e-2702d4434919,Édgar Llopis Salgado,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:05:32.757922,vegan,10.97,4
+78,d09babdb-1b52-42ba-aa9e-93f06d8c26c1,Daniela Román Gutiérrez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:12:06.089055,classic,,3
+78,e080d0d6-ed98-484d-9cd3-298c7a6f44b6,Edgardo Fiol Quintana,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:55:30.042445,with_onion,N/A,5
+78,e1ae6439-f4b6-4256-898e-545945f12f66,Elba Merche Higueras Ferrera,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:40:44.897750,with_onion,N/A,4
+78,2b479978-05dd-4ae5-b878-e81236f69493,Ramón Hernando Almansa,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:05:42.960417,without_onion,9.91,1
+78,6a6b2047-3313-470e-97ff-ca55fab73853,Jose Manuel Roig Falcón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:28:44.816738,with_onion,5.82,4
+78,b901be4b-131d-4df5-874c-ed933195262e,Quirino Miralles Díez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:43:16.519279,classic,7.84,3
+78,bea5f208-4c9f-40d2-8a87-b02b20da91e3,Maricela Suárez Carrasco,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:10:21.681433,vegan,N/A,2
+78,270d8da0-056c-469f-b744-ab74c4df2533,Gloria Agustín Bayona,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:52:31.794561,classic,,4
+78,752094d3-e974-47b0-b185-256001d037b7,Elba Alonso Juárez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:28:59.765923,with_onion,N/A,1
+78,f00f5514-b22d-4b94-a00f-6fdd31d42f9f,Leocadio Andres Alcaraz,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:25:35.126060,vegan,N/A,4
+78,f47ae11b-de65-4a32-b731-04ccb25dfc60,Clementina de Arana,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:42:02.702640,without_onion,,1
+78,322e3dd8-b97f-43b1-b7dc-8e956f9f06d1,Martina Angelita Fonseca Cuervo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:09:43.238729,vegan,N/A,5
+78,27421ae8-3ba5-4f28-8750-c17aac0f7240,Ignacia de Zorrilla,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:55:13.108183,vegan,N/A,3
+78,c00d67c2-d990-40e4-977b-8a3206a12357,Leonardo Enríquez-Andres,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:55:17.751366,vegan,13.16,1
+78,3b685faa-b473-4d61-8268-66f392a88951,Hugo del Arévalo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:06:17.426970,classic,,1
+78,9719b655-e25f-4dce-b742-0e527fe53da7,Ramón del Camacho,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:44:59.598001,classic,,5
+78,31b6c931-5252-4478-b6b4-129eae342731,Cayetano Castro Hoz,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:13:16.704436,with_onion,6.72,1
+78,72165f94-4ae4-48e6-a157-353596f56ba7,Raimundo Horacio Calvo Barrios,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:45:17.680450,without_onion,,5
+78,b9f723be-bf3f-4d9b-aae3-2e85a7899195,Leire Riera Belda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:38:43.310028,without_onion,N/A,5
+78,25bcfc72-ce61-4d16-b4eb-6fc0a775345e,Raquel Guardiola López,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:22:06.474230,vegan,7.87,3
+78,35f1f76d-7892-4623-9895-ba98e4ad2e99,Jacinto Lorenzo Carranza,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:44:08.366030,vegan,,2
+78,7c6c968b-e496-4e0d-b22b-415bbca15e9f,Arturo Gabino Tello Pizarro,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:44:19.404721,without_onion,N/A,1
+78,7ab401d3-2eb3-47e2-84ba-3824ed78bcc2,Ruy Mir,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:29:07.027652,without_onion,,5
+78,ea9d895b-eaaa-4e8a-b87b-73f53018d8cf,Aroa Montserrat Uribe,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:27:57.858049,classic,14.17,5
+78,fa25a112-8699-41c6-a700-a6bb52ffeb30,Silvio Rincón Amor,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:13:17.629042,classic,N/A,1
+78,79e7f11f-f291-47a6-aa21-b4aaa0c7dc7e,Olga Espada Ojeda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:55:42.306857,without_onion,8.25,2
+78,5ad3c212-6b4a-4f5e-a303-256c5877a3c1,Marcelo Roque Morell Pomares,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:33:40.334425,without_onion,,1
+78,5e06318e-4f0b-4879-92b0-4157acd7f62c,Víctor Maza Montalbán,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:02:28.378536,with_onion,7.91,4
+78,d7440c73-97cb-42ba-a682-ab40303e4211,Fabricio del Montserrat,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:30:24.885444,without_onion,,5
+78,c719b432-8e7a-4baf-905a-45cbd6ca4fa4,Estrella Diez Villa,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:11:40.068878,with_onion,,4
+78,a779da60-e8ff-4b2b-81c5-44597713feed,Erasmo Narváez Fuertes,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:45:16.657479,classic,14.33,2
+78,fad325a4-a8ee-48f7-989c-2f3f9e27a209,Nerea Frías Olivares,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:08:53.456688,classic,,2
+78,4029cf8e-4039-4bd1-ad8e-6a70c0c8979c,Remigio Casals Valentín,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:34:22.434029,with_onion,,5
+78,d0b8ba38-983c-45e0-9ce0-de5378288718,Adora Figuerola,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:50:04.172931,vegan,N/A,2
+78,9bee6938-d04b-4a22-a78f-5848f71e5b60,Zacarías Calzada Gisbert,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 00:11:42.763399,vegan,11.47,2
+78,ebebdeba-217e-4132-adc9-f17591992d7b,Lorena Sanchez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:01:22.802399,without_onion,N/A,5
+78,86f53140-18fc-424a-9719-180915e51c89,Angélica Jordá Escalona,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:11:08.308282,vegan,,3
+78,cc0e5bc7-e2ad-4672-b9d5-508f57116024,Prudencio Alegria-Tomé,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:56:23.597074,vegan,14.18,2
+78,b81b3a6a-e972-4878-ba48-4b9c95b9b484,Rolando Beltran Bilbao,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:17:20.703342,with_onion,N/A,5
+78,72246998-76c9-4b37-8a22-ae859a70d402,Evaristo Rivera Barroso,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:04:18.342249,vegan,N/A,4
+78,24596704-98dc-4177-9c7e-af316c232327,Candelaria Cerezo Carballo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 19:26:12.627624,without_onion,N/A,4
+78,7225ea18-7f91-4220-8f7e-b652c5ddacbe,Nacio Gerardo Gutiérrez Bárcena,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:10:23.122378,with_onion,14.66,2
+78,47b9a453-805a-4de2-a0d8-2771f0bba99b,Bernarda Nebot Martinez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:30:35.490820,vegan,,1
+78,ed3a4854-80ce-4da6-9c93-22299abd7693,Clara Tomas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:01:39.233565,with_onion,,5
+78,067d9c38-941f-4475-ab74-f5269b3dce79,Chita Haydée Pardo Alarcón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:14:36.181732,vegan,,3
+78,709eb15d-1206-4619-aeaa-a9b1bd7a888b,Débora Torres Roda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:30:18.081318,vegan,N/A,4
+78,3cd231d6-11f8-4d76-83a1-b6c96fee27db,Joaquín Burgos Camino,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:33:14.121429,without_onion,,4
+78,3b47f3f3-968a-41a8-b6d3-05db6527fef1,Perla Lorenzo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 19:14:14.735860,with_onion,14.11,3
+78,35208380-049b-4618-bb9c-9c29b3ca9971,Paco Pinilla Azorin,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:29:47.243488,vegan,N/A,5
+78,d486a777-430b-4e30-85a1-38b99fe66727,Federico Duque Salom,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:44:39.084662,classic,7.03,4
+78,5688e1c8-3617-4407-a2f9-59f185b3159f,Maite Anaya Novoa,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:50:15.971276,with_onion,N/A,2
+78,6184a6e8-7b08-4832-a120-6aca04c7b114,Eugenio del Carmona,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:15:55.144154,with_onion,14.59,1
+78,d372b575-0704-47e5-ad9a-ec070e4a55e2,Diego Giner,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:13:25.638507,classic,N/A,4
+78,65116834-c1de-4aa8-8807-5a49599aa26c,Dorita Toledo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:07:52.689902,classic,12.88,3
+78,78be8417-73e6-4a8e-8e4f-9d00face3bfd,María Jesús Velasco Salas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:42:11.027953,classic,N/A,4
+78,e15ecbe3-3c33-4d0d-9fa8-87ec142dbd9c,Sandalio Cañas Tejedor,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:29:56.469253,with_onion,N/A,4
+78,4514c860-0884-4029-8eca-12facd3e673d,Eloísa Comas-Córdoba,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:34:12.207689,classic,,1
+78,d1712d15-db4d-40aa-90e7-1c7a3e97a6ab,Sancho Aguilera Río,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:01:33.543527,classic,11.3,2
+78,3c14654a-03f8-4ec0-af5d-3fd1c26a1f12,Rafa Zapata Reguera,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:21:46.684493,without_onion,,3
+78,be57bedd-2eb8-4f1d-9364-0dbbe7e92c0d,Narciso Cortina Tamarit,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:25:52.355592,with_onion,,5
+78,c2b3cd11-3a59-4a70-81a8-33d76b49d887,Amparo Manuel Iriarte,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:04:50.631128,with_onion,N/A,4
+78,e46c3a1f-72ea-4b20-9fc3-437049b9a0eb,Ximena Riera Blanca,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:42:11.979576,vegan,,3
+78,44782559-48e8-45f4-bfa6-5cbb4c2c1191,Reyes Palacio Tudela,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:48:49.069591,classic,,5
+78,3dafd02a-830c-447e-9cbd-c4a9e44d37bb,Carla Saez-Palacio,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:42:10.869996,with_onion,10.51,1
+78,ac00b290-9520-4307-ad1b-fce75f63a19a,Luís Cortes,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:45:23.856495,vegan,14.66,5
+78,e3524b61-410b-40aa-a00b-8a711b63b6f9,Leandro Cózar Navarro,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:34:43.438802,vegan,,5
+78,af798af5-aff5-4325-993e-4db559cdbf85,Fabiola Pol Gascón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:08:00.258327,with_onion,,4
+78,5aefb10d-2b89-4959-802a-796bd3db3709,Elodia Arteaga Talavera,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:25:53.895100,vegan,,3
+78,035f32e6-fef8-47aa-8d71-816f996aeaf3,Tecla Jáuregui Castrillo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:27:51.659931,classic,7.55,2
+78,a891cb96-e3c5-4048-a2ff-879bbffbe7f0,Teófilo Tolosa Losada,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:09:57.801690,classic,8.02,4
+78,7319897f-dc5d-406d-93bd-605f0b492b58,Aránzazu Atienza Castelló,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:30:18.179101,classic,N/A,4
+78,a925b72c-bdd9-4809-a6ca-62d8ea026e76,Leocadia Cerezo Ramos,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 19:57:02.169465,without_onion,6.3,4
+78,accde3ea-6cc0-462c-a862-b0f414f54b4b,Clarisa Márquez Moraleda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:21:18.705251,without_onion,,1
+78,5ca19c72-3a10-4d85-8fdf-eed1bd6e36b5,Herberto Franch Mateo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:41:00.249223,without_onion,,2
+78,5541895a-d44b-4a4f-8268-7c546a421da7,Amílcar Cobos Poza,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:16:31.629287,without_onion,8.87,5
+78,cbb88e9e-b4e4-4b68-8c3b-74dba03e5a10,Gabriela Solé Bonilla,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:37:47.829639,vegan,N/A,4
+78,4884194c-e1a5-43dc-a42b-33e22aedf917,Hernando José Manuel Cerro Bravo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:10:40.912907,vegan,,3
+78,807e82e7-fcf7-4bb1-ab35-33d9d50d3d19,Camila del Fabregat,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:20:27.756999,classic,,4
+78,7f32f32f-27ae-4051-8727-d9191edae710,Pepe Cobos-Barreda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:37:59.736363,with_onion,5.63,5
+78,3ef4a202-205c-449b-a3a6-408d289ed660,Albano Valls Manso,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:45:49.577002,vegan,,1
+78,b5737f1c-7845-4414-8e54-e95509891867,Isa Agudo Fajardo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:24:32.148957,with_onion,5.98,4
+78,65fcb984-c832-4991-a6a4-08b597d8fef9,Ale Sevilla Báez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:16:28.830791,without_onion,,1
+78,bf3188e0-da6b-4833-9a9d-d70f2a477cc8,Visitación de Belmonte,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:10:53.537467,with_onion,N/A,2
+78,0932361b-8600-46ca-9419-1a1b85734f7d,Augusto Olegario Mas Piñol,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:44:10.087255,classic,N/A,4
+78,e3f69543-1d40-4a04-a5e6-95ce082b8bc5,Marcela Roura Agudo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:26:31.022856,vegan,11.79,3
+78,b1d42e37-fe23-4602-bac2-add27bd23713,Bernabé Augusto Francisco Asenjo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:31:40.225704,with_onion,,2
+78,e98dc769-e958-4393-ae18-e45051d7046c,Morena Fabiana Vázquez Plaza,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:54:40.533823,vegan,12.06,1
+78,5d3bf21d-ad92-425b-81ff-285e05a1e863,Elba Rosaura Ortiz Ropero,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:04:18.848953,with_onion,5.7,4
+78,d4d6657e-56ff-4cac-9a18-f55ef4493d65,Eutimio Font Barceló,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:16:20.671830,classic,N/A,4
+78,66659c93-bdf4-423d-9622-9233982670e4,Efraín Aníbal Cuevas Giménez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:04:57.373391,vegan,13.41,4
+78,9604c1df-3f2c-4aae-b6df-05e8e88b08ee,Rafaela Sanz Perelló,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:59:20.608540,vegan,,5
+78,dc68bc9b-4056-483b-9098-627da91e1f46,Ildefonso Aguirre-Arenas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 00:53:19.658337,vegan,N/A,3
+78,b8f09355-62b6-4d0f-b987-953237db167c,Sonia Casal Navarrete,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:53:39.862047,without_onion,,4
+78,6b851b9a-4811-431e-951e-0d26c0b341ee,Micaela Borja,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 00:41:15.082313,classic,,2
+78,2792f18c-4b7d-4087-af6f-fd37feb44acc,Omar Abel Ferrer Ibáñez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:14:15.801753,with_onion,N/A,2
+78,3b1a3e84-2127-435d-bda1-d8dd825adfe4,César Benet-Doménech,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:31:21.080844,classic,10.56,2
+78,15e39cb9-47e2-4264-bd34-7301085b8502,Margarita Giner Hoz,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:06:58.774638,vegan,,3
+78,5b0a9892-6b01-45c2-a22c-13993e1aae0a,Isidora Piñol Macías,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 00:31:15.987600,vegan,,5
+78,b15afa45-b0e9-49d4-9e0d-5813844e486d,Amando Juan Palomar,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:02:37.299788,with_onion,8.94,4
+78,f92f900a-adbb-45fe-9aea-5e97c387c17f,Teodosio de Gálvez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:49:49.394426,with_onion,N/A,2
+78,5a1ae19b-5b7b-4f47-9cb5-365574f25ef0,Jose Antonio Cruz Moll Hervia,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:00:11.094577,vegan,10.56,4
+78,080200e3-c2e4-4734-b367-4af1fb2ea1ce,Cruz Vélez Bárcena,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:42:04.428785,classic,N/A,1
+78,220500ea-37c3-4ecb-b5f2-5e454c43861d,Felipa Márquez Cantero,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:38:57.378385,with_onion,,4
+78,33f9d97e-9b84-4ef2-b1ca-a44c657a9693,Roberto José María Pedraza Izquierdo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:46:31.245265,vegan,N/A,1
+78,d6e667e5-f915-4857-b1da-f02825f7c7d3,Reina Donoso Martínez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:39:53.760365,vegan,6.65,3
+78,18d875be-a89f-48c3-a6f1-74fbde6ad780,Sarita de Sáez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:10:27.929446,classic,,5
+78,006f960d-7fca-4d0a-968a-8f84346520fc,María Fernanda Tejada,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:07:36.206130,classic,11.35,1
+78,35eeee8e-8693-41a4-a132-01478e0a6a97,Azeneth Solé-Arévalo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:35:23.390882,with_onion,12.92,1
+78,51762340-e6d7-4229-8905-a5dea007d9e4,Brígida Barceló Cuevas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:32:17.213903,classic,,3
+78,bc0a0f20-2f10-459f-aa77-d4a39ca96b8f,Alejandra Benitez Bejarano,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:10:15.997885,classic,8.57,1
+78,7559c8ee-7a5b-4eb7-9720-105efb16071a,María Belén Mariño,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 19:21:12.270138,classic,N/A,4
+78,dc25a608-0c1f-45db-8c13-e3504b7906fe,Susana Tomé Rojas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:53:45.294660,vegan,N/A,4
+78,51667a87-0e15-4c51-830b-4ead9d4b26bf,Clarisa Aguirre Puerta,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:15:31.956070,without_onion,13.62,4
+78,35705703-809d-4678-a7ab-1e2b15ec4a22,Hilario Avilés Arco,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:05:45.248832,vegan,,3
+78,6f76cf03-d6ca-4450-b7f6-e1f9039bcfc1,Mariano del Echevarría,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:25:15.746533,classic,6.46,2
+78,6360bc39-efb8-409c-9b29-1472405492e9,Salomé Amat Tovar,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:03:24.285643,without_onion,,1
+78,4e2ff382-8245-47e8-b871-60f8b6f23600,Lucas Cándido Paz Giner,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:43:40.164892,without_onion,12.96,5
+78,37257dc5-41e0-424d-9339-9051581cf1e4,Reinaldo Pellicer-Ramis,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:43:08.398878,with_onion,,3
+78,a87ff71b-50e3-4f26-98c8-50c72062248b,Clotilde Revilla León,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 19:03:06.539075,without_onion,N/A,2
+78,3cefdfa7-36e8-4562-91aa-bc6eb2d5fc9e,Clotilde Aguirre Lillo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:57:32.987908,without_onion,14.17,4
+78,da65c458-fff6-4653-9091-5b8f7e9b2877,Chelo Garmendia Carbajo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:19:46.692493,with_onion,N/A,1
+78,9a00ac6a-5e13-463d-b6e7-78786fbc3401,Maximino Prieto Jáuregui,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:30:47.162684,classic,13.98,5
+78,b9119c0e-71c4-41e1-a6e9-56a79437ba26,Juan Manuel Danilo Salcedo Abella,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 19:02:04.944538,with_onion,,4
+78,04b54751-9b47-4a3a-b06a-08c3082ac764,Encarnacion Pombo Real,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:40:31.953086,with_onion,,3
+78,15be29b4-b449-4935-b1cb-d47515346272,Consuela Ibañez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:05:14.226052,vegan,,4
+78,8338a43b-c8c1-41f6-b508-fa8756ebc895,Valerio Peñalver-Oller,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:35:53.743104,classic,N/A,1
+78,a0e48957-6c72-4669-80ae-953081b0446a,Óscar Benavent Nogués,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:02:30.125009,without_onion,13.12,5
+78,b838572d-8c38-4645-bd3f-f9dc442f22ed,Camilo Hernández-Pardo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:58:57.901921,classic,N/A,5
+78,10626947-59c0-4bbb-9f7e-687920d20a79,Lupe Andrea Corral Benito,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:46:09.551392,with_onion,,4
+78,89ac1422-727a-46dd-95b6-05d8214261cb,Eva María Marina Puga Jerez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:27:57.390350,with_onion,11.53,4
+78,38fb98ec-ab5b-4fc6-9264-4b2e5f346d7a,Jose Ignacio Goñi Sales,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:22:13.866814,without_onion,12.13,5
+78,4f7b10f1-9f5c-44a8-a60d-5d96add1e496,Edgardo Cobo-Vicens,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:56:47.997295,with_onion,,4
+78,a5fd5f90-8a49-448e-b665-f1caa7beafdc,Delfina Arcos Carlos,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:35:21.096796,with_onion,9.78,5
+78,220e979f-3514-4f0d-94e4-e6ba918bafb3,Georgina Galan Cano,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:52:08.152682,with_onion,,1
+78,2cdaebf4-87c9-452c-af0e-dd07ded7b30b,Lorenza Flor Alcántara,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:59:31.980636,without_onion,13.02,5
+78,375c1db7-ca9c-46fe-bd1b-315700014408,Nico Álamo Prada,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:45:53.622624,with_onion,N/A,4
+78,63269e6b-8f86-4b1b-824d-1dc553414738,Ángel Fuente Pozo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:43:39.826123,vegan,6.11,1
+78,461e31cc-008c-457e-bac1-6d49a363cfdf,Ignacia Uriarte Tomas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:46:04.132347,vegan,7.74,3
+78,b1f76aa2-cd62-48c6-98af-b659d52c7ec3,Cintia Calderón Palomino,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:35:58.859771,with_onion,11.85,2
+78,91162c49-cd7d-4ff5-aa47-e0c5808f3193,Natividad Santana Ochoa,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:58:32.922706,classic,,4
+78,13f649a5-2846-43d5-b6ec-6dee4b3047c7,Pastor Ferrández Quero,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:50:18.079181,vegan,11.39,1
+78,2e511d56-c4f5-445b-acc1-0b20e1421d80,Adrián Echevarría-Teruel,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:16:26.700964,without_onion,N/A,2
+78,018bb018-915e-4630-a252-8056e5bdbf5f,Tomás Paniagua Palma,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:34:04.155135,classic,N/A,4
+78,23156cec-aef2-4822-b64e-d6dbb20048b4,Hector Abella Arenas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:33:01.443420,with_onion,N/A,5
+78,b7172c43-07bc-461d-ac80-fdfe29584789,Poncio del Ariza,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:04:32.479412,classic,10.5,3
+78,8cb319b1-9ade-4190-b7f7-f2597df90e40,Fausto Carlos-Moya,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:30:40.760029,vegan,N/A,2
+78,b27bcb1d-6184-477e-abf0-eb4360979009,Priscila del Franch,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:44:03.333077,without_onion,N/A,3
+78,33fd7df1-4378-4972-9a12-78c6fb162020,Martin Ochoa-Palomo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:39:49.450398,classic,13.06,2
+78,966a0f59-f023-41e8-b63a-7c7bf5a875d4,Roberta Vives-Vidal,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:53:12.459511,with_onion,,2
+78,25e494c1-590f-4acf-9c86-d6b0bb224807,Arcelia Ojeda Ferrándiz,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:04:22.437590,without_onion,,1
+78,2532a3b4-dbd8-4f54-bc67-459918abdd33,Melchor Peralta Laguna,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:21:03.131028,vegan,12.16,4
+78,fb77f62f-d207-43bc-a03a-497f447416bf,Angelita Álamo Díez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:11:44.073278,classic,N/A,2
+78,83b9e599-19eb-4719-8472-ceca7a463455,Ismael Tudela Aranda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:55:54.160845,without_onion,6.75,3
+78,9be1c390-a2fc-4738-9ee0-e9da660aee42,Cosme Alcázar Soria,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:10:31.934202,with_onion,7.15,2
+78,2c33e185-dd5f-44b6-ae93-4d4a83aeec40,Rosa María Almansa Ojeda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:07:54.086137,vegan,N/A,2
+78,b9462719-e214-46dd-82b2-e199e6f3bde2,Gervasio Novoa Milla,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:19:30.983980,without_onion,,5
+78,4e92fe74-0834-4d6b-89a1-4e0a43a510f9,José María Manjón-Quirós,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:53:49.532138,vegan,,5
+78,e6949438-b947-4eea-9ebe-102ac8d93420,Carla Casanova Azcona,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:06:13.775870,without_onion,7.27,2
+78,b9eee085-f2b0-4a23-bbdc-dd7e79704523,Calista Quintana Reig,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:12:25.690646,classic,,1
+78,7d1b9f49-309a-4aeb-b800-e1e76c5768ec,Cecilia Armida Segarra Alberto,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:45:11.086511,with_onion,N/A,4
+78,af8bae6a-f4ae-4ece-a753-9fab179c2ecd,Cornelio Alonso-Villar,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:17:18.397455,vegan,N/A,2
+78,6b25fa9f-a531-41e8-a597-abb519c24805,Arcelia Montenegro Mora,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:27:39.756563,with_onion,,2
+78,c140441f-ba90-4d5e-83b3-a52a562753ea,Nicolasa Elorza Luján,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:00:27.021381,without_onion,,3
+78,969de691-a12d-4c3a-84d8-acc009bc33ce,Rufina Herrero Zorrilla,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:46:09.361647,with_onion,N/A,4
+78,1edac2d9-9ddd-46c9-b022-ff338a0a884b,Candelaria Lopez Roda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:04:19.604175,classic,14.2,1
+78,0abc7bdd-db14-4040-97c4-2c7d4688a74d,Joel Cortina Ibáñez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:56:54.821844,classic,11.25,5
+78,54f113c8-77d8-4249-8072-e6672e7b2138,Tere Carranza,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:13:57.720545,classic,7.33,4
+78,acc7d707-62ec-4585-84d5-9deccc2107b9,Ariel Losa,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:06:27.850693,vegan,N/A,3
+78,780adcde-7047-40a5-9ecd-30aebf0630b2,Pastor Clímaco Iborra Ugarte,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:16:06.516323,vegan,,1
+78,6899d2e3-f7bb-403a-a7ef-a76c9e1039c6,Octavia Puerta Muñoz,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:34:42.590417,vegan,,4
+78,596a1e95-fb6c-4cb6-acf6-2f745f496a48,Maxi Ferrández,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:39:46.108639,with_onion,N/A,2
+78,f877af5a-92aa-45e0-ba1a-342854f09f3a,Sancho Vega Zamorano,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:38:54.812924,with_onion,N/A,3
+78,8a79eef7-59ed-431d-8835-797e3c5d234a,Abigaíl del Cervantes,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:50:05.762557,without_onion,5.18,3
+78,04d0dfa3-3bef-4007-9f8c-6e1df6ff0551,Catalina Antón Belda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:08:02.379788,vegan,N/A,5
+78,9588b993-2e6e-4b46-b45e-b15473464852,Vicenta de Goicoechea,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:48:41.537183,with_onion,6.68,5
+78,d9e2e171-282b-4e4c-a953-3804f16dbc23,José Manuel Ureña Dueñas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:03:55.047113,without_onion,12.57,1
+78,9987d157-18a5-4ba3-9bd6-f9862f851919,Luis Ángel Heredia Asenjo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:09:13.759925,without_onion,,5
+78,4fbaa258-09a8-406b-a623-702f83ad5a25,Loreto Palacio-Cardona,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:20:21.595916,without_onion,N/A,3
+78,361727eb-6648-4d4a-b54b-80b7204470ee,Maricruz Campoy Roda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:35:09.900840,vegan,,3
+78,3167af27-47ba-4b85-bff1-bdd0cb9c8808,Graciano Acuña,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:18:38.954981,with_onion,14.84,1
+78,f1f28b84-e221-497c-9df8-07dbea1b375f,Juan Antonio Saturnino Salas Puig,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:48:43.681430,classic,N/A,4
+78,5c81c6f4-bc5c-43f4-bfc6-286aa88e845f,Benito Sáenz Oller,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:55:21.457876,with_onion,N/A,1
+78,5e146f9b-dbc4-4945-8682-2bceedc7d8ca,José Antonio Valverde Tirado,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 00:27:19.131782,vegan,N/A,5
+78,cc805b21-90c5-4df9-9e46-87f22e84943c,Cayetana de Berenguer,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:24:59.207885,with_onion,10.12,5
+78,f554a622-460e-4bd9-958a-f00194215f17,Fabiana Barco-Amor,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:56:18.895177,with_onion,8.79,2
+78,1c4879c3-cdb6-4a34-8488-a44c27572bb7,Juan Bautista Coello Saura,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:43:39.567835,vegan,,4
+78,dc54669d-6c95-4437-ba06-90d6893ba14a,Claudio Linares Alfaro,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:29:10.648154,with_onion,N/A,2
+78,1f53f1d5-da2a-47e1-9a7f-2c8c4801b44c,Apolinar Noé Cortés Pedrero,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:44:08.703066,classic,13.77,2
+78,0f63289f-a0ba-47ea-bd81-df301cbe8f56,Nilo Miralles Ibañez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:11:44.495849,without_onion,,1
+78,b8f72176-2640-4c17-adc6-f2e363ecfd78,Diego del Falcó,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:09:48.235336,classic,,5
+78,2e8ac776-675c-4ebe-8e18-f8baffee7c10,Julia Maestre Aguilar,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:39:56.394001,without_onion,N/A,3
+78,04f04cc2-e9cc-4a51-9fb1-53682668cff6,Valeria Mate Ferreras,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 19:33:31.121708,without_onion,,1
+78,28912293-5a5c-4b5b-a762-0ae66d5af94c,Josefa Íngrid Ros Planas,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:40:52.474081,classic,,1
+78,c6a041b1-f5e8-41ae-adad-9b5d91c9c300,Amanda Montenegro,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:15:12.963811,with_onion,N/A,1
+78,45ee1e7e-a245-46dd-914b-dad7fa4ae92c,Fortunata Gallo Segovia,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:59:49.315989,with_onion,10.89,3
+78,5626e03b-b001-43c9-a13f-1ce64f15b331,Sabas Iglesias Palau,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:14:31.672246,with_onion,N/A,2
+78,97c9b5e4-f0c0-4036-a6d4-1d740b7c7e74,Leoncio Andrés Felipe Suárez Quesada,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:48:43.304055,classic,,3
+78,c8f796f4-66c4-44d0-b21a-70f0e28b70c5,Leocadia Balaguer Figueras,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:35:56.997998,without_onion,,3
+78,8be20768-e9b9-448e-b945-f257a62795cd,María Fernanda del Bonet,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:45:15.597280,classic,,3
+78,b0c5cb65-fcc0-4196-a945-2fc6ddf57258,Dimas Sobrino Grande,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:07:41.593576,without_onion,N/A,4
+78,edcb6bf6-2d83-40fa-8628-c1663f93ee2c,Eufemia Carrillo Alfonso,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:17:24.521835,vegan,8.3,5
+78,14cc30e5-369c-4735-97aa-a03d3e263480,Teodosio Doménech Almeida,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:28:18.635291,vegan,N/A,4
+78,c518e403-2b20-462e-81f6-7786b9d2858d,Maite Gilabert,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:37:08.611289,without_onion,N/A,1
+78,c4a8ba6e-5787-4e42-b7c3-b50f77fefee1,Candelario Díaz Revilla,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:34:11.237011,without_onion,10.5,5
+78,4387dec6-d7ac-4fd8-9d8c-7f9a9c33d071,Quirino Cisneros Dávila,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:17:49.382918,classic,N/A,2
+78,66161459-639c-45a3-b264-94dc915a7216,Rosalina Valdés,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:35:47.764924,without_onion,,3
+78,dd22808b-0ce6-4b67-9faa-061e01b175f2,Teodoro Carrillo-Abascal,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:00:40.648853,with_onion,N/A,3
+78,446a7ffe-97c9-47eb-8656-94e1e739d5af,Ruperto Salgado Becerra,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:58:33.918557,with_onion,14.66,4
+78,ddf2d45a-7eea-4797-98e3-23e583a36a51,Tecla Samper Perez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:45:45.216098,vegan,14.66,3
+78,7dff221c-14a2-4ae3-b2d2-8efd713e9e56,Nacio Diéguez Peral,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:09:30.978557,classic,8.76,1
+78,f17af435-88e0-4f76-8c2f-d02000dea3da,Damián Figueroa Segovia,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:58:38.528493,with_onion,12.99,3
+78,daad71bd-ff69-4b2b-867b-5b7ffb3f2733,Leandro Manjón-Tejera,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:22:58.126307,with_onion,9.33,3
+78,0533752b-6fc9-4b1c-9dcd-0be843c255a7,Encarnita Infante Grande,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:29:28.803362,with_onion,,1
+78,41d6a2c7-f568-4c3e-987d-cae1f0166688,Tatiana Maldonado Diaz,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:13:09.639440,without_onion,14.91,5
+78,d5414a39-0399-4a3a-aac3-dbb9aab2f66b,Abraham Estrada Pablo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:45:58.631694,without_onion,,5
+78,ba7495e1-1f4a-44f2-996e-7b6cf1422351,Donato Cobo Batalla,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:54:09.147451,without_onion,N/A,1
+78,b3459556-73ee-40e8-8d5f-582c278a66e1,Guadalupe Olga Ledesma Abellán,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:03:29.448291,without_onion,,2
+78,642bf524-3ba4-46b9-b00f-b2edf412babf,Benjamín de Duque,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:56:18.208377,without_onion,13.78,2
+78,0f955e5e-be25-4d87-9024-00bc04ec27cf,Ileana Ibañez Ros,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:10:46.024691,classic,N/A,4
+78,4be2b53b-e199-430e-b645-87b745a86d0d,Juan Francisco Arnaiz Recio,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:52:57.081232,vegan,,2
+78,4324acb0-7fc5-49bf-9977-c4a8b08f2743,Vanesa Calvet Torrecilla,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:54:56.331375,with_onion,12.76,5
+78,23e81341-408a-46fa-86e4-909fb8cf7075,Lorena de Castellanos,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:32:41.967118,vegan,,5
+78,1c96736c-302f-4430-9936-f080b8b77ee4,Javier Cano,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:57:10.083268,with_onion,,2
+78,501ffcfe-3298-4e04-8bf5-9dc788da4f40,Che Palacios Herrera,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:27:23.693565,with_onion,N/A,3
+78,a4007266-5eaf-4218-bb13-5a0ab9d6ed60,Fortunato Falcón Hernandez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:48:57.126595,vegan,9.3,3
+78,11eb90a3-cca7-4ac5-83ed-3ddd1daba5b7,José Manuel Barros Pons,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:37:48.504646,with_onion,,3
+78,22eed465-7f5c-4770-85c3-bec0631ebf04,Encarnación Núñez-Guillén,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:18:21.903058,with_onion,,2
+78,1bf628e9-352d-494e-b985-443e88cf9586,Aureliano Mínguez Arranz,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 00:37:19.096014,vegan,N/A,5
+78,257f300a-7407-403c-870d-b0178f080fb1,Leoncio Lino Cerezo Ledesma,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:58:12.863911,vegan,14.98,3
+78,50e70dca-ebdb-43c6-a40c-336408836bf6,Lázaro Tito Lucena Marquez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:56:03.454230,classic,,2
+78,db0e588b-2e4d-475d-b84a-b7cf6f85f568,Valeria Prieto Ríos,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:09:58.050728,without_onion,N/A,4
+78,74978d03-fd60-413a-a2fe-d23f81a10579,Jesús Contreras Segovia,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:25:29.155793,classic,7.25,5
+78,4047ba40-5967-4b47-9a67-f0506f4e3335,Ruth Jerez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:20:58.262229,vegan,N/A,3
+78,44543a5e-e47a-4b2c-93d8-f0d9f1771247,Hector Villalba Cámara,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:51:04.003141,without_onion,14.09,2
+78,ea9ac8f1-c429-4d44-a86e-3ab4496472cc,Jose Angel Real Oller,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:49:21.806918,vegan,,4
+78,29471c25-c45d-4246-b37d-42ef8a44cf97,Julio César Iborra Calderón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:42:28.263083,without_onion,,5
+78,17a73ddf-a9f9-4e79-a64e-cc5be4f7bb0b,Elisabet Méndez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 18:26:53.948533,vegan,,3
+78,6df38488-c26c-40ea-99e1-f5f980cba86d,Amanda Garzón Mena,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:59:05.512075,vegan,N/A,4
+78,75e2b4dc-593d-43e7-b383-519798dc194a,Amor Costa Martorell,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:06:06.409509,vegan,,5
+78,b5d535f5-223e-4e22-99b6-de18f789347b,Luna Peña-Garcés,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:33:19.322248,without_onion,7.18,1
+78,7cd512ce-ea5c-4356-ba30-e6028d149ac9,Juanito Francisco,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:29:52.550851,without_onion,N/A,4
+78,3eb97214-54f8-4f79-8fb7-11504e66c377,Fidel Uriarte-Molina,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:58:17.167427,with_onion,N/A,5
+78,7e31d31b-0a38-4cad-8753-9e6840ef9e78,Jennifer Sara Alcalá Torre,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:25:15.192452,with_onion,,1
+78,4caf9af6-406a-4311-802f-433f05eaa36d,Teresita del Serna,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:35:26.180957,classic,12.29,4
+78,47c205fd-71bc-458b-9566-592386fe4521,Juanito Jerónimo Piquer Ibarra,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:15:03.733894,with_onion,,2
+78,4973f837-3d3a-4b3c-b54c-8a17143e5aab,Felicidad Piña Pinedo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:42:16.564121,vegan,,4
+78,337e056b-8a1c-4bb0-8927-d93d069d651d,Macario Flores Feliu,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:05:25.026163,with_onion,N/A,1
+78,9965ab0c-01f2-48cb-bd67-984bfd58f45e,Leoncio Aranda-Mesa,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:08:14.023810,without_onion,N/A,4
+78,66c4f6b1-5323-46a6-9979-c26f34f5054b,Natanael Giralt Izquierdo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:17:44.364225,classic,N/A,4
+78,0782deba-e2dc-43c5-9198-f2310e43b5bd,Desiderio Julián Ropero,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 17:05:18.211790,vegan,,4
+78,0f712cf8-0e3e-4271-9cca-b1d6ebc7f3ad,Florinda Odalis Garcés Hernandez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:07:31.684679,with_onion,,4
+78,ce377a2b-4c5f-4f7f-9fb2-1d753bbd64d0,Plinio Santamaria-Pi,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 10:36:58.097062,with_onion,,3
+78,758aeab2-17e0-4b08-bbf4-7848d1d28f81,Manu Díaz-Gimenez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:42:41.449982,classic,5.68,3
+78,6a8396e8-4323-4f1e-bf18-679150a1f275,Victor Manuel Manzano Baró,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:34:39.211573,classic,N/A,4
+78,717c18a2-368f-4a31-996b-be64b8fd6926,Piedad del Chaparro,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:58:13.469987,without_onion,,5
+78,ff736118-0875-4efa-8cd0-582ed87ee5be,Telmo Vito Marti Tapia,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:34:15.489740,with_onion,9.85,2
+78,56cf26e1-66e2-4c40-a04c-03981cee599b,Haroldo Priego Rueda,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:55:20.631308,classic,13.51,1
+78,c955f13a-e952-4504-8aed-331b11244f6d,Roberta Mora Vara,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:33:52.927750,classic,N/A,3
+78,9e7b3aff-67bb-4add-9175-4db3366ca727,Natanael González Leiva,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:21:08.394129,vegan,12.91,4
+78,8ea992ae-b48c-49f1-985a-624d117f6737,Adán Frutos Espejo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:14:20.321724,vegan,N/A,1
+78,47eda8d3-1b72-4af4-9667-7e4c7a652104,Perla Camino Santos,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 06:50:57.955299,vegan,,3
+78,77a2f0dd-65d6-44ce-ae0b-313a8034b8b8,Manuelita Amorós Ribera,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:38:16.108359,vegan,N/A,3
+78,d730f831-e6ea-4f38-8eca-1f5de0eac857,Manu Donoso Falcón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 09:03:41.924782,vegan,,5
+78,731d5167-6d26-4c6e-b246-56308ea119f3,David Pablo-Tomás,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 15:56:56.264813,without_onion,5.74,1
+78,7b8c38b7-204d-4c2e-bd8e-1e66ce7e32d6,Emelina Gomez Saavedra,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 02:32:31.385206,vegan,,2
+78,51a99025-1e9f-4a93-a521-bb6c4c4af616,Ámbar Barranco Tello,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:10:32.346998,without_onion,,3
+78,a1b87ab9-f421-4ddd-aa2c-d63a889332fe,Pepe Rey Ávila,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:02:04.638668,classic,12.3,4
+78,2e3d9de2-102d-4b8a-97dc-69efac3ec29e,Maricela de Alcántara,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 22:53:43.559835,without_onion,,3
+78,63a73a85-1d1b-4d90-a2c3-ecc426212ef1,Camilo Bernal Tejero,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 05:49:49.384594,classic,N/A,4
+78,56e383c2-6eb4-42b5-8fdd-069834ca5f34,Sebastián Domingo Francisco,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 03:03:21.863682,with_onion,6.48,4
+78,edf462d8-d1ac-4d60-8a96-27772f84edc0,Martina Ferrando Borja,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:27:17.792221,without_onion,7.69,5
+78,b819e8fb-7b9a-4d4c-b90d-6c2962f4e231,Manuel Falcón,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 12:05:05.958626,without_onion,N/A,1
+78,f4f037cc-9469-4cbd-8721-9f1c244067fb,Florina Ricart Pomares,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:14:19.858912,without_onion,12.14,4
+78,e5087c99-fa04-4fb2-9434-e2bba8af0e93,Carina Revilla Benítez,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 19:22:22.016336,without_onion,,3
+78,5a2b4476-d995-4582-bdd9-50e7f0855361,Martina Tovar Canet,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 08:26:03.959080,classic,N/A,3
+78,58c328ce-3a53-4c1d-b093-19474e0ae288,Benjamín Lucas Abril,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 21:27:45.190885,classic,13.75,2
+78,3400e88c-7ec5-4a9c-a2ef-7bab9b19b93e,Mireia Montes Azcona,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 07:31:54.900649,vegan,N/A,3
+78,7b9c7f03-435e-4c4d-ab88-f5778fbc523d,María Carmen Arce Toledo,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 23:02:37.405077,without_onion,12.39,1
+78,ea2383df-bed6-4cd1-98d4-5147ba824cb8,Isaac Armengol Jara,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 01:07:48.636130,with_onion,,5
+78,feace040-3d20-4e5a-b435-40f48639d778,Marcial Joan Dalmau Prado,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:44:39.468218,without_onion,12.94,1
+78,fcd5d7be-9a08-4af8-a991-429d00502a21,Alejandro Pedraza Tomás,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 16:44:55.211493,vegan,N/A,4
+78,4c9ca69b-573c-4390-ad07-5dae53e020a3,Eustaquio Ríos Perelló,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 11:52:46.076525,without_onion,,5
+78,2ce746bc-5c39-4614-a549-c2065c5644d3,María Requena Sarabia,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 04:42:16.513859,vegan,,4
+78,d2f3334c-e316-4b53-ac10-a290892341dd,Paco Hierro Esteve,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 14:09:56.817412,without_onion,,2
+78,30713dd5-ec2b-47c5-b995-2886b401e21d,Anselmo Tejera-Peral,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 20:15:53.681283,without_onion,,5
+78,554bf706-90af-42b0-9d7c-2cb04dd0d7bb,Américo Rosales Leiva,Madrid,"Pasadizo Paola Villena 2, Las Palmas, 08993",2026-05-01 13:56:26.877751,with_onion,,1

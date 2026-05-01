@@ -1,0 +1,253 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+13,f3477f47-6e53-463f-bc3e-02e8194bbffd,Beatriz Valero Portero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:32:03.274968,vegan,N/A,2
+13,28231a18-70f4-4fe8-a500-1d031339a7f0,Concha Fuster Olmo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:03:16.245671,with_onion,10.03,1
+13,e7cc4c37-ecc0-4170-ae95-bfe11afe9025,Balduino Villegas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:58:42.309032,with_onion,,4
+13,5851da1b-fc42-4407-8a2f-77fa89de6cd8,Chema del Cantero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:28:09.281108,classic,N/A,5
+13,c942c238-37ae-4fa0-bf0a-5b84b00fdf59,Remigio Sureda Corral,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 12:34:51.495902,vegan,N/A,4
+13,e62c7e34-2ea3-4fe3-839e-4cdb63f7f4b7,Piedad Rivas Franco,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 01:53:23.516649,with_onion,,5
+13,f7572f40-fb7a-45a0-9648-99c774636736,Coral Soto Aller,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 14:23:26.283672,without_onion,N/A,1
+13,9202933c-64df-4442-9bd6-bc936ca382ce,Román Angulo Alfaro,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:32:14.102701,without_onion,,3
+13,54220fb7-59a1-4132-b239-f4a88dffb49c,Rosalva de Alvarez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:27:49.970391,classic,,5
+13,feb240ab-50c6-4882-945d-28c0e6b8dc60,Eusebio Gabaldón Puerta,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 16:06:09.621270,without_onion,,5
+13,0775725d-30e2-46c8-a3cf-8cf890bbc5d5,Filomena Rojas Gabaldón,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:00:21.455079,classic,N/A,1
+13,1683ec53-9471-4821-83ec-7558918226be,Victoriano Alejandro Olivé Torrens,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 23:26:31.722167,classic,N/A,1
+13,6e8a2728-5afd-4fab-b257-1ffccb833fa0,Vicenta Ricart Rodriguez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:01:37.479371,vegan,,5
+13,80867163-1b72-4fba-8be2-20d77fa38dfd,Íngrid Catalá Real,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:02:39.480847,without_onion,,5
+13,ccc7452f-1881-49b1-918b-043662520847,Juanito Escamilla Cabrero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 14:44:38.188472,without_onion,,3
+13,9bba3d92-3785-4631-9d3c-5eddf64a2302,Baudelio de Fernández,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:54:47.227896,classic,,4
+13,71ac1f9f-851c-4faf-9449-60f231fda09e,Ciríaco Avilés Pont,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 17:25:00.952982,with_onion,,4
+13,d804e3f7-7a25-4f60-9d62-71d7792a3805,Jenny Montes Revilla,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:32:09.024902,without_onion,11.05,5
+13,e13b82d7-8301-47d6-ae67-a42587a2a7ea,Dionisio Expósito Royo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:23:07.416271,without_onion,N/A,4
+13,adfc8c30-a09b-4740-9c3b-785d3bd3fdcc,Godofredo Camilo Domínguez Falcón,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:48:34.383882,without_onion,14.9,1
+13,dc8b5562-1c3a-4e15-a5ee-2aea621ddde4,Heriberto Vicente Calderón Sevillano,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 11:58:05.644941,with_onion,,2
+13,7d2c5368-4578-4445-8a5a-cb1b5aeae2f5,Dionisia Ariza,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:03:40.190108,with_onion,14.95,3
+13,12acad1f-4e6f-49e1-aad1-45259a727622,Alma Barón Mendez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:17:27.037009,with_onion,6.61,2
+13,3ac642a7-c464-4bbe-810c-4cb2a8adb9e5,Reyes Alberola Escudero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 20:22:17.323215,without_onion,N/A,1
+13,b113d453-0291-47d3-852f-6795bcbab619,Aroa Mariscal Avilés,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:54:43.734472,without_onion,N/A,1
+13,b6875de4-00cf-4ef0-897b-c14465b4370b,Gabriela de Agullo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:50:51.562807,with_onion,N/A,3
+13,5af5e9d8-8bc3-46aa-a445-4c2fab260717,Carmelita Uría Santana,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 08:32:14.947056,without_onion,12.25,4
+13,d1295553-182b-4970-8594-825a1608188b,Josefa Leal Carrión,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 11:15:24.460820,without_onion,N/A,3
+13,3e1c3ba1-10dc-404e-9ef3-d794cb968706,Octavio del Valero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:18:35.422895,without_onion,N/A,2
+13,6f52d6ea-d44f-4105-9e77-4da58099ca5b,Ximena Sanmartín Sebastián,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:54:34.025032,classic,10.06,2
+13,27da91fa-3d20-4755-a58b-9b4f850f22fc,José Ángel Cánovas-Mayo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:15:24.832489,with_onion,10.93,1
+13,74f6c7bc-5e94-450d-a4be-7555164b5131,Zaira Millán Calvo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:23:12.282564,with_onion,,2
+13,17ca3fb2-1a19-4e72-b55f-420c8fc9d0bf,Jose Ramón Aparicio Lobo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:17:28.954891,with_onion,N/A,3
+13,10c77f3a-3ada-40ce-8531-391567c4e510,Arturo Morell Barrio,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 08:40:24.326836,vegan,N/A,5
+13,b156bbdd-4693-4aa8-b0cc-2aae58b24642,Emilia Abella,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:56:32.534145,vegan,8.58,3
+13,b58114b8-57b9-4644-bdef-e9111697fcb0,Violeta del Avilés,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:48:00.565539,classic,N/A,1
+13,6e1c7a58-a836-4a2b-9395-41adb771c6a2,Renata Almansa Escobar,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:25:08.948313,classic,,4
+13,2ae602e2-bad8-494a-b90e-e1f824894d41,Cruz de Garcia,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:06:55.561227,vegan,,4
+13,09c76af4-9442-402a-a678-b066e20317fc,Goyo Poza-Escudero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:49:01.210340,with_onion,7.86,3
+13,25d34568-bf99-4734-809b-bb7df82861b3,Lorena Almagro Riquelme,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:25:01.993262,vegan,N/A,5
+13,eeafab75-4ac6-4e88-9ca4-da832926fc38,Balduino Lladó Llano,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:00:53.487023,vegan,12.25,4
+13,9fa864a4-3941-446a-ad36-086ded51bd9a,Carlota Palomares-Valcárcel,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:12:22.911939,with_onion,N/A,4
+13,b6a118e5-b06c-49e2-9aa3-8cfb9b6f9247,Eligio Avilés Puerta,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 04:51:43.338690,vegan,9.92,2
+13,d3bfc36a-fd97-4091-8b6d-886e5d0d5be5,Áurea Alicia Albero Fernández,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 14:54:41.662226,without_onion,,3
+13,8dd815a8-e189-4cf0-b62c-fd6cd40fff18,Guiomar Tello Juárez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:49:53.944531,classic,N/A,1
+13,a5090894-e057-49f6-8237-9c26674f599f,Toni Molins Casas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:19:17.252601,without_onion,8.98,4
+13,8d37c62b-2a3f-46e6-9c98-f13eb7e10564,Cristóbal Cabello Sainz,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 20:01:32.782472,classic,,4
+13,ce98ca0e-c201-44a6-b9fe-be0ec980dc5e,Hilda de Montoya,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 10:13:42.873844,classic,,5
+13,d4685560-c71c-44c3-930e-9e5fa482c6d3,Maxi Zamora Boada,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:00:26.127012,without_onion,N/A,3
+13,c5031a15-4f4a-49f9-8b1a-e04fef54ad9c,José Mari Millán Bello,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:22:56.584880,with_onion,N/A,3
+13,253ec676-b73f-4d7c-92d3-9e67b1e0cc4c,Olegario de Abril,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:47:24.106031,vegan,13.42,5
+13,5bf56777-81cc-4e15-ba65-e5243f3f4c02,Espiridión Valle Barberá,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 20:35:54.235541,without_onion,,2
+13,89568868-c71a-40e4-af4b-15215bb8f0c3,Ernesto Zamora,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 14:29:58.960092,with_onion,N/A,4
+13,5a39a88a-3993-44e5-94cc-7266a9c7870b,Porfirio Juan Vendrell Batalla,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 20:49:48.528142,without_onion,N/A,4
+13,280185cd-b842-412b-8e94-c4d8b78751b0,Micaela Huertas Bustamante,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:41:29.104524,vegan,N/A,5
+13,1939273b-2b0c-4d9a-a2c8-2e110ff301f8,Sigfrido de Barrena,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 18:42:17.538451,classic,,3
+13,ac2fdac8-bdac-4152-a889-47fa96219b39,Palmira Amorós Vila,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 23:01:22.197412,vegan,N/A,2
+13,fdd75cac-712c-453e-bde8-1ba91a40b1d6,Amado Gaya-Aznar,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 14:46:37.090445,classic,12.7,3
+13,adf344c2-3538-47e6-a191-09173da1a79e,Nuria Angulo Nevado,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 17:56:32.825948,vegan,12.26,2
+13,bde356ef-1ef0-4b83-94fa-770c5a791dd3,Bernabé Canales-Mascaró,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:53:54.431403,classic,12.67,2
+13,649fa9cd-2934-4b63-8f29-199bbbf218e5,Pepito Albero Garay,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:14:34.528450,classic,,5
+13,ff597da2-1262-4cde-8717-3db7679ab67c,Paca Valle-Galvez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:06:48.228612,without_onion,,2
+13,0ec32ee1-034f-4545-89f9-cf091958663d,Luz Jaume Viana,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:41:28.053296,vegan,7.6,1
+13,e3bbbdc4-ceaa-43d8-82ef-a929427673d8,Teófilo Román Villalobos,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 16:09:55.342664,vegan,10.47,1
+13,44666588-17f8-4d63-b20d-c48c2295da7f,Ildefonso Vall,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:09:01.033773,vegan,N/A,3
+13,e1d6a6de-af00-41fb-b194-4006fd2aeb4c,Ainara Cifuentes García,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:33:32.235930,classic,7.98,4
+13,5f2019cc-3621-4f62-a535-adf8beab5e83,Carlos del Córdoba,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:01:08.229201,classic,,4
+13,e59346f1-9cc2-4c4a-a476-569d4dc58513,Vilma de Taboada,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:02:00.404437,without_onion,6.49,4
+13,df6077b7-a18d-41cc-8336-03366b5e8b83,Cristina Pereira Galan,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 02:51:06.344466,vegan,9.9,3
+13,5471becf-e96e-4b22-9a2e-6849cd1a8504,Custodia Florencia Bayona Moll,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:49:34.552256,vegan,12.68,4
+13,08ee7be3-1185-4c0e-ac9e-e85f8ab7ccba,Nélida de Aroca,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:41:24.334351,vegan,12.88,2
+13,9b13a14e-52ea-4e04-aab3-6a9e867d1e32,Salomé Álvaro Verdejo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:42:23.168178,with_onion,N/A,1
+13,44119f59-f66b-4c0e-ade6-d7ff05949040,Ricardo Abril Viana,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 10:04:19.016991,with_onion,N/A,5
+13,b865a434-6ab8-4af0-93cc-f60e60a8a7a8,Juan Pablo Mesa Escamilla,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 18:04:20.440092,vegan,,1
+13,38dad87c-d75f-4e92-8d4e-38e5cfb8c381,Goyo del Piñeiro,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:09:48.981973,with_onion,,2
+13,4812fed1-2b1e-4aaf-8f6e-e095b60a050f,Tiburcio Linares Rios,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:10:08.963703,classic,12.57,5
+13,96cea8bd-b8b2-42c7-9f37-7b467e6dfa16,Amaya Dora Ricart Rios,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:07:48.275760,classic,,5
+13,d904c918-2edb-4819-bbe9-841945d3c791,Elba Posada Bermejo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 20:08:46.798589,vegan,10.19,1
+13,37eba50f-e2dc-48ed-b68b-4bfd8b43f646,Gervasio de Alvarado,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:50:55.256146,without_onion,,4
+13,bc49464f-cfd5-4cc1-8729-d0768e171683,Alejandra Hervia Ferrándiz,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:49:26.200164,classic,N/A,1
+13,7cd232d4-30ba-45fb-8574-288bebcfc8e3,Efraín Estrada Solé,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 20:19:21.057090,vegan,12.83,3
+13,f4247fe7-411a-4c39-8fc7-153a7a3e6144,Susanita de Ramón,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:28:33.567386,vegan,N/A,5
+13,5af7bc1c-760f-4047-9c95-af7f5091204f,Lalo Arrieta Vila,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 23:22:50.820076,vegan,N/A,3
+13,1304654c-0285-4fe1-b577-e96109fd63a3,Aurelia Español Ribas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 01:07:03.918018,without_onion,9.03,3
+13,5cbc877f-1e6d-4b4e-9a2b-879b0b674c2d,Encarnación Torrijos-Jimenez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 10:35:23.249725,classic,11.5,4
+13,1e41ea12-53e9-4575-94bf-15b9f0d0246e,Ezequiel Tormo Adán,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 18:42:03.714017,without_onion,7.92,4
+13,0ce3ecc3-358f-4933-8e5c-c34cb7cd2ca9,Jordán Esteve Ibáñez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:52:17.160387,without_onion,,1
+13,c91ea600-c8c4-4ba4-83cd-e69299b4dae6,Consuela Diaz,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:23:30.074532,with_onion,,2
+13,0f859f87-cb6f-4f4c-a673-8d0a1963b7b0,Nazaret Tirado Cadenas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 16:10:00.817223,without_onion,N/A,1
+13,f3207857-0690-4d04-a4a9-48abd0a5fb57,Claudio Santiago Sedano,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:20:03.271287,classic,,1
+13,f149bbf5-ab02-46b0-a052-3045f99b7cc0,Paulina Santamaria Folch,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:09:14.500585,with_onion,9.49,1
+13,959cdb5d-b3a4-4a62-b3c4-b526647194eb,Dani Abril-Luján,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:26:37.224318,classic,N/A,3
+13,85bca5c1-e9d3-4de3-a719-9bbadda12753,Jose Angel Casanova Solsona,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:44:33.703572,vegan,N/A,3
+13,dd4bf21c-cbca-4ec1-8117-441148a12c0a,Domitila Coloma Casas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:10:41.814309,without_onion,N/A,5
+13,0f4e3cfd-9c9b-48bc-8900-ae6facf7d636,Oriana María Luisa Tenorio Cózar,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:00:30.977824,classic,N/A,5
+13,7eac2b0e-68bb-459c-958c-66e6a2eb78f1,Daniel Rocha-Izaguirre,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 11:02:31.075509,classic,11.45,1
+13,6df4731a-a40b-4b24-b5b8-d2dd549fe5d3,Eduardo Gordillo-Pacheco,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:11:00.325421,without_onion,,1
+13,68215b1d-2e8f-4fa5-9ad4-d541f30ba6f0,Amalia del Sosa,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 10:31:01.635484,vegan,,4
+13,d9e6eeb5-c797-4d60-9cf7-0741362f22aa,Heliodoro Zapata,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 01:04:05.187656,vegan,9.13,4
+13,510218fe-f3e2-4024-a7eb-5b4c5b9130af,Ignacio Girona Morán,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 01:43:07.895586,without_onion,,2
+13,5e4e52ba-5e44-49f5-b725-6bfbdb5a5fbe,Clara Ramírez Valentín,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:46:24.083486,without_onion,8.43,2
+13,07741635-f375-4d84-bf7e-7aecc7b8aa54,Ariel Pereira Quesada,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 18:06:25.491969,with_onion,N/A,4
+13,67dae627-76db-4852-8110-b04d9c667aae,Edelmiro Narváez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 08:46:53.907972,classic,N/A,2
+13,99f223c0-e975-451e-a9ec-3d5f97ab801c,Irma Alonso Monreal,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:59:54.029157,without_onion,,3
+13,4b3e1e35-3061-457e-8445-cb86b725ee46,Luis Miguel Ríos Rosa,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:07:55.063068,classic,N/A,5
+13,9f0d4d96-b304-4a38-94ef-21d504f0981d,Ligia Villaverde Estrada,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:44:06.931806,without_onion,N/A,5
+13,8b95b76f-106a-4b04-9ae3-19da4e33c2c8,José Antonio Alarcón Rosselló,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 11:19:58.077604,without_onion,7.54,3
+13,1cdb737e-f9bf-4630-9a8b-3084fb0dcfdf,Estela Gomila Calvo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:32:55.535844,vegan,,3
+13,fc141cce-9471-476c-a725-b77dbf364654,Noelia Izaguirre Cuéllar,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 18:47:39.380095,with_onion,,5
+13,bb4ca15d-f323-48a1-85eb-30f134bffa2a,Damián Bayo Revilla,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 04:07:24.729670,without_onion,12.83,1
+13,18bc4abf-cdd2-4a0b-802d-36f6dba1ab67,Ana Belén Rovira Cámara,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 23:02:55.995717,without_onion,,2
+13,36ae6a55-49f6-4a82-a5c0-e54e88213ecd,Conrado Maestre Pelayo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:58:23.946426,without_onion,N/A,5
+13,c1d5a2ae-58ad-46db-a3f7-a1006bde8a9f,Juan Manuel Olmo Roma,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 12:20:40.938829,without_onion,N/A,5
+13,c38bb86f-bc2c-48bd-b949-019b6e30bcc2,Juan Pablo Vila Benavent,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:59:43.287571,classic,,4
+13,8ef59212-0a64-4af7-97d3-891f7ad9980a,Odalys Salud Fortuny Atienza,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 01:03:36.827406,with_onion,11.52,1
+13,0bf34f3a-5363-4d4f-9a1b-b71c20684e4c,Ernesto Melchor Manjón Heras,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:24:50.605703,without_onion,8.31,1
+13,80f02ae0-b668-4ab5-98dc-c9c9a6c79aa4,Simón Blanco Fabra,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:44:05.285764,vegan,12.51,4
+13,d42c3ac2-01b1-4ed0-819a-527842fca5c1,Adriana Tovar Delgado,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 08:22:41.511883,with_onion,N/A,3
+13,422e51f7-af52-4c4a-9fca-a537d4746ed1,Amaro Seco-Guitart,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:21:26.141701,classic,,4
+13,7e700a7a-6257-4884-9a63-ff0d0248da04,Rosalva Benitez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 01:11:42.488889,with_onion,13.98,2
+13,bc6fe76d-e945-45f7-8591-51de4c5fb407,Juan Múñiz Rosselló,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:42:15.573895,vegan,10.36,4
+13,edb6c355-e9fc-4a31-ade6-7880a3b417df,Moisés Burgos Esparza,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:31:17.974161,classic,8.2,2
+13,0a570910-2e8b-4cb7-a236-c59a41910393,Plinio Mendoza Bartolomé,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 12:53:38.453543,vegan,N/A,5
+13,a9f711ec-a088-46ba-98c1-3f9dcf5d52d8,Jose Francisco Egea,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 20:47:41.430853,classic,,1
+13,c472121d-8e5c-40d8-a5bb-75b7ca0f594f,Amaya Josefa Tello Lladó,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:50:52.770212,with_onion,N/A,4
+13,9c8afe6a-e4a9-4c5e-905b-df7ea9ed0a9f,Tomás Caballero Carballo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:06:41.324860,vegan,N/A,4
+13,9885ac12-8039-4cbc-8110-c2c04e753c1d,Marisol Isaura Escribano Vara,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 11:00:43.431593,with_onion,N/A,1
+13,01deeeec-6dec-4ee0-bba1-53ce6564f859,Jordi Mesa,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 20:13:33.970768,with_onion,,4
+13,1c2b7c12-964f-4763-80e3-e79d2e379e10,Daniel Ribas-Gual,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:00:21.883496,without_onion,8.15,5
+13,4e6bb849-6461-4f74-a1a5-dbb263afa22a,Juan Antonio Valera Mancebo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:07:13.867567,with_onion,10.02,5
+13,9f3f8ed2-8e65-449b-ab7f-b793755f445e,Jesús Alcalde Bru,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 08:17:57.642496,vegan,,5
+13,b621496f-02a9-47df-bcc2-8ea881d40164,Mar Perales Burgos,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 16:37:49.420470,without_onion,7.83,4
+13,ecf2fd79-d35e-4c72-bdf1-65dce0df48a6,Cristóbal Burgos Nicolás,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:15:42.114071,classic,,3
+13,996fcdd8-24b8-4462-8c93-48f3fd73a077,Adelaida de Villalonga,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 11:07:51.343430,classic,13.93,1
+13,51a1e567-7924-4bf1-b659-28d7b842f34d,Crescencia de Sabater,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 10:27:38.276831,with_onion,N/A,2
+13,b04b87d6-708c-497c-ae9b-2b2ce6d8969f,Pilar del Toro,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:06:37.452876,without_onion,13.91,2
+13,104e46bb-853a-48ec-86d4-4353e741e60b,Ramiro Lopez Valverde,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:20:52.006403,without_onion,N/A,5
+13,53904336-fe36-44fe-a3d8-38290bf8fe88,Manuelita Feijoo Vázquez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 04:38:10.110788,classic,N/A,1
+13,91af1a35-f4f5-4ec1-93c0-49c7ca350539,Asunción Encarnita Madrid Roldán,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:16:07.332093,without_onion,N/A,5
+13,79a42913-f781-4195-b3e1-54243f63b721,Dafne Guerra Fabregat,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 16:14:44.279687,with_onion,,1
+13,da8e4ae7-7b99-4d53-96d9-7ff0003144fd,Eva Peláez Sola,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:48:53.130644,classic,,4
+13,4ffd332e-026b-4795-9bcb-a514115c2b5e,Encarnación del Adán,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 12:30:08.083149,with_onion,N/A,1
+13,67d851e1-4397-4c7d-90b0-d14cda794e7a,Brígida Ropero Navas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:12:03.485329,vegan,N/A,1
+13,0f17479c-d805-4057-ae2d-16f714328fad,Valeria Mateos Galindo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:15:22.692733,vegan,9.67,1
+13,72e65ebb-edab-4ea1-beab-da4219e8d361,Felipe Eduardo Antón Tejada,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:42:20.191562,vegan,,4
+13,a2e74dec-ec7d-4eea-a411-5b1c54c8cbbd,Juan Pablo Tolosa Heras,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 17:46:54.291826,without_onion,13.15,3
+13,7bf9af65-81c4-43f0-9331-6e1d884c6804,Rosa María Folch Montoya,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:21:32.455326,vegan,,1
+13,37c4beae-8468-4015-bf00-4150021d391c,Damián Baldomero Vallés Naranjo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 12:39:39.071990,classic,9.49,2
+13,af78d2f4-40ee-4ce8-81ec-506ad8a6ae49,Valero Alegre Madrigal,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 04:31:06.465884,vegan,,1
+13,cf2bc6c0-7f4e-4b7a-b296-ab2ade535338,Raúl Verdejo Ayllón,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:33:12.827112,vegan,N/A,5
+13,a5a9357b-1967-480f-9c73-4dd0cf18febe,Felicia Baños Lamas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:49:16.229367,with_onion,,5
+13,2067b909-b0a4-4536-b5a9-0daae37928d4,Custodia Coello Barón,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:10:03.964617,with_onion,,4
+13,5b1dd5f5-5f79-42a9-ab4b-bd9d66feb560,Concepción de Rodriguez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:54:29.950141,without_onion,11.45,1
+13,787ad89c-dacf-49ef-9a98-18ee972d2398,Encarnacion Vázquez Barral,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:13:38.971883,vegan,N/A,2
+13,9fdeb3d3-1204-4951-819e-1aee9f06e5f2,Adora Alegria,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:56:40.316074,with_onion,,3
+13,9e945e90-d91e-4fa4-a6b1-2a1fd4532f6f,Selena Torrent Montesinos,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:21:42.047443,with_onion,N/A,5
+13,0eb283c7-c381-4bd3-90af-ac93ef3ba711,Fausto Llano,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:15:45.006317,without_onion,13.46,4
+13,986dc779-31f7-407b-aaa9-7537a95777b1,Samuel Rosselló Morata,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:41:30.206388,vegan,N/A,2
+13,e37fa30b-c01b-468a-8d3f-42a3709625f9,Sol del Salom,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:41:06.399793,vegan,N/A,4
+13,53ad2029-9511-4c89-ba4c-e97761ce3b2c,Aura María Fernanda Larrañaga Camino,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 16:23:21.962169,classic,,5
+13,c83cc04b-6b38-4df9-8f2a-b8069b26c952,Maricruz Escudero-Tudela,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 01:12:30.974509,vegan,,2
+13,76ed40d7-7ca0-4925-886b-b4f25c85f462,Jesusa Sarabia Cabrero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 23:40:47.306623,vegan,8.11,1
+13,feb48c0c-2586-43b8-be83-3e742f2566c4,Odalis Prada,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 23:45:17.736742,without_onion,,5
+13,8d34a64a-8fd8-4da2-8fae-824492a95298,Rolando Salvà Carvajal,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:47:37.070264,vegan,9.11,3
+13,08a6392b-1c52-4530-b7a2-55297c58f8e5,Silvia Paola Lloret Collado,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 04:15:26.008512,classic,13.53,3
+13,c1638880-1f73-4681-8d2d-11ec84ecf57b,Eduardo Iriarte Cal,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:17:06.228865,without_onion,9.39,2
+13,e6f13ade-80ff-408f-892e-2e04f4d8ffa6,Nidia del Ángel,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:47:55.133625,without_onion,12.69,3
+13,d5943d02-593f-4c67-8923-2f878193fa0b,Andrea Iris Cerro Marin,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:13:31.403096,without_onion,8.51,1
+13,e0b324c7-cc12-429a-8ed9-2911d0d2f84e,Gisela Marisol Tejedor Fábregas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:53:08.555379,with_onion,10.39,1
+13,1a3c2352-78b6-4635-afe4-d0b92df88126,Gerardo Peinado Montero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 10:51:31.001231,without_onion,,5
+13,1dacfaa5-7102-4222-9438-92716391bbec,Jose Angel Gallart Valdés,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 10:57:32.637255,without_onion,10.92,5
+13,a6c22372-fe45-49ea-8a84-ff57636f78bb,Andrés Martí Álvarez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:32:44.503121,classic,,2
+13,98f66b11-8f49-45d6-b5d8-bee2af14b106,Perlita Camino Heredia,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 02:17:04.364970,with_onion,N/A,4
+13,4735043b-de4f-45ea-9330-cceb4554093d,María José Garriga Chico,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:48:39.384224,with_onion,13.87,1
+13,273478a5-6590-4322-b548-62a7d9b665bd,Sandalio Baena-Roselló,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 11:17:37.238842,without_onion,,1
+13,255469eb-ef50-44f0-b9f4-cb5312af5d72,Adelina Evita Roldan Belmonte,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:07:44.460801,vegan,10.35,4
+13,5d4d5d9d-f4ce-4bc9-b703-e17a79b2b4ae,Benita Nogueira Manzanares,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 23:50:26.714305,classic,,1
+13,206b04c7-a2e2-45a6-8843-5c45e286ea07,Gabriela de Juan,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 08:52:23.465448,without_onion,,3
+13,a64c8b6c-7de0-4ecc-920c-ef978556ad3a,Ceferino Tejada Abad,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 16:44:50.652974,without_onion,N/A,5
+13,7f2b660f-ed7d-4eb2-9a73-e8ecdb209974,Roberta Mercedes Molina Carreño,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:32:43.796691,vegan,,3
+13,9d68ad8f-9ebf-43fd-a9cd-6fa0aa7a3129,Héctor Sevilla Lucena,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:10:30.628362,without_onion,N/A,4
+13,0b0d546f-3deb-4f5a-9860-cd2c29f22d4b,Teresita Solera-Juan,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:56:55.698873,without_onion,7.38,1
+13,da93463a-eb19-4737-a961-a18bda32c455,Aureliano Ramirez-Vallejo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:44:47.579315,vegan,,4
+13,471b70c2-786f-4993-a005-1835d4d161e3,Florinda Dávila Arribas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:09:27.553327,vegan,13.98,5
+13,e91b77ca-8388-46c4-8ccd-a66805c5d42a,Candelas Escalona Ripoll,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 14:18:45.669909,without_onion,,5
+13,67722952-e52c-4ade-bbe3-e3d8bafa1356,Ruperto Salcedo Ponce,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:06:21.854577,vegan,6.82,3
+13,af4bafe7-5070-4198-9f99-9ab9b600f61a,Sebastián Almansa,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:07:52.880457,vegan,N/A,4
+13,876257b2-6eac-43f7-aca5-02b353c3d8fb,Bartolomé Núñez Lastra,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 14:55:08.885570,classic,N/A,3
+13,2306b601-2185-4614-a4ba-62029e4b01fc,Roberto Ruiz Nieto,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:05:52.162681,vegan,7.12,1
+13,6dfc9b7d-a5f6-49b4-896e-5d9a8d013a69,Javi Édgar Rivero Valdés,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:24:12.364607,with_onion,,2
+13,c83014c2-db14-4f8f-8544-da69c2703e17,Álvaro Ledesma Barroso,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:24:51.181182,classic,,4
+13,5296007f-6428-4d38-8483-9424d49c529c,Ana Belén Fuente,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:38:02.922426,classic,,1
+13,de4dc59e-d722-4a64-98d5-a702438d3c4d,Chita Quero Pont,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:38:12.534075,classic,13.14,1
+13,19150f1a-267a-42ab-a406-96fa35cc4fbb,Evangelina Zamorano Barragán,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 11:22:25.420606,classic,N/A,3
+13,ecf4b546-8b1a-4745-9fd5-49c60f8efeb3,Roxana Quero Benavent,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:36:12.409228,vegan,N/A,5
+13,2159c44f-d959-4a65-a2e6-c7acd9079c03,Tecla Collado Roura,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:57:15.633520,vegan,N/A,2
+13,62ee0921-c538-4984-b1e6-c9e92de4d412,Jesusa Llorente Luz,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 08:08:00.149681,with_onion,12.84,1
+13,52b619d6-7835-48f7-8771-c354dadfdcca,Juanito Escalona Pareja,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 02:54:07.686895,without_onion,N/A,4
+13,0dab0be6-8d9d-46ec-8ca1-8c5f43824319,Marisela Palomino,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 16:10:26.544781,without_onion,7.44,1
+13,a23a997c-9b4c-4f78-b805-7bae6263e5ff,José María Olivares Jaume,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 10:16:08.767817,without_onion,,3
+13,df7423f0-ab62-4332-8066-3c883ce60b3c,Obdulia Ariño Moles,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 23:34:24.326855,with_onion,,1
+13,6796c97b-f710-4d82-9dff-7585e5d205b2,Lorenzo de Alfaro,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 04:23:11.394395,vegan,13.04,5
+13,a99e2067-34f3-47f2-b521-37fcb73b245e,Tere Bartolomé Silva,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 14:49:53.808891,with_onion,,2
+13,c692e308-32cd-46b3-9997-5985820b624a,Cayetana Garrido Carbó,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:31:17.758279,without_onion,,2
+13,6003f8bd-e8a3-4bea-af98-9321b94c9de5,Isa Moya Moraleda,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:31:41.414014,vegan,N/A,5
+13,ecdba74d-ba3b-4c3f-a841-fdb844791acc,Guadalupe Montero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 02:37:54.511093,vegan,N/A,1
+13,01f48e54-8903-4891-a0be-41c6e0cb69bb,Begoña Dorotea Rivera Vaquero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:46:47.730963,classic,,3
+13,d0cb21b9-9a86-4c5f-9f52-a014ca58733c,Noé Sebastián Angulo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 04:53:13.277953,with_onion,5.04,5
+13,7189d61e-28d3-4ce0-ba54-74a80c124276,María Cristina Nicolasa Matas Pineda,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 20:41:31.201804,vegan,N/A,3
+13,0f6e350b-1cc3-4451-8541-b133c7fc87e2,César Lillo-Sanabria,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:52:31.462413,without_onion,14.35,4
+13,b3ddbdcf-c7da-4bc5-9dea-eb9de2bee614,Herminio Salom Esteve,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 02:56:37.794325,with_onion,,1
+13,a928985c-d871-46e3-b7c3-50ea3f471d7e,Macarena Leire Salom Rivero,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:41:58.043581,vegan,N/A,4
+13,06a79fc6-5baf-4390-8bbe-a6e705d57344,Concepción Delgado Isern,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 04:23:33.045019,classic,N/A,5
+13,a0d53dd5-5f11-49c5-9483-ae4882df3917,Amaya Carbó,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 23:16:05.481748,classic,N/A,5
+13,469afa4a-4985-4714-b0ca-7aed7bcd7c9f,Amor Carbonell Domingo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:44:26.327000,classic,,4
+13,c06e14f2-b089-4e8f-830a-46e26854d4d7,Iris del Falcó,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:49:00.281248,classic,7.93,1
+13,e94ff37c-6018-4e83-a083-4643eb731165,Adora Gómez-Arroyo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 10:08:26.850804,classic,9.06,1
+13,38372743-9353-4f10-bc13-a9602fc34a69,Félix Bonet-Revilla,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 05:09:50.327383,classic,N/A,3
+13,709d865a-f95a-4ec1-8975-39e25c7b7a66,Angelino Cabeza,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 18:55:21.736085,classic,9.04,5
+13,084f978c-5951-4049-b9dc-b36502e8b8bf,Nayara Ródenas Novoa,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:26:38.436758,with_onion,7.23,5
+13,fdcb0242-61a2-4486-a64a-8fa5c8a6828f,Lucía Trujillo Mascaró,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:22:06.463450,with_onion,11.92,2
+13,193f3c6a-0b95-4fc9-92c5-6e65411b831c,Amelia Bautista,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:47:56.715966,classic,10.63,2
+13,09f33444-a662-4695-9191-1563cab4426b,Marcela Quirós Alegre,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:21:46.125665,without_onion,,5
+13,e2245483-09aa-4d84-8f0c-819e80f095e1,Carlota Llobet Leiva,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 08:36:13.972394,with_onion,,4
+13,5743a650-c519-4c9e-8506-68b99d97ac8b,Yéssica Santamaría Rosales,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 13:26:26.058644,without_onion,12.66,4
+13,33291df2-8247-4173-bb87-9fbcbdde9327,Paulino Egea Diaz,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 02:30:55.034431,vegan,N/A,3
+13,3811773f-8b7e-4e44-a137-5fd5c7e377c4,Armando de Bilbao,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:16:08.754807,vegan,12.87,1
+13,a47e7cac-9a34-4520-a817-08e09c73e11c,Virgilio Aliaga Giménez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:37:36.990199,without_onion,,2
+13,ffc9b0fb-1df8-4159-92ae-bafcd3543e5b,María Dolores Bermudez Riera,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:56:45.109136,vegan,,4
+13,36d15b8f-78c1-4b11-aa17-5ddf1825be06,Nicolasa Vega Moles,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:28:25.039107,vegan,13.46,5
+13,c0fabc4e-7fd3-4bef-82be-f2b3a0b45bf8,Salomé Eli Cánovas Viana,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 08:29:20.611054,classic,N/A,5
+13,46cd02c5-f123-4c2b-8afe-aa9e42d65221,Ruy de Pablo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:03:19.431398,vegan,8.71,2
+13,61506cbb-6ecd-401f-a430-efbefae9baed,Isaac Novoa Guardiola,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 06:06:22.104146,vegan,,1
+13,deefe80e-fe6a-4f20-99e1-2f484c3348ef,Custodio Rodrigo Gilabert,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 01:19:45.038680,with_onion,,4
+13,fc8b75ad-29d9-4216-9403-6de96630b8ff,Bartolomé Gil Gálvez Almagro,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 21:47:30.198742,without_onion,N/A,5
+13,9dde879b-19c4-4179-a33d-06cf4a8f213c,Josep Vélez Oliver,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 03:57:28.500087,classic,N/A,5
+13,1cfe0db8-2367-4a39-8ac3-c3033ab8ccfd,Isaura Dalmau Viña,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 00:12:48.879106,with_onion,8.34,3
+13,f1013b99-fce0-43e1-a1b5-3999a24751b8,Rocío Carnero Hoz,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:32:14.496988,classic,N/A,2
+13,12cebd81-2d4a-47df-b7ab-dd9cfd07c4b9,Martirio Cáceres Baeza,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:55:06.556973,vegan,13.16,2
+13,ed90e942-334c-469f-b708-0a3c4414cb31,Natalia de Arellano,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 02:41:36.618086,vegan,N/A,2
+13,37068c0a-5ace-4472-b2d2-df79e67af6d4,Ariel Silvestre Mendizábal Robledo,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 09:55:23.142548,vegan,,5
+13,b51ba311-9b33-46ad-b275-930b009f9983,Remedios Diaz,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 02:02:55.864678,classic,6.34,3
+13,68dd4fc4-75a9-40d6-9f59-82b65769cbdf,Candelaria Armas,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 19:07:19.518469,without_onion,,4
+13,ab9d27d0-cce7-4072-bc0b-3f8cdd8ea695,Juan Francisco Orozco Cervantes,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:07:53.665442,with_onion,N/A,4
+13,a7d29663-cbec-4180-84ab-f8e1c84d1c4f,Olimpia Bou Gascón,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 16:47:29.819769,with_onion,,3
+13,8e1c6e80-9cc1-412f-a985-756edcf59bf8,Diana Delgado Agustín,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:00:35.575082,classic,,5
+13,202281bd-8e0b-4be0-b1b8-84a3c01c6639,Ignacia Busquets Borrás,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 02:05:23.390407,without_onion,N/A,2
+13,05560fd7-6b52-41f3-8f8f-1e6c8af2a161,Leandro Barriga Soto,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 07:02:51.075226,with_onion,12.04,5
+13,1211f97a-ac10-4c8d-ba3e-ecdfb717ce94,Felicidad Montes-Benitez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 15:21:58.161779,vegan,,4
+13,297095b6-34d5-4dc4-afea-47d5ff661bf1,Casemiro del Montenegro,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 22:19:09.172589,vegan,N/A,2
+13,9526ca34-64fb-4576-9f3b-d53e0f714b23,Maribel Piñeiro-Rodriguez,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 01:56:36.006908,vegan,N/A,5
+13,0a30e24a-a704-4188-abde-775c16c09a74,Aitana Sala Rios,Palma,"Cuesta de Perla Gutiérrez 49 Puerta 4 , Las Palmas, 45695",2026-05-01 12:40:33.337495,without_onion,,2

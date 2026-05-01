@@ -1,0 +1,360 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+57,7229aedc-bc8b-4e58-b37c-6c4d21ed70f2,Segismundo Edmundo Capdevila Atienza,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:51:28.207287,with_onion,,3
+57,98520e03-b5da-4031-ac06-c856407dc15c,Jorge Soto Baeza,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:42:34.690862,with_onion,,4
+57,9b612be0-1e80-4d19-a877-1043e4b369be,Rubén de Larrea,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:50:45.960450,without_onion,,4
+57,a2487daf-a1ec-44d8-905d-a4b0ba718fde,Victoriano Manzanares Pombo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 21:19:18.536965,with_onion,,2
+57,ca79baf4-db79-451f-86eb-6f6b83032e89,Montserrat Manuel Reguera,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:18:21.040662,with_onion,N/A,5
+57,02537734-e40e-427f-8cf2-ecc6d8d4784f,Eric Mínguez-Vara,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:44:11.368217,vegan,N/A,3
+57,721887dc-58d6-4ca3-99f8-7e234f758285,Pánfilo Izquierdo Piña,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:56:01.255316,without_onion,N/A,5
+57,d0883ad8-b6d6-4231-ae17-5453414bdaee,Eugenio Taboada Sancho,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:09:47.299295,with_onion,N/A,4
+57,f120822f-b1d4-4ce7-97d0-170195fff9c9,Benigna Lozano Godoy,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:43:52.303227,with_onion,N/A,2
+57,0426a9e7-3960-46ba-885b-f76891ce9835,Palmira Sandoval Cánovas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:56:11.128065,vegan,,4
+57,87be05c8-0b55-46ec-8088-9e5fb2fc4fbc,Segismundo del Múñiz,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:28:46.806131,without_onion,N/A,2
+57,a838936d-9535-42b3-8212-41f166401570,Fabián Rosell Enríquez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:46:58.202040,vegan,N/A,1
+57,773d0f98-0549-4592-966d-e6f4e999f34e,Ángela Peiró Puga,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:08:02.661659,with_onion,N/A,5
+57,2debbe88-1599-49da-a393-450788979e11,Leire Arévalo Pazos,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:56:58.017610,without_onion,,5
+57,4547948d-76a5-49f7-9b61-b149745fc142,María Del Carmen Exposito Benavente,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:24:17.195706,classic,,4
+57,63153265-4d7d-46e2-84e8-cff219339054,Isaura Vicens Serra,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:55:12.695202,without_onion,6.11,2
+57,7544cc1e-47b9-471f-8489-6ad79cfbc0a0,Mariana del Río,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:31:14.659551,with_onion,8.25,1
+57,4024ded8-f241-44c9-b95c-47442f0ce5a2,Cosme Sacristán Raya,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:05:08.228309,with_onion,N/A,3
+57,150c5a53-761e-4c6e-afef-97daa697594a,Herberto Cirino Olivares Valdés,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 21:23:24.623247,vegan,7.98,4
+57,6d0631e7-34a0-4580-995f-32260856d1b0,Pili Páez Barrera,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:32:35.171362,with_onion,,2
+57,ee731003-8498-4eb6-830b-d275314f3be2,Lázaro de Quevedo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:50:09.908011,without_onion,,4
+57,67e2f4a6-f9b6-4324-9c35-1f394e0197da,Cebrián Teodosio Aguilera Agustín,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:00:59.284467,with_onion,N/A,3
+57,9f36d742-bfb1-4892-a35e-56633a74f2c9,Cebrián de Perez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:00:24.030563,classic,N/A,5
+57,e32ccca6-9d80-4933-9a7a-bc3b273c3f1e,Juana Blanes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 21:02:25.345014,without_onion,14.48,3
+57,f95477d6-4e28-4de0-8642-3b444d78d176,Cebrián Alberola Montaña,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:57:45.916303,classic,N/A,5
+57,a63b8ce7-e844-48a6-bc3a-5929857a2bd8,Miguel Enríquez Pino,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:05:05.590823,vegan,N/A,1
+57,7f462999-922c-4968-89db-d2a7e0dfbcbe,Ximena de Vall,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:08:59.100704,with_onion,8.77,5
+57,17083982-93c5-4813-8eb1-0099088a5c5d,Seve Juan Losa,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:51:55.634549,classic,N/A,1
+57,26d63e3e-7900-488f-b422-73b05a1b2563,Modesta Noemí Escribano Bejarano,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:06:39.614193,vegan,N/A,3
+57,9b535b0f-d640-4e63-8b8a-fbdcbdb4ad55,Florencio Ibáñez Piñeiro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:13:44.504424,without_onion,N/A,5
+57,014040c8-c853-4822-a472-4ea2648c9741,Noelia Benavent Arévalo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:24:08.055809,classic,,5
+57,06dccbcf-6f6f-4df6-9705-889270cac330,Marciano Alberto Ribes Múgica,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:34:20.922788,without_onion,,1
+57,aec3bd87-4666-4d24-9442-e0bf090b5a96,Viviana Riba Ribes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:59:57.363290,vegan,,4
+57,d0ab49e8-22a7-4f84-b865-d4c4a937c5d7,Esteban Alberto Barragán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:32:42.424895,vegan,,1
+57,ee1cfcfb-381a-4fc8-9c24-1b3a65d9f8ed,Leandra Peñalver,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:34:57.234981,without_onion,5.67,1
+57,d370803b-dad9-4525-8dcb-bd02f536319f,Javiera Arias,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 21:14:36.110883,with_onion,N/A,1
+57,10bb00db-c9a0-462d-8166-e78d3e634249,Mariana de Murillo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:01:06.574296,without_onion,,4
+57,849a3cdb-2c7b-42eb-b4c2-31c7e7a7b6c0,Cornelio Maximino Peinado Merino,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 21:56:18.642900,without_onion,,3
+57,724e75f1-f864-4e8f-8fd3-e5f77e60778d,César Castro Fuentes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:17:31.427745,with_onion,11.72,2
+57,8f483649-5b44-457f-84a2-52a9b0f19036,Guiomar Carrera Correa,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:42:03.121961,without_onion,7.18,2
+57,5bdbf397-f4ff-442d-bf3c-366ce680bfff,Jose Francisco Balaguer Olmedo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:00:20.023255,vegan,,2
+57,82a6cade-22cc-47da-9509-cd5179ff1b44,María Belén del Tudela,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:59:37.008019,vegan,N/A,2
+57,65f4e4fb-137d-46df-b651-7ce7e88ea76d,Isa Velázquez-Colom,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:26:28.688489,with_onion,N/A,2
+57,b24d5e07-1bc7-43c0-a2ce-dbd8744b7708,Benigna de Cabo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:57:16.587527,without_onion,7.33,2
+57,1f8e514c-d3e8-4c53-ab6a-5a5acb13938c,Mateo Martí Granados,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:43:54.090935,vegan,N/A,3
+57,a4988626-8fdf-4cc3-877e-aaf5e226aff8,Malena Herrera Mendez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:33:24.549747,classic,,3
+57,74b431cc-cc0f-48d3-b5ed-135094cd681b,Aitana Verdugo Marcos,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:49:15.747420,classic,6.66,4
+57,99c05dc2-d5aa-4969-9c60-0b05ffa790b0,Araceli Prats-Viñas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 05:22:11.477181,classic,10.51,4
+57,6c77d7c0-b226-4034-b1ac-b0e98063d066,Herberto Gallego Roma,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:07:45.647430,without_onion,N/A,3
+57,aed1f994-2269-4e67-aeab-765541774536,Nydia Rosell-Lobo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:13:29.174632,classic,12.25,3
+57,c42d2555-340c-4747-afb1-9aa843d63811,Godofredo Vicente-Sala,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:51:53.241791,classic,9.23,4
+57,7ff47e77-1bd0-4f06-ae10-b8c3b7d20dc1,Daniel Arribas Priego,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:18:14.493440,vegan,N/A,5
+57,c39bd570-0ef7-43dd-96dc-116da0c3172a,Antonio Chamorro Fabra,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:08:54.043311,vegan,,1
+57,25580c14-4b40-4e44-bd80-fea7a13a5230,Alfonso Abad Giner,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:11:43.861618,vegan,11.79,3
+57,2b79b6a4-ac9e-4774-9647-84bc03111a00,Mirta Ros Feliu,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:15:08.371688,classic,N/A,1
+57,15429564-3cf8-4e71-9c53-5b269c2221ba,Efraín Nicolás,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:01:43.026782,without_onion,N/A,2
+57,54dfc6e0-4a6e-49f3-b54e-74e198f7989f,Juan Carlos Baños Mayoral,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:42:19.931132,with_onion,,4
+57,6cc09dcb-cb11-45b2-b1cf-2f355684f5b2,Fernanda Román Dominguez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:46:39.676019,vegan,,1
+57,236661c4-5464-4c9f-b564-91b5ed2edff1,Victor de Madrid,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:38:38.976437,vegan,5.78,5
+57,3e55a844-c5a6-4f86-b13f-ef3bc5f28ce8,Gracia de Casanovas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 03:03:09.180105,classic,5.64,4
+57,3b439689-d6b2-4bdc-af35-f8969c816150,Nazaret Velázquez Batlle,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:25:42.893244,vegan,,5
+57,e8b50c2e-e848-4da6-b880-2aaf16d43990,Ismael Tamarit Alcalá,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:44:37.177221,without_onion,N/A,2
+57,a66da555-7b58-4b71-99eb-2cb2f50c63a5,Baldomero Segarra Zabaleta,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:21:28.838627,without_onion,12.15,3
+57,6f698888-9f25-43b0-bb88-ccc6a13d01aa,Atilio Balaguer,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 01:25:34.247164,with_onion,N/A,4
+57,c4503a1f-2897-4da2-979a-1acff13feadc,Ana Belén Llorens Colom,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:21:31.728667,with_onion,N/A,2
+57,14cbcbf4-9150-45ff-9ff1-8d826403df42,Reinaldo Heras-Olivé,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:51:00.315278,with_onion,,4
+57,23626878-c0a3-4084-9386-a77759709280,Eduardo Villa Maestre,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:28:46.736636,classic,,4
+57,2a6bd487-280d-4b1d-a60b-f1806c468407,Gabino Mas-Hierro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:14:48.626286,without_onion,,1
+57,0681f31b-1da2-4d5d-973b-7e76c1cc5d6c,Pastora Valderrama Ferrández,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:23:45.277411,classic,N/A,2
+57,e0b7ef75-b06a-47a0-aa5a-318af38cc898,José Mari Rolando Seguí Echeverría,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:42:27.226292,with_onion,N/A,5
+57,63f5a2b7-7879-4dae-ad35-9c3902093a16,José Mari Gabaldón,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:05:14.081607,without_onion,13.36,4
+57,e0d3627b-60d1-4d45-80db-4a907f153d48,Nazaret Toro Castilla,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 05:35:48.052074,with_onion,,3
+57,b9141818-83b1-4b77-8c5a-91da0669763f,Herminio Coronado,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:07:16.337267,without_onion,,2
+57,a0b91600-9d35-403e-bdc9-dda41dd659eb,Leocadia Girona Abril,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:51:06.832950,classic,N/A,3
+57,98ddd190-7937-4c99-bd74-95d7de6ba28e,Eliana Valverde Falcón,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 01:42:44.640510,vegan,,3
+57,eae2a6a4-4af0-4c56-905e-aaba80e89e4c,Anunciación Emelina Rocamora Palacios,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:22:13.380111,without_onion,N/A,3
+57,69b18503-067d-4207-8cdd-cab9c8b0d3fa,Bernardo Herminio Araujo Cantero,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:16:28.450278,classic,,5
+57,4f9a113c-9037-4e68-a776-3f9f99f4b087,Delia Ponce Cuenca,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:16:51.804117,with_onion,,4
+57,b45609b0-f01f-4f71-8ba6-8448dea7ab17,Leocadio Calvet Tejera,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:12:36.785519,classic,,4
+57,5bf32e7f-443c-43a2-abb1-f3c1d634a738,Gregorio Caro-Guerra,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:15:16.720153,vegan,,3
+57,086ced69-ea11-4098-886b-06ebe5fa983a,Magdalena Camacho Aragonés,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:04:37.764530,vegan,14.78,5
+57,94a828ea-3866-4b89-9570-c49b2106368c,Silvio Asenjo Ruano,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:09:02.683927,with_onion,,4
+57,0bb7e7b7-3214-4cb0-9827-7079245abdf5,Rosenda del Llorente,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:38:55.420590,with_onion,,5
+57,72cc844a-fe21-4bf4-8bb4-ac54d227fec9,Wilfredo Barriga Grau,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:00:20.401337,with_onion,,2
+57,5c2a94ca-fe15-4c6e-aadd-bb3230e31d04,Renato Barreda Roman,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:52:53.448768,vegan,,1
+57,4436d610-3341-454e-ade8-5658534be237,Daniela Correa Hidalgo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:09:57.788505,vegan,N/A,1
+57,462a4249-00d5-4963-89e5-75fa2cd226a0,Elvira Coloma Lillo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:37:26.246890,without_onion,,2
+57,bd2d5f53-729d-4000-8c4d-5700e7c824c8,Genoveva Lumbreras Cortes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:12:01.378481,vegan,N/A,5
+57,b8996570-c9c2-43b9-bbe0-4ca79a70d9d5,Teófilo Sotelo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:35:24.820786,without_onion,N/A,2
+57,9fdc29a9-2917-4275-9da5-f4d23a8c50c8,Seve Palacios Gascón,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:30:32.496566,without_onion,,4
+57,fb5ca208-eb89-4479-a781-3762dd8c4cdf,Virgilio Blanco Abascal,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:17:59.856154,classic,8.59,4
+57,ae3a11be-9825-49ed-849e-3d8fcf6301ab,Ernesto Prieto Conde,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:38:52.463989,with_onion,,5
+57,fd90530f-61c2-4705-b5d1-044c39a46f35,Rogelio Cano Cepeda,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 21:27:10.869467,vegan,8.97,3
+57,ecd7e65b-2c8b-4851-8ff7-acdae12fe084,Armida Ropero Roura,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:53:36.873118,classic,,3
+57,953fd343-636c-4cae-862d-2ccbbafef76d,Delia Chico Juan,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 01:11:58.723408,without_onion,,2
+57,24fecfce-11be-47b2-b5fc-2cce3a10c9d9,Claudio Vega-Pozuelo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:04:50.488365,classic,N/A,3
+57,5358bf7c-d9c9-403f-9293-06e63c52d07a,Santiago Nevado Valera,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:23:04.948663,classic,,3
+57,5c48053f-4f5b-4f6a-a3cb-9e81e31070e6,Tecla Yuste Cerezo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:46:53.579645,without_onion,N/A,1
+57,0cfe2cc2-ca6f-4af5-8ca1-eff804cb2bf9,María Del Carmen Borrás Galindo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:20:29.295445,vegan,,4
+57,b639c179-5bca-4083-b57e-0bc79e665838,Amor Cantero,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:04:59.647665,classic,,5
+57,7f587299-cefd-471e-bd0d-bc3aaad62bd1,Esmeralda Tena Morera,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:37:13.343993,with_onion,N/A,2
+57,a6d6049c-bfb0-4ce3-84bd-1768591be5c3,Crescencia Zorrilla Velázquez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:04:49.690128,vegan,12.31,3
+57,e5c46177-d6ef-4fb6-b0b6-f44b0c2301c4,Cándida Amigó Luque,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:01:42.990585,vegan,,5
+57,2a6f2fb6-ac55-41ac-8dc3-7ba603fbf620,Vicente Escrivá Pedro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:21:05.889508,with_onion,N/A,4
+57,551f1e5c-c58f-4f35-a691-9b1a159f6d5e,Clímaco Carreño Roselló,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:01:11.010947,vegan,14.53,3
+57,b86e2889-b78d-4440-b79b-ea482be49f48,Francisca Amaya Arrieta,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:47:22.036078,vegan,,5
+57,b0132f4f-7092-4a98-aa14-3b1b16b069a8,Julieta Granados,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:35:19.957293,without_onion,6.49,2
+57,30df4b50-64cb-4f4d-8c27-bc68c8762392,Américo Francisco Olmo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:02:35.484612,with_onion,,4
+57,07758c03-66db-43c2-9d29-5c9df2312cd8,Ileana Daza-Moraleda,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:35:20.663067,with_onion,N/A,4
+57,17449b98-80f3-4711-b1c8-b590f3c232aa,Chelo Berenguer-Roda,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:49:26.036573,with_onion,N/A,1
+57,7dcf7686-2f6c-4b65-8aae-e59f233f2370,Aristides Bru-Nicolau,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:34:17.785024,with_onion,,5
+57,d20319bc-a853-4a8a-9edd-5ea7b82989fc,Sigfrido del Paredes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:23:40.692300,with_onion,,2
+57,47790cfb-3c8f-4fef-97ec-b9dff738925b,Venceslás de Beltran,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 21:37:23.637881,without_onion,,4
+57,3820af8d-ad37-441a-bba3-b9174169904f,Édgar Dueñas Vargas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:32:07.262349,classic,13.59,1
+57,b69ba280-39a4-43ee-8b80-eaeff76aa342,Julio Tomás Gaya,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:40:07.375932,with_onion,,2
+57,0b40ea4b-7379-4204-8745-884c75a7b952,Sabina Pujadas Ferrán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 21:49:56.635304,with_onion,N/A,3
+57,ee9721be-56f9-48d3-a03d-185aad053492,Mercedes de Otero,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:54:46.786888,without_onion,6.14,5
+57,af3fdcd2-37ac-4bb4-9851-7b06cbda8d2f,Lupe Jose Ignacio Feliu Baró,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:20:01.150315,classic,6.13,2
+57,551b1f6a-2e7b-48db-8960-a4958fc230d9,Flavia Briones Villaverde,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:31:32.578051,classic,N/A,4
+57,509b87e3-47a0-49fe-94fa-5ba5ca5d7f9d,Luisina del Tenorio,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:42:25.851034,classic,6.05,1
+57,05431b10-e742-43eb-a65b-2678a948dfa9,Pascual Baños Palmer,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:35:25.162855,vegan,11.15,2
+57,b8a5642e-7f98-4e58-bdd2-bdf1a78e49cd,Leopoldo Goyo Gallardo Criado,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:52:40.041543,vegan,6.41,1
+57,9e9857e3-7430-4053-8cab-6f0505863b1a,Aura Alfaro Carrillo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:42:12.148243,with_onion,9.56,5
+57,e3803882-c82f-4e8e-98aa-f04e083641a7,Remigio Briones,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 05:32:16.107256,with_onion,14.14,2
+57,e5562172-5e88-4e2e-9f68-45399ef5e8b3,Aitor Barceló Pi,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:27:37.504612,vegan,N/A,4
+57,2ed48c05-65f3-4046-940d-06fa4ce355d8,Irene de Muñoz,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:53:49.614000,without_onion,N/A,2
+57,79409c8d-702f-40f2-a85e-cd666d2fa706,Claudia Serafina Huertas Ramírez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:18:52.978040,without_onion,,1
+57,54f6a392-7f8b-410e-a343-255178399b08,Amador Haroldo Manzanares Ródenas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:37:55.580806,with_onion,N/A,1
+57,07d6ab2f-a25d-4548-99da-7e16ceb8a8de,Carlito Monreal Hoyos,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:06:45.358019,without_onion,N/A,2
+57,652dfbe9-e93c-4c53-be2d-ea421eec9e3b,Aníbal Coello Buendía,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:10:41.828231,with_onion,6.17,5
+57,463dc8f6-3eae-4e3e-874b-791dbceee9fc,Aitana del España,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:12:37.263379,vegan,11.3,4
+57,4e437995-ca2f-4563-b4b0-6be697515793,María Carmen Narváez Bello,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:08:03.295567,classic,N/A,2
+57,a4e76e90-32c3-4215-b045-fe31a1e607a4,Édgar Escamilla,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:05:37.537814,with_onion,6.91,3
+57,1214a37d-abb2-42d7-ab15-b9cb15545ccc,Víctor Tovar Bas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:51:58.860050,without_onion,,2
+57,76a9220f-c3b6-428e-8610-f9fef99b81f4,Elisabet Luján Bayona,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:29:11.676315,vegan,N/A,1
+57,5dec5034-4ee3-40f5-b6e6-54c64554edef,Plinio España Lucena,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:22:03.517468,classic,N/A,3
+57,3fc7464e-8206-4ef8-bc94-deab8d2a04da,Ofelia Riera Perea,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:19:28.873587,classic,,3
+57,bd9ef7fa-53b8-4a12-a234-333a6942476d,Sabina Barrio,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:12:45.209172,vegan,N/A,4
+57,cc4f2f10-da2a-456c-bc11-0ddf90050c67,Jacinta Echevarría Cabo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:42:05.891597,without_onion,12.74,1
+57,0d47802a-092e-4c1e-856e-3c454eba5958,Ofelia Cid Silva,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 03:28:42.795183,classic,,4
+57,c1a80149-3212-4c01-b4b4-511da846fb9a,Fausto Flor Peral,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:42:09.697574,with_onion,,5
+57,08f41c80-6d80-4d5d-b7de-580c0d24dffe,Eliseo Serna,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:39:15.532750,classic,N/A,2
+57,67eb1ac6-cfb1-46ba-af0a-283ac29de14c,Sigfrido Tapia Álvaro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:55:34.115128,without_onion,,2
+57,99a48a10-a7f8-4c21-a8fc-1b2983785e73,Silvio Quero Nicolau,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:34:45.609250,without_onion,11.9,5
+57,23f4c12f-68d7-4348-ac5a-8b28c85b47ce,Natividad Barco Gargallo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:37:57.626244,classic,,5
+57,60aede7c-1ed1-46d7-8a25-e7221bd6b806,Irma Sacristán-Velasco,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:51:25.295944,without_onion,N/A,4
+57,23d1525e-f5cf-4acd-a19c-41b60de83f63,Íñigo Ropero-Catalá,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:06:15.143898,vegan,7.23,3
+57,a4341664-de7e-4ab0-8c01-c5aebf6cf348,Ibán Angulo-Fortuny,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:10:24.447038,classic,N/A,1
+57,ace614b2-d828-4e02-a501-6b77b82a221e,Horacio Jose Ignacio Jáuregui Feliu,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:50:09.717407,vegan,,2
+57,c6956206-93c1-4d7d-9816-67de11c20c14,Rosalva Sainz Arenas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:22:19.516881,classic,,5
+57,d271ca55-c714-4d74-ab24-1d823e2d4a4a,Leocadia Herminia Cervera Cabezas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:50:17.623211,vegan,N/A,5
+57,0769735c-801b-414d-8681-9ed5bf25f1f2,Lorenzo Heriberto Sanmiguel Cerro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 03:17:05.757575,vegan,,5
+57,6e28a10d-01f4-4062-8eaf-f033479bae5f,Gabriela Conesa Pedrosa,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:49:18.486090,with_onion,N/A,5
+57,d4d6a0ea-93e9-4d86-8dec-6a5d1bee99eb,Abilio Luque Crespo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:32:56.121276,vegan,8.04,3
+57,3277185f-358a-48b5-97d0-81c7dc6ed038,Alondra Alberola Santos,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:11:14.419620,vegan,,5
+57,e182ce11-3ffc-4be7-80dd-db5e69a7c925,Jose Ramón Checa,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:08:16.149586,classic,N/A,1
+57,8c22dc33-1c66-45dc-bd23-567377455907,Dorotea Llobet Cortés,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:36:06.312743,without_onion,,5
+57,5ba8616b-22aa-479c-bc20-aff71911980b,Amelia Buendía Pineda,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:51:21.116024,with_onion,,1
+57,97ea5807-1d26-42d6-886b-ffdd9a1f2586,Adelina Salmerón-Cortina,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:47:50.378530,with_onion,7.32,5
+57,8b68dba2-2862-42c6-87f6-3b951af7c158,Angelita de Galvez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:52:21.973023,classic,,1
+57,c8421918-7720-415a-9076-05259e30f873,Jose Ignacio Martin,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:00:43.102472,with_onion,7.48,2
+57,10d2f82d-373b-4a09-9323-1f4df16131de,Eulalia Gascón Ledesma,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:33:34.293868,vegan,5.5,4
+57,e38f1c82-e21a-4b08-a779-360cf50f70cc,Borja Álvarez Escrivá,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:12:24.456584,with_onion,12.79,5
+57,2f5457b8-dc6d-43f0-88f4-5189905f6b21,Roberto Sosa Guerra,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:46:24.105006,with_onion,,4
+57,43d00673-d0bb-4267-aa60-b8dfd66ea5a9,Juanito Maza Cuenca,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:54:32.279279,classic,5.57,1
+57,d51c8457-eba4-460f-9f60-fcd3b4a5c131,Benjamín José Manuel Vigil Manzanares,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:22:23.199151,classic,5.85,4
+57,2e2e770d-736c-468d-ae04-15a7e8e0b0ef,Kike Bou Tomás,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:20:52.420076,without_onion,,3
+57,db00d32a-d857-4598-ab2c-3c0247ae9dde,Vinicio Garriga Bartolomé,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:00:11.293782,with_onion,N/A,2
+57,b2efff34-4559-41d4-b645-779d3c464684,Anabel Conde Izquierdo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:52:34.288436,with_onion,10.97,1
+57,dcc1b389-c640-48ee-b53e-1fd961e155e4,Horacio Gonzalo Jimenez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:56:47.511756,vegan,10.45,5
+57,d9b22b3a-8359-49f6-aafc-690a39ec5c1a,Cesar Mateu Cano,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:28:13.757913,classic,,4
+57,5ddcc656-dbe3-4ecf-aa3d-99e542e73724,Jose Antonio Eugenio Calvo Tejedor,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:13:02.000695,vegan,N/A,5
+57,91941b5a-666c-4cf4-aade-1797deab3a7d,Chuy Murillo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:47:18.917926,classic,N/A,3
+57,76cc32c3-71f0-4ad0-b7dd-b578d075beae,Toni Cortes Gonzalez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:40:11.156541,with_onion,10.1,5
+57,b690c2cd-856f-43a2-991e-7c464b6b0c2f,Borja Nacho Sierra Lucas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:48:47.566126,vegan,,4
+57,5e97c614-6208-46e2-bf98-3b156643d968,Marino Carlos Andreu,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:18:01.622184,without_onion,,2
+57,fe522797-3cf7-490e-b498-5ab913ec1c2c,Susanita del Taboada,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:47:17.722775,without_onion,N/A,1
+57,5b242ee1-c093-497f-b3c2-6c9c2300426b,Luisina Ayllón Torrent,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 03:23:33.274003,with_onion,8.59,5
+57,fa670401-e0c8-4ed8-905b-2282de04d3ce,Gerardo Arellano Carmona,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:26:39.672700,without_onion,N/A,2
+57,000b5144-8321-4f7e-83d9-7842b86f58b5,Luis Ángel Asensio Galán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:48:55.864678,with_onion,,3
+57,14536f5c-0611-4441-87a2-f55845edc5c2,Iván Alfonso Morán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:40:34.897312,without_onion,10.49,2
+57,d4d1a709-f2fe-4f2a-86b5-5d4a1bb7b216,Eleuterio Figueroa Arana,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:52:24.179309,without_onion,12.22,1
+57,5c57b261-26d0-44dd-af56-72bbe09565b0,Juanita Salcedo Arana,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:55:58.613873,with_onion,10.56,5
+57,88113053-26ae-4183-b4ef-d65c14c25acd,Violeta del Teruel,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:02:47.899544,vegan,N/A,2
+57,96ee5ebf-a1e1-4e1a-a982-c664af52cf7c,Vasco Lucena Barriga,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:28:52.590650,without_onion,N/A,1
+57,986890e1-08c4-46e6-9fef-c45ebe6b5ddf,Etelvina Benavent Farré,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:44:21.065194,with_onion,N/A,4
+57,a79e4418-19ea-49e4-9c34-15ff79b7d591,Ramona de Gomila,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:52:27.522368,classic,8.41,5
+57,63265317-6d44-425d-9a62-6276281884de,Pedro Aroca-Sans,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:24:34.892424,vegan,11.74,3
+57,cdd75000-b3ea-4183-8a37-2c1f8fde54eb,Ana Sofía Angulo Duran,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:08:30.161522,vegan,N/A,5
+57,02c4ff71-eba4-44f7-80e1-84d860ba8044,Cipriano Barroso Rivas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:01:18.049154,with_onion,N/A,2
+57,526cc6e8-9f69-47a4-9c9f-48a1e318ccf4,Ana Dueñas Urrutia,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:01:16.557036,without_onion,12.58,3
+57,38a3ec50-38cd-4958-8cfc-f68de370e71f,Eloísa Morante Ruano,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:12:23.236963,classic,N/A,5
+57,db60959c-42dc-45ce-99a0-1773c063ec78,Amalia Tamarit Ponce,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:09:54.181186,without_onion,7.41,1
+57,de5d1c03-d4dc-4ddd-91d6-0f187d73504d,Loida Sedano Revilla,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:07:52.570983,classic,,5
+57,492091cf-6b85-427a-adcd-ad1aa8b05971,Héctor Buendía Perelló,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:33:21.918109,with_onion,7.9,1
+57,2729fdc8-3e60-440a-9309-cc9a1bb32c86,Olivia María Manuela Macías Ochoa,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:04:37.667407,classic,,1
+57,5b6bf15f-7439-4510-aff4-b1e7d50e36f7,Tito Puga,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 03:32:27.740854,vegan,8.35,3
+57,7b559095-fad9-40dc-a1d8-4514e17097c4,Leoncio Olmo Peinado,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:59:38.548158,classic,,4
+57,dc826cd5-25b6-4091-bebc-690d48cbdc14,Arturo Miró Fonseca,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:51:20.425546,classic,N/A,1
+57,928b6929-fb48-4a35-bc8a-85f829f24fd9,Jacinta Fiol Abascal,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:07:31.146964,with_onion,10.91,3
+57,b1689f47-55c6-4560-8cee-a12913751b6d,Inmaculada del Agustí,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:45:39.068800,with_onion,N/A,2
+57,99ab758e-c631-4816-8ff8-4165c4721afb,Ximena Gracia Amador,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:58:18.302223,without_onion,8.77,5
+57,bbafe9f1-0806-4730-9fc9-1da181ad0f89,Bonifacio Roldán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:42:59.436288,without_onion,7.95,5
+57,becc3db9-b85a-4b26-861a-32568576033e,Ángeles Olmedo Miralles,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:09:15.759182,without_onion,5.92,5
+57,9848847f-5789-4893-aa52-fec0b034d84b,Macario Miguel Salazar,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:33:37.482916,vegan,6.92,5
+57,7922819c-86e7-4695-9438-4b0f4a316363,Ezequiel Raúl Piñeiro Feijoo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:04:42.302188,with_onion,5.31,1
+57,4b680138-7bda-4f79-bce3-32de02134f2a,Gerardo Baquero,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:26:39.914520,classic,14.45,1
+57,58c26da6-3820-460d-bc07-141b2ab9117c,María Ángeles Nieto Haro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:39:09.708711,without_onion,N/A,1
+57,178460fd-eae2-42d2-a47f-e1f3ec69f778,Eva María de Pinedo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:30:47.015694,vegan,10.16,3
+57,807d7b07-3c57-409f-9581-c4bdb30dfaae,Urbano Román Batlle,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:08:44.251400,with_onion,N/A,2
+57,4e67bfb2-1b15-448a-b95e-61e95186b382,Desiderio Natanael Galiano Casal,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:05:43.457599,classic,,1
+57,7f8ec4fd-9486-4aac-a0c6-9249327b3a9d,Pastora Giralt,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:53:34.329497,without_onion,N/A,4
+57,8eb1d91e-ca9a-4d98-9dd8-7a6a86b48c4b,Geraldo Clavero Ruiz,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:36:06.378572,vegan,8.62,1
+57,69bf1e7c-7e94-4859-b767-a7b1fc101134,Carlos Cárdenas Santamaría,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:03:00.165353,vegan,7.99,2
+57,e5f3b2ce-001d-4cee-8647-dc746bc2153c,Leyre Nadal-Cadenas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:37:41.731168,classic,10.29,3
+57,22c6b9c2-d4ca-4c66-ae5a-c8f6897ad7f6,Luis Miguel de Ferrándiz,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:14:05.711816,classic,14.28,5
+57,27422370-09e7-4390-86a4-6903af6d39f9,María Manuela Cerdá,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:47:29.341376,vegan,,4
+57,fbf162f6-478d-40ee-a0fd-760679714668,Xiomara del Salamanca,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:33:35.942528,vegan,,4
+57,d588d48b-2273-4f3e-a3d9-9d83a2b12a8f,Ángeles Giralt Acevedo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:05:41.207759,classic,9.48,3
+57,aa0455cd-eca1-4c8d-97fd-c8ac0d809f8b,Lope Puente Beltran,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:07:29.352111,vegan,,4
+57,9a32eaaa-9b8f-4b43-adba-78d7248b0505,Darío Gonzalo Cabanillas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 05:55:44.510884,without_onion,N/A,1
+57,5f3661d3-baaa-4c2a-800f-c0a791e0efc7,Rodrigo Perera Casado,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:12:25.798259,classic,,5
+57,6846da31-708e-48b2-a021-e7561d04502d,Perlita Ávila Nogués,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:57:57.614279,with_onion,,3
+57,fbd237a6-89f0-4713-80f4-3519be602778,Nieves Vega Samper,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:43:48.292799,without_onion,5.85,4
+57,ca81ebac-916f-405a-8979-5d16366fbae9,Begoña León Navas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:02:39.959280,with_onion,14.21,2
+57,da118f2f-efff-4132-a20a-0477e1587bc0,Andrea Castelló Herranz,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:05:37.460168,with_onion,,3
+57,19502edf-af21-4263-96fa-24e61f6d0b9c,Cristian Anaya Piquer,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:17:21.718281,without_onion,,1
+57,2e204826-fcaa-48f4-ad38-9298758b9d38,Paloma Aragón Baños,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:14:53.474904,vegan,,1
+57,e7b551c8-5682-49a4-b560-3f84c03b0455,Teodosio Pardo Verdú,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:30:07.620901,classic,N/A,1
+57,b9ed8337-8d2d-4654-bcef-0109dd1c9d98,Gracia Salvà Muñoz,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:44:19.862030,with_onion,,1
+57,5a7b773b-3518-433e-b563-c5792b199f8d,Juan Bautista Trujillo Ibañez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:54:15.950997,classic,,1
+57,4c75877c-252e-4262-b839-693157afd877,Silvestre Estrada-Muro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:36:37.542256,with_onion,N/A,3
+57,d4e51f74-200f-4413-9fbb-61c9e79651af,Tristán Peña,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:36:52.812845,vegan,,5
+57,bd6122eb-92af-436c-87a9-ad1111842abc,Amalia de Alfaro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:07:17.547657,without_onion,,4
+57,029c6c9c-7cf4-461e-bc0d-1a126c0a3f3f,Eugenia Seguí Barros,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:22:42.514458,classic,N/A,3
+57,074ef168-205c-4d9e-93c7-67755d0d88a1,Tomasa Mariño Morán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:04:16.245414,vegan,N/A,3
+57,11c2eb2a-039e-4cc9-a0c4-d20a6597b2b3,Gerónimo Manuel Soler,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:36:41.431710,vegan,,4
+57,59437e3c-1402-4677-bd5c-9eecc12519b4,José Mari Cánovas Torrijos,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:26:42.157846,classic,10.55,3
+57,58abafdd-35c2-4f3f-b4af-3529fe821fa8,Clotilde Checa Reyes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:29:09.530275,vegan,7.72,1
+57,692415e5-eef9-48c0-ba57-7529cc45747b,Aitana Pla Aguilar,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:42:51.948312,without_onion,,2
+57,ed5c239d-9ebc-4a56-818d-e105206f98ef,Felipa Monreal-Blanes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:22:17.664300,vegan,N/A,5
+57,7958eda2-2ff6-4d8b-8322-e5921b45c561,Renata Paniagua Rico,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 05:40:38.479232,classic,N/A,3
+57,12e4c6f1-6c41-42e1-8125-0ad207a7d9eb,Olegario Jove,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:19:10.495467,vegan,N/A,1
+57,8f4638f8-1048-4851-9989-5fb09afde946,Viviana Odalis Márquez Fajardo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:38:10.008142,classic,,1
+57,4ac98b71-4ea0-4ebe-b1b4-c325cba8c747,Reyes Mate Garmendia,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:25:37.512920,with_onion,,3
+57,9192a12f-4baf-4551-942d-0677ef423b01,Clímaco Oliveras Ocaña,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:49:35.086754,with_onion,N/A,2
+57,ec8fe714-b93f-4ab5-9f36-bfcf0db9c349,Teodoro Codina Ibáñez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:51:17.945749,with_onion,,4
+57,1346558a-792f-432f-8622-bd7a53309116,Ruperta Lopez Serna,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:17:16.810023,vegan,8.11,1
+57,a9a3db45-67a1-4f27-ab42-7bfcab457788,Charo Campo-Marco,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 01:51:27.356416,vegan,6.72,3
+57,f2029830-a78a-4d57-8d23-42477fd790d2,Dani Dávila Hernando,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:41:15.616679,vegan,N/A,2
+57,83e5093f-ef1a-4f1b-a1ea-a76f3cec985b,Espiridión Puig Morata,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:24:49.240586,with_onion,5.62,2
+57,d4e2034c-f548-4e72-bd7d-ae80427b3e4d,Tomás de Diéguez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:01:49.725509,classic,,4
+57,225fa499-4119-47ac-8093-184368452daa,Quirino Lalo Chamorro Fuertes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:52:10.093286,vegan,N/A,3
+57,abcaec00-aa31-48b8-9282-11899e0cc4cc,Chema Zapata Aguirre,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:15:52.467970,without_onion,14.13,1
+57,6326d085-3cb5-4ce1-a0d4-5e83e9ba69a1,María Ángeles Alcalde Carbó,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:38:39.529495,vegan,,1
+57,5a91087a-cf05-45d3-855e-ec02f80d1cb6,Leandra Portillo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:09:53.957006,with_onion,7.5,2
+57,11801d5a-873e-425e-b8f8-b859ecd43e27,Ruy Ballesteros Palomino,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:04:26.523408,with_onion,N/A,4
+57,62733eed-2975-4078-afb8-b4e6db3e894b,Cirino Amores Sáez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:45:46.941381,vegan,,3
+57,962f69a8-3099-4f7a-a826-c6a34a8dc1d1,Luisina Torrent Alonso,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:03:39.411026,vegan,11.72,3
+57,92d372ec-ff9a-42b7-bb18-3cdd5242b953,Wálter Ríos Llorente,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:53:37.512702,classic,14.96,5
+57,fffa6ddc-e144-4804-afbb-7e6ddb546d9d,Diego Muro Villaverde,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:14:44.317512,classic,N/A,5
+57,d58385c7-3946-4427-a31f-15a0c364b0d4,Clotilde Hernandez Solano,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:43:06.317270,without_onion,,4
+57,9e3cd12d-5b75-4989-9f52-5ed30b7aa861,Margarita Amor Oliveras,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:40:35.681765,with_onion,13.34,5
+57,63550651-e46f-4b3b-a003-923ad6ccc440,Juan José Tur Cortes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:46:58.051292,without_onion,14.81,1
+57,b818491d-9f6d-456a-aab9-baef7d34f7d8,Georgina Evelia Iglesia Cuéllar,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 01:38:25.597315,without_onion,N/A,5
+57,e1ea1952-c23b-4682-b466-361d234e541d,Conrado Palomo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:27:03.673029,classic,5.21,1
+57,a5e04965-1527-4871-8aa1-aff893482871,Palmira Peñalver-Espejo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:45:21.543084,with_onion,,3
+57,cb0ba845-240a-44bf-aea9-3d65ceeba76a,Lázaro Egea-Cervantes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:48:14.347218,without_onion,5.82,3
+57,41edccf9-7cc0-46c1-9589-540f216c946f,María Del Carmen Pavón,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:04:19.485662,vegan,,4
+57,ac546a0f-827d-4279-b419-2ea503e2b4ad,Irma Dalmau Zamora,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:48:54.920530,without_onion,5.44,1
+57,63e784a8-2969-4921-bc29-6c86e32f32fb,Amílcar Yuste,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 03:15:28.996859,vegan,N/A,4
+57,532911a5-4ccb-46b3-a25b-f1ba90a965f1,Alondra Colom Cobo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:01:36.614483,with_onion,8.79,4
+57,5a4a804d-5507-48f4-8dd1-fa73db048172,Víctor Vasco Andrés Zorrilla,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:05:58.336795,without_onion,,3
+57,f02820bd-0c8d-4a9d-9558-8dbb2dff445d,Esther Alvarado Losa,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:51:14.822139,without_onion,14.87,5
+57,663a886a-9186-4b28-8816-33ed29852452,Gerónimo Lorenzo Pozuelo Gomila,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:27:45.322590,vegan,8.64,5
+57,e7b3fb17-0c73-499c-9f89-aea2fe627e28,Victorino Alejandro Cabrera Cuéllar,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:57:20.902083,with_onion,,1
+57,43a29347-2c5d-4bfc-a247-a8cb3926c5dc,Gertrudis Ribera Villar,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:36:37.398539,without_onion,,2
+57,da513ff7-e963-4399-b9ce-4335187782ba,Loreto Fernández Llamas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 21:08:12.214409,classic,N/A,2
+57,a4426b75-ca72-43ee-9fef-74f71c6523f5,Albano Cristian Zorrilla Arregui,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:07:15.333675,without_onion,,1
+57,a3d9cc51-f8ae-4b39-934a-6c1b07727d7b,Milagros de Fernández,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:33:44.682518,without_onion,5.59,4
+57,737fdb94-69ec-4dee-a202-3dca3d10e2a0,Candelario Cáceres Lumbreras,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:50:31.118483,without_onion,,5
+57,263d8c2d-2e20-414f-a344-ef08bd19ce67,Candelaria Tirado Castro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 05:14:55.961462,vegan,,3
+57,8627a167-ed52-42a2-8961-12cccdffef75,Maximino Pelayo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:24:54.084234,without_onion,N/A,2
+57,bb79c16d-3818-40d1-8412-ee8dbd8000d2,Régulo Linares,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:22:35.321374,vegan,5.29,3
+57,7aa180f7-c7f3-424b-9438-b2311acccba9,Máxima Llano,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:18:45.526960,classic,10.02,3
+57,b399f0e1-9eb8-4038-94f1-487d7ef480e0,Jessica Cisneros Salas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:19:37.987769,classic,8.64,5
+57,740196b0-466c-4465-aa1a-019bf8514c9e,Paca Poza Salgado,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:15:27.364020,vegan,N/A,2
+57,39f6f26d-3edd-46f2-94e9-be0ab9a1b295,Leopoldo Ovidio Uriarte Lumbreras,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:56:01.074886,without_onion,,3
+57,6b9c6e95-e359-4275-9805-40ad7a8098ba,Rogelio Querol,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:34:04.285765,vegan,,1
+57,22a73b30-754f-4a26-b8f6-4e574cc4242a,Víctor Palomo-Bustos,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:32:30.541097,with_onion,,1
+57,392fc29d-71a7-4c26-ad8e-909b40c1e42b,Estefanía de Antón,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:18:44.180008,without_onion,5.53,1
+57,cd118936-e582-4f97-a440-21d14ac6889b,Borja Emigdio Hernández Baeza,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:57:52.749898,vegan,,5
+57,2958e803-175e-46bd-ad60-546a8fd70340,Dominga Ocaña Villa,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:36:23.059401,without_onion,12.04,2
+57,16b297a6-75e4-4fac-b55a-d663dd945819,Olga Riera,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:54:51.213532,without_onion,N/A,5
+57,15324cf2-7be5-4109-998d-1556f427c6f1,Dorita del Lasa,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:53:11.578046,without_onion,N/A,4
+57,f951d2cf-a7a5-4a52-9f6e-7c13792ee656,Gilberto Aroca Milla,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:38:39.502276,without_onion,N/A,4
+57,34992adb-fcab-426f-b5ba-d4fd11c4b912,Nieves Palmira Arcos Cerdán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:49:12.173883,vegan,10.54,4
+57,dfe0c3ad-e069-4500-8664-67c66ff57477,Viviana Lasa Salcedo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:54:37.815901,vegan,8.36,2
+57,248ca176-90ee-4a1c-8f11-a6d148d0be66,Sebastian Ledesma,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:20:49.872932,without_onion,6.13,5
+57,29e9cfac-9311-4cbf-aa6c-5bd5e6189ae9,Rubén Llorente Carro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:17:40.950695,vegan,,1
+57,7e87191a-cc51-4443-b42c-0b73c4bc224e,Berta Alberola Bueno,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:36:21.085405,with_onion,N/A,4
+57,4b0848c5-7738-487f-8088-0b12bd88c33c,Maxi del Ruano,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 06:46:52.043424,classic,10.23,3
+57,2ccb700d-6fe4-4ee8-801d-6439defc4a1d,Adelia Jove Bermudez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:39:07.706469,vegan,10.63,3
+57,defc9484-2d55-4e48-b7e5-3aa3dca7c55b,Emma Yáñez Armengol,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:47:17.404859,with_onion,,5
+57,84f09d35-84d9-4354-9909-0ba65f1a7daf,Emiliana Salinas Jordán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:51:09.263762,without_onion,11.43,4
+57,297c6d97-5b58-4f9b-adaa-824e8b8d9db6,Zaira de Prieto,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:34:45.329515,with_onion,N/A,3
+57,f4687adb-1fb4-4f48-9e14-7a23faaff540,Godofredo Cuéllar,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 05:25:17.188856,vegan,,5
+57,c7f09fc5-2553-4938-acec-a7b0a9227e9a,Berta de Tejera,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:16:21.122729,vegan,N/A,5
+57,a41c5b8d-7596-4c49-8247-ed379d3e124a,Victor Manuel de Vara,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:50:30.482693,without_onion,N/A,5
+57,dd9f8de3-2ff2-438d-b652-1edfe2b16b1c,Anunciación Alcázar Torrens,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:01:48.112082,with_onion,N/A,5
+57,321723c9-8b03-4009-81cd-b0c4e2ab0f46,Amor Molina Madrigal,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:41:15.902668,classic,12.64,1
+57,3ce1b0ae-9288-4012-93b7-6ab910a208e2,Luciana Manzanares Salazar,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:23:19.880468,with_onion,5.88,2
+57,fdafb127-420b-466a-901f-4b3c1489802b,Santos Solana Valero,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:36:56.621228,with_onion,N/A,2
+57,115193ac-b877-4da9-a74a-45ad678283c7,Adela Cortina Bonet,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:28:08.181362,classic,,2
+57,10ea7c5a-7f05-4e62-bd1b-e2674e62597a,Maximino Canet Acevedo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 08:19:21.117795,vegan,,5
+57,7a51a740-26e7-4e74-9770-d01288e1633b,Gloria Montalbán Sotelo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:14:05.625158,classic,,3
+57,2f7a628d-3aa6-4186-b1e8-3751c094607e,Calixta Mosquera Uriarte,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 01:11:16.574943,classic,N/A,3
+57,6a4d77bc-2de0-4ddb-bcad-d65ead374604,Alicia Cal Estévez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:19:13.623927,vegan,N/A,3
+57,349bc7fc-42e3-4270-aaa6-d6f7141743ee,Guadalupe Blanch,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:20:27.528595,with_onion,13.04,2
+57,6196c661-9717-4768-83da-519aff8485fc,Tiburcio Carbonell Bertrán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:46:05.091635,with_onion,N/A,1
+57,08b526e2-a35e-4546-803b-8a7d1a966bd3,Fátima Parra Rodríguez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:05:39.365499,with_onion,11.07,1
+57,afe6600e-5743-4ab6-96cc-1a6455a920b5,Alicia Ortega Amorós,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 01:14:00.125028,with_onion,11.89,5
+57,afe3c9b6-9605-40ff-8f23-d3583b6fc19e,Cebrián Cañizares,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:40:55.908637,classic,N/A,4
+57,e25f840b-0538-456c-94f4-26b6a8dc291a,Zacarías Serra-Martín,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:02:38.803483,vegan,N/A,3
+57,bc90d926-d581-4e96-8fa5-ecb6a7b90a4e,Gerardo Palacio Beltrán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:42:03.442101,without_onion,N/A,4
+57,37e3a436-a90f-4f88-b844-9809ce7609d4,Kike Mateos-Baró,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:41:59.214765,classic,10.28,3
+57,1976bbc8-0d71-4c43-b617-28293cdbbe2c,Balduino Gil Narváez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:23:41.050357,classic,8.3,5
+57,ef764e6d-99a9-4103-b2b4-f060bc511811,Marcial Chuy Revilla Calzada,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:23:20.120546,without_onion,,1
+57,a5b49f96-27bf-4103-bc43-f5b76e5b2386,Trinidad Taboada Cervantes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:55:35.085978,with_onion,,5
+57,50016143-02cd-4de4-807f-a681ea1ffcbe,Marina Pizarro Benitez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:08:31.808525,with_onion,10.69,3
+57,1bfd598e-652e-4fdd-8f39-21c1d35b0470,Domingo Calixto Ibáñez Gárate,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:04:39.180839,with_onion,,1
+57,6a5e5b4e-707a-47cd-b261-439807341e7c,Roberta Fuertes Escribano,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 02:34:11.985571,with_onion,N/A,4
+57,639a2648-d798-4c15-b7ae-e7f0ad0792b5,Micaela Dominga Sureda Cervantes,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:29:45.523928,classic,N/A,1
+57,870f5929-36c2-41d0-9f4e-593508d676e0,Duilio de Báez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:51:40.584784,with_onion,N/A,2
+57,147d94ce-0a28-4642-b3e1-9343f85583e6,Amor Roldan Guzmán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:21:38.112187,classic,,5
+57,934a418b-f3bc-4801-a97d-222ce1cd6979,Eugenio Iván Pombo Huguet,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:07:48.810306,vegan,N/A,4
+57,a9a59a0a-d53b-4383-8f33-4383683f81b1,Jordana del Portillo,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 07:53:32.199970,vegan,N/A,5
+57,5f4cae48-c7c1-42d4-990c-86797a88232d,Pancho Rosselló,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 15:39:46.233404,with_onion,,1
+57,dfc5233b-8939-4ddd-b03c-c3ca85a38669,Wálter del Sedano,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:58:36.998519,with_onion,,4
+57,260f2b6a-1e4a-4af6-8558-134e14de2727,Eusebia Guzman Múñiz,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 12:44:12.677411,with_onion,,3
+57,46c31609-8475-471a-aad1-0e578059eeb4,Lorenzo Grau Montalbán,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 10:05:46.471679,classic,,5
+57,7b96f609-5570-4833-816b-eee7304ebdf0,Luis Miguel Vázquez Gras,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 05:40:07.374745,vegan,N/A,4
+57,88394b31-3b3c-4e21-a107-edd4f4e7a35e,Susanita del Chacón,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:06:32.419363,classic,,5
+57,ae702ba8-29c5-4674-93a0-df33627d8180,Odalys Vázquez-Amorós,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 23:24:09.224963,classic,N/A,1
+57,3fcf4737-e5bb-420b-b72b-840caf6e7b33,Aurora Pelayo Gálvez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 19:24:24.569165,with_onion,N/A,1
+57,9eaf45e9-dcfd-4dba-a2b9-28f8514767ed,Bautista del Osuna,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 14:23:40.339231,without_onion,,3
+57,9445f56f-dbb4-49cd-9aa7-31470db7be94,Lino Pablo Navarro,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 20:42:27.858565,vegan,N/A,4
+57,d4c3403a-c228-48d6-ade9-94d9cb2cd6d0,Mercedes Jódar-Benavides,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 16:45:59.060995,with_onion,N/A,3
+57,5147103b-4cab-468c-aabc-0ba864587eb7,Fidel Morera Francisco,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 09:47:39.097965,classic,,4
+57,d4044104-0e62-4550-bd6a-3086077b855e,Vasco Esteve,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:54:31.733231,without_onion,N/A,4
+57,e0ef9a32-cecc-4064-abce-f94726c8ddd1,Gervasio Jove Marí,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 22:15:26.388668,with_onion,N/A,3
+57,e735ca53-2940-4d07-9c19-0aee8cea1a5a,Leonel Franch Marquez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 00:16:56.988848,classic,12.14,1
+57,b13486e4-68f2-4cb2-afc5-6e28f9237842,Ricardo Dominguez Boada,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 05:31:08.789069,classic,13.65,1
+57,ea506270-b930-43d8-960a-e11a7b9fd1de,Evita Campo-Gutierrez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 01:21:44.056607,with_onion,N/A,3
+57,24b70407-183a-40ab-8c61-f00514684799,Amanda de Vargas,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 04:26:55.065427,classic,12.25,2
+57,8b7d0bd3-4c70-4c1d-a26a-a273f9e8f0ab,Noa Gibert Bolaños,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 18:39:30.047311,without_onion,,5
+57,865d3837-ce0b-4732-8792-9d91a524a6bb,Griselda Marco Menéndez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 11:38:48.901488,with_onion,8.9,1
+57,cdb987ac-aaeb-49de-a373-a6f1c973625d,Cornelio del Jiménez,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 17:14:57.182442,vegan,7.88,3
+57,45d05c47-b4e2-49f4-8a19-8cffe0028aa1,Alma Fernandez Atienza,Madrid,"Paseo Gema Villalonga 863 Apt. 44 , Baleares, 41006",2026-05-01 13:24:06.235602,with_onion,,5

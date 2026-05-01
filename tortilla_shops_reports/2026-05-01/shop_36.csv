@@ -1,0 +1,415 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+36,6e60e6a5-561e-40cc-9a82-ab974d4ed61e,Ale Montaña Tomás,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:42:47.380418,with_onion,,4
+36,2ac9c30e-4b67-422a-8de1-78c7d5ff3ddc,Marcial Alberola Otero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:52:23.393445,classic,11.41,4
+36,8a9576a9-e26b-4d43-b3fb-ceb04ff52930,Cecilio Hierro Montero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:51:36.104038,classic,9.57,1
+36,1745f49f-f188-403b-8c40-155752bb996f,Paloma Checa Quero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:09:07.059809,without_onion,8.41,5
+36,b97cbc85-a51d-4afa-8868-1a95aa3131ed,Ale Castejón Francisco,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:35:47.135897,classic,,1
+36,62768b90-f3ed-499d-bd74-050676e4628a,Esteban Lastra Aparicio,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:08:19.426569,classic,14.06,2
+36,c8bb0c49-8058-45d9-ac4f-56b65aada5b9,Guadalupe Roberto Céspedes Carbó,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:04:11.498544,classic,N/A,4
+36,601b11dc-6a08-4492-aa52-5578c947235a,Cebrián Doménech Olmedo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:45:44.646417,classic,,4
+36,d6af7df5-bc89-4396-abc2-04a6ce6819f9,Heliodoro Villa Ríos,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:56:15.262846,classic,,3
+36,4b5f9d16-fd1c-4144-904a-2652f2a1633d,Roberto Sigfrido Artigas Gimeno,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:07:04.396668,with_onion,,1
+36,766368ae-0831-4c35-985e-7209e13694e7,Melchor Aliaga Rodríguez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:55:54.574772,without_onion,,1
+36,1bf21b11-2c14-40dd-b89c-eb4dfc9b40eb,Gisela Bustamante Arenas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:53:50.386259,vegan,N/A,3
+36,08cc33ba-4c3c-4778-9633-d187fbe8cae4,Úrsula Navarrete Marí,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:24:03.828998,with_onion,11.45,1
+36,0268ce5b-9a1e-4360-9dfe-2c0796c35292,Encarnacion Palomino Paredes,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:22:05.808601,vegan,N/A,1
+36,0cc227fe-5820-433d-9df4-0ed248ca0ae8,Paula de Bernat,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:02:55.976403,classic,5.87,4
+36,0fd342ab-33ea-401b-8ddb-5d9ccd830e74,Ruth Sainz Canals,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:59:14.482825,with_onion,,3
+36,a653f258-2808-4f0b-a9ab-aa43b706d25a,Rosalina Gámez-Moreno,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:50:28.094837,with_onion,N/A,4
+36,9a4e6e8f-a339-44a4-b8f0-221b92477811,Eulalia Iriarte Guerrero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:07:22.155474,vegan,,3
+36,71e9be85-824f-406f-ae22-8c90c4b212ce,Imelda Sastre Ureña,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:03:58.036724,vegan,8.06,5
+36,c32a1fbc-32fa-4bf0-a861-c032c7acd583,Benjamín Múgica Porcel,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:15:45.206152,with_onion,12.43,5
+36,9ea9e4ab-dd4b-4f1e-8255-69e059edb8e0,María Fernanda Almazán-Cornejo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:45:10.758082,classic,N/A,1
+36,1ad89e89-ec09-48ef-b01a-b05c670d6fa8,Octavia Fernández-Cáceres,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:59:33.557521,without_onion,,2
+36,53d6f884-b56a-466c-bdb4-4c3e2fca1bfb,Cayetana Oller Padilla,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:50:18.864577,with_onion,5.76,5
+36,52e2bc86-430e-4d53-b55c-0f8c8ac40973,Jose Angel Barral Osorio,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:01:43.466261,with_onion,,2
+36,25c588ac-8786-4956-bff3-2d9d495ee32c,Salomé Perera Sebastián,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:11:14.599304,classic,,4
+36,82ff9f96-bf5e-4d8f-babf-90a795cfd1a8,Candelas Badía Olmo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:48:33.175344,without_onion,,5
+36,dfd40fe3-a42a-4b0c-ab82-068113ab1c9c,Casandra Bonilla Grande,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:07:53.378908,without_onion,N/A,1
+36,6b2a4cd9-fd51-4834-86b2-c489dc5df611,Juanito Losa Losada,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:30:55.052249,classic,N/A,2
+36,61081b37-1b6f-4716-be9a-97c66b8362c4,Brígida Trillo Gil,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:23:06.242840,with_onion,N/A,4
+36,4b3d077d-2ce8-40f7-b6de-90b54223575a,Máximo del Oller,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:56:42.753404,classic,13.42,1
+36,ebf36f2f-d90e-4879-98a2-871729c1c74c,Ramona Toro,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:57:44.236117,classic,6.04,2
+36,c872eadf-da42-443f-81a7-420087e3344b,Marita Salazar Mateu,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:15:48.668633,without_onion,,5
+36,9cf5ec2b-61a6-4483-9aa7-6b5de8b98514,Bruno Damián Marti Collado,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:46:33.221085,classic,N/A,5
+36,e69a9b05-5f81-47ad-8e7c-016ecda519b1,Leyre Sanmiguel Paniagua,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:04:35.906464,without_onion,8.95,3
+36,cda4cef7-908b-4953-a619-8851536d3efd,Raúl Prado,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:45:17.778206,classic,,2
+36,90437e36-9d96-442f-8b80-27cb184afc7c,Estefanía Báez Roman,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:13:01.264595,vegan,,2
+36,87b97024-19e1-4f36-b8ab-191363f36b45,Francisca Fernández Jover,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:11:44.423559,with_onion,11.59,3
+36,66cef171-1337-4afc-907b-1312700f1736,Plinio Vall Gonzalez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:16:45.732354,classic,6.32,1
+36,8beea289-8ebf-4871-a33d-d2aa22d18b2a,Rogelio Álvaro-Arnaiz,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:08:05.369959,classic,5.33,1
+36,94fff9e8-824f-41a3-8a72-68854cf8817c,Nélida Lidia Almazán Robles,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:57:23.230734,with_onion,9.63,3
+36,b77c5f2b-a585-4a51-98da-20f81f64e1e4,Luz Corominas Andrade,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:09:26.605125,with_onion,10.21,2
+36,26e17981-370b-4d68-86d4-b2ed2ef55541,Eusebia Miralles Bermúdez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:30:31.681262,vegan,N/A,5
+36,a5cf2d7e-88ad-437f-8f8e-598dd43eb788,Mónica Guillen Pedro,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:54:07.782344,vegan,,3
+36,d5f4dd4f-c85f-4296-a9f5-06ac04dd3d33,Faustino Agullo Campo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:39:22.388939,without_onion,,4
+36,614f7a8a-c7d3-434a-a3fb-d25bf237cfb0,Salomé Javiera Parejo Pou,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:23:28.694309,without_onion,,5
+36,5ad51fc7-5dcc-41ff-bccd-753397004714,Amalia Valverde,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:24:24.542958,classic,10.85,2
+36,046a2f84-ea01-4b6c-a83c-548abeaaef5b,Reyes Peral Tur,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:36:35.281304,with_onion,N/A,2
+36,9fe7f38b-4c93-454f-9beb-3fba55ee6f68,Herberto Chaparro Salgado,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:15:12.566412,vegan,13.38,4
+36,b9222968-9bf3-487c-9a2a-cfcfb2abaa50,Eusebia Mirta Cerro Angulo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:58:45.260839,with_onion,12.18,2
+36,9a35d3f0-2dd8-474c-baa8-d26e522e5221,Encarna Tudela Mosquera,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:51:51.148070,without_onion,N/A,1
+36,93e224e3-6d53-4e2c-887b-61719f9a5ecf,Rodolfo Jordá,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:31:35.249105,without_onion,,5
+36,fe6bd8db-4bd5-48c2-9315-cf4af3bbdc00,Cayetano Diéguez Meléndez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:21:34.467247,vegan,,2
+36,a33a53cf-b51e-4f13-b009-9ba07b7db086,Moreno Peñalver-Martí,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:29:52.815459,vegan,11.27,1
+36,e94fcabe-6405-425d-96b3-f2770b12d645,Elías Aller,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:40:45.688786,without_onion,,5
+36,aa6f6697-38d2-4c0a-a7dd-6a738f27dcba,Josefa Hervia Busquets,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:50:52.088302,with_onion,N/A,3
+36,a8ad7cce-392f-4fab-80c6-651a3b0551bd,Natanael Portillo Ramírez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:51:11.927760,vegan,,1
+36,0e81ea5d-4d89-4419-893d-8413d771ed6f,Febe Molina,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:02:55.599415,without_onion,N/A,3
+36,f2f861f6-36b9-4007-9f7e-6bb244272d38,Tatiana Velasco-Ibarra,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:46:21.821083,vegan,N/A,4
+36,568c034c-4378-4651-9428-2656590352e6,Virgilio de Luís,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:15:34.031033,classic,N/A,3
+36,0af35ddc-9263-444e-a208-32a463d5b6bf,Ariel Exposito-Cruz,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:03:51.890958,classic,,4
+36,e0e8ec30-c87a-40e6-8379-e80f73324950,Trinidad Pallarès Juan,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:59:01.128838,vegan,N/A,5
+36,3eea5ffc-1b17-474f-8637-03a1eb343321,Isaac Félix Marin Cadenas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:41:11.308462,classic,N/A,3
+36,940a6953-0e0e-4014-b2de-9481e8e44712,Isaac Figueroa Fuente,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:27:07.101097,without_onion,5.64,4
+36,4fc772d3-1686-49f8-a2dc-98c5de21cd61,Graciano Carnero-Amat,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:57:27.203522,classic,,4
+36,0c2a1621-0f17-470b-8419-5d5a6d3679ae,Galo Bauzà Mayol,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:14:41.500310,vegan,,1
+36,0f8b5488-ef6e-4e04-b5b5-c69675774586,Alexandra del Arce,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:44:44.612039,without_onion,10.09,5
+36,38673ff1-eeb9-4d82-9f91-b0bc6862e984,Fortunata Cerezo Rodrigo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:21:02.824340,with_onion,14.69,1
+36,f57f987e-787a-47b7-ab96-b34078d12d60,Lorenza Molins Estrada,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:02:38.581977,with_onion,,5
+36,985514a0-3042-4cd1-961a-2327f350217e,Buenaventura Mascaró,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:10:51.214763,with_onion,10.02,1
+36,857eed0a-eaf0-40c7-bb1b-97b0adccaca5,Dan Narváez Batalla,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:54:21.837433,with_onion,11.92,4
+36,cb7797a3-44cb-47f5-b1ff-91d25a4f92b5,Humberto Amigó Miranda,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:52:17.889522,vegan,12.15,4
+36,5e02a1f8-61e1-4b42-ae99-17a84a8af6b5,Heraclio Hernandez González,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:54:27.891423,with_onion,13.23,3
+36,9cae6d77-9d0f-4269-bbe3-dbd02a8fb722,Casemiro Rincón Calderón,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:30:29.558985,with_onion,,2
+36,ff9ffc7d-462b-428c-a211-bb3a3e16b306,Sancho Dávila Gonzalo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:13:51.664876,classic,9.01,2
+36,1405ae60-8e3d-4401-b58a-825ff687cefb,Pastor Eladio Varela Roca,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:34:53.402848,without_onion,5.04,2
+36,070ff424-3721-401c-af66-4af7b047384d,Marciano Cleto Pomares Gómez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:35:05.513255,vegan,N/A,1
+36,4a3d06d6-0cfe-4c1c-9577-1c16450397bd,Bernardo Alvarado Marin,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:28:32.288878,with_onion,,2
+36,2654b01b-bb0a-4f7c-9568-9f6299b7d7b6,Lourdes Planas León,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:35:09.927724,with_onion,8.55,5
+36,81c37121-93a0-408a-891c-7f85966ff935,Belén Morillo Pinto,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:55:16.467419,without_onion,N/A,3
+36,995fa869-21d9-439b-aa97-9992020266fc,Nerea del Zurita,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:05:20.992488,with_onion,N/A,1
+36,f0329ae4-e2bf-4635-9fee-3e4457a21af1,Lola Duarte Viana,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:11:39.800406,with_onion,,3
+36,4da4fc8b-5b5f-486d-a05a-c5c2e0083004,Baldomero Asenjo-Manrique,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:33:29.444142,vegan,N/A,4
+36,75abba82-6c7d-4c7e-b462-92278ff9a65d,Jeremías Losada Juliá,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:18:45.049265,without_onion,12.47,3
+36,cc1ee2ad-4042-4a78-a7e9-dc95154a2740,Galo Checa-Fajardo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:43:39.974554,without_onion,N/A,2
+36,febb0550-5017-43b6-b96b-5b9de22cf55a,Dalila Mascaró Murillo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:41:58.034288,vegan,N/A,4
+36,7e5f3b3b-6d6f-4179-8aa0-2afbfbde7e1f,Teófila Duque Marqués,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:25:07.300550,without_onion,N/A,2
+36,759fa306-60c7-457d-9d97-94056105cbd0,Anabel Acuña Samper,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:36:02.190144,without_onion,,4
+36,3b22f479-c373-4858-977c-afb34ef2a17e,Óscar Prieto Gimeno,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:57:42.019843,vegan,N/A,5
+36,977bac83-5567-4a09-a5a9-a1812e595f7a,Fernanda del Riera,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:40:40.572076,with_onion,N/A,1
+36,9da1acf6-46f6-49e2-a8ba-b67e9fd74242,Mateo Pomares,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:20:52.390774,with_onion,N/A,2
+36,143d1d8d-bab1-42f8-b5bb-dcfdc9508036,Roxana Cobo Gelabert,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:50:52.539501,without_onion,N/A,4
+36,3981dbe7-5704-4d3d-9149-f941f80e5d55,María Pilar Terrón-Ferrera,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:29:38.868927,vegan,,2
+36,ea0546c1-b5ae-425c-9816-acbe06babdb1,Saturnina Teruel Roura,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:04:06.123892,vegan,8.42,3
+36,12f061bd-9769-4c94-816d-c14e496fcc7a,Juan Luis Vilalta Almansa,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:17:29.637297,classic,N/A,1
+36,13644f92-df7d-4abd-9b0e-3711fc384d28,Joaquina del Sanabria,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:20:50.924110,classic,N/A,1
+36,4508d324-e953-4c9b-a35d-9cbde6690699,Camilo Contreras Luz,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:11:10.995182,without_onion,N/A,4
+36,a49a4668-1f9c-4d58-b024-98132cc7dc38,Felix Bernardo Salamanca Fuente,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:16:37.472193,without_onion,10.64,3
+36,19b8b018-b0a6-426f-af63-c6c345588ebe,Candela Gibert Pineda,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:21:38.408776,without_onion,N/A,1
+36,186eb26a-92f2-4d53-9d97-1a58957fc9df,Apolonia Guitart-Céspedes,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:53:35.155801,vegan,,3
+36,3c08bf14-bce4-47b8-8a28-8987bcf2e81f,Ruperto Checa Cuesta,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:01:20.931902,vegan,N/A,3
+36,1edf83aa-bc23-4f4e-afad-53a8f9437e9e,Piedad Peinado-Pujol,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:15:56.057112,classic,,5
+36,2b00bf96-08c7-47b3-9ae8-343b09a5fade,Emelina del Espinosa,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:12:16.694171,vegan,,4
+36,c4d4bd18-ba0f-47a5-98eb-af497ec36576,Leandro Cózar,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:53:38.260379,classic,,5
+36,42a48202-a783-4d72-ba3f-4c595480e150,Dolores Jurado Sarmiento,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:24:26.411301,without_onion,9.65,3
+36,72f18bb8-c646-4271-ab97-63547772168a,Marco Riba Lluch,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:57:01.473196,without_onion,,2
+36,f2baddd0-55f1-4597-a36e-4cb38a56a48d,Sancho Castilla Peral,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:52:30.080593,vegan,10.06,3
+36,3a01d735-05de-4afc-b4d2-2e833c6019fc,Florentino Larrañaga Nogués,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:12:56.838781,classic,,2
+36,dddabda5-e751-4bc4-bf10-b1465006f0d2,Eli Torre Blazquez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:33:07.980786,with_onion,,1
+36,2581b0b4-d304-4ee9-a658-83d05b5bd76e,Amada Jerez Olmo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:17:39.363931,classic,N/A,5
+36,dc3698fb-9cac-4856-8787-68a278e83200,Mario Coloma Bello,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:00:38.061331,classic,,3
+36,709b3b01-94ee-4904-bd51-671e4ab0628a,Osvaldo Pedrero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:54:55.186656,without_onion,N/A,5
+36,a9982e25-fc90-49ba-8ead-26ac740f756e,Venceslás Iborra-Medina,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:40:31.463371,vegan,5.57,5
+36,686283f1-f5e7-4e2b-a3d7-79c36e0be937,Curro Vergara Valentín,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 19:02:02.313948,classic,,3
+36,f4baa759-5716-43b7-8808-ed0530684e40,Guadalupe Sacristán Ramón,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:24:23.236568,without_onion,8.16,4
+36,0095cec4-38d9-444f-b3cf-03951290bfd8,Jerónimo Mariño Quintana,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:50:31.954218,classic,N/A,3
+36,36e0d257-5600-4993-b685-a4cae4758c09,Vanesa Palomino Yuste,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:51:32.031072,classic,N/A,2
+36,578cab43-6443-486f-b9ce-7d3fa3e8e9b1,Norberto Ibáñez-Osorio,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:44:19.526873,vegan,8.33,2
+36,fa191e20-b83d-4664-b49c-ea9038c2f30c,Reyes Beltrán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:48:18.787424,vegan,,4
+36,2d832880-4f63-47fd-a04b-bd18f822e24c,Miguel Monreal Martin,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:13:28.699149,without_onion,6.41,3
+36,28b13c7c-529a-4875-8c44-488c18768981,Epifanio Escalona,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:28:28.870279,with_onion,N/A,1
+36,f1e7bd74-2858-4bd1-bb3c-a975171009fb,Azahar Liliana Blanco Gual,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:16:16.543837,classic,N/A,4
+36,3ba6fe0b-5519-43fd-8e6c-e8977af5f675,Marc Duque,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:00:46.731039,classic,6.39,4
+36,f68ab012-8fd4-4d65-9ac5-22e2d796b698,Haroldo Catalán Salcedo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:40:12.817858,classic,,3
+36,c2a65f56-4189-44b2-a951-f5164700b726,Félix Echeverría-Perez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:08:33.160335,classic,9.93,5
+36,1774fe08-e631-482b-892b-c828af805ae7,Julio César Nieto Mur,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:14:18.525142,without_onion,N/A,5
+36,11b14b4b-1c19-4947-809a-68f0897e9b51,Lucho Cruz Perera Romero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:19:28.460645,without_onion,N/A,1
+36,7cd9ecb8-5dfa-4b06-9804-a4169f51b646,Fabiana Acedo-Villalba,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:33:32.951179,classic,N/A,1
+36,93f52e16-b967-4bf0-987a-4b53ce7f847f,Maristela Daniela Rodrigo Collado,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:39:45.841718,vegan,N/A,3
+36,23264dc7-a005-41d3-a9bf-c2c725899f75,Rosario Velasco,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:36:15.819051,with_onion,10.74,2
+36,5665b9fb-006f-4d2d-8a31-0306ad84f99c,Gonzalo Flor Solana,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:48:29.902439,vegan,N/A,4
+36,b7ae93e1-5558-44df-9ad5-6c9f2dd6121b,Salvador Cipriano Torres Torrents,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:44:35.851363,with_onion,,5
+36,abcadfcf-ff56-4a03-9fab-51baf1ec3bc1,Jose Antonio Badía Farré,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:47:10.326894,vegan,,5
+36,dbd1360b-9f27-411c-92be-b879e2b509f1,Noé Alberdi,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:48:15.678003,vegan,10.21,1
+36,457ac0f5-de4c-4819-bbf0-c55f8919ee7f,Edelmiro Ropero-Barba,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:39:05.323204,vegan,N/A,3
+36,b2a4b8f3-4a3b-4bc4-b361-a4beb3a4894c,Nicodemo Nicodemo Colomer Iniesta,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:06:39.110046,vegan,12.88,5
+36,c9704ebf-c3c1-4530-b1cb-1abfdc826bec,Edmundo Correa Botella,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:08:44.398778,vegan,N/A,2
+36,110b98bf-6bd6-4cb9-b3ed-ad9bd954f9d1,Valero Silva-Osuna,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:52:25.079748,vegan,14.81,1
+36,0edddc91-f0ef-46e8-ab85-d3f13b1ba116,Vinicio Ugarte Ferrán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:21:07.143982,classic,N/A,4
+36,b364bcf4-d1be-45dd-9a7b-c9fe8d4755ef,Nazaret Ramona Sanjuan Piquer,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:22:04.686750,classic,6.82,3
+36,dead9235-f42c-4b0d-995b-4f06df7bcbbf,Severiano Uría-Viana,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:28:53.651010,with_onion,,4
+36,13a20a87-2f53-4493-a625-cd577f91b67c,Celestino de Cámara,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:53:46.237906,classic,N/A,3
+36,cfea4e24-c358-44e8-b7db-f0d641d88b7a,Demetrio Murcia Rico,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:50:56.725264,classic,N/A,4
+36,48f88317-8471-4737-a246-39516369d9da,Amor Pavón Barco,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:13:44.145894,vegan,,4
+36,1ec8db47-775c-40bf-a68c-85e3ac2f75eb,Isaura Carretero Castilla,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:20:13.402062,classic,11.37,2
+36,e68d9619-6b86-497a-af8e-4a69e97085cd,José Mari Salgado Colomer,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:21:29.979615,classic,N/A,4
+36,5bdb0551-4dee-4244-8a1f-0c40e722b798,Silvio Tirado Arnal,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:21:22.796695,without_onion,12.11,2
+36,54dab17f-ecaf-423b-8179-f8b81f520d6e,María Ángeles Águila Valbuena,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:53:13.140466,vegan,,5
+36,fe06c297-e97f-47e3-9572-ee60877e180c,Maricela Canals Velasco,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:36:53.261689,without_onion,,1
+36,92b5ca9b-c7c3-4b24-b976-de82f49e3415,Eva María de Cadenas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:31:43.464944,vegan,14.55,5
+36,4c241b64-4d17-41e3-b29e-ec7d2d3e046d,Juan José Portero Cisneros,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:05:58.616213,with_onion,,2
+36,e02aa405-298c-4fdc-b39c-850fe0944cac,Cebrián del Olmo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:02:45.091697,classic,,1
+36,9833c782-1369-4dd7-9d01-0c43ccee145f,Amanda Lamas Valbuena,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:35:07.722842,vegan,N/A,3
+36,f3a480aa-fedf-42a0-bdf1-358ed1f9128a,Edu Pedrosa,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:21:11.638458,vegan,,5
+36,9557b916-c00b-42d4-9271-36e7c0432718,Pacífica Cánovas-Alfonso,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:09:51.277689,with_onion,14.82,3
+36,b9fb46ad-8f39-4471-98bd-45285f83b959,Elisa Guardia Blasco,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:39:29.262893,without_onion,,5
+36,515f2974-640a-4a69-a9b3-68c1de6b79f3,Timoteo Blanco Pozuelo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:51:19.760403,vegan,13.44,5
+36,fb5cac23-1964-43f5-b8ef-ee8a50540d73,Juan Bautista de Posada,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:59:31.672331,classic,N/A,1
+36,3d5b31a2-2096-46f7-b58c-d966793cd33c,Leandro Jaén Aroca,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:57:03.895378,with_onion,N/A,1
+36,ae52f23e-ee15-412d-a380-4656044b84e3,Nilda Encarnita Nicolau Román,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:22:36.168031,without_onion,,1
+36,1eb6488d-fe88-4786-b80c-5601cd954894,Darío Tadeo Calatayud Romero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:55:37.878370,classic,N/A,2
+36,a0a52c45-7d98-4d0b-9c96-df7e17e7bddf,Adelardo Hervás Losa,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 19:27:18.945480,with_onion,N/A,4
+36,25790550-9f3b-48f1-aec3-67808cb01269,Valentina Pedrosa Gaya,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:34:09.846658,with_onion,N/A,4
+36,9d5c4e25-43f3-4fd0-9f60-166ba3d1b4fe,Jordana Frutos-Flor,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:00:13.463201,without_onion,13.09,2
+36,3823fcb1-22ee-41a5-8c41-faf295abe92a,Jenny Cabo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:26:42.212991,without_onion,,1
+36,101c41ab-ddc8-4927-ba92-114e201a53ae,Azeneth Rey Acosta,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:03:29.734081,classic,N/A,5
+36,4c654a20-76bb-4a3b-9ca3-3296c065fff0,Rosalva Fabiana Prieto Verdugo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:21:12.982891,without_onion,,3
+36,5ec58ac6-7514-405e-9ceb-db4a559d6ea3,Sancho Mancebo Pombo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:19:45.283336,classic,N/A,1
+36,37db1617-2b5f-4efe-84dc-7f6c6656e7d7,Ileana Fidela Peñalver Duque,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:56:17.264371,classic,5.63,4
+36,80d79a8f-2fcf-447a-828d-d0f654028796,Jorge Parejo Ferrando,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:54:45.344894,vegan,,3
+36,82b7a972-0573-4106-bcdc-c4212d486831,Régulo Salvador,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:55:08.339068,vegan,N/A,5
+36,921bb48c-821f-411f-a4cb-9d9592e806ac,Florentino Miró Almansa,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:39:19.537790,classic,N/A,3
+36,47870b44-809b-4758-b66e-fdb75d609ac7,Ariel Diaz Amorós,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:34:14.869056,without_onion,N/A,2
+36,f24e5f50-98e9-48a9-b234-6496db310dd2,Nico Torralba Juárez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:03:08.625913,with_onion,7.26,1
+36,8a360941-20d4-4504-883b-2040f9777387,Ani Landa Anglada,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:19:58.340290,vegan,N/A,1
+36,c1d6d0f3-b3e1-4b0b-b004-8145835920cd,Verónica Neira Heras,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:22:50.687972,classic,N/A,3
+36,68726362-fb76-4c51-8be0-30b7f85d613c,Primitiva Cepeda Piña,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:41:59.564755,classic,7.75,1
+36,6b78f26b-5543-4573-a88b-10777948660c,Julie Noriega Porta,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:11:49.890150,classic,12.71,4
+36,42bb98b2-ba84-4465-97d0-475526a64a2d,Dimas Gracia Yáñez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:25:28.026029,classic,N/A,4
+36,15ec1651-ead0-427c-9ec1-af11b0aac201,Humberto Bauzà Mercader,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:41:16.031963,with_onion,N/A,1
+36,5f9f7a01-b727-4222-a5e8-8de6b39e8548,Flavia Blazquez Gimenez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:26:30.926704,vegan,,3
+36,e5e022ba-c76f-45ef-ab90-bf7b835a6096,Edgardo Zamora-Mas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:40:32.549875,vegan,13.43,5
+36,b578e25b-530f-442d-8ea1-b7d0f24229d1,Isidoro Vicente Uribe,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:43:32.085890,classic,,1
+36,ed8795aa-57e0-401f-8190-8a559e8ea00f,Tania Mariscal Hurtado,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:48:16.502924,with_onion,N/A,5
+36,59ea3506-39f0-40ba-8790-f64feb3248bb,Dani Tolosa Abellán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:32:22.264016,classic,13.62,5
+36,c67a6c0b-dba2-423d-9fcf-7454fc320532,Maxi Garcia Ayllón,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:39:50.974268,classic,12.63,5
+36,c64f4463-fc51-49b1-bdf2-8391a707c1cf,Purificación Diez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:09:14.903876,vegan,12.47,5
+36,e1ddf690-7f57-45c9-9bb7-474decb64d0b,Margarita Avilés Llorens,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:37:08.591131,vegan,,5
+36,6ceea22a-a590-4047-9f3a-81573a99c695,Jimena Amorós Núñez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:04:30.667587,classic,N/A,5
+36,82f6b91d-fb39-4caf-812b-f0b025a8e84f,Itziar Albero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:41:08.010115,without_onion,,5
+36,e9ee1087-076d-449e-a586-4cf9fc3a080d,Octavio Sosa Prats,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:34:32.492253,classic,6.69,3
+36,6d9f46ea-88f9-4b04-a210-74112926fd83,Mohamed de Anaya,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:28:58.648085,with_onion,N/A,4
+36,ed8b0dda-a239-439b-9713-410106e345f4,Rosalía Nadal Pons,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:09:38.614740,without_onion,N/A,5
+36,eb2999f4-7cb9-4235-90b5-5fe900aa521b,Fausto de Martinez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:16:31.669848,classic,N/A,1
+36,56104c25-e554-4862-bd88-70a2ad67faaf,Jeremías de Suarez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:40:35.544246,vegan,11.02,4
+36,c423e376-a01e-4607-81ab-8ce96e830b97,Úrsula del Tejada,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:10:22.383191,vegan,9.67,5
+36,3eeed632-f822-4df8-947f-432ac2eade00,Fulgencio Nogueira Guillen,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:59:35.917719,with_onion,7.92,4
+36,b39c5442-4997-4481-9b21-bbc6924700f2,Elisa Ruano Madrid,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:33:16.845169,vegan,,5
+36,5fe67b5d-75c7-498d-a15a-2aa46790e12d,Nando Arias Alemán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:02:15.851925,without_onion,N/A,5
+36,48e51514-087c-40a9-be2c-ecda93b0ee42,Maribel Cañellas Carranza,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:02:10.027725,with_onion,,1
+36,1f2f77c6-d992-4259-af06-076b00a85e51,Maximiliano Pascual Soriano Suárez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:08:59.877600,without_onion,10.12,4
+36,777a835f-450f-46fa-b2ac-b8e33cce7549,Adelina Figueras-Tovar,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:44:05.257686,without_onion,N/A,4
+36,51292730-76be-424d-8547-7ea04d0ff727,Otilia Amores Sotelo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:03:03.200343,without_onion,N/A,4
+36,2ff40534-dd61-46cd-9912-8081f209b61a,Albano Fortuny Marcos,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:59:49.454985,vegan,7.78,3
+36,ef7ff2bd-edc2-4c3c-8488-71415e1c8bfc,Severo Naranjo Nadal,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:25:24.961229,without_onion,N/A,2
+36,94c89d8f-496f-47ed-9511-293ffad403a5,Cándida del Robles,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:54:03.440081,vegan,,3
+36,1ac0687b-1f38-459e-be54-c1784be40776,Elba Robledo Guardiola,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:11:17.711574,vegan,14.2,4
+36,1065b2db-3699-4662-916e-27c72c983a45,Abigaíl Armas Pujol,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:23:59.365717,classic,12.9,4
+36,4b18e4d6-4ef3-4570-a8d1-d5272479f2c0,Haroldo Rubio Bayo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:52:24.756669,vegan,N/A,4
+36,e8f20ddf-bf18-48a7-ae70-c6a44f5b11fa,Moreno Baños Paredes,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:29:33.508259,vegan,N/A,4
+36,97615752-f6a8-4c7b-8c0c-9136af228a65,Graciano Menendez Borrás,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:42:16.020145,classic,12.33,3
+36,251bf2b3-5f79-4231-b174-4197dfba4283,Rosendo Ribes Pla,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:03:06.723744,vegan,N/A,5
+36,884fad14-26eb-4725-a4b5-c2c64b4c7f39,Diego Mayo-Tamarit,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:11:26.953999,classic,N/A,5
+36,9a4125b8-6199-4f40-b755-5448e031f99f,Amanda Jódar Benet,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:57:52.915034,with_onion,,3
+36,090c6042-4aec-4efa-ba3f-f824df8815e1,Aristides Cabo Téllez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:22:15.449179,with_onion,8.53,1
+36,a04032f0-16e2-41b1-9409-eb4fd86f9034,Rosenda Rico Pascual,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:06:43.895489,with_onion,N/A,4
+36,c416990b-f313-4e24-be16-504c2ea24d15,Ainara Somoza Morell,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:55:35.431617,vegan,,2
+36,2354882b-b754-42f9-a14a-b1ad70bfdaf1,Lalo Benavides,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:18:08.217349,with_onion,,4
+36,2897c266-2693-47d4-bba7-05a0bb7cc3e7,Pascuala del Acero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:52:50.933287,classic,,2
+36,3701c8b1-575e-4a20-9c0d-62645dcb99b8,Yaiza Alegria Losa,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:36:06.992535,classic,N/A,3
+36,d6dd4e0b-c4e0-4fd2-a15f-cd434410df34,Heliodoro Sanabria Quintana,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:27:42.272765,without_onion,,3
+36,15d8a9b0-0996-4457-a305-f515b33211f3,Florencia Expósito Calleja,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:24:18.841084,without_onion,N/A,5
+36,54f3b687-bd8f-442a-b9c3-5f7bd42ecf7f,Aurelio Arteaga Rodrigo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:25:57.951049,without_onion,N/A,4
+36,49a28d65-234b-40b0-a9a3-f83199d0583c,Gregorio Hernando,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:12:58.688286,with_onion,5.35,2
+36,a3c62fe9-112b-49e7-95f0-a5472b5ce777,Carina Espada Aguado,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:31:27.434522,vegan,,4
+36,c3d59008-0c74-4f28-b1c2-b4bc484e4d9b,Gisela Santos,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:41:31.372791,without_onion,N/A,1
+36,6cd05926-9fba-4fc7-9534-b1b5acc54899,Onofre Márquez Lara,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:45:05.306898,classic,N/A,5
+36,28cf833d-7ac6-4faa-838d-9a2bbbce5418,Xavier Valdés,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:54:34.128619,classic,,3
+36,9dae1b3c-518b-4fb3-afe2-98cb2f25bd97,Nuria Villalba Diego,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:59:27.089454,vegan,6.5,1
+36,69ad8b59-5d61-409d-ae09-092fe370e020,Cristian de Poza,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:33:20.231138,classic,7.15,2
+36,783dc406-7f3b-4f43-9f10-6617fcb35f4b,Virgilio Roldán Benítez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:08:28.183044,without_onion,N/A,2
+36,77c53f09-bdeb-4cda-a3ec-1d1b1e6912be,Desiderio Gálvez-Noriega,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:21:27.669870,classic,N/A,1
+36,f22c028d-125e-47d3-9b1d-423f0c97048f,Cristina de Lago,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:36:20.490639,classic,6.38,4
+36,1e8c046b-3740-47aa-bbef-b1ff3108d2e5,Emigdio Tamarit-Pagès,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:29:06.050501,vegan,11.44,2
+36,a8b62a60-87ca-452c-84e5-223cce60306c,Juanito Alonso Ayllón,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:02:03.053596,vegan,N/A,3
+36,5b205fdc-3609-47b4-adee-91b69ce56db4,José Marqués,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:25:05.783923,with_onion,6.46,3
+36,df62e951-5ea1-4001-b314-e4c7ee6a7fc0,Graciela Vigil-Arrieta,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:17:39.600188,classic,N/A,2
+36,582150ab-58f9-49cf-b058-41b8ffb23833,Armida Mena Valera,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:14:18.727102,without_onion,N/A,5
+36,e33a1244-5dc4-4833-bccb-e2e96a1e0648,Pacífica Vazquez Ruiz,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:26:25.106499,classic,,5
+36,773fbf4f-ae55-41d1-97e8-1bee5fb56b2f,Etelvina Cañellas Benavente,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:07:59.174136,vegan,5.01,1
+36,4d86324e-c5a1-4fa7-984f-83efe564c734,Ofelia Boada Duran,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:49:08.927498,with_onion,11.23,1
+36,f218a9b3-3b66-4ee1-bf1c-e7a753b510dc,Lara Vilalta Badía,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:21:17.838704,with_onion,N/A,5
+36,ee46362d-2d95-49eb-9b0e-13621094ceeb,Rosaura Bonilla Galiano,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:34:30.755806,classic,9.87,4
+36,90297505-0908-4a46-9398-4fba993186b3,Marianela Mónica Viña Arévalo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:17:39.004013,vegan,,4
+36,221d4b00-167a-48a6-ad68-9cabb6631327,Mateo Plaza,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:44:18.312109,with_onion,11.78,4
+36,899dc61a-aaa8-4ada-9572-936f700552c9,Margarita Jove Quiroga,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:00:45.413014,with_onion,N/A,3
+36,6cbec78d-3a6c-4340-9e8e-54545628c8c7,Socorro del Alcolea,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:17:50.950634,vegan,5.65,5
+36,797e1036-eacb-4c57-a352-8d1063926b86,Kike Oliver Valenciano,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:44:03.390367,classic,,1
+36,736e4ad3-5623-44aa-92af-e402a84f269c,Felipa Piñol Iglesia,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:52:37.956803,without_onion,,3
+36,afb10b0e-803e-4e11-b5c8-5b2ec761e0ff,Carmelo Roda,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:54:13.074449,without_onion,7.94,4
+36,41caacd2-c989-4c2e-bba6-ee814b67cddc,Maximiano Marino Arévalo Galván,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:16:02.833113,with_onion,N/A,2
+36,a9169bef-9407-4a83-b272-3c2cbf328cad,Fanny Trujillo Río,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:15:18.054906,vegan,,3
+36,7c7d1c11-d999-4551-87ec-b8dc2c33ede4,Chucho Acero Reina,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:37:11.104128,classic,N/A,5
+36,70cbd2ce-6ac1-4871-bf6b-0baa85bcfa1f,Sabina Gomila,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:09:34.502971,with_onion,N/A,3
+36,318dedc2-59c3-4817-9ef0-6826e1c5b48c,Elías Pastor Hernando,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:26:07.565635,vegan,N/A,1
+36,65fc7283-62c0-4cbb-b26b-a68b555d1c44,Sonia Fabra-Uriarte,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:15:14.010360,classic,,2
+36,5c089f14-f980-4d19-b069-335609726097,Ariel Lorenzo-Diez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:55:45.298676,with_onion,N/A,5
+36,5d394961-712c-4b11-a43f-a67ad537a474,Blas Roura Morell,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:22:14.275515,without_onion,,1
+36,1a8c7fcf-79eb-42c0-b3fc-aedc6d9fcb67,Gervasio Soriano Vives,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:31:00.090140,without_onion,,5
+36,d5426b0c-6e37-4106-ac54-724c330c1534,Eligia Alcázar Huerta,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:14:00.387541,with_onion,6.07,3
+36,9b0f9d2b-feae-448a-9c95-45f70e922683,Adolfo Bonilla Torralba,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:57:46.498288,with_onion,11.24,2
+36,24d1d712-9822-4603-bd37-057b4d8738c3,Petrona Lorenza Valentín Bermúdez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:33:10.481040,with_onion,12.9,3
+36,b67e4f12-d7e1-4b6a-89e8-f97715cc19e3,Raquel Haro Jurado,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:43:14.327321,vegan,,1
+36,8c71e8ee-15ea-47f7-b379-390ba4223e4e,Javiera de Reig,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:39:30.765772,vegan,,3
+36,25be7e73-532e-4468-8fb5-65fe8546b229,Beatriz Jiménez Roda,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:53:41.988852,classic,N/A,3
+36,b2563fc1-8409-46bb-b732-2d010795032d,Simón Villa Mariscal,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:50:31.641323,vegan,,1
+36,1272f9be-e8f1-4b70-baa6-0a541b403896,Vera Casares Roldán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:24:27.139350,with_onion,,4
+36,1b2d373b-6368-4588-bb0f-6ae191c2fc60,Herminio Albero Palomino,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:58:18.122656,with_onion,12.18,2
+36,667a5b8d-780f-4584-9bb5-ef74a33eb945,Samanta Ruano Trillo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:55:33.540776,vegan,6.51,2
+36,7facfab6-05dc-43a4-b44e-ec8215b99623,Jose Francisco Alcázar Andreu,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:45:24.222705,classic,,2
+36,4f9d65c3-31a1-4425-8215-9b385067067e,Maxi Merino Amor,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:01:23.125194,classic,10.84,4
+36,e118e7df-0411-448b-9381-f6a08e067b99,Oriana Cózar Castelló,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:24:48.796925,classic,13.88,1
+36,000cdbbc-07ec-4fed-9020-58218abe51d8,Ibán Peña Garzón,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:44:44.775338,classic,,1
+36,ed88e2f5-be39-4c34-bcb0-3ec2f19cded1,Prudencio Pomares-Andrés,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:14:59.913303,vegan,N/A,1
+36,3abb9674-3347-4ed2-b825-906ab04ecd3e,Casemiro Vizcaíno-Alba,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:23:53.340640,with_onion,,4
+36,61feaaf1-e732-458f-a501-3cb82119aa69,Ramón Calatayud Lucas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:31:22.622490,vegan,,5
+36,1418de74-4fc9-49f0-b7b8-2fe2fe54a56c,Fulgencio Nieto-Escolano,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:47:34.936576,with_onion,,2
+36,7e4f9a32-5b96-4a30-911a-ef99c296ea5b,Roberta Barros Costa,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:45:50.684301,with_onion,N/A,5
+36,9996e0ca-4757-41d0-ac5f-bf7b86aae90c,Susana Guzman Sanjuan,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:52:29.767393,vegan,,3
+36,0daafa34-017c-48e0-bcfa-049fa240cfc8,Leonardo Martinez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:49:52.974679,vegan,,3
+36,f2fc674a-b193-452e-b213-fbeb4f9c3db4,Tatiana Palma,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:22:51.857251,classic,5.78,2
+36,92a62110-71d1-49a1-af72-50b221cd133d,Felisa Castrillo Pou,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:29:54.523238,classic,,3
+36,2d87dde0-acfb-4ae4-b5ac-64905a72ad84,Aránzazu Luís-Arnal,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:46:27.634579,vegan,5.4,4
+36,f80167d3-9237-4f38-a0e6-cf44bac06717,Bautista Lledó Riba,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:45:36.358657,vegan,,5
+36,edb7867e-712f-41cb-974e-50cfb6e4db82,Ernesto Delgado Alfaro,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:47:02.097034,without_onion,N/A,3
+36,0a565f3b-472c-4c75-b750-dfaf7a56d195,Yéssica Carbonell,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:07:12.943344,vegan,,4
+36,3b78da50-eecb-4060-acd5-61bfd27a3c92,Sol Castejón,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:46:40.144111,classic,N/A,2
+36,18437bd5-f696-4b82-8112-0bcb6d2e1068,Amado Expósito-Capdevila,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:20:59.389592,classic,,5
+36,2a0b573b-f256-45c8-a8e5-5c975e7168cc,Sancho Manzano,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:38:27.888475,with_onion,N/A,4
+36,dd337f9b-084a-47db-87f8-df539db7734b,Victorino Lopez-Cañizares,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:33:35.047850,with_onion,13.37,3
+36,ca9d4f09-4a26-438f-9550-3a58a284ae9f,Luisina Ariza Haro,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:00:56.337611,without_onion,N/A,1
+36,f3f8072b-51b2-41d4-83be-ef18d95986de,Alex Losada Carlos,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:28:49.870345,vegan,,1
+36,fb179c09-5035-43ed-9bc6-0ba659c4d8e2,Rosalía Almazán-Villar,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:02:55.814361,without_onion,14.99,3
+36,2645d06d-94d1-4d55-a53c-6e9b1b4213db,Gregorio Canales-Guzmán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:00:21.835872,vegan,,2
+36,17d367d7-1e0a-4546-a733-d04bfafe2ba5,Perla Rosselló-Hurtado,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:46:16.181316,vegan,N/A,4
+36,942c0fc4-8c86-445c-8b78-02a7788a385c,Fermín Rovira-Borja,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:34:27.718484,without_onion,11.46,4
+36,a7ef7f37-4b0a-421f-911a-246c8e5ef325,Jimena Flor Barbero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:12:11.265419,without_onion,,3
+36,c6fbe262-09bb-4010-a2a5-3c1f20391ffb,Morena Carina Garriga Jimenez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:11:29.433352,without_onion,N/A,4
+36,565df9cf-d02a-4a86-9ac9-8e835e190860,Jesús Albero Estrada,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:12:58.205812,with_onion,,2
+36,1f425126-71ef-426a-bef2-11e6e472f5a2,Toribio de Valenzuela,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:44:38.175812,classic,N/A,1
+36,6d652cec-a2de-409a-8757-d1e5cf43adfd,Juan Bautista Alvarado-Almazán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:58:14.654509,with_onion,N/A,5
+36,f858ce74-50b1-4f31-b9de-6d21065b7e46,Natalio Manrique Bonet,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:17:23.558932,without_onion,N/A,4
+36,d90ee76e-629f-48d9-99c7-a27d2b5e6a99,Filomena Riquelme Huertas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:18:33.527340,vegan,N/A,4
+36,0fa8dab7-d4c5-4e4f-85d8-5dff30e3aacb,Azeneth Vigil Pareja,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:30:44.387735,with_onion,N/A,1
+36,b7799b35-4624-42dc-b5cc-e3c32fae8154,Eli Galván Llorens,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:00:58.158721,vegan,,2
+36,a3dfc062-fa30-4eb4-87fa-33bf306cfa7d,Oriana Ramos Lluch,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:10:36.052668,with_onion,11.05,1
+36,4211f15c-1085-477d-8271-be97552d8e09,Fermín del Vigil,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:10:23.951347,classic,,1
+36,ce44159b-271f-4516-b5ed-0dc4b4894144,Alexandra Macaria Cifuentes Osuna,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:48:54.860098,classic,,1
+36,dc3630a1-4bb0-4a54-a16d-b7aa69c0672d,Ximena Diego Mena,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:09:37.207894,vegan,N/A,1
+36,77b9bb9d-6bca-4566-828f-101e640a7241,Lalo Llanos Barral,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:25:14.758415,with_onion,N/A,3
+36,e24d55cd-6563-4482-bd35-7f5d736fac6c,Teodora Villegas Palomar,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:37:39.250520,without_onion,N/A,1
+36,68591742-6342-4ecc-9eb3-51be2a6241a4,Marta Velasco Posada,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:41:21.550166,classic,,4
+36,4513e276-48d3-49fa-943a-43a86a9ba43f,Pascual Giménez Morata,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:56:52.962284,without_onion,N/A,4
+36,22fb346e-d510-4cb2-8998-4fd95487cfc8,Berta Campos Cuenca,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:40:24.814935,without_onion,10.98,5
+36,43b0b5d0-6078-4549-99c6-4cb6f4a0708a,Rafael González Perelló,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:27:34.512320,without_onion,,2
+36,e4498306-f149-4c4d-bb93-2ccfb53d4c07,Anunciación Iñiguez Vicente,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:20:45.437610,without_onion,N/A,2
+36,f59d24d7-822a-4c76-86e9-4ff534ff9680,Haroldo Camps-Durán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:15:27.563103,with_onion,14.81,2
+36,697ea8e3-92f0-43af-a4da-28eed22b814b,Alex Colom Pons,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:28:22.231846,without_onion,14.04,2
+36,f6816bc5-d249-4632-9786-42c7259dac58,Kike Bustos Ordóñez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:32:39.268482,with_onion,,1
+36,622b75ed-8746-4e24-8595-b1a5ecfbfc9e,Dora de Hoz,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:42:37.983846,without_onion,N/A,2
+36,1999d54f-41bf-4c2c-8f4f-4d1dd6b1ddc9,Lupe del Vazquez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:44:08.891610,without_onion,9.51,3
+36,348abc7d-5e92-4a57-a52a-75d4c0551b25,Guadalupe Mayol Moles,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:41:54.715824,vegan,N/A,3
+36,9bc8205f-613b-43e6-904d-3c488a172de6,Manuela Navas Molina,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:57:10.686801,classic,,4
+36,b102c683-d8bf-41d2-a62c-39f8e587c4d1,Ricarda Planas Puig,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:34:28.682684,without_onion,N/A,5
+36,f493d67d-bf4c-41c2-b4de-32cf13c4424a,Cristian Nevado Cano,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:20:09.811545,with_onion,N/A,1
+36,6c28761c-e839-442d-acbf-fd654c90ee34,Sonia Bartolomé Aguiló,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:56:26.860264,vegan,N/A,4
+36,a6b2b1b6-2ecb-441f-8f09-044f45c80bf8,Cleto Lobato-Barros,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:35:00.785915,vegan,13.19,5
+36,cafc9a8f-faec-4166-ae27-9b3a76d5e900,Roldán Ruy Vilar Reina,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:10:51.041366,with_onion,N/A,4
+36,cb9fa885-9621-45eb-86cf-fa38509aaead,Reinaldo Gras Valencia,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:36:37.048511,vegan,,1
+36,6e060683-3faf-449d-9fe4-d184911a7d2c,Celestino Agustí-Rosado,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:21:06.484067,classic,,5
+36,e5595b03-e70f-4954-9c7b-eb719f84d6c6,Prudencio Exposito,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:01:29.275670,classic,13.29,2
+36,cad2b74a-4e70-4c42-be1b-b1965ccde51e,Marcia del Rocha,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 19:38:45.135560,vegan,N/A,5
+36,bc6852bf-fdb4-4f34-b6be-623cff1a5d34,Marisol de Carlos,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:31:53.081528,vegan,N/A,2
+36,545340ad-09ff-42ed-9fff-661db626fc08,Ceferino del Camps,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:08:23.313720,classic,,1
+36,df033d68-cc75-46d4-b2fc-060ef62eb7ff,Edelmira Lara Narváez Marí,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:38:25.913056,without_onion,N/A,5
+36,34116660-91ac-4ca7-bab0-9d72b1f6e772,Conrado Baquero Arteaga,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:33:42.878089,with_onion,,2
+36,0bf90ba5-f68c-4de7-9d3c-38e62d3d4e55,Vicenta Avilés Barrio,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:25:43.201872,vegan,N/A,3
+36,5ea36e1f-7ae0-4921-925b-082504e26f39,Hernán Taboada Domínguez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:04:14.640518,classic,N/A,5
+36,38398418-b8f6-4348-82be-fd075c5bef21,Azahara Torrecilla Falcó,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 19:39:05.751760,vegan,11.96,4
+36,11dd92eb-b74e-483e-8792-8068a3da040e,Rafael Guerrero Bautista,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:53:34.310919,classic,N/A,2
+36,0bdf3b29-1b35-4c95-80f7-cff818d8a5a5,Jose Carlos Iniesta,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:17:45.623478,without_onion,N/A,5
+36,1427a7a7-65e8-4db1-9c8e-b6e1377628b2,Tomás Bas Ferrando,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:28:41.994400,vegan,5.03,2
+36,a0cbfb5a-fe97-459e-8ded-dcf1c65a3df9,Bernabé Bonilla Laguna,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:34:35.240822,classic,5.28,2
+36,7e564add-0d7b-4cb0-9121-6a20c2b00f95,Ruy Morera Llopis,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:56:35.292887,without_onion,13.76,3
+36,48d5b413-80ce-43c3-8ac8-56c0f0d68aef,Nicanor Sanjuan Tejero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 14:54:41.153278,with_onion,14.66,3
+36,4f3bda50-f836-4077-8900-6a458f795c4d,Remigio Barrera Barrio,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:49:11.721242,classic,6.37,5
+36,764ca919-5e4d-461b-a3f2-ce043b12798d,Estefanía Lillo Peiró,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:39:37.370924,without_onion,13.99,1
+36,fa772736-f9b5-4bf7-9e03-8883873e48dc,Fernando Vilar Ferreras,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:50:45.560107,without_onion,7.41,2
+36,2f03520b-b52d-4e6b-b302-835c1bfd5e7a,Baldomero Llorente-Viña,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:50:58.057693,without_onion,N/A,4
+36,48e21ee4-9060-4f90-bbec-2634607a4bd8,Rosalinda Arranz-Arcos,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:48:00.888833,classic,14.53,3
+36,3ec0bd4f-eed3-46ae-833d-4169fc168c43,Eustaquio Andrés Alcalá,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:21:37.020241,vegan,,2
+36,f8284a98-7bc5-4be2-9a4f-9de31fa1c283,Desiderio Blanes Guzman,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:11:41.005309,vegan,N/A,1
+36,b621f673-7cbb-468f-9e65-9b6007797676,Florencio Simó,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:11:39.113175,without_onion,N/A,1
+36,71d531d6-88c0-4319-b13d-09d82900a4fa,Félix Borrego Adán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:00:47.666916,with_onion,6.8,4
+36,9704220d-8b8d-4aa4-bdb2-f70203aa07ac,Fito Talavera Iglesia,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:57:12.807985,with_onion,N/A,1
+36,41ae2e30-3a1c-4ed1-a9e1-ac181b30be43,Teo Frutos Plaza,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:44:47.391352,vegan,N/A,1
+36,52171afe-f226-48f7-b5b5-1183a4b021f4,Maximiano Vigil Pombo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:37:10.635513,vegan,8.03,5
+36,d62cf1fb-d7ff-41eb-a37f-be066bf48fd8,Manolo de Herrero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:19:13.427977,with_onion,N/A,2
+36,ea19d0ce-cc34-4313-92a5-cb986b195376,Eladio del Valle,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:59:07.250828,classic,,3
+36,12cfe07f-5887-46e7-95fd-b072c8cb6622,Quique Miralles,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:25:34.600091,with_onion,,2
+36,6ae6ba10-e207-41b6-bbc9-6b7a6b499af9,Glauco Barreda,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:11:59.466440,vegan,,2
+36,05006cac-0d6a-48d1-800b-f2188045e177,Consuelo Calvo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:13:22.100291,without_onion,N/A,1
+36,2788f1b1-cf56-4648-851b-a9dc41f23123,Julio Casares Barriga,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:09:53.835629,vegan,N/A,2
+36,3d4a27e5-3586-4a83-a1c7-ac8743eda396,Jordi Porfirio Leal Julián,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:03:54.787569,without_onion,,1
+36,3119e22b-9240-480f-ae63-c6efef1a982f,Mar Pelayo-Lobo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:05:03.359187,classic,,1
+36,a9279b86-4c6a-489a-9561-44562c97dbb3,Hilda Cisneros Llabrés,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:24:09.610949,classic,12.96,1
+36,dc441d74-7ee7-4743-92e2-9e89b311b5cd,Chema Coloma Arenas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:22:57.603410,classic,N/A,3
+36,9ff331d2-689d-43d4-b5c4-4fbc2fa878c1,Cornelio Torres-Solana,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:07:16.181290,vegan,,3
+36,0b293174-0ff0-4d93-9a79-3a0a94352b9c,Fulgencio Arrieta,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:51:42.831022,with_onion,,5
+36,dac6d0cc-bdc3-4b45-8792-979e81d4f788,Danilo Trujillo Morales,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:47:40.102952,classic,,3
+36,965ea208-4c87-4634-9747-d365e5982ae9,Guadalupe Conde Canet,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:35:58.260863,without_onion,6.71,5
+36,f25cbc7c-1d94-455e-b1dc-22817e69b1c6,Morena Acosta Carbajo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:57:49.818604,vegan,,2
+36,2d332f8a-cb4d-4a27-b54f-e277655238ca,Baldomero Aguilar Gisbert,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:13:12.153583,classic,,4
+36,14f1162d-5375-47ad-a092-3f4f43d7e10d,Jenny Ros Quintero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 23:39:38.646410,vegan,6.12,3
+36,d0203c4a-ac02-4ce2-bfc5-eabe6e9afe62,Bernarda de Carrasco,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 10:10:32.162113,vegan,7.07,1
+36,285ad10c-f9cf-4869-bb88-7dfa745d7a52,Héctor Rovira Belda,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:25:22.978818,without_onion,14.99,5
+36,926c10cf-8eed-4f10-8bc6-ab577c2a9f8e,Pepito Sabater Zorrilla,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 15:11:19.220326,classic,10.85,1
+36,f9fc1257-42ad-498c-9ca8-901eb0ce7440,Ariel Cazorla-Cifuentes,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:19:14.699868,vegan,,4
+36,96c04cc1-0e56-4c2a-8fd3-8e78f6c77864,Trini Aguiló Barral,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:08:44.813486,without_onion,6.79,4
+36,d033d60d-fe82-4fbc-9d7b-c04b48db00ab,Eugenia Robles Reig,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:41:40.379500,without_onion,12.59,5
+36,09f2080f-e3d9-4e97-aed5-242ccfc24329,Amor Albert Vara Uría,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:19:33.748921,vegan,14.78,4
+36,fca556b0-5081-4ada-ac9b-e673993251eb,Andrea Rosa Tejera Barberá,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 19:32:02.533699,with_onion,7.38,1
+36,ccb98455-017f-4d4f-9daf-33b62b8b14e5,Severo del Pou,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:02:47.256736,classic,,3
+36,0be52d58-694c-47e2-a6ca-ab941d9aeae3,Chema Pujol Alemán,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:18:39.713762,classic,11.22,4
+36,466028ec-5562-4328-9be4-7d187d5f6412,Marita Gabaldón Iglesias,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 06:25:19.851630,vegan,N/A,3
+36,0811e435-aeb4-4243-b5fa-bcc4ce938d82,Edmundo Teruel Plaza,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 21:34:38.041086,without_onion,,2
+36,0dc0dbee-3895-4f12-a58d-675ba7d4f5fe,Jimena Hernandez Quintero,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 19:37:36.820048,with_onion,N/A,2
+36,aa8e96d8-aa4f-4065-be7f-c3aa6b4f8c77,Áurea Águila Sáenz,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 05:04:34.215394,with_onion,,5
+36,9d09d003-ffb2-439c-b482-0972537097f1,Silvia Velázquez Oliveras,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:59:23.578287,without_onion,,1
+36,4606d153-227d-4c9a-bb8e-120358e6c801,Julián Capdevila Talavera,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:45:21.375295,vegan,,5
+36,4aa4b6d8-201a-40df-91a6-9d813d7f2655,Virgilio Rodriguez Moya,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 18:32:30.100634,with_onion,,1
+36,9773c863-9d2e-464c-b5a9-3860376c365e,Alberto Tovar,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:22:37.489685,classic,N/A,2
+36,293802c8-cb10-496a-8368-e62532d93b1e,Toni Arjona Nogueira,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 17:00:03.976630,without_onion,5.26,3
+36,d24f00b8-1f1e-4048-9f27-e635b609c91a,Celia Novoa-Mateu,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:30:34.767163,without_onion,N/A,2
+36,7df1cde8-c414-4a6a-aac8-69ddb676983d,Sigfrido Rafael Soria Corominas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 16:25:51.545281,vegan,9.54,1
+36,fa10c6d8-2c3a-4c4d-811c-0e30efe7f9af,Ignacio Bartolomé Pedraza,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:14:51.934777,classic,N/A,2
+36,a31b49f3-83a2-4cdf-b2c2-4a1814a9d37b,Ángel de Farré,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:39:10.275079,vegan,,5
+36,5394cb13-b26f-4537-a024-da3630a043dd,Bernabé Tenorio Vicens,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:43:54.754670,classic,N/A,4
+36,3ac4fed5-27a1-4769-8a84-a049d5775f69,Édgar Marí Zaragoza,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:37:09.913800,classic,N/A,1
+36,956abd7d-f3f2-4b68-ae66-805018ba3b46,Ileana Cepeda Pellicer,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 13:40:32.066537,vegan,N/A,1
+36,93425f27-0883-4f65-a089-602d8f1ed3e9,Atilio Vilar Vera,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 00:39:05.884689,with_onion,N/A,5
+36,afeeb401-5e70-4e9b-953a-3b9ac4a46930,Saturnino Espinosa Ordóñez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 03:16:28.887981,with_onion,N/A,2
+36,7782eab8-7d41-49dc-8c14-a24180c09be0,Efraín Murcia,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 19:03:30.678710,classic,7.48,4
+36,9d82ee95-d0b5-4445-9031-2e7002fa3651,Emiliana Iborra Barrera,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 20:08:24.300946,with_onion,N/A,2
+36,bb26c11c-4491-49b7-914a-74048463a798,Norberto Gascón Esteve,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 22:10:00.057246,vegan,N/A,2
+36,dd24bae8-b87d-4bf9-852b-4f26216b2c28,María Fernanda Borrego Patiño,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 09:03:10.718438,without_onion,,5
+36,fa047f21-97f3-4175-9e39-a3b9495bba96,Lucía Ponce Rojas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:37:25.571991,vegan,,3
+36,42063b8d-4154-4e8c-aa2a-f89192b4d266,Gala Pelayo Montenegro,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 11:34:30.334407,without_onion,12.69,1
+36,d813feb1-6fba-4ea6-b56c-35eb3244cffc,Mar Natividad Vicens Manuel,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 02:27:15.086530,without_onion,N/A,5
+36,d21c0a20-e387-4e01-bcfd-74c72092fb6d,Elías Lucena Ocaña,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 12:05:06.423245,with_onion,N/A,4
+36,a0c02499-d716-4683-a47f-bbec9ebdbd84,Modesto Pellicer Silva,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 19:44:25.528213,vegan,,4
+36,347f0405-b865-41cb-9fc6-6a9500af67d0,Gracia Rocamora-Méndez,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 07:18:25.456352,with_onion,7.24,3
+36,c9a737ec-3491-429e-b457-758177b6a20c,Eliana Morcillo Coloma,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 01:17:36.385988,without_onion,12.51,2
+36,42e690ae-4ce1-4053-80d9-8a2a7f7852f3,Iker Torrent Peñas,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 04:42:45.278929,without_onion,,4
+36,980cc2f9-75b2-403a-a132-ba8f8805df40,Albina del Tormo,Valencia,"Pasadizo Seve Viña 14, Álava, 25104",2026-05-01 08:12:39.505248,without_onion,,2

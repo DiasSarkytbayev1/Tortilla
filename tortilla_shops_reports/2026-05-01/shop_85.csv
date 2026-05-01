@@ -1,0 +1,116 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+85,ac0aa809-79d2-4fac-b9d7-aafb339dbd90,Alma Gutiérrez Amo,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 13:48:13.707599,without_onion,10.04,3
+85,ddd93688-7d83-4027-89a0-556b3cf35ab5,Sigfrido Casanovas Moreno,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 21:24:31.565704,without_onion,,2
+85,5031f7b1-c1f4-446e-a3bb-2df68bbd507e,Perlita Acuña Farré,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 10:09:38.947402,with_onion,N/A,5
+85,382cdccb-07e0-4682-a9c3-ad13c8c0f2ce,Dorita Itziar Jordán Linares,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 18:48:47.599069,without_onion,N/A,2
+85,f6bd469c-6eeb-4912-a7a0-a2817d83bf34,Nando Almagro Marín,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 14:28:38.952542,vegan,N/A,1
+85,b12ad254-4fac-4920-893e-863c75e9785e,Paz María Carmen Pineda Cañete,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 11:36:14.858216,classic,,1
+85,af181d80-e730-4800-86ee-e495f919830b,Carmelita Amorós-Cuervo,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 13:14:07.546276,vegan,,4
+85,be44ff78-42ca-445e-ac9b-c36e6e54cde4,Jose Ramón Jimenez Vigil,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 22:00:09.366834,vegan,N/A,3
+85,306426bf-9e3c-49f3-8fcb-1e6053e7cefa,Marta del Grande,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 09:18:27.186019,classic,,3
+85,fc3fa25c-5959-4bea-8ead-80d9896ddbe1,Jacinto Anaya Avilés,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 22:01:55.269022,without_onion,,5
+85,92d2f64a-89d6-45dd-9bcb-d1fc95934564,Noelia Mosquera Baró,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 13:05:32.339566,vegan,,3
+85,0b878e6d-9852-49eb-821c-a4633ac4835e,Claudio Olmo Ortuño,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 21:33:36.926076,with_onion,9.51,3
+85,a34664fe-5d8c-4450-ae11-1d4ab1321d9b,Fito Rodríguez Ortega,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 19:45:06.004289,vegan,,4
+85,087edfad-6b2b-4e7b-8954-9d69b8d13915,Eric Amaro Vila Bueno,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 06:22:44.820591,without_onion,14.65,5
+85,cc541b4c-6a3a-43a1-9860-13160ab1cd10,Isaías Jódar Salazar,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 13:03:37.705827,without_onion,,2
+85,2f316ec3-a517-4711-ba7c-6e4a7e5aa4c4,Marisela Apolonia Cabrero Riquelme,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 15:18:49.405267,vegan,N/A,5
+85,a68d5e26-12f7-478b-9e51-32ffe33d6b66,Chus Gallo,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 00:22:50.793253,vegan,,1
+85,4ad7af9e-f7b3-4c7b-b33b-a7db67801e46,Prudencio Serrano Pintor,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 16:07:42.518243,vegan,8.61,1
+85,869c93d0-a3db-4fa9-bc4d-dffd656e1ddb,Ulises David Frutos Bru,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 23:41:30.572678,classic,8.61,1
+85,2b87fd4a-317d-4e85-b077-543895e4f609,Godofredo Enríquez Vigil,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 02:18:49.648501,vegan,,5
+85,9378cabd-917d-4411-9a4c-7a0d094c9e75,Dan Ferrer Alemán,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 13:30:53.090094,vegan,,1
+85,c0e477cd-2628-41c3-bf20-ac22fef642b4,Jenaro Sales Camps,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 04:11:40.481570,with_onion,6.82,2
+85,cc960dfc-97d8-482e-87ab-1121b73f26c5,Anastasio de Zamorano,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 17:16:47.357578,without_onion,,4
+85,a23f39cb-c8ae-40c8-9f37-7871b969f421,Natalia Tirado Álvaro,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 06:37:38.934943,with_onion,N/A,2
+85,f6d88840-cb08-4ffd-b1b5-0de28229958e,Óscar Jonatan Pol Alemany,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 19:32:54.476203,with_onion,13.81,5
+85,53fb4cff-e156-4fe6-8b26-c7660e809f4a,Fernanda Baró Belda,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 05:40:42.696622,vegan,,1
+85,d9eeca7d-e5a0-4598-9aac-fbb6a035f2fb,Vicenta Benavides Guillen,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 00:25:59.830089,without_onion,8.98,2
+85,3efe7f08-12e6-4bc3-9d44-6f9f77dbce9a,Jonatan Miranda Alegre,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 05:26:20.617375,without_onion,N/A,3
+85,687cb6e5-ef9c-4f68-b163-78c21823e21f,Amada Torres,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 10:36:34.278723,without_onion,,1
+85,13f26cfa-1e2f-4a9f-8115-3fe1a5fada91,Armida Ríos,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 22:53:22.613969,without_onion,,2
+85,ed741053-b320-436c-ab33-76bbd6692a23,José Cortes Arellano,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 23:05:20.147072,vegan,N/A,3
+85,dd780ff1-3fec-43a6-95cf-fec5f691efba,Domitila de Palomo,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 21:32:54.959731,vegan,8.68,1
+85,0f8b79b8-fc33-406f-8884-ac5549ecfb72,Wilfredo Montaña Franco,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 23:43:09.816132,classic,7.53,2
+85,fb1cc167-eda8-42db-b844-4ab6fae067c0,Baudelio Valverde Tapia,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 12:04:33.528372,with_onion,,1
+85,dd861e20-1600-4345-b8b6-c7aef1885a0b,Toño Diéguez Pujadas,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 05:03:19.159800,without_onion,,3
+85,19ece9ab-a694-4590-b8f9-dd9f8ce39392,Tania Abella Aguilar,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 10:28:29.794543,without_onion,,5
+85,19ccaf1d-47a2-4a82-bad8-8330ca5de848,Vanesa Caridad Carmona Tejera,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:46:26.709642,classic,,1
+85,4926385c-43d0-4824-8d7b-38683305618f,Dan Muñoz,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 18:15:43.978988,classic,8.35,2
+85,6572bfae-ebc7-400c-a509-b25bf9228f6a,Prudencia de Prada,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 12:37:34.704871,with_onion,12.7,4
+85,b359a07c-1e1c-4f58-921c-cc3671d4ce7b,Jordana Ruperta Sacristán Tamayo,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:59:21.123385,with_onion,,2
+85,3659da35-e4c3-44c3-9190-46c8bdd8073c,Cristian Doménech Aller,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 15:42:32.826627,vegan,,3
+85,8f084048-6d91-4974-88e3-f34dfe60be5b,Eligia Andrea Alonso Losa,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 00:59:52.760797,without_onion,12.87,4
+85,095175b2-c56f-4a22-b0a1-fd10ce74b024,Yago Lupe Peinado Serna,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 17:23:01.885429,classic,12.57,2
+85,2e820f33-59b9-4da9-8830-3b9f1ac0e504,Modesto Cuenca Valera,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 06:44:48.944019,without_onion,12.85,3
+85,cfdab1d3-ea6f-475e-93e6-635c40d99317,Melchor Yuste Marqués,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 21:42:47.346345,with_onion,N/A,2
+85,21ea31f9-b415-4acf-a9a8-86034ced1a70,Ángeles de Ayala,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 02:30:26.429085,vegan,7.58,2
+85,24a46a4b-c153-4751-b9c2-261761b05c46,Augusto Moreno Castejón,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 18:20:29.147636,classic,14.67,5
+85,19082b11-6745-4efa-908a-8d902cd08c20,Mireia Ayala Esparza,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 19:43:53.185660,vegan,8.43,5
+85,c40b02da-26a1-429a-bb3e-22c9106e1220,Víctor Bustamante,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 19:16:57.970397,vegan,,4
+85,bab37ee6-3094-48ef-958a-ab5ab53a170e,Valentín Pardo Bueno,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 05:13:59.927939,with_onion,6.56,2
+85,ca64be14-d1c7-400a-8922-b24e256ef865,Rosaura Piñol Bosch,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 10:21:01.048507,with_onion,N/A,3
+85,0970447f-eac2-4ced-a92f-71ffc00f72bf,Bernardino Cózar-Barroso,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 17:36:07.388428,with_onion,N/A,2
+85,df6ae11b-cd6e-4fbb-be91-2fc40a220702,Abigaíl Esther Pozo Barroso,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 23:01:57.151120,without_onion,13.74,3
+85,d1a4fdc9-b5b2-43e0-8a5e-3cd50a065650,Fabiana Valle Páez,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 18:22:28.017247,classic,N/A,5
+85,58afcab8-81ea-47e6-980b-a52851271902,Eduardo Prado Giménez,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 10:37:25.377932,with_onion,,4
+85,d7a9518c-afdd-4f00-a858-2def5a67a8a0,Eli Juanita Gallart Amores,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 17:29:51.199476,with_onion,14.1,3
+85,f36dc148-43b3-41c4-88a0-1566f9f42660,Marcial Higueras Calleja,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 15:31:40.441822,classic,N/A,1
+85,84655723-73ce-458c-b2e7-284a88e4c6fc,Constanza Palau Cerdá,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 13:05:19.446199,vegan,,5
+85,558ea52b-5a0b-4c98-8ab3-4a31e8c205e1,Máximo del Prado,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 19:06:14.740972,classic,,3
+85,69cedec6-c346-49bd-a08a-464ffd2fcad6,Cristóbal Español Ribera,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:25:51.143126,classic,11.44,3
+85,4fe4b1e0-eb0d-43bd-b334-11fdf714f816,Joel Iniesta Beltran,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 09:51:28.544812,with_onion,,4
+85,42af1315-3569-4ac6-a428-b3b5850ee9b2,Buenaventura Manso Escribano,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:34:32.048427,classic,N/A,5
+85,486b1422-f5ae-40a0-b059-3f2601f96c02,Juan Bautista Moraleda Falcó,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 18:25:54.040614,without_onion,,2
+85,912e5884-f020-4795-bec2-534758324b98,Severo de Alemany,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 09:12:32.916420,classic,N/A,1
+85,0df3c233-a2c0-4404-8f25-dfb8abfc9649,Nicodemo Pardo López,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 02:37:33.472108,classic,,2
+85,54c3b76e-9fbb-4f15-8efc-a058bbe8dff6,Selena Lledó Catalán,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 04:38:30.715266,classic,N/A,4
+85,aed73f08-cc8e-41d5-8f27-7824cb3a8e3c,Eutimio Blazquez,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 14:24:33.092455,without_onion,,3
+85,c3ef7af9-f90f-44b7-bfec-4bec437a4990,Gervasio Vaquero-Iglesia,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 11:49:12.468650,vegan,,1
+85,17d060b3-74a9-49ac-8fb5-b915e501ef90,Poncio Martín Losa,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 22:00:57.849177,with_onion,,2
+85,4206a633-fd5e-40cb-8010-403e4e7bca79,Cruz Barragán Jimenez,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 05:30:17.388123,without_onion,,4
+85,476c6717-8e88-4a4a-a438-4573c93a85ce,Eutropio Casares Catalá,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 07:36:53.593750,without_onion,,4
+85,2da9511e-5b0f-47f4-b39d-6da1e24fc854,Juan Galván Carpio,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:41:39.545090,with_onion,8.61,1
+85,8597b258-b9dc-444e-83ee-5ffee5d7bfbe,Rosalva Valbuena Ferreras,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 16:47:24.911729,classic,N/A,3
+85,08b29cb6-0237-4ed3-a187-a4dc0ff795b0,Jacobo Andrade,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 12:39:05.360768,with_onion,8.73,4
+85,fc163299-9e57-47ab-a0bd-b21cc130f495,Marianela del Muñoz,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 10:01:46.482555,vegan,5.99,1
+85,814f4652-e298-4172-ab3b-f1676fb71201,Ana Bravo Pinto,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 02:36:53.261140,without_onion,14.11,5
+85,6f82b929-97b8-4911-b651-e41d9471f67b,Narcisa Barrio,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 19:33:52.596738,classic,,1
+85,9e9ab2b1-1dfb-4ad6-9a6e-aab67de57d0f,Evaristo Querol Casanovas,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:59:46.519460,classic,,4
+85,99dcba73-b906-4caa-8035-dcad5cb5fe40,Edmundo Santana Aroca,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 15:37:05.836435,with_onion,,5
+85,e9b6ee6f-b87d-468d-8121-4ebb2ca4071d,Susanita del Casares,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 11:26:06.163409,vegan,,1
+85,5722aca1-0343-470b-955c-7de8e15b807f,Nuria Benavente Pedrero,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:05:51.383741,without_onion,N/A,3
+85,da190110-25bc-4366-a770-307d0e85dfc2,Diana Lillo-Hernández,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:17:11.966798,vegan,10.31,4
+85,89a0e26f-cd26-411c-8fc8-b0cfc0f89fef,Olga Áurea Feliu Saavedra,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 21:32:31.327700,with_onion,N/A,2
+85,2a93cbc4-9b2c-45e3-bd7f-c3d2b3012d6a,Ramón Ernesto Pagès Tovar,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:32:53.123774,without_onion,,3
+85,97224b56-a476-48a6-8888-2508ad874334,Severino Rico Fajardo,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 15:19:57.788991,vegan,N/A,4
+85,49a14228-e377-4d43-9400-807babef3a96,Pablo Gisbert Jordán,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 23:57:05.771575,without_onion,N/A,2
+85,f04da658-963d-4051-bed0-1e64f1070203,Jose Luis Mur Cisneros,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 08:55:57.741940,with_onion,,4
+85,a09430da-f75b-426d-b3af-9d096507ee78,Teodora Pizarro Lago,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 02:26:01.278731,vegan,N/A,2
+85,249960a6-073a-48d9-a42e-695cf2e95f8f,Roldán Cristian Garcia Hernandez,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 03:33:39.994014,classic,N/A,5
+85,8e1d6796-8d1c-459f-bbdd-9111e8ee5fba,Cándida Godoy Albero,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 07:58:37.868488,with_onion,,3
+85,b3e7163a-da5b-410c-a4c7-9063ca521949,Amada Giménez Conesa,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 07:21:33.199254,vegan,13.21,4
+85,24463c79-5cef-4fc6-ac4d-55dc623f109b,Lucía Trujillo Sastre,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 06:13:34.601824,vegan,N/A,3
+85,d939e5fb-1507-4f6b-86d9-6c311f122e01,Ana Morán-Pereira,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 13:29:59.159763,without_onion,N/A,3
+85,75219d33-d634-4675-81a7-ee05c40753dd,Aristides de Cerezo,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 04:42:58.670067,classic,8.18,4
+85,a1352d37-7f3d-4176-a89c-8bc655872de1,Joaquina Soler Hervia,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 06:03:15.842707,without_onion,,2
+85,35866383-9429-4b9c-8710-9360f8db3596,Natalio Tapia Fernández,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 22:22:17.697686,without_onion,,4
+85,570da5e3-84a6-41b4-b71f-a538589c451e,Saturnino Galiano Galan,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 12:34:48.089032,with_onion,N/A,1
+85,21444d21-7695-44e7-936c-426036cfcdbc,Manuela del Tur,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 01:14:05.699260,classic,,2
+85,d84b28cf-fd77-430e-9961-74abe07b0931,Feliciana Riba Peñas,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 12:33:29.965691,vegan,,3
+85,8604117a-e8ba-42dd-99cc-a7e3b2a177f6,Elisabet Requena Páez,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 07:01:44.916601,with_onion,13.91,5
+85,06ead21f-15cf-4801-ba69-2204c0672248,Paola Morata Palomar,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 12:16:19.267880,without_onion,N/A,5
+85,b2c6faab-190a-4857-8895-299b40dcba9f,Adán del Gaya,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 04:14:44.969872,classic,,2
+85,b7941b05-122e-482a-9fa3-5629134c512a,Venceslás del Barceló,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 18:18:22.919534,with_onion,N/A,1
+85,bd55795f-1910-40da-993f-0399f3deade7,Pepito Cánovas Costa,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 06:06:16.090647,without_onion,,1
+85,5ae9faca-e2c7-495e-b4dd-c12999f44faa,Teófilo Villalonga Mayoral,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 04:26:20.692329,without_onion,N/A,1
+85,a5968b36-6a35-4812-b293-a333b26e6dc5,Noemí Planas Carrasco,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 23:08:10.049381,classic,,2
+85,fd6bd9cb-2c06-4ded-8275-ac321a08393b,Hernando Gordillo,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 05:57:35.469397,vegan,,3
+85,759df58f-0e2d-4493-afeb-abe93cee01d1,Rubén Gerardo Aramburu Arregui,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 00:12:21.745235,classic,5.75,4
+85,864dd8a7-34d2-47bf-bcf2-e71663c4c6d2,Glauco Pastor Mendoza,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 16:58:01.996567,vegan,,5
+85,0c0ce52f-f9ce-4931-81ae-a855352b358c,Malena del Santamaría,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 19:10:14.228161,without_onion,9.28,2
+85,69019186-62cd-4a07-9fec-ff1bc2c9d3ce,Onofre de Morales,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 05:54:47.256314,with_onion,N/A,4
+85,eeb5e880-9d3f-4111-873d-546c4930c233,Caridad Llano Mir,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 11:46:22.537774,without_onion,N/A,3
+85,d3a52304-30a1-42dc-97ee-e20d7c0adff3,Rogelio del Vives,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 06:11:33.670896,with_onion,,4
+85,f7b3a07b-7c47-474d-8871-e4a97bd9c41b,Rosaura Briones Amores,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 15:13:13.154866,without_onion,,4
+85,31b11c5e-f745-44e6-a91e-3978aa0ab9b1,Bonifacio Expósito Guerrero,Alicante,"Camino de Amor Pagès 88 Puerta 6 , Ciudad, 03671",2026-05-01 02:05:33.766681,without_onion,N/A,3

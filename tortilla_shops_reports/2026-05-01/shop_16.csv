@@ -1,0 +1,109 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+16,e710969e-71cb-48f4-bdff-bc57c73bea7d,Pía Bolaños-Gargallo,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 08:24:22.359583,without_onion,,2
+16,28a7e657-16e1-4a54-a327-2229dc65c768,Omar Sánchez,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 18:57:40.411647,vegan,N/A,1
+16,600c62a1-31df-437d-9a58-fadda71742a4,Fito Mancebo Coca,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 17:14:16.005775,classic,N/A,1
+16,57db1b65-241a-43a9-b3df-130aa5280f15,Azucena Galiano Marin,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 18:39:00.666393,classic,N/A,3
+16,cc3a9340-9891-42df-888a-c29040e8ed39,Cándido Oliva Soria,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 06:14:02.880583,with_onion,,3
+16,0c24897e-9878-4d70-ac67-1e2038988a1a,Baudelio del Porras,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 09:42:54.915238,without_onion,N/A,3
+16,4f6f10fe-7cc9-4b83-8f7b-ac1026d072b4,Jacinta Colomer Barranco,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 18:04:00.816005,classic,7.4,3
+16,e20474e5-e4c4-45ac-b60e-ea02013cc560,María Luisa Cerro Barranco,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 22:34:56.954075,vegan,,2
+16,7f96cfa0-a604-4f89-9a97-9343789ca2e4,María Jaume Manso,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 01:39:56.308092,vegan,N/A,1
+16,e5d5232a-95cb-458a-b85f-f3d326ed1fbc,Erasmo Peralta Esteve,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 17:27:06.623596,with_onion,9.3,3
+16,fb0cc710-3e79-442f-8c4c-33843fa6e215,Laura Uribe-Clavero,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 06:10:25.408624,without_onion,12.54,2
+16,1549348f-dbce-4205-a072-8291948841b7,Luciana Trillo Artigas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 02:42:53.204771,vegan,12.56,2
+16,232e1451-891b-40f3-8377-28287746edbf,Amador del Navas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 18:43:49.471693,without_onion,8.34,5
+16,35b2ad44-fbae-46e7-a626-cf5b6050ef13,Flor Zapata López,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 01:40:00.924870,with_onion,,4
+16,2086ed93-06aa-4bea-88f5-e5319152363c,Bruno Avilés Anguita,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 09:09:20.723353,with_onion,N/A,2
+16,c87999af-78e1-4761-b0b4-9f8263f13368,Américo Bas Heras,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 21:00:55.406388,vegan,,5
+16,c3c72632-4c99-4e04-98b9-4ad559fc4ef8,Guadalupe Pintor Gargallo,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 15:09:41.709362,classic,N/A,5
+16,9b00498b-0412-4f9e-be13-b7381a2b1b93,Ana Belén Francisco Solís,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:49:10.037712,with_onion,N/A,2
+16,b09a9565-ef9d-48cd-a93e-a73ab0b302ca,Primitivo Soria Quirós,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 01:31:54.544902,classic,14.14,5
+16,6b255e23-6f54-4524-a438-4b13cc91260a,Jose Miguel Céspedes Rico,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 18:28:57.140920,with_onion,N/A,4
+16,aa50010a-30ac-47e8-91bf-0da00deb9587,Matilde Ferreras,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 08:58:16.647976,with_onion,13.71,2
+16,46f87d2d-f22a-40b1-a7e8-1638043e5cd6,Gabriel Uría Juárez,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 21:43:33.160723,vegan,12.81,4
+16,c9ccc8e5-b64a-4535-a09a-aa8e803939ba,Lucila Calleja Cuesta,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 14:54:14.837408,vegan,,2
+16,a83fdea3-3c00-437f-9574-52b0758d8cab,Rosa María Navas Manrique,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 23:48:49.361260,classic,,4
+16,ccbf7cc6-2d22-44d6-b237-bd9fe4f2dc56,Sabina Olivera Portero,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 21:13:08.460681,classic,,5
+16,99fdfc06-70e3-4476-8499-fabcc7baad07,Benito Fortuny Camacho,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 20:03:49.258627,classic,,2
+16,dd889888-e34e-4035-9d24-06326b5806c2,Manu Sanmiguel Villalonga,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 06:48:22.181588,with_onion,N/A,5
+16,e14e747d-6cfe-4f33-ab51-3f9ee738773d,Fabricio Llobet-Planas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:26:49.464293,classic,N/A,2
+16,c970d02a-3c6a-4a23-96b0-6aca4fa5d70d,Ema Novoa Pablo,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 13:08:04.054294,with_onion,N/A,1
+16,b9110a3c-3a90-495c-96ab-2c29ac24efd3,Emperatriz Carvajal Salcedo,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 13:59:26.697475,vegan,,2
+16,0af7c829-5b24-4b29-8d2c-4030c63114cb,Danilo Pintor Solano,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 04:54:08.604978,vegan,N/A,4
+16,65895e02-a047-46f6-ba7b-519842c0517b,Silvestre Cantero Rios,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 14:47:35.242628,without_onion,N/A,1
+16,86e2ecf1-52e4-4b22-aff2-b5b47faf4061,Zaira Trillo Cadenas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:07:59.533840,classic,N/A,1
+16,1781fb0e-0c6b-49ea-b7ec-beb52a6161e9,María Manuela Montaña Flor,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:14:44.342094,without_onion,8.88,1
+16,b33fb7fb-7a59-4baa-b7ba-5089c355f98d,Óscar del Ferrández,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 18:01:32.289717,vegan,N/A,1
+16,c284b845-6f9c-49a0-a2f2-f4b483dc8561,Edmundo Marcos Prada,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 20:19:25.986265,classic,,5
+16,dbf8a5e5-2adf-4597-a98b-d09361c9f04c,Dionisio Benitez Berenguer,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 02:44:39.504337,with_onion,,3
+16,e4ffea4c-b03c-44bd-8a01-4342fc97768c,Lorena Moreno,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:15:43.568967,without_onion,,5
+16,27c21f6d-c802-4847-a97c-7a7bd7af8e5a,Roberta Jaén,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 01:11:36.084797,with_onion,,3
+16,00b3d7d5-9cba-4580-9810-d2df9e532dd0,Encarnacion del Uriarte,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 22:08:05.861320,vegan,N/A,5
+16,9d26bdc4-1700-44a0-8792-a6749b5d501c,Herminia Clotilde Enríquez Cabezas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:57:58.838903,vegan,12.37,5
+16,fe1ee62f-5d50-4045-8a0a-331c6e393e84,Fanny Isabel Bellido Barbero,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 12:59:04.436725,without_onion,11.58,5
+16,346bb1a6-c81f-42ba-bcef-760f96624cd4,Gonzalo Tapia Hernando,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 10:02:13.730616,classic,5.15,4
+16,42c3ee7f-0af9-4ec7-b7ed-c42aa8ca2548,Candelas Camino Moya,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 03:52:31.155153,classic,N/A,4
+16,a9b9dd3e-ce80-4ed3-aaff-39dc96f85502,Joel Calvet Palacio,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 13:20:14.940280,classic,,1
+16,55a1537d-1d9f-40e6-88a3-c1c907fbefeb,Desiderio Mora Uriarte,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 13:36:42.403872,vegan,7.02,3
+16,57dbca40-cd54-4347-adb1-9f2e8d66ae69,Ovidio Uribe Ródenas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 07:38:41.683351,without_onion,7.43,5
+16,1dc4b911-eeac-45d8-a5b0-180e7e47c822,Espiridión Fito Camps Porcel,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 22:47:37.090350,with_onion,,1
+16,aa182db7-d3e8-4c90-8707-f602c9b30a7d,María José Arnau-Asenjo,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 04:18:01.156500,without_onion,,4
+16,bab5b9f3-0070-46fa-8047-38b0323f1349,Samanta de Roldan,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 12:25:21.030422,with_onion,N/A,1
+16,b9b88635-7d5b-4f80-8937-3fb5b064776e,Juan Francisco Valenzuela,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:47:39.507398,vegan,12.47,1
+16,da01f6cc-8cf1-4f4e-ab1d-15d41b07d7bb,Cornelio Ripoll Rebollo,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 20:07:57.861326,classic,,2
+16,b98b1203-eec8-4354-8fb9-25a06809d1ed,Prudencio Roman Barral,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 13:03:40.137032,without_onion,8.38,4
+16,0c39aae9-f767-441b-a013-374c0e110b01,Ariel Pascual Múñiz,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 01:30:31.060934,without_onion,,3
+16,a32c92af-67b4-4f89-a9e8-d12336596d9c,Alfredo del Rosales,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 23:41:53.131719,vegan,10.36,2
+16,a1db4155-54fe-4ae7-8eaf-3706d69fa685,Judith de Jimenez,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 07:06:38.958946,vegan,,3
+16,894a311b-e8a1-4a1a-9343-d43c100df315,Jafet Cañas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 08:54:37.584345,vegan,,3
+16,213eb621-c3d1-43e6-9547-381bebcfde34,Imelda Fátima Bello Gutierrez,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 02:33:44.971022,vegan,,1
+16,3b8309f1-1018-478f-9730-512118519b78,Carmelo Domínguez Sáez,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:17:36.462656,vegan,N/A,2
+16,acb3062f-0c66-44af-96cc-ea2e1fff6666,Gonzalo Corominas-Morante,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 09:45:46.838194,without_onion,,5
+16,f782e182-c1ac-4826-ba76-adb41827176c,Ruth Lasa Ramírez,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 14:57:02.372173,vegan,N/A,2
+16,1d949757-2f76-40e6-b807-1dbde5e18bd6,Valentín Lillo Montenegro,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 05:21:40.810320,classic,,4
+16,8e5e2881-b00e-48b4-9dbd-7f8be0c247e6,Lope Naranjo Cañas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 00:34:46.877843,with_onion,6.89,1
+16,1597f87e-1b33-40cc-aaf1-e218e1eb9a3e,Felipe Posada Iniesta,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 10:28:08.128316,with_onion,N/A,5
+16,b7ab6d8e-4df8-4174-8028-85fa98e8a9e9,Sara de Delgado,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 02:56:56.821241,with_onion,,4
+16,d23b532f-3b9f-4165-8a77-fcbf310e7c0e,Rosario Castrillo Alcaraz,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 03:49:28.676666,classic,,4
+16,d41da934-5925-4fd3-a68e-84b8c9b3d9fd,Diego Sanjuan Andres,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 12:10:35.175217,vegan,,5
+16,22f38cb0-73de-436e-a42e-aec78a283780,Brunilda Palacios Quintana,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 12:25:23.983940,without_onion,14.97,1
+16,84f46734-9879-4a21-8660-af92cd53d74b,Azucena Higueras,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 10:53:20.485491,with_onion,12.57,2
+16,036d0467-56de-4e9e-9888-c197ae76fe55,Tania Urrutia Ayala,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 13:51:52.100164,classic,,3
+16,13c33d1d-66b7-4c2d-8405-91a8d561a21a,Ulises Valenzuela Vargas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 05:08:43.663535,classic,10.78,4
+16,42d07618-d5c4-40a7-8226-32e5243fdad3,Dionisia Mercedes Bosch Montesinos,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 14:28:11.104180,with_onion,,1
+16,6d0cf973-b1bf-485e-888f-e4683984862c,Wilfredo Gerónimo Castrillo Ferrán,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 08:43:45.956629,with_onion,N/A,2
+16,f5885c84-1990-4a12-8e90-dec1c48d4ec6,Adelia Coloma-Amor,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 03:49:36.209361,with_onion,,3
+16,3acd603e-2d90-49db-a1d2-0642dc9e35ec,Ariadna Fiol-Valderrama,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 03:35:16.987592,without_onion,6.88,3
+16,ae744a8a-bfba-4f39-8910-78beaac2bede,Lisandro Peñalver Lloret,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 04:19:13.835696,without_onion,13.81,3
+16,16e6fb88-53fb-4627-9f54-76fe7c2961f3,Tito de Alcaraz,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 21:57:55.473567,with_onion,N/A,2
+16,5a16ec30-f5a2-496a-8e4b-e3cc5963bfa3,Heriberto Campo Pascual,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 23:08:59.238886,with_onion,13.66,5
+16,221e22c5-bdf0-4f98-94cd-c4ec858093df,Iris Arteaga Ruano,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 21:23:37.432168,without_onion,,3
+16,e1ec1755-a225-4fc0-919d-84e935fc6f26,Luis Ángel Marciano Batalla Ribera,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 12:01:47.025598,with_onion,N/A,3
+16,f25f93b2-f5ca-4823-8861-1a1ce269de6f,Macaria Roca-Contreras,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 12:52:09.505334,without_onion,5.85,1
+16,5ea91c28-a6e1-4298-8363-be12d74dec59,Jose Luis Mendizábal Barroso,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 22:59:27.760074,vegan,10.07,3
+16,9a7ded06-9891-4cd2-b26c-dde37a601cc6,Salomé Lara Valverde Armengol,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 08:03:39.070738,classic,11.51,3
+16,ed6a7c6e-8852-41ba-b6ee-4bd7f66b5e68,Mario Edelmiro Carbajo Azorin,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 20:42:01.027600,with_onion,12.35,2
+16,93bfff3f-086a-45c1-b8ad-7e6eb70ce058,Miguel Ángel Barco,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 04:29:52.191198,vegan,12.46,5
+16,c3673300-45c8-4b01-a24f-cd7c217557fd,Bernardita Vara Lucena,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 20:17:22.868031,with_onion,N/A,5
+16,a4f3b5c7-aa37-4671-9df4-2193c861ec4b,Hector Alcalá-Luna,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 21:01:05.047164,classic,,1
+16,7985d45a-b5ef-4e97-9809-5a7aaf6398d9,Estefanía Valentina Mateo Abellán,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 15:30:37.334062,vegan,6.98,4
+16,d5c0d2f6-d59f-4d2a-b94f-9b051fab794d,Marita Goñi,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 07:20:16.423407,vegan,,1
+16,e0e30cc6-266a-4304-9902-8c77132ca0d9,Ricardo Losa Llanos,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 07:25:57.223209,classic,9.21,5
+16,d949c2dc-ed34-483a-a909-deda26614bb4,Guiomar Acedo Aguado,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 02:01:37.292929,vegan,N/A,4
+16,4fe0b398-a543-4a3b-b46a-fbd43a148018,Ruy Torre Guillen,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 09:45:44.645598,without_onion,N/A,1
+16,3969d168-dd64-4657-a36b-b564e2d84cc4,Hilario Becerra Boada,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 05:17:38.787481,without_onion,N/A,1
+16,1a055429-c5d8-4090-82bb-bb8e0daab25e,Azucena Gutierrez,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:02:00.677382,without_onion,N/A,1
+16,e94ad2d8-6574-4c42-8592-8ad9fb77ee43,Crescencia Rivera Heras,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 22:56:19.377834,without_onion,8.3,3
+16,7cbc9761-7c52-41a6-90f9-4e8fd45c1504,Eugenio Alcolea Giménez,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 13:28:56.864101,without_onion,N/A,5
+16,ea82b63d-363c-409a-8527-5d2e575c1706,Violeta Posada Sans,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:24:42.015798,without_onion,,3
+16,ac83ec42-ed5b-4f32-be1e-ecc17919a053,Julio César Vall Contreras,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:01:31.750544,with_onion,10.61,4
+16,59e69ff5-f11c-4518-983f-10219a943a7a,Cristian Bayón,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 23:01:58.123275,classic,13.84,1
+16,46423920-db3a-4e5c-b82a-4bde1fee20c3,Amparo Calleja Peiró,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:18:35.965205,without_onion,,3
+16,565a00d4-8210-48be-a988-e4b255ce9ede,Simón Madrid Pardo,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 21:55:05.418791,with_onion,6.32,1
+16,43ee6c1f-4976-4346-a037-c658ffbc05c0,Ruben Ramos Cañizares,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 09:03:46.586218,with_onion,N/A,5
+16,cd629fae-3e38-4d2a-b750-dfaca1416c12,Evita Lara-Llamas,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 20:29:31.576858,vegan,N/A,2
+16,e21c45cd-7d8c-4f59-925f-2f03eef15e07,Fermín Tirado Girón,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 22:16:42.805961,classic,N/A,4
+16,6fca1e43-f691-4628-9e67-030ab4913f60,Guillermo Villar Valderrama,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 19:54:05.399447,with_onion,13.27,1
+16,30ab0757-d3cf-4d26-923e-bc2645beb584,César Cuéllar Amorós,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 08:11:08.186598,vegan,12.44,1
+16,ea0f73c5-7be7-4f6f-af79-71f8ce5546cf,Victorino Josep Riba Ortega,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 17:26:44.695272,vegan,N/A,4
+16,48c9b218-908f-4e5b-8c12-096919c3fdf5,Ana Belén Crespo Pol,Zaragoza,"Vial de Eric Cabello 78, Girona, 50737",2026-05-01 22:37:02.457459,classic,,4

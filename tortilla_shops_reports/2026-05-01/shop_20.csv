@@ -1,0 +1,349 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+20,67253b59-31d3-4e6e-9b5e-dae877f0dedc,Eulalia Ribes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:44:44.230991,classic,,3
+20,269e8982-e4fc-4e69-a870-0bf7efb35497,Fortunato Monreal Busquets,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 19:38:47.816279,with_onion,N/A,1
+20,3c0de6ef-ffed-453d-aeb3-09715f1ded99,Paloma Fabregat Díez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:07:30.976485,vegan,8.9,3
+20,c86bc5d7-4948-4ddb-b996-fae78869163c,Leocadio Querol-Neira,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:23:34.747247,with_onion,11.68,4
+20,c3935c61-73bc-4dfe-802d-123b3ea2cd35,Pastora Castillo-Rivera,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:28:11.503894,without_onion,8.12,2
+20,8cf96c89-d561-46a0-ad3b-0ed572ea1d92,Jacobo Rosselló-Camino,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:12:12.134776,without_onion,,5
+20,d2053f18-a28a-4c0c-8d93-cdc3cbda6783,Pepita Vera Velasco,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:05:53.650553,classic,12.38,3
+20,202427b9-5634-44d4-b17f-30824c40df83,Herminia Paredes Sierra,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:50:38.701815,vegan,,3
+20,3ee00680-92fa-4aa4-bd36-5c10eb809e55,Pascual Galvez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:45:47.886063,classic,,5
+20,b7237e0a-232e-46c2-99f3-a4c6532be629,Teófila Córdoba Hierro,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 08:49:05.009326,classic,N/A,4
+20,407f353f-ef5a-4db6-b336-a2bc499e7e25,Azeneth Trini Blazquez Miró,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:32:34.483798,vegan,13.62,1
+20,0ad800ad-91f5-4c49-877e-73a8f5b7fb42,Pastora Calderon Almansa,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:00:34.608433,vegan,,2
+20,2570c0ba-20ce-404b-90d7-51e6547581b1,Aarón Español,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:04:56.607796,without_onion,7.28,1
+20,eb0e6677-e358-4674-9789-c15dad7d928f,Román Cepeda,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:30:21.701648,classic,N/A,5
+20,905ed6e2-1cbe-44a1-a0e7-873d1f241cf5,Telmo Alvarado Barragán,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 06:55:08.593312,with_onion,6.6,5
+20,67c9ea62-bbb6-41b4-9d3d-29bacd6db7ad,Evita Salud Cuadrado Casanovas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:10:57.223782,vegan,N/A,2
+20,2fe3f2ee-8104-43e3-8897-d3dcd53a1fb0,Luís Mena Bermudez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:56:33.008546,vegan,N/A,4
+20,624759eb-b874-4a0f-9d3c-9fb104c3c44c,Glauco Salas Llopis,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 00:45:07.938528,without_onion,,3
+20,763b8cee-5fa1-4a5d-84b2-bfead3ef40f0,Teresa Coronado Agudo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:08:19.869561,with_onion,7.19,4
+20,4f1bf349-f79b-4c1b-ae3a-3c85455db70b,Pascual Arana-Cortés,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:10:40.018961,with_onion,,4
+20,bd37b263-fc21-4f00-a6ad-4e351933ac8b,Caridad Tello Ribas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:54:06.134089,vegan,8.28,3
+20,12e36ee3-d414-4b12-9d50-cc409ac214e7,Carmelita Gras Medina,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:52:24.678654,vegan,,4
+20,46e28983-66da-4c18-ad71-42034735a389,Eli Ocaña Godoy,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:41:26.965850,vegan,,5
+20,114732dd-0392-45ff-9315-d06745bd1818,Lucila Murillo Carretero,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:06:51.928714,vegan,N/A,3
+20,c2cabaa4-7564-4371-8a2b-277f8666b3bf,Jesusa Cruz Bas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:28:10.003754,with_onion,N/A,1
+20,3f0b8910-bebd-4915-9ae0-9dd0d1b557df,Edelmiro Toni Riba Perelló,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 00:26:15.236655,vegan,N/A,5
+20,7b99a8c7-7422-4248-a70f-b77cca33c8e3,Sergio Mínguez-Mas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 08:35:13.928647,classic,10.44,2
+20,196306d9-b13b-4501-83e1-b0a211e2c099,Milagros Bilbao Carbonell,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:51:24.784533,without_onion,N/A,2
+20,ab581a76-aa07-4089-9b4d-7def0aa854e5,Federico Sanmiguel Gordillo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:03:56.649977,vegan,N/A,5
+20,54637e48-7f0f-4eb0-b887-b2de5e99eae2,Juan Bautista Dominguez Tudela,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 17:50:23.641050,without_onion,,1
+20,e9d901ac-4ad8-4572-a200-e3a1cf1aaa26,Enrique Trillo Portero,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:51:57.132631,without_onion,,5
+20,39e496c3-04b8-4923-b34f-4d44043e5b93,Socorro Vilalta Lerma,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:42:15.934632,with_onion,,1
+20,690fc9f8-37de-49ba-9f2d-9662e2cce784,Carina Otilia Bermejo Varela,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:20:23.350490,classic,,5
+20,7f966a36-b1f4-417f-9d80-f29f8c68af2e,Timoteo Lobo Rivera,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:45:48.268843,classic,,3
+20,071a35b5-964b-49a5-a09d-8bb27e09eedd,Leire Molina Amores,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:07:47.781266,vegan,N/A,1
+20,37a26f43-8f9b-426d-9965-42f997c18752,Amor del Carreras,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:57:37.950261,without_onion,,1
+20,3da4a8af-fa13-463e-95bc-2403dfe29e3b,Rodrigo Zapata Rocamora,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:36:11.698994,without_onion,12.8,2
+20,e936757f-65e9-419b-a4ab-dcc87bbe78a5,Toribio Olmedo Mosquera,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:59:31.688139,without_onion,N/A,3
+20,c84006f0-f980-427b-93fa-f5640438624a,Cristina Pujadas Ricart,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:07:52.368027,classic,9.01,5
+20,e28c723b-888f-46b1-bec8-9810dc5a48ce,Clímaco Prat,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:43:25.846443,vegan,,3
+20,b52260ed-6b83-40c6-aa53-c3e2e55e71ec,Ezequiel Mata Gallo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:40:39.093803,vegan,,4
+20,c7218f08-d465-4b6e-b20e-fd27491e258e,Alonso Rosselló Castellanos,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:12:43.739518,with_onion,5.07,2
+20,11fde7fb-2791-410f-95e3-a5df495ac1bb,Máxima Agudo-Pineda,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:42:47.790010,with_onion,N/A,2
+20,c6951193-8e2c-410b-8e4c-f3039a7af214,Reyes Poza Ugarte,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:19:34.573339,with_onion,12.28,5
+20,8ac47065-c17c-4852-8c43-8bf93b881cba,Macario Ángel Jara,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:29:39.902603,with_onion,,2
+20,2437488d-2876-42ec-8740-17dc46dca499,Amalia Dávila Mir,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:16:12.873904,with_onion,8.83,1
+20,e23d60d8-f47b-4280-b259-62bc5061f09d,Víctor Haro Márquez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:11:22.111607,vegan,,3
+20,ed382ce6-08e5-44a2-834d-f649fc7579a8,Coral Macias Lozano,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:35:58.573925,without_onion,,4
+20,951993fc-fdfe-45ad-bafe-d96666b8e46e,Pili Arribas Reina,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:12:15.250254,vegan,,5
+20,6f21b285-3f0a-4346-ada6-0d5fad88b4a1,Loreto Hoyos Pérez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 19:31:21.931329,classic,N/A,3
+20,e190038c-7a94-48af-af3b-0cc4c4eca17d,Lidia Sedano Ochoa,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 08:00:00.052643,vegan,6.65,3
+20,8bfa9435-aab7-4419-a818-4eddf0813364,Clímaco Cardona Aragón,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:13:59.221704,without_onion,,4
+20,e0e9503e-9f67-43a5-9fa0-e2aaf54f247b,Marisol de Sánchez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:40:35.624090,without_onion,11.25,3
+20,177e725f-6d13-4120-abfb-d004cff6b747,Adelina Evita Vázquez Bru,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:56:48.202085,with_onion,5.9,2
+20,a18c2b0b-2c5b-4398-9126-ede61e751a97,Florentina Robles Roman,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 23:08:58.167675,with_onion,7.61,4
+20,b2005aae-8299-46d6-8aca-aad4bce6df9b,Rubén Ciro Badía Juárez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:13:49.277658,without_onion,,5
+20,5443215f-59f3-49f4-80bc-f63cb0aaf604,Alonso Bartolomé Niño,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:16:21.945878,with_onion,8.81,1
+20,2b1cf6f7-89b4-4b95-a47e-f0eba436f6ad,Hernando Cortés Montserrat,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:19:26.538696,vegan,N/A,5
+20,5b0be0d9-ecf1-4744-a4f2-5f8e0194dab5,Nadia Campillo Alcázar,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:46:22.788888,vegan,N/A,1
+20,8ddf5f45-eb2c-4186-a2f6-0a5cd3d3a581,Jose Francisco Uría-Mendizábal,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:22:00.447736,without_onion,11.22,1
+20,39e480bb-63be-49df-ad5c-0ccf72487eb7,Eligia Tello Peñas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 00:22:38.698344,without_onion,,3
+20,c6940e95-c7d9-41d9-bf0c-b96b6d0f8d7f,Apolinar Ruano,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:48:58.400205,vegan,11.02,3
+20,f156c24a-8d41-401d-a308-987a332c5af1,Elisa del Nuñez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:01:13.845286,with_onion,,4
+20,1a17c4c3-2a8a-41d4-9f2b-c3240fa7e2ad,Alonso Joan Jiménez Caparrós,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:48:48.141490,classic,7.86,3
+20,12552a5d-87a1-48bb-9494-a9499fbf9649,Gerónimo Diego Elorza,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:20:10.996607,without_onion,14.14,5
+20,bd6b8c97-0e97-4a2c-8461-3ebaeb71044d,Luis Perera Peral,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 00:39:21.614640,classic,,4
+20,3591b530-5c83-489a-b60d-32bb0987ca42,Hermenegildo Paniagua-Santiago,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:29:29.902757,with_onion,N/A,5
+20,e86244ea-bcc8-48c5-8594-cb62bd287991,Ana Sofía Teresa García Morillo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:07:27.208960,vegan,,2
+20,c5dac67e-eeca-4c08-8286-736ebffacd6a,Maximiliano Arroyo Delgado,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:44:37.582987,without_onion,N/A,3
+20,3f2bb587-14bf-401a-b2c8-246f0366a9e6,Modesto Miró Santamaria,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:17:19.200085,without_onion,12.46,4
+20,682c32cd-0b15-4c77-bccd-711a08fbd8e9,Joaquina Carmen Ayala Soriano,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:04:22.687210,without_onion,N/A,4
+20,ff94380b-8d4f-45cd-9b19-c687c443fb6e,Ambrosio Mateos Lamas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:42:15.493678,with_onion,8.37,1
+20,19a0341e-e35b-4217-a909-6e952823d9ca,Adoración Hernández Llopis,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 19:16:06.585720,classic,N/A,5
+20,41b96820-06bb-4efc-9459-16a93ae85b02,Angelina Maldonado Reina,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:44:15.954341,without_onion,8.56,2
+20,2a3bd359-b263-4a28-ac2d-e0ca92f84d3a,Alicia Pazos García,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:09:07.897017,without_onion,,2
+20,3f91cf83-d449-44c9-9f7e-ed1ecc5dbd20,Trinidad Marti Jimenez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:41:53.225681,without_onion,N/A,4
+20,7a957370-b13d-479b-b0c4-8f2c834c8220,Salomón Cadenas Naranjo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:18:02.812012,with_onion,11.65,2
+20,4577acf7-249c-4fca-8fe5-f74131c607b8,Adán Piquer-Villena,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:11:24.440735,with_onion,N/A,4
+20,c128dec7-d134-4348-ac5f-8af0eae508c6,Pedro Bayón Piquer,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:59:28.406352,classic,N/A,2
+20,f55cd332-8199-4f68-9a2f-5ab987d5e093,Matilde Alemán Campo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:52:27.789394,vegan,11.34,5
+20,d1b4916d-4fb8-4f93-a4e2-875194ddf08d,Narcisa del Cobos,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:46:24.041295,without_onion,N/A,5
+20,865326e0-ead8-4f75-8ea8-cd5892e3e4dc,Vera Arregui,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:49:30.995842,vegan,N/A,1
+20,cd28fe5a-a19b-4e5e-8bf6-3f630e7c0a55,Dan Luis Ángel Solano Manzanares,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:15:00.137423,without_onion,12.33,5
+20,cd99a165-1aee-490e-b541-e103292233c9,Antonia Elodia Garrido Aznar,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:44:00.730184,without_onion,N/A,5
+20,d7be0c70-23f4-4bc5-be55-0a26c6cb61af,Carolina Cervantes-Rocamora,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 06:56:09.372706,without_onion,N/A,1
+20,b9165ad3-af36-46dd-8c0e-a2075cf0eb47,Edelmira Guerra Torres,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:07:51.418202,vegan,N/A,5
+20,a844f816-252a-4142-b2e0-99f0c47fc3aa,Tatiana Torrecilla Fuertes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 23:53:47.814924,vegan,N/A,1
+20,72f47ba7-2376-4790-bae1-6e776acd769f,Amarilis Bautista-Rodríguez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 17:43:31.973362,with_onion,7.55,5
+20,dd5ecff0-0f14-4c2d-99d7-fc8e16c7fa4a,Espiridión Rodolfo Planas Barroso,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:57:01.738970,with_onion,N/A,3
+20,ef90383f-06f9-4a32-a4ce-8a9bacaf69c4,Goyo Pérez-Beltrán,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:49:01.301410,with_onion,,2
+20,a87a9ce6-9a77-4104-a79f-f5c54dfc1b90,Amílcar Sandoval Manjón,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:33:13.193390,without_onion,12.92,5
+20,a08533d3-abda-461c-ad75-1301ab50f8c2,Severo Águila Berrocal,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:19:41.689284,with_onion,,3
+20,99555a2f-e502-4508-b429-1489ed7ef05d,Manuel de Uriarte,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:21:32.021172,without_onion,,3
+20,4e8b0802-5e6c-44ff-b80f-d6d8888481f6,Jose Angel del Solé,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:31:07.726758,classic,N/A,4
+20,0aad0e9a-b750-46e0-af9a-defd43cbeabe,Apolinar Miró Alcántara,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:28:09.192660,without_onion,,2
+20,082a2d5c-758b-47e7-887d-bb1ada2e665b,Azucena Figueroa-Grande,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:45:01.159787,without_onion,8.04,5
+20,848e42e2-5d99-417d-a131-39288e169b25,Anselmo Montero Coloma,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:59:27.948578,classic,11.34,4
+20,0b71cb45-5f99-4fee-befd-1e0154d48458,Isabel Huguet,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 19:19:30.332614,classic,N/A,3
+20,33fc9eaf-a515-45b2-85e9-ddd205964972,Loida Giménez Garay,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:01:34.025990,classic,,3
+20,d491cf99-33c7-4063-a926-c039b677c762,Martirio Carmona Céspedes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:30:59.323225,with_onion,N/A,3
+20,5db725f6-6b6b-4605-babf-ca3e8cda3291,Sergio Corral Cañete,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:43:15.454596,classic,N/A,1
+20,d1c6911f-7759-42ca-aee9-1f9d672a5cb2,Daniela de Ordóñez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:39:56.567041,without_onion,,1
+20,45888378-1093-4e7c-a7d6-0eb26fe7311d,Odalis Mariscal-Montalbán,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 08:50:45.484057,classic,11.7,5
+20,da82d813-a536-4866-8c8c-1cabc36daff2,Marina Blanco Vilalta,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:18:40.350743,vegan,9.82,1
+20,bf9f36ce-84df-4b19-bee6-46f7ede60c1a,Marc Carlos,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:33:48.451236,vegan,,3
+20,a40103ae-a6af-4e15-b4e1-1a39c555b3fc,Borja del Sainz,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:36:17.601210,vegan,5.08,5
+20,58054398-16f4-43ab-809e-1bb542265245,Benigno Díaz,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:25:07.496303,classic,12.74,2
+20,32b4e1ea-178c-4fad-8dff-9bed75b7c382,Yaiza Caparrós-Robles,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 19:12:42.606719,without_onion,N/A,5
+20,699fb629-c51c-4933-bbb0-aea50d69703c,Ángel Nogueira Millán,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:12:50.016237,without_onion,6.29,5
+20,c50e7dd7-ec13-4b4e-a255-6593a3070c07,Narcisa Gimenez Clemente,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:15:35.792649,with_onion,N/A,1
+20,1d3aaee7-1f4d-4f54-b3b9-a50d872e437e,Victor de Iglesias,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 06:43:36.739317,classic,N/A,3
+20,68608641-7c12-4a5d-9c58-234db5fb3325,Lina Páez Zamorano,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 00:29:54.967230,classic,14.06,4
+20,eae98fc0-f7c7-4211-b5d5-25b76bcea69c,Anastasia Villegas Abella,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:05:55.262069,without_onion,,1
+20,346714b5-7b96-4bf5-b44a-38ef7408c655,Candelaria Cabanillas Acuña,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:02:55.901998,classic,N/A,4
+20,5a0657b7-822e-435a-8856-409753bebe4a,Itziar Segarra Lloret,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:56:57.813878,classic,,1
+20,3f032411-bd67-46a9-b496-9c06fb2a8048,María Teresa Cañizares Barreda,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:56:23.862722,classic,N/A,1
+20,00d425e7-d9dd-4ece-a2e0-ae6496ea2c02,Amarilis del Meléndez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:32:05.919984,vegan,N/A,3
+20,31bac681-7b4c-4017-8427-3b302e18075e,Calisto Campo Ribes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:56:26.059541,classic,5.16,2
+20,61467360-1ffa-4b6e-a667-47eb25f18043,Araceli Cañete Coca,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:10:02.162774,without_onion,6.7,4
+20,9c97c12f-c950-47ad-8045-8ff29608fced,Fortunato de Madrigal,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:28:48.148928,with_onion,11.15,1
+20,01ce0a6a-484a-4462-b5b2-8d296c7578a1,Tatiana Feliu Cueto,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:10:41.188802,with_onion,N/A,4
+20,e87cf830-3eb8-4fab-bc45-38155a3b1551,Rosario Godoy Ferrándiz,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:45:40.412637,with_onion,,4
+20,afb9e409-f5d4-4491-bf00-7e71bcbe0893,Macarena Ortiz-Iñiguez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:53:38.838493,with_onion,7.79,1
+20,0f78960e-2868-4f25-86f4-a8be4e4f82a3,Asdrubal Valentín-Arranz,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:50:38.145907,classic,11.94,5
+20,d7a96b21-2eab-47fc-9597-2320661c1e18,Odalys Novoa Mora,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:54:46.141611,classic,11.2,1
+20,686af2cf-47ca-49f1-aba0-60b13c256c42,Abraham Pío Valentín Andrés,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:11:02.695060,vegan,N/A,5
+20,10644c95-296f-4c24-b520-2cf37e256687,Martina Pou Ariño,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:35:10.254658,vegan,N/A,5
+20,cb8382c4-50ce-4ac2-9d08-99e877a194d5,Cecilia del Millán,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:50:47.425645,vegan,,5
+20,564c9961-7307-4b65-b8ec-707f98489b2a,Rafa Ripoll Iglesias,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:40:00.151104,vegan,N/A,3
+20,5eb10e63-0401-41cf-a827-491982c1c8ba,Marcio Damián Salom Toledo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 17:15:39.607921,without_onion,N/A,3
+20,f82e2061-03bc-479f-8fdf-cab3b3a2bbaf,Roberta Domingo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 06:05:47.346548,classic,,4
+20,63b52a4b-c47b-4865-a463-8435eecc5816,Noemí Cañas Calvo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:57:12.545906,vegan,,5
+20,4ae1b11e-a5f5-4e6a-9aa7-47a74c4e3898,Saturnino Roselló,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:52:13.984986,vegan,,2
+20,897147ed-b266-401c-bc27-2d3a9760f5aa,José Antonio Izquierdo Guardia,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:14:18.663466,classic,12.15,5
+20,816cda60-d356-4436-81c5-844cab7553a6,Jerónimo Sobrino,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:07:35.322299,without_onion,N/A,5
+20,37980ec8-c9a0-425a-b114-0ce6ab21bf0b,Olivia Samper Boix,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:26:39.307246,classic,N/A,1
+20,440df104-5974-428d-ab91-3073e9f543ee,Ambrosio Arregui Narváez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:26:30.108671,vegan,N/A,2
+20,8048d7a9-15c0-4e25-9517-f1c880d39b05,Galo Seve Castellanos Terrón,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 06:47:45.569039,with_onion,6.15,1
+20,fcd4eb85-0ca0-4c9a-89c6-4a7858218537,Ale Canals,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:28:51.294125,without_onion,12.17,5
+20,a18929dd-252e-421d-b4d9-27478905fb2f,Fausto Belmonte,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:13:10.544944,vegan,,1
+20,8f6d94e8-2389-4104-b818-3cdcd9bbb750,Darío Carballo Campo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:29:55.498697,classic,10.32,2
+20,2ec08acc-27bd-4247-ab7c-a825520484c7,Delfina Adadia Borrell,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:09:25.074293,classic,11.46,4
+20,804f0e8e-0a79-4b6d-870f-acecc689e2ff,Herminia Isern Casal,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:01:37.733686,with_onion,,5
+20,464a8ae1-26f2-4dd0-924c-06b7e99186a9,Luciano Alvarado Bermejo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:24:09.771089,without_onion,N/A,1
+20,e32262b0-d510-452c-bbf0-c284409e95f0,María Del Carmen Ariza,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:26:47.274772,without_onion,13.19,4
+20,97b58e67-29ec-4470-8aec-6637981ce160,Elodia Pizarro Alarcón,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:45:13.153291,without_onion,N/A,2
+20,a7290f06-1ca3-4d50-8eb3-25fafd53dd5a,Aníbal Leon Blanes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:59:20.638891,vegan,14.97,5
+20,f073ef02-999c-4341-8b43-de5aedf272d9,Leyre Vendrell-Pina,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:10:41.555462,classic,N/A,4
+20,9c702c09-0920-4cda-a16a-7ba4b26836c4,Ricardo Ribas Arias,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:05:11.484791,with_onion,,3
+20,b6af9afb-b73d-4748-b0e8-9ff12010351b,Chelo Ferrero Vilar,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:20:30.424896,vegan,,4
+20,7513daff-355c-4f1b-9c53-96bfae319ca9,Inés Abascal Solé,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 08:40:57.421723,classic,,4
+20,5c010483-43e5-4b77-b23f-e9ee21464dcd,Guiomar Paniagua Torrent,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:31:22.445834,vegan,,4
+20,976e41cc-3e80-4287-b684-24bfa08fb1a6,Yago Llanos Pelayo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 17:58:19.992814,classic,N/A,2
+20,5b38e44e-286b-4171-ac49-742b34739ade,Isidro Rivera-Quesada,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:41:31.606264,vegan,,1
+20,536cbddd-ee8e-4257-acaf-032e47996953,Marisela de Calleja,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:38:42.705559,with_onion,11.57,5
+20,ff9c54e2-d03c-4910-b09f-30e360e591b3,Jenny Abascal Batalla,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 00:58:02.300456,vegan,10.86,5
+20,923cd65c-21bf-45a1-9cb5-45950b4c1b80,Estefanía Carbonell Cruz,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:57:28.048998,vegan,12.46,1
+20,afbfc753-9473-42b8-9a35-f2cca862282b,Jaime Marqués Herrero,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:06:58.498867,without_onion,,5
+20,85170b02-f95d-4cbf-8b53-8a1be1c30aa8,Che de Rosa,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:33:47.493387,with_onion,10.11,5
+20,472bf9e2-a0c2-4089-8b5c-f41e4ab4310c,Plinio Merino Blanes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:08:06.289574,vegan,,2
+20,59fab229-0eac-4caf-a3e3-915fee3bf8ef,Leonel Clemente Canet,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:58:26.541809,without_onion,,5
+20,b3058ac0-c63a-46eb-8696-552d7c330071,Alondra Company Cuenca,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:30:45.436483,with_onion,N/A,5
+20,4cd5e4b3-60b4-4ca8-bf84-4be051346ca4,Sosimo Salinas Pol,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 00:25:01.906207,with_onion,,1
+20,0712f044-50c8-4106-a89d-1cdbbafd15a0,Armida Bas Belda,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:44:33.497400,vegan,13.63,4
+20,2813d021-8788-4b1e-8215-76a0d524fbd6,Emilia Ribera Tomás,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:46:55.465622,with_onion,,4
+20,5bea3987-5907-45be-9065-3a588bb4c002,Leocadio Echeverría Pedro,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:13:02.653898,with_onion,10.3,4
+20,a0c9674e-7ed6-4300-85ff-85a8d5c46d68,Encarnita Calvo Galan,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:03:31.281602,without_onion,,5
+20,40c4b0f5-370e-476e-b8e5-d9218fe37f0b,Loida Aurora Girona Aguilar,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:15:03.458150,without_onion,8.86,5
+20,de2abffe-06f1-41f0-98e4-ea55cdb27af8,Juanito Aguado Estévez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:02:44.995552,with_onion,12.56,5
+20,d3ba687e-c78c-457c-bd20-7d92f2eb79c3,Graciano Bermudez Martinez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:57:06.707490,vegan,N/A,3
+20,496bb33e-f890-4e1f-82af-385e10e3b13f,Emelina del Julián,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:48:59.729678,with_onion,,5
+20,7a5816c9-bec1-4187-9013-b0f9088d6ed7,Dionisia Fernandez Lorenzo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:56:39.998871,classic,10.59,3
+20,3a913a1a-79ab-45f8-9eb9-01903e8d84e9,Candelario Gárate,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:57:11.919917,without_onion,N/A,1
+20,f3843100-aa64-461c-b1a7-8f2db68c1e5c,Mauricio Valls,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 23:12:54.911661,classic,,4
+20,bf79d6ef-a7cf-4c9c-b365-389064a6436d,Pascuala Vives Baró,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:21:08.504549,vegan,,2
+20,c7704c9a-d68c-401f-addb-e1047323360f,Úrsula Caro Pombo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:37:46.091908,vegan,N/A,5
+20,ba2f9355-f288-4d95-905d-af867f6714fc,Ismael Tamarit González,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:28:51.582433,vegan,,2
+20,4284d95f-a23d-41fa-a5c1-75e2bed51f7e,Adoración Riba,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:02:49.578231,without_onion,8.18,5
+20,a73c906d-eac9-4792-8ef4-c2d287418466,Marcos Paniagua Seco,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:34:07.564020,classic,9.0,1
+20,21a70540-e7a7-48c7-a690-1dae31d29a41,Íngrid Luján,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:44:21.466092,classic,,4
+20,c083896d-e54d-4237-9d2b-2de74fe665b7,Manu Villalonga Nadal,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:41:39.879663,vegan,5.72,4
+20,5b35fa6d-d771-4b90-88b5-8fcd53655803,Florina de Rozas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:39:06.378987,classic,14.46,1
+20,6542f251-3be5-4d2f-82c4-77fb9f75a28d,Quirino Olivé Rueda,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:39:24.982964,classic,N/A,5
+20,0bfc7eed-d2ea-45d2-b2ce-1d38435afe00,Jacobo Barreda-Zamora,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:25:09.241264,vegan,,2
+20,9bfdb27d-1db5-498d-88cd-9ecf1ec20b8e,José Caparrós Heredia,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:14:45.769834,without_onion,,3
+20,02326d9b-5f8a-4131-81e5-fe303e8d6cd2,Cayetana Sancho-Rivera,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:05:18.032981,without_onion,N/A,5
+20,c990eae6-750c-47ff-aa1f-0c1bba46c40d,Osvaldo Campo Bru,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:50:18.728839,classic,9.11,4
+20,9c73d602-fd57-42dc-be40-51c79dafdd1c,Fulgencio Millán Diéguez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:33:43.740233,with_onion,,3
+20,c3b6fa35-874f-4ea0-a884-186b480bc2c8,Rebeca Charo Gual Roig,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:01:57.635468,classic,,4
+20,d5ee286f-6e28-4d22-bac6-9117b21af397,Begoña Mulet Costa,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:49:46.402259,vegan,,5
+20,41c537b5-b27c-4348-8081-d26e3db85466,Valentina Mosquera Guillén,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:00:35.220036,without_onion,,2
+20,5aa4db84-7816-4afb-92ed-7983bcafa079,Itziar Guillén,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:26:03.423412,without_onion,5.62,4
+20,83a519e3-b957-40b2-891d-ecaec4dc7f79,Noé Quintana,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 17:08:27.774365,without_onion,,1
+20,4e1c5eec-e8d4-4e9d-a0d3-2112410c2c00,Julio César Lago Almagro,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:00:57.691382,with_onion,,1
+20,acd5ebf3-df1b-4be2-b1b8-80834a34a754,Reynaldo Blazquez Higueras,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 17:54:37.617938,classic,7.02,5
+20,a8cea965-5738-4cf1-9738-21562a417bae,Verónica Malo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:53:37.739922,vegan,N/A,5
+20,8ffca6b0-8a25-4a39-a42c-f540bb8cbbb8,Juliana Herrero Gil,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 19:26:03.595503,with_onion,N/A,5
+20,ebf1dd46-afa4-48b1-824c-93ec8ece4d7b,Jose Manuel Yuste Guzman,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 06:14:00.456543,vegan,N/A,5
+20,0bf92414-8df8-44a0-ae2f-f865d4e79359,Santos del Gómez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:23:18.905936,classic,,2
+20,47bf3fd4-a107-471e-aa3e-ccac538368e5,Mar Cabrero Lozano,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:36:49.764303,vegan,,3
+20,5fdf0b63-f5a0-4dd5-9f83-57265e3f40da,Fátima Montesinos Vicente,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:47:15.466785,with_onion,13.24,2
+20,af6d97c2-2901-4c51-b053-003ce43cd380,Leticia Caballero-Calzada,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:24:07.242463,without_onion,N/A,2
+20,d955e8d8-9e98-4a83-9c77-b21710ba76a5,Charo Miró,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 06:09:59.955956,without_onion,15.0,3
+20,acb00b9f-3da2-4480-80d6-67eb7a3a6fff,Nuria Mariño,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:25:52.225724,vegan,7.52,1
+20,56d15a51-a33b-4cf7-b64d-dd8f123a12a0,Piedad Luz,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 06:22:44.650034,without_onion,,3
+20,b5de936d-ced0-4df8-b244-af074e48306d,Tadeo Borja Boix,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:16:04.917114,vegan,12.47,2
+20,57d627c5-a7c2-4563-adf0-52d27e527ef6,Maricela Royo Tenorio,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:36:55.492756,with_onion,N/A,4
+20,a9e9529e-c24b-41f5-bc74-dc60aa17a114,Ángeles Llorente Briones,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:21:29.157186,classic,N/A,3
+20,53a192a7-247c-4056-9f38-1640c3ec8060,Eugenia Castillo Piña,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:56:09.526677,with_onion,,5
+20,51e49034-03ac-4c96-9a55-f925bbbd8836,Pío Jose Angel Lopez Huerta,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:17:40.263768,vegan,,4
+20,e287ad21-f288-4364-a9b5-d2c4b8c0ca22,Jesús Muñoz Cordero,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:08:51.341574,without_onion,13.58,4
+20,e64535a4-7ee8-4151-8fd6-4848ba2c72e5,Martín Perea Arregui,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:48:51.920982,classic,7.59,1
+20,ae7ce7ab-5f56-430c-90ac-f86d0b4a6660,Ulises de Arribas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:14:35.204765,vegan,N/A,1
+20,59c89f73-f359-4643-986b-2cfcd83255fb,Pacífica Mendez Barrio,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:54:59.278901,classic,9.9,1
+20,176fa613-fb28-4ab1-8e40-0466e587b6eb,Baudelio Toro Carreras,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:01:18.780626,classic,,5
+20,3df6fa41-0630-4a16-a554-7747c3365bb5,Nicodemo Cardona Rodrigo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:37:22.422115,classic,,3
+20,fa1b65c1-34ba-4721-b8f7-d6a87a567a2b,Gabino Salvador Redondo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:13:36.882520,with_onion,N/A,2
+20,746dfc1e-4a99-4ce1-8f5d-267bd087e0b9,Amalia Castilla-Casas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:55:31.436681,vegan,8.61,2
+20,04f3cc94-0c0f-49d5-b9ce-034d1d44d6b5,Maura Becerra Blanes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:55:02.161589,with_onion,,2
+20,48d4d48a-2e0b-438c-8784-a58951db22d4,Baldomero Portero Alfonso,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:23:22.774783,with_onion,,3
+20,608d95d5-17d9-48f9-a53f-1e2d6d9d5c01,Renato Alcolea Fernández,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:51:04.467123,vegan,N/A,2
+20,433356d3-9985-4453-a655-ccb5730103f7,Nerea Inés Carbonell Bastida,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:53:51.072374,without_onion,12.22,1
+20,9006446b-4f12-4048-9b01-25fd6db7146d,Abel Roura Portillo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:25:34.808918,vegan,,5
+20,bb492613-2baf-4114-97ab-e9ebcc859873,Martina Blanca Cantón,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 23:13:56.708183,vegan,,1
+20,d57cfa71-acee-4f95-9109-25acc10ab442,Octavio Tormo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:25:26.317488,without_onion,14.72,4
+20,a4e2fbe3-36eb-4bb6-ac5e-326bd783b92c,Sancho Mesa Anguita,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:04:43.923508,classic,,1
+20,728eddb5-ec11-44c5-bba8-7fe37141e58a,Cándido Feijoo Vazquez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:19:45.271977,classic,N/A,5
+20,bfd95321-b5f7-41d4-86d2-36b15b51df73,Gisela Cruz-Atienza,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:36:05.395897,with_onion,N/A,5
+20,4385802d-fc65-4529-a3b9-b4e691fde34c,Diego Glauco Puerta Avilés,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:57:22.715133,without_onion,,5
+20,8538ffed-c165-4006-ada4-584b373a64e2,Carmelita Riera Polo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:11:26.892426,with_onion,5.18,5
+20,ebbbc550-b32c-44e9-9961-549342a5350f,Ildefonso Vaquero Sanjuan,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:52:48.026719,vegan,,4
+20,7c9640b5-83df-48db-abf3-255530ff7b2c,Carlota Chico Fiol,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:06:45.883356,classic,,4
+20,19c9cded-5829-4a96-98cd-da773953372b,Marcia de Bermudez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:43:58.191408,with_onion,,5
+20,1671ad6a-3aaa-46dd-91a3-40aae849f6bc,Clotilde Tena Pedro,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 17:34:26.701985,without_onion,N/A,4
+20,3c96b100-9244-4f3c-8966-c40a528c3f7d,Eric Múgica Losa,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:32:20.601413,with_onion,,1
+20,187ff93a-4575-4082-837b-593d9b896c00,Hermenegildo Silva Abril,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:56:36.802028,without_onion,,3
+20,46eb352b-c417-40e8-81dd-7f5e9a8c08fc,Regina Crescencia Verdú Hervás,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:54:53.168288,with_onion,,5
+20,24280e81-25dc-4c92-9fc4-37dede44e319,Sebastián Ramis Ayllón,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:29:48.345320,vegan,N/A,5
+20,0aaea3dd-497d-4769-ae24-7d21ae76e727,Celestino Amores Iniesta,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:09:52.336565,vegan,,1
+20,df76b57f-8053-4fdb-8c31-c7f2003eb0e4,Juanita Aguilar Montes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:09:11.341716,with_onion,5.57,1
+20,fd4cef17-57ac-4e54-8548-714d156e792c,Lorena de Ferrer,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:40:21.664669,vegan,,2
+20,aa234415-41a6-4bf9-b568-3ed4f24fe8b5,Amor Calvet,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:19:38.964134,with_onion,N/A,1
+20,e368d06d-deb4-41d0-bc5b-5bf77e5d2db0,Jose Francisco Bosch Gascón,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:28:37.390672,vegan,N/A,2
+20,598be0b7-a8ab-4235-8be3-0f96c0ad52c5,Atilio Mendizábal-Viña,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 23:11:52.974346,vegan,N/A,3
+20,91790337-6d79-404a-a018-f87b78a93b94,Priscila Lillo Rico,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:57:29.555711,vegan,N/A,3
+20,4c7994cf-ef75-4473-99ea-0c576135444b,Daniel Manuel Ortega Albero,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:05:38.224459,classic,,3
+20,4c762fb5-d064-4084-bb80-018c50bbb74b,Jeremías Modesto Valderrama Barroso,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:34:19.969705,with_onion,8.47,5
+20,7f18dad6-cafe-45bc-b832-17f44f9df9a1,Rosario Amorós Ríos,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:30:29.167877,with_onion,N/A,2
+20,8e5da3c5-4a14-4917-b2c3-5b7199a2ffab,Marita Bustamante Páez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:20:59.010582,with_onion,N/A,3
+20,bb056a9c-f705-4ecc-844b-f7f23fb6ef12,Joaquina Amalia Salvador Alcalde,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:36:42.327951,classic,11.18,4
+20,5b92435a-2dba-4669-85ef-1cc0bada26e3,Moreno Garcés Pazos,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:18:11.715820,classic,N/A,1
+20,2f9291bb-ddfc-4865-b414-e58321d95ee2,Liliana Conde Bautista,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:55:30.471862,vegan,N/A,2
+20,92a77df6-1a0f-4908-9c4b-6833c575c6d7,Lupe Xavier Tamayo Catalán,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:01:35.603497,with_onion,,4
+20,7db55347-ef44-4094-b521-2b9d9e151bd8,Angélica Maristela Ugarte Solsona,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:21:54.058625,classic,N/A,5
+20,3b6ac234-5a82-4217-9236-194c8007a328,Eliana Revilla Caparrós,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:32:22.743167,with_onion,N/A,5
+20,a24d4c56-9702-42e8-a4e5-f088f652180d,Enrique Amo Izquierdo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 06:21:53.410472,classic,,1
+20,c13296de-258e-4785-b8a7-733cc376646f,Rosa María Revilla Mateo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:59:53.929096,without_onion,,5
+20,978ec88b-ba40-410c-ad07-9407a940a7ae,Iker Colom,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 23:25:02.908633,without_onion,N/A,4
+20,c38c7eaa-99a1-4274-9d74-70106f3ff4cf,Tania Mateu Alcántara,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:06:08.889154,with_onion,,3
+20,c1d820be-5064-4b9d-9630-948ef756a401,Ana Santamaria Alfaro,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:27:53.463394,without_onion,N/A,1
+20,08959afe-d880-4876-a831-9002579b99df,Francisco Javier Burgos Rivero,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:25:31.439544,with_onion,,1
+20,b4737e11-ef5b-475d-b8a1-98cce639e72d,Segismundo Cantero-Melero,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:12:19.658956,with_onion,6.28,1
+20,3bb449ed-a886-45fa-a539-f83754c6619a,Heraclio Santos Benitez Ramirez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:27:51.437545,with_onion,7.94,2
+20,36a0ef0d-2519-42e8-a53f-08dcebefb86d,Cruz Garriga Valls,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 07:18:19.919094,with_onion,N/A,5
+20,a46c8931-f116-4afb-87be-e93c47772d56,Susanita Barranco-Pera,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:57:09.262363,with_onion,,2
+20,d5272337-9364-40ee-9539-4ff3692cbdb0,Amador Valls Canet,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:47:27.036579,without_onion,7.54,4
+20,396fd62c-67be-4f2d-a29f-ec2127a00972,Mauricio Salvador Piquer,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:41:31.542564,with_onion,12.68,3
+20,1ef93a95-c03b-465e-812a-c9915fffaffe,Agustín Cervantes Iglesia,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:28:36.877832,classic,14.99,2
+20,36323952-e77d-40d1-8217-f73e804e74c1,María Fernanda Anaya,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:18:56.260151,vegan,14.77,2
+20,81245767-da4b-45a6-8311-59a56ffb51e1,Teodoro de Gargallo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:37:39.475089,with_onion,,4
+20,72d5a6c8-99ff-4bd8-9774-6cfee6147e81,María Belén Vives Nieto,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:45:34.861723,vegan,,1
+20,021968e8-bc42-4b9c-a3e8-18002b73b6d1,David Sanz Rubio,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:41:36.807872,with_onion,8.69,4
+20,bbbe2870-c7c6-419a-8ca2-b6b69c05996f,Carolina Viana Zamorano,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:40:27.506890,vegan,N/A,3
+20,c69e467b-974d-436d-9709-3057cb926171,Rufino del Baró,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:47:18.329969,vegan,,2
+20,4a58d2ff-df37-4c64-be9e-3ebea0b06a92,Norberto Iriarte Esparza,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 17:19:48.930507,without_onion,N/A,4
+20,ce61a7c7-10c3-42d1-9817-db754acdd1b3,Andrés Giménez Mercader,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:55:29.636941,classic,,4
+20,42787ff1-96f1-45da-baa7-7945306da8d4,Tere de Cózar,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:06:42.756116,classic,N/A,1
+20,39a7461e-4169-4a67-84b4-08b9ff29bfac,Zaida Estevez Losada,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 23:56:54.248835,vegan,,1
+20,0c281a9f-f620-44ce-809d-a50002ffc15c,Elodia del Marin,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:03:24.511525,without_onion,13.63,1
+20,ce0396eb-3b97-43d9-8e3b-e88281a7794e,Nico Plaza-Ribes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:41:47.069900,without_onion,N/A,5
+20,c8151934-bfd5-4f45-946b-ab2d1fbb40d1,Sandra Núñez Ayala,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:19:35.183639,without_onion,,5
+20,97180916-29d7-459e-a49d-a9c99a6b876a,Chelo Fuster Barón,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:01:26.839818,vegan,,4
+20,bb9f6143-6638-4546-a7af-adc2183cd705,Felix Viñas Granados,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:17:09.216245,without_onion,,5
+20,39d1ec98-3ddd-4df2-86a3-3c8f8cd60f7a,Lupe de Posada,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:03:06.103442,without_onion,N/A,3
+20,c4c8f1b9-a092-42a4-8c3b-7cdf6b152b9e,Juan Manuel Noguera-Hidalgo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:46:20.073276,with_onion,N/A,4
+20,d7183eab-9499-4924-8a1d-6e997001f8b0,Luis Ángel de Goicoechea,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 08:03:56.661152,with_onion,9.09,5
+20,e71c3fa4-20c8-4a33-985e-f6927d6909ec,Nydia Batlle Ramirez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:08:20.958850,classic,14.7,2
+20,1816091a-a552-41e3-8699-c6c0a7fb661e,Leyre Porta Saavedra,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:29:43.136528,vegan,,2
+20,ab040908-893a-4c21-b9e3-936fee5a5a33,Damián Aguilera Vera,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:35:55.778524,with_onion,,3
+20,1fd9733e-8aaf-49e8-8b46-dd157355aecc,Eugenia Maldonado-Vall,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 17:01:09.529746,classic,N/A,2
+20,01a2183d-9da0-4cef-9dfa-e58451774ee2,María Luisa de Pinedo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 13:00:29.970939,vegan,,4
+20,92cf8c34-9188-475e-9945-d38d801fc055,Teo Izaguirre-Alcántara,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:33:12.841632,with_onion,N/A,3
+20,f7b71f56-0e15-4d02-bf80-d4421a03c87a,Germán Domingo Bernal Garrido,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 19:34:03.175126,without_onion,9.35,1
+20,35455618-bc1a-4ec8-8c6e-5fc84c9bbf44,León Novoa,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:42:26.171560,with_onion,N/A,4
+20,cf637e9d-737e-42fc-b5a1-6615a755e81a,Paca Apolonia Bartolomé Almazán,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:29:52.644648,classic,,2
+20,7cc26d47-5348-4e4b-92f4-b7d28bde675b,Amílcar Tomás Luján,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:53:54.342137,without_onion,N/A,3
+20,d2d5d23e-6866-4d4d-abed-9318a980bcb9,Emperatriz Berrocal-Mármol,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:04:31.554445,with_onion,10.49,5
+20,963d6ce6-3f7b-434a-b39b-90af44cb97f0,Aurelia Moraleda Barros,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 00:15:46.297528,classic,8.42,3
+20,231bff1f-60e5-42e8-a5e1-cf5ad3971bfd,Pánfilo Dueñas Quevedo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:27:40.474018,classic,N/A,3
+20,56fe8a80-4a8f-48c0-b54e-7ec212eadeec,Haydée Company Peña,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:37:08.044722,without_onion,,5
+20,9228b8d8-66fd-42e5-a127-2aa00eec63c5,Malena Haro Trillo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:16:09.205856,with_onion,5.61,3
+20,ab05d55c-d119-4c2a-bbcc-21875112f8df,Isaías Donoso Uribe,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:04:15.710595,vegan,N/A,1
+20,5fe06997-f50a-4d8e-a554-c16d0fcf70c7,Candelario Arévalo Gordillo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:51:04.411332,classic,,3
+20,efb8df57-8e17-4ada-b08b-2bc06686dbc4,Cristian Carreño Benítez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:08:13.728283,vegan,9.31,5
+20,f32c7420-30fb-46c3-aa31-331838c43e7b,Ariel Armas Peral,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 08:21:27.326992,classic,8.79,4
+20,c1302686-12d7-41c7-9925-3ed7210cacd7,Abilio del Sanmartín,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:32:49.047593,with_onion,14.78,3
+20,04dc9f0f-48eb-4c8c-9d15-cf7f1e9c93ce,Odalis Rodriguez Guitart,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:24:57.755120,classic,14.47,1
+20,f0b21376-d11e-4ae2-a2ed-361387897ac7,Isidoro Cuenca,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:26:40.964309,classic,,2
+20,aa1a36a8-b536-406c-bce0-bd4c93153d91,Úrsula Olivia Catalán Marín,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:28:36.189784,vegan,7.26,3
+20,f6615f93-337d-489b-888b-bc9c2b2b90de,Jacobo Benigno Arellano Andres,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:33:34.673311,with_onion,12.55,5
+20,a5d8291d-559c-48ef-9bf5-32b94ffad45b,Elena de Cañas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:58:27.417961,vegan,10.84,3
+20,7d0b58a9-0427-4e64-9466-7af8f8825dd2,Charo Ávila Azcona,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:23:23.849282,vegan,14.14,5
+20,94925de2-74c1-460e-8534-94f622cc4080,Joan Portero Llamas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:59:41.834446,classic,9.71,3
+20,cb415423-68bb-4b2c-aa8b-caf818a82259,Jennifer Sabater Medina,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:53:19.298827,vegan,12.91,5
+20,0e3d662a-45bf-4fe0-8129-e8b05426d25e,Roxana Escalona Sainz,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 01:05:46.163407,classic,,2
+20,cd2c8137-98df-480c-b04a-00589468ee78,Humberto Puente Montes,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 23:31:36.095959,with_onion,N/A,3
+20,824a50c8-0b4a-43e8-a7d3-f06e3c29aba1,Amanda Vanesa Sobrino Lamas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:09:27.373557,with_onion,N/A,5
+20,f19dbb2a-7904-4791-ab00-fa500075102d,Ariadna Dominga Sacristán Verdejo,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:28:22.697014,classic,N/A,4
+20,c5876b1d-1446-4b78-b6f9-c7691c5866c4,Ramón Gámez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:18:42.797006,with_onion,6.32,3
+20,7dac4504-3f8c-48b5-b42b-28c23b3f67aa,Florina Folch Baeza,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 20:49:50.084057,vegan,,1
+20,ea3ab309-a504-4dec-934e-3eac631a7841,Lupita Florina Salgado Gras,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:09:01.139821,vegan,N/A,4
+20,e9dd42bb-b816-4b7c-8908-bc06855addf6,Joel Parejo Nogueira,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 02:02:00.762276,vegan,9.97,3
+20,9b09f77f-a05d-4ba5-b852-0989848cfb31,Adriana Herranz-Mínguez,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 08:13:29.877652,with_onion,N/A,1
+20,a52f0c21-0fca-4e75-8358-cf9ffcab4300,Clara de Mariscal,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:39:14.386555,classic,,3
+20,2e18dbbc-09c4-48a0-a010-bc2d71fe6e02,Griselda Pol Corral,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 19:14:14.475545,without_onion,,2
+20,51377615-a271-4d97-a06c-65cba5c7e33e,Buenaventura Manolo Hernandez Gabaldón,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 05:53:33.884923,vegan,9.7,1
+20,be9380e8-a7f8-4fe4-97b2-cfd61f723728,Juliana Verdejo Sosa,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 11:10:36.769729,without_onion,,4
+20,98295d8b-2719-46ef-85fb-1c0fb1795920,Genoveva Miguela Diego Jove,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:43:52.368662,vegan,N/A,1
+20,a89790d8-1ecc-44f6-809e-46aec9292624,Salvador Barranco Mas,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:59:49.251307,vegan,N/A,2
+20,69aaf826-81f4-4df5-96f1-240c24c379ab,Alfonso Tejedor,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 23:08:14.229912,without_onion,N/A,3
+20,a611fb4a-25b6-47a0-abde-ad61b27d7857,Constanza Acosta Elorza,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 19:41:14.612962,vegan,10.22,4
+20,c222379f-ee85-4b84-9dcb-8cefc83bb0b6,Rodolfo Román Padilla Correa,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 18:12:58.448085,classic,N/A,5
+20,4ac941bd-fb13-4829-afd8-8926f3ffa29f,Angelina Carretero Porras,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 04:43:54.333092,with_onion,N/A,5
+20,e41bf08d-3758-41fe-8ced-1c7cd15c71c9,María Fernanda del Pont,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 03:32:13.083161,classic,N/A,4
+20,372c1e47-5525-4960-b139-c476a36f89ae,Sebastián Ruben Fuster Hurtado,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 14:08:44.855347,vegan,N/A,2
+20,52d7d609-e2e8-4e2e-b273-6ff32b988c0d,Anselmo del Valera,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:47:44.375968,without_onion,,4
+20,42612fac-acf5-44e2-9420-84c345396037,Alfonso de Donaire,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:39:28.741632,vegan,,5
+20,f3d562bd-1c91-42af-8aa2-24ad0d4fe1ab,Gustavo Doménech Cabrero,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:56:34.359506,with_onion,N/A,3
+20,d7b3fb7d-aa60-4064-8864-a9b2409a3be2,Consuela Gelabert-Pizarro,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:51:58.967778,with_onion,9.76,3
+20,0ee278c4-58ae-433a-931d-ca82cf18ab76,Joaquina Haro Barbero,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 10:23:49.662696,classic,12.25,1
+20,aac102ac-9293-41d9-ac6a-08d597cd6cf1,Bienvenida Morata Benavent,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 09:04:15.663387,vegan,14.49,4
+20,a726cc85-1409-4fc2-b58e-f9c6e09b5a14,Irma Bas Serra,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 15:57:16.316296,classic,12.94,4
+20,9a41b47c-caae-42b6-a2f4-dffcab978559,Gregorio Fuentes Vicens,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:15:54.215297,with_onion,5.58,2
+20,7d372e7f-f7c1-456f-9a6d-09966a7d755f,Amelia Jesusa Pont Rosselló,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 12:47:57.961897,with_onion,,2
+20,0d5872a6-ee7c-49bd-893d-d9cba2e9bf29,Encarnación Benitez Guardia,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:20:13.128789,classic,N/A,5
+20,1aa3ccb3-b511-47ee-bece-65afb823120b,Genoveva Coronado-Ferrando,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 21:05:38.686620,with_onion,,3
+20,70dc4669-6c49-4ca2-a5af-56e9d068bb2b,Plinio Molina Barroso,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 16:46:54.842834,with_onion,12.83,5
+20,146002e3-f6db-4780-a132-4de7c24e6b17,Florina Sandoval Gallart,Alicante,"Avenida Darío Seguí 973, Burgos, 48073",2026-05-01 22:42:36.222443,without_onion,5.87,5

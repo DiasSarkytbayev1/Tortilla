@@ -1,0 +1,189 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+17,e5491416-80ee-4f12-a887-5c3838d86fcb,Dora Flores Barragán,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 06:53:21.282993,vegan,9.31,4
+17,7e7a3c63-ea3a-4a31-a819-4b88dc11af73,Natividad del Cerdá,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:06:24.400273,without_onion,N/A,4
+17,1d387a29-8ec0-4d8d-a7f7-3c119f36dbcd,Tatiana Rey Sanmartín,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 19:28:45.824716,without_onion,8.08,1
+17,8c766b6e-f5b6-4711-9f6b-80694e529b93,Abel Mir Pol,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:36:49.222541,classic,,4
+17,eec77ecc-0806-4a59-8cb8-1644f5365aea,Pili del Alberola,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 21:28:55.897853,vegan,10.36,2
+17,f7683061-d31f-4d43-aaed-3d92e05133bd,Lorenzo Araujo Llano,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 08:32:23.764198,vegan,N/A,2
+17,ac4a02fe-99ca-49c9-a6f3-a3cf57040daa,Jordana Huguet-Zaragoza,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 08:44:51.045133,vegan,N/A,1
+17,45c995b8-93aa-42d6-8a12-63bddaff69b2,Nicodemo Almansa Dávila,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 18:40:25.472679,without_onion,12.72,4
+17,76919b2a-d164-4954-ab58-32086eb1e2d8,Virginia Sainz Barbero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 21:22:31.679538,with_onion,,5
+17,d9016df7-93e5-4549-ad94-4f06ac80f12b,Melania Company Coca,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 16:17:27.824664,with_onion,,2
+17,263310dd-529c-491b-b90c-7c66f76faa7e,Elisa Mar Millán Carretero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:47:02.917151,without_onion,10.5,5
+17,a8cb83f2-59c4-4a94-a49c-ec64b4274993,Raquel Solís Bartolomé,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 22:54:50.663995,classic,5.28,3
+17,c93cc8c4-4781-45ea-bc75-5880095f33d6,Elías Goicoechea Fiol,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 05:29:32.878149,without_onion,N/A,5
+17,39fe463c-6fd7-44fd-bd6d-f46bd188bb0e,León Baena Soriano,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 22:00:12.571636,vegan,N/A,3
+17,3e45dce2-01fb-4a50-8612-fa47ca91328d,Bernabé Barrena Arteaga,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 15:29:16.453191,without_onion,N/A,2
+17,6d1f9945-66dd-492e-ada6-ed05cda10f61,Agustina Manzano Barrena,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 23:53:35.177650,with_onion,N/A,1
+17,ba339d6d-10bd-4988-aabb-2c972b5f2e7b,Azucena Marin,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:45:08.202444,vegan,N/A,5
+17,6e688bed-20ee-41e2-9b29-37b0cf4ee163,Sabas León Gámez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:15:13.854722,classic,N/A,3
+17,56a26790-4414-4ab5-a178-79776062b955,Amaya Morillo Agudo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 06:56:55.759308,vegan,,4
+17,824f7d78-8495-4f75-bf7a-40b8919bc6cc,Tamara Mulet Sarabia,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 01:28:19.443145,classic,,1
+17,cfb59ae6-8928-46f6-a3ee-774527ad53f6,Balduino Quiroga Bustos,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 19:31:48.141322,with_onion,N/A,3
+17,7b8faaef-29ec-4e0d-83b5-b6df9b1c3f63,Soledad Riquelme Esteban,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 08:43:30.594826,with_onion,N/A,1
+17,670adb5e-ba35-45af-8581-bc01073409e8,Rufino Belmonte González,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 07:31:53.771821,without_onion,10.3,3
+17,8a5f242d-aa9e-4222-91de-ee029896453e,Dimas Castellanos Anguita,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 20:08:14.473132,without_onion,N/A,2
+17,0fee0855-a629-46a8-8de8-ee6b09a3a055,Carla Gimenez Barreda,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:32:40.175201,classic,12.68,3
+17,3dd81fb9-d994-447b-a1d4-d78ef2dfa212,Lucila Recio Cuesta,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 06:46:12.155486,with_onion,,5
+17,3cd156e2-0eb8-452a-9687-aaefe448e3f7,Leocadio Torre Ortega,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 16:21:50.333627,with_onion,N/A,5
+17,1c6be1e6-8a29-4e0a-ba19-7020792fe8ca,Micaela Pino Pacheco,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 21:14:04.468411,without_onion,N/A,3
+17,a4997266-32dd-43b6-ac36-76c248d2f180,Anselma Almansa Crespo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 01:54:46.268796,with_onion,N/A,3
+17,a61e05cf-23c8-4a6c-aa6f-f3efe280b10a,Lupe Blazquez Casas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:07:59.993839,without_onion,7.62,2
+17,b16aca1f-3994-4064-ba95-9a5589be2e98,Samu Melero Bello,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:13:38.670675,without_onion,N/A,5
+17,792fb098-1a99-4e7f-a18c-8f04dfd17ba3,Asdrubal Royo Heredia,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 23:20:04.770658,classic,N/A,3
+17,cfef56af-8e06-47b4-a0b8-dc469c546578,Silvio Santiago Sarabia,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:52:06.877022,classic,5.42,1
+17,79af2708-38b4-42d9-88eb-cfbc278bd4c9,Toni Bru Llamas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 01:39:22.619572,classic,11.66,4
+17,f6275f5e-4d5a-4613-a695-fe4730d6174c,Marisa del Villaverde,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:58:37.420218,without_onion,,2
+17,8873cc42-2a10-435d-a18d-68414edf90ac,Maricela Casas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:37:32.867658,without_onion,6.96,3
+17,e0805941-20dc-4526-8af4-154cb454527c,Jordana del Manzano,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:12:35.695880,with_onion,,3
+17,6b440b2c-bff2-4468-89e8-f52c3583149f,Palmira de Roca,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 15:12:44.559970,vegan,,4
+17,957f3e85-6c9b-4788-a176-0e833cb1d452,Cándido Vera Palomino,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 22:08:17.299101,with_onion,13.0,1
+17,919156eb-0f68-445d-89cb-14303cc50bb3,Soledad Frías Moraleda,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 00:24:47.472800,classic,N/A,3
+17,691a1bfa-cef6-4cd0-a6a5-f22722e13da7,Lalo Valenciano Canales,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:12:13.089579,without_onion,8.54,2
+17,825bb9f2-62ab-4e79-b6b2-1f9210662bac,Agustín Jose Luis Girón Pomares,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 01:21:44.623071,vegan,N/A,2
+17,b1489ff4-0dff-49d2-832b-8bf4608e440c,Américo Llano Leon,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 00:42:50.936823,without_onion,,5
+17,a251a666-5f6e-4723-816c-916e3dcf833a,Alfredo Leon Bertrán,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 17:59:02.597962,classic,13.37,2
+17,a9b02e3e-16be-4815-b89b-1ea314b53131,Borja Porfirio Prada Galindo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:52:56.961853,vegan,,2
+17,88bc1698-2829-4543-ae72-413d7f100e5d,Valero Pelayo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 06:10:29.374833,classic,12.77,1
+17,74db765e-d584-4afc-9545-ea3c4e0ab97c,Eloísa de Blanca,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 14:06:51.572433,without_onion,7.74,2
+17,12699f7c-364a-4244-bd32-1aae165bfaab,Heraclio Escribano Duarte,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 14:06:58.940573,classic,N/A,3
+17,d7d17496-7c0b-4fab-b9b4-397ae40f2459,Iker Rivero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:34:12.262212,vegan,N/A,5
+17,222ab2c1-4076-4680-afc9-27d831dd16b9,Jesús del Losa,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:49:37.768898,with_onion,7.52,4
+17,074d5eb0-df03-4b2e-9722-84c2d9d7d01e,Ricardo Cánovas Bárcena,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 16:07:17.396094,vegan,,2
+17,4d3b1059-053f-423f-b682-2c34229d1cef,Belén Arrieta Cepeda,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:59:29.762867,classic,,1
+17,83eebb78-7603-4888-b243-aed52cfa03e5,Candelaria Ropero-Quero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 00:30:44.382610,classic,,2
+17,26701d58-d400-430e-aa48-a1dd43b869f7,Gastón Amaya Cabezas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 13:13:46.972999,classic,N/A,1
+17,5d0472a7-4795-43d9-a6da-2d151fc85979,Emelina Linares Martín,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 00:31:48.618290,classic,N/A,5
+17,01790dee-c11b-4a88-ac15-2827ee88c755,Alba Sandra Daza Montoya,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 15:59:02.523824,with_onion,,3
+17,22582f0e-cd05-480d-8fef-62a30d18626f,Anselma Reina Marqués,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:38:34.042263,classic,11.68,3
+17,37a4ee56-88aa-472b-907d-d5100beb4f8c,Xiomara Vilar Barroso,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 13:32:13.100773,classic,,3
+17,f0c849cf-1b92-415e-bec1-a570b0e9a2f5,Griselda Lobato Gámez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:06:15.702709,vegan,N/A,4
+17,44623d01-2c89-4521-ab70-e0f19f4ecd89,Fortunata Acedo Gálvez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 00:48:55.680885,without_onion,,3
+17,d4ed46c3-e217-4e22-8e87-177e5a53637d,Álvaro Olivé Batlle,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:59:04.446664,classic,,3
+17,e822e34c-3661-4bda-a71d-f9fdd879d24f,Santiago Garay-Iñiguez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 21:24:18.545297,with_onion,N/A,3
+17,cc5c6e7c-5e88-4ddf-9391-1de3bae59923,Diana Bauzà,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:23:40.899532,classic,6.42,3
+17,9f271c7e-a644-48dd-a643-005c2b5855d5,Fortunata de Berrocal,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 23:05:19.787865,with_onion,7.66,5
+17,f43b8447-ac4a-4989-9e1c-5d04404f4715,Asunción Torrens Correa,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:17:31.450628,with_onion,N/A,5
+17,4683d260-5465-49e0-9157-0f6d4af3e41b,Lorenzo Carvajal Huertas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:42:45.528540,classic,,1
+17,34f1f243-8a91-4652-8cb8-c182c2ced517,Domitila Castro Osorio,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:42:37.812625,classic,7.47,2
+17,46e7bdd1-cd6c-4e02-9476-dc59a8aba1e4,Emilia Soria Zurita,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 08:15:25.882566,classic,N/A,1
+17,3fdfbe7f-bb8d-4ccd-be67-92287f57070b,Emma Blanco-Manzano,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 07:40:02.093891,without_onion,14.11,1
+17,793a691e-a6df-48f1-9616-8d6953376950,Adán Agustín Múñiz,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 15:46:39.718874,vegan,14.75,3
+17,977fe002-2fc5-4cec-a2e3-8fae18e1264a,Diana Alcázar-Gordillo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:04:31.816050,with_onion,7.51,2
+17,738bed70-f7a7-4d5e-a512-3519f101fe8b,Arsenio Nieto Cámara,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 19:07:34.616310,vegan,N/A,4
+17,b378541f-c5d3-437a-b630-92e368dbfc05,Lola de Salinas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 13:17:47.973229,without_onion,6.31,3
+17,2df124ed-a442-4537-bb0e-91771dfec51f,Mirta de Farré,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 17:31:48.383435,with_onion,,1
+17,05a0ffce-bda3-4068-abd3-9426adebe1d4,Alcides Miranda Osorio,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:29:16.941644,classic,5.54,5
+17,25e0c1cf-83d2-4b28-aae9-e8cb37d7a594,Encarnacion Crescencia Miguel Castilla,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:55:03.317481,classic,,3
+17,7057e7cb-30b6-49e1-8c0a-dbf7836b9970,Roque Alcaraz Rocha,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 16:21:06.382087,without_onion,7.13,5
+17,6536e63a-3e25-4573-a9e0-26ffb7c5eac6,Donato Eduardo Jáuregui Samper,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:34:53.632468,vegan,N/A,2
+17,0f5ffe09-dccc-4401-abef-c768a04f36ad,César Sastre Huertas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:57:31.436385,with_onion,,4
+17,3556c094-01ee-4f91-ab1d-326bbe103d0a,Etelvina Puga-Feliu,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:13:21.530257,without_onion,11.13,2
+17,bcdb1521-f4f7-402b-bc7c-c22262543b27,Dimas Frías Menéndez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 20:44:20.526992,with_onion,7.41,5
+17,1c7b5e5b-1762-4e4e-b19b-8e4a3b057a72,Feliciana Roldan Amores,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:08:41.169817,vegan,N/A,3
+17,84baa15e-bf86-46c5-82a8-d6a30056c386,Crescencia Pineda Porras,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 22:05:17.579040,without_onion,14.08,2
+17,2835d011-4705-407f-8b1d-488bbacd1e13,Guillermo Juan José Bermúdez Guerra,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 01:37:12.622193,classic,,4
+17,5bd83ab1-b35e-4cb8-a632-5947b555ada3,Silvia Sarabia Zamora,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 18:43:52.561191,classic,12.78,5
+17,99f7bf05-528d-4ade-b629-405f144a3ad5,Demetrio Otero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 17:47:27.418632,without_onion,N/A,4
+17,db32e882-ee95-4277-b453-c3ba6040bd5a,Hipólito Cuadrado,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:12:11.680133,with_onion,N/A,3
+17,44de1999-1065-4a4a-a8d4-0cfc23e98667,Celestino Rosado Oliva,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 00:43:12.346282,without_onion,,2
+17,b462cc29-dfda-42d4-adc6-a9df61980bb4,Belen Mateo-Castelló,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:42:21.830347,without_onion,9.18,4
+17,1a5e3135-9a33-4466-86ef-8f17a78c1889,Hernán Buendía-Solís,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:09:32.875267,with_onion,11.43,3
+17,21f0bade-b072-4d03-a1a2-86dbf3056df3,Leocadio Nicolau Madrigal,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 06:24:46.215034,without_onion,N/A,2
+17,5b0162fc-b231-400a-bc9b-98768d41cf94,Juan Pablo Pavón Pedro,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:52:07.119523,classic,13.66,2
+17,11b82899-4c63-46eb-b27c-8d9df8e02a00,Chuy Custodio Gallardo Sandoval,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:48:53.690954,without_onion,N/A,2
+17,d757063d-52ac-420b-bd8d-9d58ce061ca1,Alfonso del Martínez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 22:44:31.871885,classic,,1
+17,7d5d9548-8b6f-4496-960b-ccd0349054f7,Zaira Arranz Izquierdo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 11:54:45.349973,vegan,,1
+17,cc954850-4b79-4a0d-b8bd-18ddebc92d5c,Andrés Galván-Vives,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:46:15.776421,with_onion,N/A,3
+17,fbdfb416-623f-451e-8cc1-56aab08b55a7,Nélida Requena Fuster,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:57:20.011996,vegan,,5
+17,6bb7f343-e024-46f8-a724-47191ec9815c,Amanda Ileana Valdés Guardia,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 15:52:30.006892,classic,,1
+17,5b5dbd04-51c5-497b-9ec7-3e4035ad5d09,Nicodemo del Miralles,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 22:38:01.623725,without_onion,N/A,2
+17,4ba866fe-97aa-4602-9ab9-a6cee5945b39,Cesar Gallardo Rojas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 07:24:55.082102,with_onion,9.31,1
+17,ecd3c13d-c14a-49ca-8fea-be5d92b7a7a1,Rogelio Cuesta-Ávila,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 20:17:43.903102,without_onion,N/A,4
+17,8a9ccc4b-9286-4cdf-9f58-3a7a1746912e,Graciano Mateos-Pina,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 01:13:27.536875,without_onion,N/A,5
+17,640ba5be-7331-4185-ba95-fc644be8a3b8,Heraclio Noguera Rosa,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:15:05.707001,without_onion,8.45,3
+17,d503061d-64a4-42dc-97e4-8adf54853415,Anastasia Santana Llobet,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 20:46:51.397545,vegan,11.9,4
+17,4438666d-0b61-4e31-b776-9524fd3ebfcf,Florencia Izaguirre Díaz,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 19:22:52.529630,classic,N/A,3
+17,b95326af-bfd2-4b28-9d3d-c974d3ed1f8d,Aníbal Morata Diéguez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 13:06:32.023989,classic,10.92,1
+17,31d714d8-affa-4791-b083-852e8cddca1d,Águeda Verdejo Garriga,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:02:06.905350,classic,,5
+17,a6ea6a10-c6a4-4e57-a5ef-b1888df67942,Pepita Ricart Tamayo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 01:57:23.452275,vegan,,5
+17,b1d5e632-5412-49ef-8775-2c710f73d08e,Toño Pino Azorin,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 18:41:10.507743,vegan,11.09,4
+17,cefcc150-d2bf-4eda-b131-379c312828d0,Valero Gomila Blanco,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 18:32:48.310530,with_onion,5.61,5
+17,f060948b-1db1-4d86-ba2a-7e1b235c5bb5,Corona Bustos Ribes,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 06:37:00.093752,without_onion,N/A,3
+17,dad242e1-98a2-4e29-abdc-07ba527483e8,Nilda Carrera Rosales,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 16:00:26.772152,with_onion,14.29,2
+17,a561b164-938d-47fb-a2a6-17539e75b208,Francisco Jose de Marquez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 17:40:33.569675,without_onion,14.48,5
+17,3d349e06-0c43-463d-bebd-35dbc5778607,Ariadna Llabrés-Campos,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:16:30.226029,without_onion,,1
+17,405fc565-ca9c-47f4-abd9-83fbdfcfd499,Luis del Reguera,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:35:24.531419,vegan,11.48,2
+17,ca2aa4fb-0c54-4637-89b1-4fa7f5219abf,Anacleto Jesús Segarra Pol,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 11:32:14.789144,vegan,14.15,3
+17,acc0d8e3-b8e8-4468-8259-4e4dd0cff4a7,Toño Álvaro Pulido Baeza,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:12:44.947241,classic,N/A,3
+17,785d7655-9383-48d5-b20e-b3a6f6d111e5,Sandra Lloret Morcillo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 05:19:08.188943,classic,N/A,2
+17,85c4f908-d6a5-4a46-a496-39dd3e3f620b,Salud Nevado Linares,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 06:43:17.838755,classic,N/A,4
+17,a1df2420-f2cc-4a46-be7e-a49213fea8bc,Bernabé Chucho Solera Ferrández,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 18:59:41.441861,with_onion,N/A,3
+17,76a36576-0494-4a6c-ad4c-b4b79f4cc9d2,Cecilio Plaza Jiménez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:10:46.053403,vegan,N/A,2
+17,c5d90093-6331-4190-9658-29a3cb2bc903,Rocío Camps Pascual,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 21:12:54.374982,without_onion,12.68,1
+17,d12983ee-e0e0-4f27-ac6b-1ca28887870d,Eusebio Barreda-Rocha,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 01:32:36.877707,with_onion,10.57,4
+17,feac2ff3-0e7f-4e12-a176-0a5430818228,Carlito de Roselló,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:19:13.081772,classic,N/A,5
+17,bff5b676-b45c-4cd9-9e45-57ce91f29b20,Nereida del Villena,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 05:13:52.756775,classic,N/A,4
+17,10dceb2d-b0aa-4cff-bd56-d4800d07b360,Begoña Mayol-Báez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:41:48.069980,vegan,,3
+17,f5cde21e-935b-4a1b-983b-38784cea42ad,Calista Sales Pera,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 17:51:51.693633,classic,,3
+17,aa149e69-e9c1-4809-a02f-98ad45f5e10b,Juan Amo Téllez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 19:53:59.245527,classic,N/A,3
+17,d473284a-53dc-451e-ad7a-191bd70c86ef,Miguel Vendrell Ruiz,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 06:12:19.177710,with_onion,5.26,1
+17,18c24be2-4476-43fe-b7bd-68a6ce135bf1,Antonio Trillo Feijoo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 13:09:23.726157,classic,,2
+17,50e252b6-35d0-4209-aad3-2a81f819af11,Cleto Dalmau Larrañaga,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:28:47.136929,with_onion,,3
+17,d50f8b08-8536-46b9-bc9c-3d33e62211b0,Bernardino de Ramón,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 15:49:35.080945,vegan,10.82,5
+17,6e8ff429-e4fe-4067-87f4-24fd73125f4a,Azahar Socorro Perez Tejero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 17:15:16.720057,with_onion,N/A,4
+17,e9ce75ae-4adf-4f26-92e0-0e429f334dcd,Francisco Carro Dueñas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:09:45.008429,without_onion,11.28,2
+17,124a706d-4320-4d9d-bb11-85038f1fd62b,Gonzalo Castelló,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 08:10:10.234116,classic,,3
+17,5e7f66e1-be19-41cc-8b31-9503724cdbf8,Chucho Puerta Bustamante,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:16:03.618701,with_onion,14.72,3
+17,7fce151f-48c5-47bc-9c84-df6806d8df77,Tatiana Anguita Rivero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:09:39.116310,without_onion,6.02,2
+17,f72cb59f-d8c1-45cc-b0dc-09494e3791fb,Zacarías Piña Campillo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 19:40:14.808730,without_onion,,5
+17,18d0a6c1-cdc5-4cc1-a37d-66d53c9d949e,Seve Bartolomé Mayo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:37:14.965216,classic,12.43,1
+17,e9126601-321f-48f3-b7fc-c3745bee6c66,Juan Luis Ambrosio Tomé Cueto,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 15:27:52.403155,classic,5.23,3
+17,700a1c0f-89c8-4b4f-943f-9c8a2b63d4b5,Fito Navarro Cobo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 02:52:02.693897,vegan,N/A,4
+17,24029af3-b5b1-4e7f-8f6b-2289daa409db,Mónica Sotelo Ropero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 01:26:48.889341,without_onion,,4
+17,6fed35a5-feb7-49a2-8a9a-76f35391bb3c,Octavia Osorio Suarez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:32:04.601045,classic,9.98,3
+17,c2d0593e-449d-416b-b7ac-dfd2aa8d0642,Angelino de Herrero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:56:28.941778,vegan,N/A,2
+17,72e936fd-6bd3-47aa-aa4f-3d49e82f67c4,Estrella Español Ferrero,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 00:03:05.593668,classic,8.08,3
+17,d1de381c-8c83-4b05-919e-2589fc531126,Florencia Guijarro Daza,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:06:15.271191,with_onion,N/A,4
+17,71035c3e-0750-44df-bf39-24af002a2f4a,Rosa del Lozano,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:29:10.556513,without_onion,12.68,3
+17,1dd8c46c-b4b2-40a6-ae96-2e8b3c23328e,Florinda Imelda Segarra Pardo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 20:49:55.992692,classic,,2
+17,53f2cf57-56a9-4db3-b70d-d4b3e41009a9,Ana Belén Cabeza Santiago,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 14:26:36.787561,classic,,4
+17,66a969f7-550f-450a-adf5-321ecf0868d6,Fanny Galiano Guzmán,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 21:05:33.531758,vegan,,2
+17,e58238a4-c3fd-4a80-a172-bc211734978c,Plácido Clímaco Ramis Ricart,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 21:35:36.624937,with_onion,11.48,1
+17,e3acdeb7-6a35-4260-8f5e-50711cdf9523,Mercedes Perales-Esteve,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 18:43:00.455231,vegan,,2
+17,f5f66284-e5ea-4424-8045-51a4e34da6b1,Silvestre Castañeda-Villaverde,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 04:53:35.592289,without_onion,N/A,5
+17,cbc3ac93-2799-4793-af7c-0b93e15b64d8,Amado Ruano Barrena,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 05:43:21.740561,with_onion,,2
+17,1e1ee0ca-49a6-4b2f-93c8-a76776109b8a,Adalberto del Castañeda,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:16:14.762202,with_onion,8.97,2
+17,563ad6a5-9448-4433-a3cd-934e7dd8a360,Ignacia Nieto Priego,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 13:44:21.137275,without_onion,,3
+17,0e002087-71a1-425e-9007-b55399677992,Ramón Lozano Narváez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 10:53:49.309851,without_onion,,3
+17,4c2ca198-11ce-43dc-b6a4-09e8290734e3,Isaac Corral-Olivera,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 07:30:20.470234,classic,8.22,5
+17,f477a7ee-21eb-4fda-a503-84c8f6d9a9db,Ariel Huguet Estévez,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 13:20:06.433372,with_onion,,4
+17,0061e911-64f0-4292-b087-75ba4e1f54c6,Clemente Rafael Rebollo Botella,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:33:41.548726,classic,N/A,3
+17,9c4a9885-44ec-4491-a7d0-193e8e3bdfae,Aurora Coll,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:46:20.839194,classic,,2
+17,8c7b7809-486c-4ed6-9eeb-8ec92af107ca,Leoncio del Galván,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:19:47.829734,vegan,10.3,5
+17,c01900ee-439e-4583-aa1a-e49f68ba4734,Francisco Bernal Barceló,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 18:04:27.798654,classic,6.32,4
+17,2b7476b2-e53c-46a1-91bf-b8c42e51f4e8,Petrona Maricela Puig Cózar,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:49:44.742186,vegan,,5
+17,af69699c-c489-4128-afcf-c7081acdb625,Celia Goicoechea Cabezas,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:20:16.602168,with_onion,,5
+17,51be7c60-fbf5-42e0-b9cf-1d2025ae027a,Gustavo Bárcena Salmerón,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 16:42:44.804618,vegan,12.76,5
+17,f2bb1199-5786-4dfc-9a91-24c7f6863a92,Etelvina Medina,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 03:59:53.284141,with_onion,,5
+17,e1afdce2-38ad-4dbe-a5d2-ffd47a6a862b,Octavia Felipa Campillo Botella,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 08:28:25.685216,vegan,,5
+17,a4b116c1-66e6-4a47-932b-c969dd453fc8,Manolo Fabregat Rico,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:08:31.328405,without_onion,13.89,4
+17,387fc53d-8b06-4c75-96ad-f89275e0d2d1,Felicidad Urrutia-Mayoral,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 21:54:45.795316,vegan,,3
+17,cc45f5e6-41a9-44e1-ba26-5c6259d1eafb,Wilfredo Castro Amaya,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:08:33.871941,without_onion,,3
+17,e321a309-b343-4a84-862e-908c6f78446b,Eustaquio Espada Rius,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:45:43.458227,with_onion,N/A,5
+17,ece6ccff-8683-4e77-96e5-0162af96f678,Febe Belmonte,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 00:17:04.026278,classic,13.42,5
+17,20376617-35cd-4183-a281-3fe310a7b54c,Rosalina Gaya Bermejo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 18:38:35.805352,without_onion,N/A,2
+17,21d8e6a5-f907-46e2-a632-7162a7ae2eac,Vidal Galiano Plana,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 07:20:40.868605,without_onion,N/A,5
+17,84ec4f9a-4c8c-4c00-a861-0abcc62d2b0f,Hipólito Marco Mayo Galan,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 08:14:33.981214,classic,N/A,5
+17,307c5c3e-1e1b-463f-a9db-b3f29fe2aa4b,Socorro Granados Lorenzo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 20:51:52.107760,classic,N/A,2
+17,df05f9dd-3de6-4c39-bc8b-f9ce9619b78f,Sara Miralles Castejón,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 17:22:06.213360,vegan,,2
+17,6a2bd6ab-0373-47a1-9c3e-034e43dcda85,Ester Dueñas Gisbert,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 16:05:37.084544,classic,,4
+17,a9a21e03-f222-4d24-b9a7-458706e223b5,Javi Vilar Duque,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 14:22:38.558797,classic,10.41,5
+17,7784801f-6b4c-4cec-bc2f-cd393d5b1582,Salvador del Terrón,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 18:43:36.116938,with_onion,,4
+17,209a2b7b-9bb5-418a-b049-0fdd33b941eb,Leopoldo Carretero Folch,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 16:25:55.254802,classic,9.69,2
+17,7f1e928d-98ff-4993-858a-103a687ba053,Alberto Guitart-Gabaldón,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 06:51:59.471278,vegan,,1
+17,36af07b0-38b0-4fcf-ab13-9cc44f6606cb,Santos Calvet Naranjo,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 09:42:10.265208,without_onion,,3
+17,9273318a-1c6e-4e3e-ab63-bb1c9504dfc8,Amarilis González Ávila,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 11:10:52.367684,without_onion,,5
+17,363655bb-bdcb-4ae6-8c55-f0709af53dca,Leticia Grau,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 19:28:34.999635,with_onion,N/A,5
+17,13aeb13a-e418-4022-89b3-a799dfd13266,Damián Coll-Palacios,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 14:36:54.590735,vegan,,4
+17,18b6a886-ffb3-4905-b4aa-add37eab1cba,Dorita Pons-Coloma,Bilbao,"Pasadizo de Silvestre Romeu 23, Santa Cruz de Tenerife, 04957",2026-05-01 12:32:46.809104,without_onion,N/A,5

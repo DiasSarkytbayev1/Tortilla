@@ -1,0 +1,468 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+63,48827d63-e04c-4b17-b30c-61094bbfc5b7,Héctor del Recio,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:12:04.491176,without_onion,10.81,3
+63,e7025462-6c78-4c8d-8f4e-53ace3346357,Cirino de Sevilla,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:20:18.048998,with_onion,12.8,4
+63,daea12b4-f816-4abc-9dc3-25f8c73e87ca,Celestina Alarcón Azcona,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:08:33.163555,without_onion,,5
+63,f39a4819-949d-4c34-a130-95a51e6c51ad,Pascuala Viña,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:12:26.229977,without_onion,N/A,3
+63,0d7c5ff3-d4eb-4c9f-8ee1-cb549eb48c86,Evelia Gil-Pallarès,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:13:33.763159,without_onion,5.39,5
+63,e00e6c31-ef40-4478-9305-abf0e9fae2d2,Eutropio Aguilera-Bustamante,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:22:31.795281,classic,10.55,4
+63,7f413106-2981-4817-8d0b-389e4358ce11,Godofredo Frías Sedano,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:17:29.091542,classic,10.4,1
+63,e321f593-e66c-4e26-b500-38e119d4839a,América Villanueva Duran,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:37:29.565251,without_onion,12.57,5
+63,cea62b3f-3729-44e3-9e9a-cc54603a8071,Florencia Alegre Prat,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:07:06.217366,with_onion,N/A,2
+63,511e1133-6d7f-4344-b8ea-4ef63b3dcc88,Saturnino Calleja Arnau,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:09:39.961510,without_onion,,4
+63,af19ea0a-f83a-4b5e-af4c-087958bbb2bf,Nieves Arévalo Bermúdez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:14:23.939586,without_onion,N/A,3
+63,9533b088-20b0-4a5d-999a-5215aa513e17,Rosalina Rebollo Barros,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:42:37.582631,vegan,N/A,4
+63,8b99b593-728b-4f79-a05e-02fff7c4a000,Dafne Castelló Meléndez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:02:32.093609,vegan,,5
+63,51ae9901-1c91-47c0-ac86-dcf27953d17b,Pepito Moreno Prada Clavero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:47:55.339214,without_onion,,2
+63,6b044923-4088-4777-9dde-76adbe091ca4,Jose Miguel Alcántara Mena,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:46:11.861631,without_onion,N/A,5
+63,aa6a1841-c3ed-4eba-bda4-0ca9a8300352,María Pilar de Giménez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:06:01.302308,classic,N/A,1
+63,c3faf535-d93b-4621-b735-d6abdb1b8d06,Elisa Ibarra Molins,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:39:48.885366,with_onion,N/A,3
+63,2b1be44a-d924-4f68-b2c5-b4b3d810f70d,Manuel Marti Sosa,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:17:16.946952,classic,N/A,2
+63,0e3b0bbe-de74-4510-9cd1-40bd3f7c158b,Rebeca Escalona Villaverde,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:37:50.799800,vegan,11.23,1
+63,fb36e7d4-8a31-439a-b25b-8166f506031c,Tiburcio Diego Arnau,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:17:41.603660,with_onion,6.58,4
+63,b0a17ec8-a4f7-47a5-9d25-7ad18a934c06,Florentino Lucena Ribas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:44:21.997145,without_onion,N/A,4
+63,686b205a-953e-42a1-93eb-440a3b6f99c8,Gustavo del Tudela,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:04:08.971904,without_onion,,1
+63,ae1bf793-f03c-452f-992b-e6f053958135,Tamara Loida Gómez Fábregas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:38:07.131529,vegan,,3
+63,8fd834fc-54f6-4aab-8824-151c9fc5869d,Otilia Ainara Luque Prada,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:32:00.601297,without_onion,N/A,1
+63,0f3172cc-5b22-46ad-955c-e36096787f10,Martirio Tomas Sans,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:40:39.025729,without_onion,8.2,3
+63,2bb052d3-1163-4204-a61d-264499063e70,Vilma Montaña,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:29:44.472530,with_onion,,4
+63,015e0741-022a-4ff5-8156-dddb8c4bdb62,Augusto Pino Estévez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:10:06.433875,with_onion,N/A,4
+63,cc425612-7e4a-46e2-bbf8-bb1145894824,Pancho Juan José Serra Cases,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:29:38.630204,vegan,,2
+63,de879507-9d29-4fbe-bf9f-190c2a4d9ca2,Teodosio Barriga Marco,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:56:23.994013,vegan,N/A,2
+63,9359561f-ba49-4ab1-9d26-5bc4423208aa,Gustavo Ramírez Llabrés,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:43:45.386160,vegan,10.62,4
+63,0402e348-0847-4f77-8ce2-c641b9a6c54f,Valerio Pedrosa Berrocal,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:56:36.251011,classic,11.38,5
+63,ea262cb5-a966-4781-853b-2c8853fca1c4,Nayara Esteban Agudo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:19:01.584409,vegan,,3
+63,07bec640-ca9e-47bd-b2c9-fb98ae439171,Asdrubal Fuente Laguna,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:18:01.520861,without_onion,12.94,5
+63,a493138b-7785-4d52-ad10-f5de52319da5,María Dolores Pacheco Lobo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:51:48.697230,classic,N/A,5
+63,a90788af-be7d-49e8-997f-3a6fddd1dd26,Paola Nieto-Milla,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:52:38.453341,without_onion,14.39,1
+63,d4aaa179-5337-488b-9be2-83a7ee8c0d33,Matías Alegria Martí,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:28:06.717784,with_onion,N/A,3
+63,3a669374-0c1c-4225-ab5a-4efa68edd870,Jaime Jose Francisco Camino Almagro,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:56:02.372532,classic,,1
+63,9cd8f276-4be3-4295-83d1-6bafb443439b,Evangelina Graciana Haro Infante,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:58:40.584226,vegan,N/A,2
+63,6219c279-941a-41f1-bf90-da29ab2fb747,Catalina Alberdi Martin,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:07:29.188529,without_onion,5.1,3
+63,d65fb2f7-1515-4d23-8298-31f42707aec8,Tania Boada Toledo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:38:05.804166,classic,,3
+63,6ec32a8e-e683-45eb-b42f-f84f98cedb38,Arcelia Rivas-Otero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:15:02.936683,without_onion,N/A,4
+63,83b42190-14df-4541-b954-84b69069cf8d,Ramón Escalona Tomé,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:18:29.642807,with_onion,,2
+63,480e65c9-95db-41dc-b995-05915b8d2043,María Luisa de Palma,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:27:41.004724,without_onion,N/A,2
+63,66c6caaf-321b-426d-9c5c-66ad47c56cc8,Isaías Casanovas Melero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:12:37.807114,classic,N/A,5
+63,c1698820-ad1d-4470-9872-13507963756a,Julio César de Agustín,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:15:31.093725,with_onion,,5
+63,bfa1577b-dd65-45da-ab39-7ee778df6fd9,Estrella Garcés Bayón,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:03:54.660476,classic,5.94,4
+63,d55cee21-03d6-4305-8574-4246f5fa0353,Marino Sevillano Cal,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:48:27.829296,classic,6.37,3
+63,f06a8062-bb2e-4094-8d6c-7050cbaed074,Godofredo Guitart Padilla,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:43:28.790477,classic,14.55,1
+63,91cb516d-2620-44bf-a431-fa77dc6ed542,Dionisio Lozano Cerdá,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:16:15.576883,without_onion,,2
+63,7ac1da58-187f-406f-ba9e-4849ef6d7a4e,Elena Alemán Quevedo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:21:33.475255,with_onion,N/A,2
+63,1dd72c4c-2722-42f4-8ed6-feeda33c73fb,Guiomar Córdoba-Piñeiro,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:53:23.055525,classic,10.61,2
+63,abd3339c-854f-41ab-9062-bc1dd27f901d,Eladio Godoy Téllez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:22:49.309929,with_onion,,4
+63,bf87cd92-7d78-40d4-a58e-df5f002f998d,José Blazquez Roda,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:32:46.028790,with_onion,,3
+63,a9a6cf4c-88ef-426a-8997-a29fa942da5b,Julie Belda Roda,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:34:24.209098,classic,,4
+63,9993c739-b0f9-472a-a243-0324b7a92364,Octavio Sanmiguel Sosa,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:25:13.290002,vegan,N/A,2
+63,b30bbe22-8641-4e94-bfa8-bee82ebf3805,Loreto de Quintanilla,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:13:00.039620,without_onion,,4
+63,5530af5c-4415-4a82-8de5-356e05762da3,Jessica Alba Villena,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:29:37.804503,classic,,3
+63,9122dc1e-30b8-450b-90f7-e06d2da1814f,Victor Manuel Guzmán Fuster,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:45:48.194381,with_onion,N/A,5
+63,6bb4a3bf-3716-46fe-bfb5-68b6adc02998,Leopoldo Aguado-Beltran,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:34:20.233760,classic,N/A,5
+63,44e4ea4a-e2f3-4454-afb4-2cc50bfc5ec6,Toni Camps-Bermudez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:19:43.284566,vegan,N/A,2
+63,57a533f1-1d82-4d01-ab99-c211c59962f0,Chus Olmo Segura,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:07:29.022029,without_onion,N/A,4
+63,f4e2693c-8e8f-4b26-889d-7c4cff5880a1,Víctor Casal Abril,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:40:15.213686,vegan,N/A,1
+63,a5b0e6b7-81ca-4b01-8564-ac05f0596fc8,Concepción Gabriela Tena Vilanova,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:25:53.329315,without_onion,N/A,1
+63,596b921a-a13e-4d33-a3ee-573f4f141082,Florentina Cañizares Lago,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:12:04.459845,with_onion,N/A,4
+63,d2e08b77-c11b-43d6-98b3-4aaf11b4d6b2,Coral Marín Izquierdo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:29:39.479674,with_onion,11.28,5
+63,a63df117-4739-4f32-ac6f-c2c8638f97a6,Mariana Badía,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:05:57.727551,classic,N/A,3
+63,37fec8a9-4b47-4bf6-a362-78c8a0cfee77,Clara Llobet-Pino,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:59:59.855449,without_onion,14.34,5
+63,e3c3f5d0-dac7-4d75-9d29-ab5c5c486cfe,Isidora Garrido Porras,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:00:37.413690,vegan,14.1,5
+63,c7801676-1f76-4e92-ac83-1d414470a0fb,Fabio Rafa Luís Pujol,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:18:13.527419,vegan,N/A,5
+63,90709e82-21d1-4d09-9e9b-10bdd61ad308,Dan Valencia-Morales,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:17:15.239152,vegan,11.85,5
+63,23c1d7dc-52f8-4418-b83f-7ee7fdf29273,Maximiliano Mendizábal,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:30:13.237230,vegan,N/A,5
+63,71bc5a7b-350a-4ca6-9cd9-c08be5fa2f91,Aura Berenguer Lladó,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:45:22.205976,with_onion,,5
+63,b097ad4c-a4d3-4759-bc07-65f07278f6c2,Roldán Carranza Santos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:03:54.209168,vegan,N/A,3
+63,0ce70ed9-9aaa-4a6c-a70d-7a2a458201be,Olivia Morán-Fuentes,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:53:41.466123,vegan,N/A,5
+63,80111743-ac55-4c28-845c-d5535a349ffc,Aurelio Casanova-Castejón,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:43:51.298268,vegan,,2
+63,991bb3cb-1df1-48e9-85f4-ef44e0b8cca1,Felicia Elías Cifuentes,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:53:22.720227,with_onion,N/A,3
+63,366f8a54-6b06-4141-8031-0bc9c43179ae,Eric Piñol Moles,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:35:22.412925,with_onion,,4
+63,21161b38-a40d-46e9-845e-5d639a933c25,Prudencio Reina Cabañas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:16:07.580678,without_onion,,2
+63,2d067caf-9961-4d07-8334-2e698af71cee,Leyre Manzano Verdú,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:51:14.607711,classic,N/A,2
+63,5bf2a40f-f3cc-4818-ab61-8a6315607537,Amarilis Alegria-Ibarra,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:57:06.422988,with_onion,,4
+63,acfc131e-5ac4-4a87-b957-9def8cae9502,Zacarías Román Benito Blázquez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:45:49.328456,with_onion,,5
+63,15f50408-1c5b-4d16-beec-183fa2089064,Dominga de Calzada,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:39:52.608532,classic,14.98,5
+63,515f6796-44f8-4213-980e-9fc38967f050,Amada de Vazquez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:04:09.186842,without_onion,N/A,3
+63,2c131283-6ed9-430e-8d6a-bfdecf08b77c,Pascuala del Roma,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:58:20.313334,vegan,5.35,1
+63,c2f3bc3f-8dca-43cb-b56e-24b8d585a888,Ramón Francisco Bárcena,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:34:04.268591,classic,14.72,4
+63,cf9960c9-ae00-4379-9420-80cf1f3076d6,Elena Alberdi Alcolea,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:54:19.598728,vegan,N/A,2
+63,30a65186-e9b4-4fda-ba60-0c9be004767f,Armando Gutiérrez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:52:22.324888,vegan,,5
+63,fa3daa5b-44c2-422e-96fa-6d291b2b8a97,Jordán Ayllón,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:32:35.392504,classic,,2
+63,7f6442bc-33cb-46c5-914d-b3b915c6c65b,Anselmo Roldán Zabaleta,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:39:36.010620,without_onion,12.18,2
+63,06eddff5-686a-4c28-9055-b3d670bf0c0c,Itziar Castelló Redondo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:41:43.945616,with_onion,14.58,2
+63,73aa9332-40a6-43a3-8678-dda60056ce17,Pepe Navarrete Varela,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:10:24.083230,classic,,2
+63,bf34df50-40a4-44a5-8f14-8c2ff798bcd0,Marcelo Anaya Vilanova,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:22:34.525996,with_onion,10.46,2
+63,62369fdb-fd05-4cba-ab4b-1ba0ba1c7fdf,Irma Cándida Roda Riba,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:57:55.102728,classic,,4
+63,a67b0596-3409-49ab-9b17-b00a3e06613f,Tomasa Serrano Salas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:38:26.286081,without_onion,7.21,4
+63,fd3f449e-7779-4e8e-95b3-11a836e85f1c,Dora Maza,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:58:46.228272,classic,,5
+63,7e6f96ad-aa1a-41f6-826b-6362af21c549,Pepita Pascuala Amores Frutos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:45:31.192586,vegan,13.89,4
+63,07951a7e-3f7d-4a04-b214-a58ce9baf1a6,Elpidio Piñeiro Artigas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:55:55.389322,with_onion,N/A,3
+63,03f9559a-b453-4a70-903c-48e1b50569cd,Elena Pedro Porta,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:39:42.741796,vegan,N/A,2
+63,8c7f868e-86ec-4310-8cd0-e419bf9152be,Albano del Román,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:32:42.807148,without_onion,14.04,3
+63,51ede124-c23d-4a7c-8eb7-b7ee512090fc,Consuela del Avilés,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:54:38.557828,with_onion,,2
+63,b524d23d-b3f9-44dc-9b3d-c7257d254db7,Chus Villalba Neira,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:27:14.556265,without_onion,8.63,1
+63,22e69b58-30ad-4a79-8a35-9fa8184a8613,Luisina Palomar Aramburu,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:51:18.617936,with_onion,12.38,2
+63,a5140b5f-6b8d-4911-bd97-01b2325b911e,Mohamed Hidalgo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:37:42.122675,vegan,,4
+63,a031ab0c-b2ff-4da4-a42f-095f172c3c80,Cándido Demetrio Gálvez Castilla,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:37:25.408909,classic,,4
+63,2223fe7a-4c28-4208-90a4-0804054d8d0d,Laura Rafaela Muñoz Núñez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:52:22.515569,vegan,N/A,4
+63,89feeb8c-dfa7-4446-8cc5-c08816f3e7af,Nerea Meléndez Tomas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:29:00.117498,vegan,9.67,3
+63,911b11f7-7d7d-46c7-9c7a-ff916aa330f9,Ildefonso Chaparro Prat,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:57:17.559173,with_onion,N/A,3
+63,a975e63a-334b-4f7b-b9ba-4aae84797b0a,Casandra Izquierdo Barrios,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:32:17.547732,without_onion,,2
+63,79feb7e9-607b-4e04-b359-aeb25a69d3e0,Lorenzo del Frutos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:48:44.472694,without_onion,N/A,4
+63,311b7c4a-881a-4717-a764-7a71606c79a2,Leandro Galo Ferrero Nebot,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:14:30.986726,vegan,13.96,2
+63,60878e30-79bc-4b35-aa17-265affb1f676,Marita Prieto Portero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:46:32.916067,with_onion,5.45,2
+63,2a97bbdd-e11f-4836-8c98-ee4d7aed26fa,Priscila Báez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:10:58.311352,vegan,N/A,3
+63,87853bc9-4608-4742-a554-77cdb0e6fa8b,Joaquín Enríquez Noguera,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:26:17.152485,classic,,1
+63,1d106a02-d42b-447e-9b77-64e347f59e21,Pía Alarcón Arjona,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:31:02.454873,without_onion,N/A,4
+63,49c3ae51-e539-4b5d-8f03-cc65a1e8a562,Consuela Donaire Bellido,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:52:00.232080,vegan,N/A,3
+63,1289f13f-b8ec-462b-b339-7ff42f2648bb,Carlos Chaparro,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:40:57.334086,vegan,N/A,1
+63,7d95ec60-5d8e-44f7-b060-df50d29d39e5,Melchor Eladio Pellicer Huertas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:35:10.750976,without_onion,9.47,5
+63,7bf587b2-8033-41e0-b5db-4d68285ab710,Amor Asenjo Pinto,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:32:36.661359,classic,6.61,5
+63,671b3094-4213-4b37-9bbe-e78285f6c096,Salud Seguí Valderrama,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:11:43.369052,with_onion,N/A,1
+63,576741c7-211b-457e-958d-150b4d7f62c1,Olalla Emma Báez Company,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:32:51.118594,vegan,,2
+63,25647adf-af2d-4af5-b4b8-55e7e8087594,Piedad Benito Cózar,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:44:47.055719,without_onion,,4
+63,445f7972-4603-4505-8734-af479b5e08b3,Dalila Vigil Gárate,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:35:47.855610,with_onion,12.47,3
+63,44393f7e-6f24-4101-87f8-0411818f0e06,Emperatriz Marco Beltran,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:11:35.470871,without_onion,13.72,4
+63,5c76e975-8f33-4817-8ff2-328bfad289f2,Juan Salcedo Páez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:03:26.427830,classic,N/A,4
+63,21a39e51-9538-404e-8ccc-b2ef8c565618,Felipe Vallejo Vall,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:56:49.625692,vegan,9.16,1
+63,965b95e4-20b7-47a4-a089-2fd46a851af0,Apolinar Viñas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:22:19.279153,vegan,12.1,1
+63,1ce78924-0b95-4f8d-9e89-39b9340f9ba7,Concha Ayala Anaya,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:23:44.438232,with_onion,,1
+63,e9412fa9-d5d2-4c2d-9ce2-74bbdf9f5a29,Curro Morata Vives,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:45:51.000672,with_onion,,5
+63,756624ee-cc66-462b-8166-954ad7e7ae73,Amada Melero Manrique,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:56:07.644136,without_onion,14.39,1
+63,05d4a9b2-ba70-406c-bd96-d00e0a341d9f,Adelardo Vázquez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:46:30.397080,classic,N/A,2
+63,ddf33aa2-1c1f-4889-9d0a-634e35d3cf3f,Jordán Agudo Arrieta,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:13:55.824006,without_onion,N/A,5
+63,1acae7ad-fd80-4556-8525-e73ac681f85c,Felicia Aramburu-Torrijos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:13:18.779190,classic,N/A,3
+63,3db9f8d6-6db9-40b0-a4ac-1841783a1da7,Roberta del Ugarte,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:28:44.896155,with_onion,5.98,2
+63,94616b21-af4c-449f-97a1-4238578cc59d,Albino Fabra Manzano,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:38:30.708058,with_onion,13.24,4
+63,ed9653c9-7cc5-40dc-9b33-863a275d00df,Isa Olivera Agudo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:02:56.152716,without_onion,,1
+63,906ab6ec-478e-40a4-a84b-0cbbe0727876,Quirino Arturo Daza Goñi,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:04:19.720334,with_onion,,1
+63,f9494163-5bc1-4f3e-8626-8e6cbddd659f,Xavier Silva-Jódar,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:01:05.504897,with_onion,,4
+63,c7e2164f-5539-48ff-8ca5-4eaa1b04c860,Clotilde Gimenez Cervantes,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:25:28.863413,classic,,5
+63,e42f7c29-813b-4a66-a437-8b31151da1de,Angélica Río Garzón,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:25:35.641732,vegan,11.75,3
+63,413319ee-ad8b-4d69-8732-9b83d7ab3ec7,Edgardo Belmonte-Salas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:36:47.519746,without_onion,,4
+63,cb200414-634c-4018-81ee-1cdaeb4da399,Adolfo Puig-Dueñas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:05:38.123967,classic,7.24,3
+63,3e1c2cc6-0a0d-4730-b575-b8d400d92dc5,Tomasa Cardona Cervantes,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:08:39.413784,classic,10.27,2
+63,b4a80ac4-6d14-47ff-9824-060171f10444,Isaías Iglesia Berenguer,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:59:18.252218,with_onion,N/A,2
+63,10f76833-ba6a-4b4f-8689-1941846e1321,Ariel Castilla Alvarez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:44:55.733049,without_onion,11.06,1
+63,34a8d710-7f11-461e-b5db-b0b96cf840e0,Anita Ferrera Folch,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:56:03.199961,with_onion,12.0,1
+63,e25f73f2-d0b2-4425-b005-821df1b35139,Magdalena Moreno,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:37:06.853657,without_onion,7.51,3
+63,1ba85b6d-6095-46c2-9310-e01378f83916,Sandra Villena Paniagua,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:32:30.991148,vegan,N/A,4
+63,54cc67f2-efd8-4869-9c91-ece1e9d053f4,Georgina Hoyos Aznar,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:26:34.528955,vegan,11.48,1
+63,8cc09fa7-cc80-4c94-b2c0-64bb27453099,Clímaco de Cortes,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:27:55.250467,with_onion,,2
+63,f0489b00-10a6-4754-a0dc-e6a177677136,Benjamín Cuesta Valero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:55:51.686135,with_onion,,1
+63,a83f582e-e29b-4d21-8257-cacd0f499e51,Eugenia Sobrino Trillo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:40:41.794398,vegan,13.64,5
+63,49183dcd-6c67-4d09-8f9d-cd76edf7e883,Ismael Planas Alberdi,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:35:58.823135,without_onion,14.34,3
+63,754c7c50-fc11-43c6-ba1f-00ed69fef399,Juan Antonio Franco Oliveras,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:06:10.445298,classic,,3
+63,937d53c4-62b4-488f-b867-2acd946df638,Juana Colom Tur,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:42:03.136474,with_onion,9.38,3
+63,a815d0ea-3093-447d-861a-3c0d0f3d5887,Ricarda Egea Alegre,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:56:17.681806,without_onion,N/A,3
+63,65a412e1-850e-4cc3-9e5c-6ef2fa2d3ce1,Victorino Fito Cañas Hernando,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:11:10.461718,without_onion,11.99,4
+63,6b039ef2-b902-42ac-8b33-732c717d3258,Fabián Salazar Mateo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:06:52.900032,vegan,,5
+63,45eb4924-3931-4e1e-b66d-220a2eda44ff,Telmo Espejo Jover,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:02:16.196096,with_onion,11.57,1
+63,594284ac-3e5c-41af-b2b2-48abbcd41280,Román Toro-Pedrero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:47:15.514401,classic,,2
+63,46cd1d86-f2e9-46a7-bc6a-17a398736f9a,Artemio Isidoro Baena Rueda,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:13:42.550418,classic,13.32,3
+63,3b90e462-d8be-43f4-b147-47d23d16cf91,Remedios Pulido,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:19:57.890442,vegan,5.59,1
+63,02b3b9d2-025f-4125-99bf-a216feecf4cd,María Sanz Cortina,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:01:29.514296,classic,9.13,5
+63,f6ca6604-f855-4f6c-8aeb-b69bf890b54a,Tatiana Guzmán Miró,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:45:17.726084,without_onion,N/A,2
+63,4d49c85e-7e26-488e-879d-30036b42f679,Asdrubal Rocha Mayoral,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:31:46.005848,vegan,14.23,4
+63,99b1d3ad-dcc9-4cf3-88e1-c847aa2ae3da,Charo de Perez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:30:11.145757,classic,N/A,4
+63,08025e0d-7afb-4b5c-ad11-7332e45c46d2,Candelario Pardo Camps,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:46:17.676595,vegan,N/A,1
+63,17d05342-b498-454b-900a-68f2b055d73b,Esperanza Otero Villalba,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:55:09.547551,vegan,,5
+63,7b144ad6-a5c9-4512-8a22-c86d9466b30a,Francisco Javier Casanovas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:31:38.093144,with_onion,,5
+63,11c20e49-a8c4-4ab7-8c5c-0855094517ab,Paloma Lucena Diéguez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:29:59.820214,classic,N/A,5
+63,e8253940-8799-412a-8557-146532375101,Amancio Ibañez Rosell,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:14:14.247815,without_onion,N/A,5
+63,e87b3950-915d-452b-be8c-fca67fafcb79,Leocadia Collado,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:04:15.763921,without_onion,,2
+63,9c273133-becc-4dc8-8446-bab31ca4fe1f,Jose Luis Cantón Suárez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:46:52.934802,without_onion,8.55,4
+63,b79e0240-bdc6-4c86-94e1-7718ecbe3655,Pío Casado Gómez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:15:45.562697,without_onion,,5
+63,a9fdd839-cf4f-44d8-98ea-f3f1ab47f6cc,Toribio Ayllón Marí,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:46:00.836426,classic,,5
+63,8bb24b34-1ca4-41d4-a569-97ed8b85d96b,Soraya del Rios,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:22:25.916465,vegan,10.59,1
+63,0cf03639-4230-4b1f-bfd4-eb5810ba8ebf,Albano Gisbert Requena,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:10:38.505084,classic,7.99,2
+63,91387be4-4b4c-4f9f-8abe-475a41dbf59a,Daniela España,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:13:11.432132,vegan,12.71,1
+63,e9372932-6c67-4c28-8b5f-a41b8b8b659d,Amaro Navas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:20:14.021935,vegan,12.75,4
+63,e24490c6-f534-44b8-9098-c80e9488b9a9,Dani Carnero Cervera,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:26:22.465052,classic,6.28,4
+63,9412079c-e995-45e2-beab-b00f36809fa6,Telmo Escolano Esparza,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:18:27.803618,with_onion,N/A,2
+63,17e20489-f9a9-4fe8-b378-831e9eba5d84,Joan Aguilar Riquelme,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:34:24.866242,with_onion,8.3,4
+63,5336a43a-6b73-4af4-b740-edaef1b347fd,Candela Viñas-Vendrell,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:19:15.022569,classic,N/A,1
+63,c9c5b685-c29a-4678-88b5-28ea40415546,José Luis del Rueda,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:15:16.908816,classic,11.62,2
+63,bad5400e-fbea-484f-8d2a-4c7ada04de1d,Eladio Ávila Roldan,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:26:48.788573,classic,,1
+63,95ff2bbc-a156-4dba-bb34-3b8dd5b080fb,Elena Carbonell-Barriga,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:16:15.225957,classic,,4
+63,36df5e78-505a-4fab-a06c-65c08e452fb8,Mireia Cuéllar Campillo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:21:23.842800,without_onion,7.79,2
+63,b6e23333-6bb2-4794-ae45-a93c0b33dffc,Gabriela Arenas Grau,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:34:27.737568,vegan,8.09,1
+63,7f6b592c-00f3-4dd8-abbf-5f7ead206058,Modesto Quero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:12:48.525299,with_onion,N/A,2
+63,4eddc7f9-e337-45a8-bcb9-73381c9d0544,Nidia Robledo Pozo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:07:35.009841,classic,N/A,5
+63,1cdd46be-789d-4a4f-a8c8-fbd1d193d417,Máxima de Reguera,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:17:08.182268,with_onion,,1
+63,3b9ccfc2-75d1-4ee1-916d-1eb9217596ef,Vicente Bou,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:55:31.946870,vegan,,2
+63,7415bd81-90e4-49a5-8755-629765610e87,Amparo Cárdenas-Aramburu,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:39:05.650349,vegan,,2
+63,a21753ef-43b9-4449-a31d-bf35b425f311,Isabela Carina Molina Belda,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:15:23.777307,with_onion,,4
+63,be16d6aa-8a65-4ef7-aeeb-debe87cfda64,Teresa Mónica Escrivá Lucena,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:05:32.698847,classic,N/A,4
+63,a89cf728-caf6-404c-be97-dae4d53a47dc,Adelia Orozco Jáuregui,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:31:16.262867,classic,N/A,2
+63,3a4f8533-2e54-43ce-a883-259acc77fdc9,Alba Leocadia Pallarès Torre,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:48:20.351274,vegan,,3
+63,6eb5fcde-e8d6-4a91-aa2a-f90ce881eac7,Merche Santana Diez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:24:52.638443,with_onion,,1
+63,e3d42144-8602-43fe-ad74-107267611729,Xavier Colom Valderrama,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:33:56.707274,vegan,,5
+63,a47540cc-4310-4544-8221-2a1d70f980bd,Rosaura Inmaculada Avilés Rozas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:06:13.793107,without_onion,N/A,4
+63,19ec16f1-cc98-4ffb-b90b-316074660efb,Beatriz Montoya Becerra,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:07:32.847610,with_onion,,1
+63,19671ef3-a13d-4c5b-b142-a20497a102e4,Benigna Juliana Noguera Ferrando,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:20:20.509425,without_onion,N/A,2
+63,3955de58-7db0-4f7f-9254-17424e722b62,Anna Rafaela Jerez Redondo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:42:04.906318,with_onion,N/A,5
+63,9a9f2452-3752-4dae-9b45-cd5c3f5d107f,Enrique Dávila Santos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:00:13.055193,with_onion,,5
+63,c1e1c2a9-12d8-4a9f-9e4f-2a65b51dd48c,Maximiano Anaya Oller,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:52:05.381937,classic,8.17,3
+63,4f3107ba-0f57-41b4-88f4-cd6020226fb3,Melchor Peláez Torrecilla,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:12:03.612776,classic,14.76,3
+63,b6a7e5d2-3f8a-4f8d-b2cc-2bcbb80896e0,Poncio Mayoral,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:51:19.576722,classic,N/A,1
+63,652b3296-a069-482f-bd87-9b775b87f5e7,Marcos Cepeda,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:16:08.963116,without_onion,N/A,1
+63,c9c2e627-4da8-41a4-b080-1d776e2fe849,Manuelita Estrella Aller Pol,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:35:42.525645,classic,N/A,4
+63,ce10fac0-96a5-4cab-b5f1-0cf291dcf53a,Adolfo Moya Cerro,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:51:37.101003,vegan,11.9,4
+63,3b3a14f3-9c03-443b-9000-9ac3a7d3dfc6,Hugo Toribio Elorza León,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:11:06.904797,without_onion,,1
+63,d205c970-c67e-45a8-ab3d-fc576115b238,Martin Reguera Cámara,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:47:58.577371,classic,N/A,5
+63,47b58cf6-4f3c-437b-bbb4-60147108d153,Hermenegildo Agustín Goñi,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:20:42.547411,with_onion,8.96,5
+63,e22fe488-6d2f-4705-93ba-74adab217976,Fanny Bertrán Ribas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:52:14.579164,vegan,,4
+63,e262adae-f54d-4add-903f-f41a036a1a2c,Adelina Tere Pla Prada,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:58:44.249998,without_onion,10.8,1
+63,35b216b9-ddc8-4088-b7d4-bfe23ce8943c,Moisés de Lorenzo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:25:36.277814,with_onion,10.03,3
+63,f65e5ee8-948f-4880-b681-5b6f7b78fc02,Ricarda Cases Bilbao,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:08:33.504238,without_onion,N/A,5
+63,05558705-250b-4cd2-8b66-6f67aa8c63c7,Emigdio Garcés-Montserrat,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:01:44.850125,without_onion,6.25,4
+63,65165dd2-bc10-43aa-9ada-b43aba66c6dd,Jacinto de Calzada,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:29:29.160431,classic,,2
+63,337e255f-1334-4f73-a52f-6c3db9f15da2,Amparo Rodríguez-Tomas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:29:06.637762,with_onion,,5
+63,12d78926-115f-4340-ae5b-e4f332bc772b,Martín Sarabia Lamas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:38:29.568613,vegan,N/A,3
+63,ce6cbdf3-e940-4307-a45b-d95a69a8265f,Hector Puerta Niño,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:38:46.180428,with_onion,N/A,5
+63,8d815e0a-d789-4ce1-b2b4-eed0d619031e,Martirio del Ríos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:28:11.662951,with_onion,N/A,3
+63,e7c966f4-d034-4231-9571-10fae21b5f09,Marino Lillo Estévez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:59:02.313838,with_onion,N/A,3
+63,1c40ce2c-f2a5-4ce2-9992-7cbedc235125,Iker Gonzalez-Ledesma,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:54:44.030231,without_onion,10.04,1
+63,3f58e4ca-109f-4510-9253-0fb84f4b86e0,Loida Malena Garrido Salamanca,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:51:28.449731,vegan,7.57,5
+63,f62ec922-dd46-4765-b409-145bd52520c7,Lázaro Serrano,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:00:41.295088,with_onion,,1
+63,720e96b5-9205-4cf3-9999-4c222625372c,Leticia Nogués Ávila,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:14:23.328048,without_onion,5.46,5
+63,1931aac1-fda6-4e1f-a376-9c6ef11c3d89,Yésica Cerro Gracia,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:09:06.968961,vegan,,2
+63,f2948888-fb24-4e14-a5f7-9fbff4a83ba8,Jerónimo Angulo Varela,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:44:37.306349,classic,12.5,5
+63,5f53b8ef-85ca-4ec4-9a8f-ae18c2b83d97,Kike Vidal,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:53:37.222659,without_onion,N/A,5
+63,886c2a25-9fd2-4477-ba67-5b580388adef,Salomón Pont Clemente,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:20:37.249103,classic,N/A,2
+63,e8bb7c65-a40c-460b-bfe2-3c7210515994,Tadeo Anaya Mínguez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:27:52.768763,classic,14.63,4
+63,d2821b72-8363-417c-8dde-839dafa12eb6,Lupita Ayuso Montero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:31:09.796201,classic,N/A,3
+63,2678c474-9bdc-406f-83a7-61e2b53610a5,Amparo Gras Bas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:07:50.200264,with_onion,13.91,1
+63,1d52c7ac-253e-4b09-8ade-c6d3e14e38fc,René Uría Llobet,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:44:42.373294,with_onion,N/A,3
+63,f6c7f69e-0d6a-4411-b65a-ac8dc080a9f1,Teobaldo Rosado Roman,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:10:00.259602,with_onion,,2
+63,16461d2b-c3fc-43f6-a790-b765accc98e9,Jenny Porras Dalmau,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:45:06.079802,without_onion,,2
+63,f66d3e2d-28b6-457b-acb9-5e6a9f2e15fa,Renata Duran Morante,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:04:14.026023,with_onion,11.17,3
+63,962e2171-6792-4151-8376-2ec21718b307,Trinidad Tovar Jordán,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:59:09.926259,classic,14.16,3
+63,d84861f7-93cf-41c0-84ad-5e2cdec3ef82,María Jesús Villalonga-Soria,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:35:10.602621,without_onion,N/A,1
+63,973cb4b9-7cc4-484e-847e-c6904c2f2bb0,Timoteo Carro Torrens,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:48:07.691877,vegan,9.28,4
+63,f8e9f281-db6a-4771-9ec8-50308cf33376,Adelina Vilanova-Verdú,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:57:10.146007,without_onion,N/A,4
+63,02e56de7-e975-4549-83a3-55d322dc8f31,Godofredo Catalá Cabanillas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:15:59.590190,classic,,1
+63,792e9c55-10cd-467f-bdaf-938e4fec928a,Lucho Pulido Roma,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:51:28.146871,without_onion,N/A,1
+63,91e6d567-f1b0-467e-b33e-fb98a7a13538,Leandro de Cabezas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:57:19.559399,with_onion,,5
+63,eacbec4a-6846-4290-81b8-79c6142de0e0,Soledad de Ortiz,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:24:49.510114,with_onion,N/A,3
+63,8d649877-53c0-4bc6-91ae-1d59c3ff6eb7,Vicenta Márquez Yuste,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:25:23.929348,vegan,,3
+63,07772466-9e09-45c7-8b1f-5929c066f9ec,Amanda Lumbreras Chamorro,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:37:07.278457,with_onion,9.03,5
+63,7541d81d-1efd-4181-b8b5-8aae12260562,América Godoy Mata,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:30:26.827463,vegan,,5
+63,4f9a748c-27fa-43dc-baec-5324873f94b4,Adoración Eugenia Blanes Angulo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:11:35.291517,without_onion,,4
+63,6b1a59ee-14fd-4a36-b0aa-9e999621a870,Valeria Bastida Mendez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:08:13.893145,classic,N/A,5
+63,2b376438-22e2-4330-9d65-6ae1418d6fd0,Régulo Oliveras Colomer,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:02:31.923317,without_onion,5.64,1
+63,b270bc3d-a104-434b-9e93-535b4e5e5480,Emma Gomila Blázquez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:41:59.246096,without_onion,12.1,2
+63,85dc338e-4bfd-4536-9e71-53731c3b1500,Lorena Prudencia Castañeda Padilla,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:52:19.167751,vegan,5.75,2
+63,2815b91f-9671-4ce8-826a-b7967f5a7b30,Candelario Porta Guerra,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:36:24.957233,with_onion,,1
+63,bb5399ca-5e3e-4c05-b95d-b339fe5887ff,Pepita Valdés Giralt,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:30:29.151935,with_onion,N/A,3
+63,643d36c6-e010-4ca6-8bf1-07520b794155,Haroldo Anaya Báez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:41:20.530395,classic,N/A,4
+63,88aac4f7-6024-4158-b45b-f2e6d7fbdf38,Brígida Dávila Poza,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:02:51.338363,classic,10.41,2
+63,3db426d2-afa4-4140-b8d3-47c07409ddb4,Gustavo Abella Solís,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:30:07.680162,without_onion,13.08,2
+63,723efbb2-f082-475e-93dc-b404612164c8,Eva María Iglesias Múgica,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:56:12.802809,with_onion,N/A,5
+63,5ff43b4e-1a75-40f8-8192-0ce0a7c09ce3,Esteban Cózar-Ricart,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:21:07.805263,without_onion,,3
+63,f5824466-5063-48e9-9fb9-e79a31f62cff,Benita América Rocha Alemany,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:53:26.876354,with_onion,N/A,3
+63,cd816570-a4ec-426c-b62a-43b97c5fac51,Toni Paz Alfaro,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:48:03.716874,with_onion,N/A,5
+63,830492be-165a-4202-adcb-ee47a554ef3e,Eloísa Antón Vicente,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:47:42.234646,without_onion,,1
+63,454f506d-053e-44a0-b8f3-81788d150ab4,Manu Antúnez Mora,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:48:24.578222,classic,,4
+63,19bce396-221c-427e-a923-9ebac137eb17,Saturnina Mas Barragán,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:42:58.018479,without_onion,,1
+63,f8f6659f-f9d3-4276-b2bf-12c096e9dae9,Wálter de Meléndez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:23:00.662955,classic,N/A,3
+63,72de4fa2-063e-470d-9ebe-0583fa9417ac,Nieves Morcillo Olmedo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:28:36.168151,with_onion,,4
+63,78bb240d-1024-4e78-a08b-25fdf6968e9c,Rosario Alcázar Fuertes,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:16:17.845430,classic,,1
+63,84bd33e6-cdba-43d4-9846-44b66be57cfc,Rico Berrocal Torrent,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:40:51.080538,with_onion,5.93,3
+63,6805cf2a-8826-4496-b5b0-10aa43996397,Amílcar de Cerdá,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:33:29.823326,with_onion,7.01,2
+63,9046f512-5cbf-4f59-94a7-6d66de658b0f,Erasmo Rodrigo Barberá,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:20:09.386918,with_onion,,1
+63,6b80c920-7360-402f-aa45-f0d5f493deed,Lourdes Ordóñez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:25:55.611169,with_onion,6.41,5
+63,47819f5f-19b1-4db0-96ea-c959b67214c0,Isidora del Puig,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:22:05.241760,without_onion,N/A,1
+63,f28d2718-b74f-4807-94ac-118241ad8e86,Jose Luis Vallés Gallo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:55:39.285421,with_onion,N/A,5
+63,959ced1a-72dc-4e2b-ab13-6993073298c6,Nidia Llano Pomares,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:56:00.994231,classic,,3
+63,1d8bca84-c53a-4641-9519-ad209fe8c89c,Sergio Juan Garcés Valero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:17:33.034975,without_onion,,3
+63,1c7ad0dc-ac4e-4764-ad1d-c89c85576d74,Teodosio Marqués Seguí,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:26:23.402039,classic,,3
+63,d7fee303-f32a-4b9b-8c71-79d06290a721,Eliana Peiró Pardo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:34:10.772752,with_onion,9.15,5
+63,a9e79f8b-67f5-4ecc-aa3b-0b435d3f6f92,Esteban Cepeda Amores,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:11:22.621472,without_onion,12.89,1
+63,b9c379d1-6b04-4897-ad0a-fac4114f87be,Borja de Perelló,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:27:38.195150,vegan,,4
+63,7e20d7d7-3e77-4b2a-997a-aa373d350328,Tito Amores-Cabeza,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:13:33.082496,without_onion,11.98,1
+63,66210b83-bcc0-431f-9328-8a28f81501a6,Fortunata Díez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:08:50.830554,with_onion,9.5,1
+63,f255412b-73d5-4bc6-b34b-2eb87d1b3da9,Marianela Asunción Chico Barba,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:35:31.605246,with_onion,,1
+63,4ebfbbdd-8fa9-4519-8862-fa791a544a6f,Nydia de Canales,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:13:43.104755,with_onion,12.92,1
+63,53a7ad72-f314-4dbe-8d23-b0fc9aa2f47f,Valero Barrio Rojas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:13:53.369254,with_onion,N/A,3
+63,f98c61f3-d087-4171-aa45-37510a0e9add,Pepito Oller Castells,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:34:20.069834,without_onion,,1
+63,fa2696d4-eb92-488b-8512-d1324c82e3e2,Encarna Olivé Calderon,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:12:52.940778,vegan,6.29,3
+63,55d18e42-8fdd-4bb4-af60-215290bd805d,Gertrudis Uriarte Lobato,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:57:46.307779,vegan,5.4,5
+63,a67d3dc6-7e1d-4a66-8446-f442935c63ca,Atilio del Cañete,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:04:50.877767,classic,,4
+63,adbcb60c-ad8d-4ef2-9713-557bdafbb8ef,Rosalía Lorenzo Madrigal,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:38:00.499851,with_onion,6.65,3
+63,7527cadc-8d2c-4a72-b902-42310b6a84dc,Arturo Solís Barba,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:37:53.084301,with_onion,N/A,3
+63,4318187a-7b8d-4cee-b47b-99d7080d27fe,Plácido Franco Cruz,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:07:46.629500,vegan,,2
+63,e2a3d85b-4db8-4228-95ad-25559575b89f,Tatiana Barba Riba,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:23:41.506532,classic,,2
+63,c2c57188-c941-4687-bca4-749496849f76,Paulino Samper Enríquez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:30:47.368801,without_onion,6.17,1
+63,25fbb258-c3e7-47be-9339-212bb1d42883,Amaya Lourdes Marti Bonet,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:40:33.733399,with_onion,9.13,1
+63,4a1cafa6-2eaf-432f-b4c2-e9db65a5ff71,Chus Peralta Oller,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:04:48.276736,without_onion,14.13,4
+63,3b29c79c-890c-4c66-b377-33226663fe0d,Elisa del Hidalgo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:26:20.976644,classic,N/A,1
+63,960c45e6-8ebd-4ae3-bb12-c360cf2688a6,Mariano Lladó Lucas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:56:04.523396,without_onion,11.68,2
+63,b4593cae-8cd1-43a6-b957-912679d42214,Pili Grande Salvà,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:33:26.316298,vegan,,1
+63,f7c13fc7-876d-4f3d-95ca-70006c6fff9e,Ignacia Guardiola Molina,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:44:12.165254,vegan,,4
+63,ebd1e090-719d-4727-9896-3dfb22879ff2,Maximiliano Borrego Núñez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:33:53.987580,classic,,2
+63,d05ab8a3-30ce-4e04-8fb7-9d2a2db2eaf7,Ildefonso Montesinos Iglesias,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:56:25.967850,vegan,7.64,4
+63,109780cd-2d8e-43cc-977b-d88e530e5b9a,Berto Delgado Enríquez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:44:05.682655,classic,7.84,1
+63,6b07b4a5-7921-42f8-a6dd-43130d582e39,Baltasar del Ferrera,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:37:12.218764,vegan,13.94,3
+63,65df91e4-239c-4e93-8274-5f4417477858,Evaristo Ramis Salas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:50:22.359661,classic,N/A,1
+63,8d7414de-912f-4779-a277-1f1ca5d1fbf7,Imelda Baquero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:40:09.259654,vegan,N/A,2
+63,20b3fa99-84e7-47de-a643-ca06f421fdcd,Mateo Paz Valentín,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:20:51.329773,with_onion,5.53,3
+63,e42623cf-8a64-4630-ae94-83729428394c,Ángeles Cuadrado Font,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:31:41.462140,vegan,11.95,5
+63,8ab2fb4f-bc5e-478e-84c4-98fb658ef2c9,Diana Barranco Nieto,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:44:56.674061,without_onion,N/A,5
+63,7a4d1eae-87ae-4967-9862-4cebfc128662,Silvio Sainz Garcés,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:48:03.737491,classic,5.49,5
+63,8da93e60-9b38-4d17-aed5-d8f095038ade,Begoña Fabra Gallego,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:20:44.764085,classic,,5
+63,770860ee-ee18-4024-a4bd-c0e3a8227f16,Tiburcio Yáñez-Cabezas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:32:38.838928,without_onion,10.47,5
+63,a7818e0b-9be3-4a29-bbf9-a79586f84000,Paola Azorin,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:49:46.417273,with_onion,N/A,3
+63,c45025b2-b603-45c4-8e31-6f3735b794f5,Ruperto Manolo Canales Vázquez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:49:43.053570,classic,N/A,5
+63,82f40c42-d71f-4c3f-aa7c-d1c75e4d692b,Amor del Angulo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:15:46.967914,without_onion,N/A,2
+63,f65ba1b3-340d-4c83-a1a7-3a1428ea9fe3,Cayetano Sosa Manuel,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:09:07.799697,classic,,3
+63,462f10e2-0315-4dc8-8ae8-48fd2b2a7dd1,Porfirio Jordá Azcona,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:35:35.580202,classic,,4
+63,4f2d7bc8-7c8f-456d-a026-afb00b91fe4e,Bárbara Asensio Sánchez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:27:06.530254,classic,N/A,2
+63,9416f885-ce16-4235-891f-050ee346ea5c,Gervasio Amador Arias Ribas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:55:58.950291,without_onion,N/A,2
+63,efc8af02-53a2-4964-98bd-c5e047178592,Noa Muñoz Fuentes,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:21:38.869956,with_onion,5.26,1
+63,e5e5ac26-1fbe-4e62-bb12-12dc79f7ce52,Gala Royo España,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:00:43.350941,without_onion,N/A,1
+63,05084d90-e941-43e9-aae8-aa0112b6cf56,Luisina del Robledo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:01:32.566593,classic,N/A,5
+63,dbe03f5b-bbc1-45fe-8d75-c9b4945a345c,Áurea Bonet Hervás,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:16:46.252084,without_onion,10.8,3
+63,25cd8644-0349-4cac-aff5-e191e18e1294,Aura Corbacho Alcalá,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:01:06.146594,without_onion,11.21,5
+63,3bdab4ba-645b-45be-9d65-8582766cdaaa,María Manuela Gracia Mayol,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:58:12.494688,vegan,7.53,1
+63,021e8d45-8212-4a4c-bc1a-109f27921e71,Fulgencio Grau Machado,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:08:48.775465,without_onion,,1
+63,0ef0c995-f0e1-4fa3-9529-06e33fdff0ba,Rico del Miguel,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:45:33.434404,with_onion,N/A,4
+63,709da1ef-1f7e-4384-99fb-6f9bfb3dfa96,Vinicio del Manzanares,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:40:01.687381,vegan,N/A,1
+63,41749596-3ef3-4dee-8333-9286b04a0df5,Gregorio del Daza,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:44:36.639029,without_onion,N/A,2
+63,d62e73db-48d6-4aee-a655-23e335c2d08d,Pepita Murcia-Gelabert,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:20:09.474289,vegan,,3
+63,aa1e0b96-1f6e-446b-91d0-94234b3a8463,Leocadio Prado-Iñiguez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:23:42.458971,classic,11.68,2
+63,eda4209e-f708-4a68-8999-6be2163433da,Óscar de Prat,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:14:10.892784,classic,9.59,5
+63,cabd5100-f186-49bc-9479-b7b8b8d3412a,Saturnina Toro Fuertes,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:04:54.523360,classic,,5
+63,8df9cbad-295d-4cc5-b675-c3e5570e6678,Luciana Rosalinda Gimeno Ayala,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:53:22.487165,classic,N/A,5
+63,954a63df-af5b-46ec-a1e8-24959caf18dd,Marina Gilabert Bosch,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:34:17.772247,without_onion,,5
+63,58382cd4-79dc-4ee5-9036-6346fe333be1,Renata María Ángeles Pons Almagro,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:46:19.587130,with_onion,,5
+63,ddae504d-7748-4f99-8f9f-b9d436346e72,Soraya Artigas Barrera,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:42:56.708724,vegan,13.89,5
+63,e7774416-94c2-4630-806e-9984f190c794,Asunción Iniesta Barreda,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:45:00.716443,classic,N/A,2
+63,ebc92429-90b2-4d01-9186-407be1a2e2e1,Amílcar Canals-Fabregat,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:12:22.243078,vegan,,3
+63,65b4e43e-5f5d-4aac-9323-bf91a6a08d06,Tomás Vendrell Fonseca,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:21:24.187746,classic,,2
+63,bebbb338-8b1a-426f-893d-18e8f6e0acd8,Vilma Bernat Girona,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:31:36.138418,with_onion,,4
+63,75947450-5e1e-4428-b97d-ce60890db3fe,Gerardo Vigil Roig,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:00:10.265161,without_onion,5.51,2
+63,41a4bbc8-3ab7-4d46-a242-6d84ff8b486b,Hilario Mauricio Castelló Jerez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:37:42.379565,classic,,4
+63,96959cc9-96d5-416f-99b7-58dbd436ba5a,Silvestre Portero Río,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:34:26.876279,vegan,,4
+63,ee5efcc1-1458-4aba-8dce-b613a4593b15,Apolinar José Manuel Garcés Polo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:04:29.391452,without_onion,8.18,1
+63,d4ac7673-6f1d-40a3-bfe3-c21fb6b8b279,Lino Montalbán Gil,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:31:08.817837,classic,N/A,1
+63,0f464845-babb-49ce-9c82-1b53fbebc262,Yolanda Castellanos Valenciano,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:22:37.826966,vegan,12.85,5
+63,e358c1d0-96db-4e16-be92-bc813193727c,Arsenio Sevillano,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:42:46.355038,vegan,N/A,5
+63,4c6d62bd-6abc-452c-8400-28aac9ee84c6,Danilo Angulo Mas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:32:44.843036,classic,N/A,5
+63,e5aa4dc5-5494-46ed-a378-9726288be29b,Vinicio Sureda Mascaró,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:17:07.305299,with_onion,N/A,4
+63,ef966569-6bd1-4057-8b9e-9f5bd35f0899,Nacio Teo Barreda Guerra,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:37:09.319741,classic,,1
+63,deb23319-4229-4885-a2f3-d8bf72615ca4,Álvaro Jordán Galiano,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:48:38.825261,vegan,N/A,5
+63,7090e867-c12a-4454-95ef-500b149ead89,Tiburcio Gallo Aparicio,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:28:24.995979,with_onion,10.02,2
+63,229006f5-8103-4e17-a95e-fa915cc1f03c,Julio Nazaret Girona Fabregat,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:42:54.135146,with_onion,,1
+63,ea9fcffc-3a2c-4a9d-af57-0b8d9e242ee2,Ale Conesa Garzón,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:48:59.615290,with_onion,N/A,2
+63,7c29c3d5-1ae6-4113-b1a7-f09a853025cf,Hernando Ayllón Pomares,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:22:37.944691,vegan,,3
+63,cb645f4d-358a-47b6-8b2d-a142611da108,Roberto Cristóbal Asensio Bosch,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:37:19.099697,without_onion,10.34,2
+63,7c192304-b8e0-46dd-a7a4-411df1283a76,Irene Gascón Soriano,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:56:48.864750,with_onion,7.06,5
+63,515ff979-0673-4098-982e-913671bcdb49,Manuel Vicente Vives,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:12:28.026288,without_onion,9.82,3
+63,aacab96f-576a-4cc5-a504-6193f2bb23d5,Beatriz Iglesia Castellanos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:57:04.384807,without_onion,10.15,1
+63,0b8516d2-7fbd-465b-831d-b428534f20da,Narciso Ceferino Valencia Aguilera,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:25:51.698115,classic,,4
+63,7786a688-eea8-4de9-bb08-6ffb70dbcf87,Candelaria Quero Gascón,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:46:43.044997,with_onion,N/A,1
+63,8c82ad93-3733-46da-b3ce-febf88a12a7f,Tiburcio Berenguer Ávila,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:56:18.348484,without_onion,N/A,1
+63,e1faabf3-bb59-4ced-8ef8-7e8294c7ac4c,América Elías Contreras,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:45:39.875176,classic,,3
+63,e75086ff-d1d1-4700-9778-224569faf014,Gertrudis Cervantes Cruz,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:51:42.503876,vegan,,1
+63,78bb7c71-a43b-4d2b-8ac2-72aa30c09a2e,Rosa María Primitiva Arias Dalmau,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:45:33.670005,vegan,,5
+63,f7ed0f69-308d-4f01-a553-6310836d4a75,Benito Borrás Vila,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:25:42.329292,without_onion,N/A,3
+63,1fabcae9-5068-4ad6-98cc-c3732a93f50f,Joaquín Manrique Adán,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:01:10.608725,vegan,N/A,4
+63,aa39d4d6-472a-43ae-9b30-a4cfad552dda,Herminia Blazquez Fuente,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:46:16.926178,vegan,7.83,2
+63,e2c056d3-ce53-4eb3-a2dd-3354e42abfde,Trinidad Cabello,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:52:10.793548,classic,N/A,3
+63,67682ba4-2d75-417c-8624-1dc0bd33de37,Ainara Amo Rueda,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:15:14.212104,without_onion,,5
+63,1f171cbc-54f1-4ae5-9d49-12e15596ad13,Seve Botella,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:06:07.519745,with_onion,7.78,1
+63,c3653739-38e7-48d3-ba57-719e978f2630,Rodolfo Peiró Cabañas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:36:00.798562,classic,,3
+63,8f362485-c4aa-42fa-8c44-7b46c29f7b6d,Miguel Ángel Acero Pinilla,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:39:49.455306,vegan,N/A,2
+63,b64e48f9-7b7d-4eeb-af84-199616a49391,Palmira Castrillo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:30:08.568875,classic,,5
+63,f07a5ed8-33be-445e-a0b1-d02384ba96c9,Leire Ballester Alberdi,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:34:34.020250,classic,,5
+63,bacaf5d6-622e-4fd4-af79-3ec1040a130d,Selena del Sanjuan,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:18:07.858374,classic,14.64,3
+63,faf45a9b-93b9-4f48-a254-2fd8e917d7e7,Luis Ángel Timoteo Ribas Huguet,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:48:07.907989,vegan,N/A,1
+63,3b5ecf63-f1e4-4f6c-a0ed-60e89e6556b6,Valeria Perelló-Fernandez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:26:11.354012,classic,,3
+63,0ce4c638-4a82-4110-929b-08fb8bb3a1e3,Nacho Salvà Barros,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:20:29.048340,classic,13.35,1
+63,6cc988f8-e95b-4df4-a9af-f02cb73bae57,Tomasa Cabezas-Solé,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:02:44.210830,classic,N/A,1
+63,4568bfdf-e78c-4759-89bf-5ba27fb7d168,Ileana Casanova Vilanova,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:16:56.751321,classic,8.69,4
+63,e702dd86-d81c-4607-9f06-defad151fc5c,Segismundo Simó Bustos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:25:26.022414,with_onion,N/A,1
+63,19feee0a-8489-4873-acd1-cf840509e998,Otilia del Boix,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:46:33.233206,vegan,,1
+63,556086d6-ea04-4d30-80b7-938ae9b6564c,Hector Abellán-Arce,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:26:45.693294,classic,14.66,3
+63,7c0bf8af-1437-4caf-bc45-14be1c4c02c3,Herminio Bernardo Beltran Crespo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 17:09:09.942960,with_onion,N/A,3
+63,4ef423ec-812a-43e6-824b-6996ae9499ab,Marcio Mas Ibañez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:19:19.114911,classic,,4
+63,266081c7-21db-44e7-b1c3-063fd5055b59,Genoveva Santana Lobo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:35:05.405288,vegan,10.44,5
+63,13790240-17ef-4500-acc7-0379a73402f5,Teo Franco Alegre,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:24:23.785987,without_onion,N/A,3
+63,0b7c2cc0-7ef5-43dd-a064-af6882c0bdd0,Edu Cabezas Castillo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:02:42.427354,with_onion,10.8,2
+63,e03515cf-9c72-4ec3-ab4c-b96afca8bfec,Federico Rozas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:34:27.069328,with_onion,N/A,1
+63,e7028997-32b1-4753-a75e-5144c706706c,Wilfredo Fuentes Villalba,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:17:55.609740,vegan,,5
+63,a73d70cf-60db-4c6e-a5e4-a1c2884c9f01,Francisco Jose Saez Murillo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:21:05.363930,with_onion,6.7,3
+63,405966ad-31f3-48ba-9d94-ceb07b30d9e9,Margarita Aller Herrero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:55:38.545421,with_onion,,3
+63,d192358c-2c24-4327-9a02-011a377a2548,Almudena de Sabater,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:11:53.739882,with_onion,N/A,2
+63,69ddad73-0ab6-43e1-bf16-755311bf31da,Armida del Pujol,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:44:57.005346,with_onion,,1
+63,48efbefb-7279-449e-908f-d46cadcd62ad,Íngrid Gelabert-Mínguez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:03:07.322308,classic,,3
+63,b6d37de1-cc51-422f-9381-3ff0012c403a,Mamen Iñiguez Cózar,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:38:08.491848,classic,,4
+63,8bbc49ba-e13b-4a07-a4c3-f6853f808642,Inocencio Carretero Fabra,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:49:33.650337,without_onion,,1
+63,2e4c3093-ec9a-4506-918d-79c7f0dce635,Sebastián Ferrán Collado,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:58:17.989843,with_onion,N/A,4
+63,95c8b843-8131-4af2-8e83-1fe25b70a1ee,Hernando Alegre Tejera,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:37:41.372118,with_onion,,2
+63,2d75046f-f55c-4ccc-aa53-134bf601cd67,Trinidad del Cuadrado,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:17:34.967496,without_onion,,1
+63,5240a656-f142-41c8-aefd-2aae69b71fa4,Ximena Castejón,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:23:43.837252,vegan,14.62,4
+63,0404ab4f-2050-4802-9b0a-78423fe23bac,Carmelita Larrea-Sandoval,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 02:48:31.273555,classic,,1
+63,f6a5e399-84cb-45a7-8934-10c61fe7e6dc,Nazaret Aguado Bermudez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:37:08.998827,vegan,N/A,5
+63,faac71db-80d6-4a10-9ffe-eff1010e9dea,Dora Larrañaga Beltrán,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:59:12.176404,with_onion,,1
+63,61c28997-2d5f-451b-83d7-6306287d05f9,Hilda Nicolás Verdú,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:00:43.177226,classic,N/A,1
+63,cff1e043-86c3-4858-be68-4fa1da00b51b,Olivia Iglesias Palomo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:05:13.878442,classic,11.8,4
+63,ad7c8b54-187c-4995-9f1c-9f90072f018d,Yéssica Gras Chamorro,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:56:53.921564,with_onion,,4
+63,802c7c53-705b-4b9c-bbb0-fdc0206e30db,Julio Mir Mateu,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:12:45.697550,classic,7.87,5
+63,a1cdae23-0412-4624-bc0b-5f57eb75af5b,Manu Garriga Canales,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:12:14.831990,without_onion,,4
+63,accd9d5a-9f0a-4e22-8be6-1474ac1af78a,Narciso Guzmán-Chico,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:57:57.951246,without_onion,9.36,2
+63,6a517c55-77d5-45c7-a60e-023c1eba133a,Luis Ángel Vicente,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:34:46.767871,with_onion,,2
+63,ba43c7fa-9fca-4488-ac94-38e9d013aa75,Eusebia Oliveras Alcaraz,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:36:06.238834,vegan,N/A,1
+63,dd1d24d0-d59f-4b16-91f6-6135c7409a86,Ainoa Vázquez Mate,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:46:11.843221,classic,N/A,5
+63,b4c69db7-1df4-4c5a-acc7-0764f43aaacb,Elodia Palomares-Blasco,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:10:37.701646,classic,,4
+63,1216d094-7cf1-421b-9b18-fcbaff2b13e8,Iris Vara Ponce,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:46:22.814519,without_onion,12.69,2
+63,0088cb30-c442-49c2-88a0-c6f3ea7eea1c,Amador Vallés-Parejo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:56:31.488438,vegan,12.22,4
+63,d073bcd6-c3a7-4167-83d0-4545184b631e,Juan Gual,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 18:54:52.167602,without_onion,N/A,4
+63,56862784-3ad5-4519-ad42-8ca5d28ae047,Manuela Bernal,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:15:52.051388,vegan,8.85,1
+63,80d67ba8-41b2-452f-a76a-db7c189b2f3c,Tiburcio Salvador Mendoza,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 05:02:50.465227,without_onion,11.25,2
+63,6158d3a5-af82-4e1b-ac0b-650fba38515c,Nico Coloma Bayona,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 03:17:22.872177,with_onion,N/A,5
+63,1593816e-bdfc-4be2-a682-7624ff1beb73,Omar Izquierdo Casanovas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:54:11.960000,with_onion,N/A,5
+63,61a20c53-1903-43d6-8785-0b0939f2ebf4,Santos Villalobos-Fuentes,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:00:43.764029,vegan,N/A,1
+63,821e5c2b-3817-4329-9dec-51c391de8083,Florina Caparrós Moreno,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:57:32.877243,with_onion,,5
+63,4948bf40-a606-46e7-95c8-cb34583e64eb,Josefina Palomo-Aliaga,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:12:19.658142,without_onion,6.28,4
+63,faa66783-8ed7-48d3-b0d8-aea68ea7f5e1,Primitiva Coronado Buendía,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:10:15.486228,vegan,,5
+63,027011f0-58ed-4bbd-9098-a73aa5f22a4c,Baudelio Aller Lamas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:48:02.940397,without_onion,N/A,4
+63,5e1d87f6-56bb-43c0-99c3-18e16ffd1161,Cristina del Araujo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:59:21.391435,classic,,1
+63,ffb2590d-1ca0-4db8-91ef-92457c6022c5,Belen Fidela Andrés Ribas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:51:38.768953,vegan,,4
+63,50990407-3b7e-4952-9954-2e5ce57f1e4c,Juan Rosell Gordillo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:38:56.001929,classic,N/A,4
+63,3d2c9534-1551-4132-b8c4-0c4f94f0aaeb,Alex Vargas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 16:09:03.745035,vegan,N/A,4
+63,2f2fe3e1-8f5a-4e37-8570-6ba19b5a9b8e,Marisela Natalia Portillo Saez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:03:09.419983,without_onion,,4
+63,da922ed1-325d-4f62-b224-976504e4258b,Adela Colom Río,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:57:24.375223,without_onion,,2
+63,08d73bf3-9c5a-4266-bc34-1eb192d788fa,Camila Macias Bustos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 23:59:49.962069,vegan,,2
+63,9aaadaac-6688-4a3d-9813-71c78bac380a,Nando Angulo Gómez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:12:14.393048,without_onion,11.99,1
+63,2991bbcc-fcf2-4ce3-a229-ce95774e2bd3,Clemente Ballesteros Neira,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:51:46.349690,with_onion,,4
+63,e0f96531-1d2c-42e4-8e53-9e5cd337af09,Danilo Alcázar Nieto,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 13:40:17.507895,vegan,9.76,1
+63,4d2e6e4c-efb4-4186-a498-09f29975d5e7,Gracia Donaire Pablo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 15:46:53.050834,with_onion,N/A,4
+63,91d69d6c-a602-4b21-aaa2-bb9a45d264d2,Noé Busquets Saldaña,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:49:03.926453,classic,7.79,3
+63,54c47b11-e806-4211-bbe7-07a3e6cbb68d,Perlita Gascón Moliner,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:33:17.391363,vegan,,3
+63,7f802d1a-aed9-4148-baa2-b2a46d0d752c,Amor del Hervás,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:19:58.428763,with_onion,N/A,3
+63,71a6688a-8cfb-4e92-a5a6-3907f0978d81,Natividad Villaverde Ojeda,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 14:35:01.613362,classic,N/A,2
+63,9f9a53a4-c916-4f6b-ade0-fc859b4e12e2,Florinda Segura Alemany,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 19:47:37.485972,without_onion,,5
+63,82041121-eb29-442c-94ea-c8eb99b36b1c,Demetrio del Ferrero,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 20:12:21.476546,without_onion,6.33,4
+63,5182d25a-82f6-49c0-80a5-aa8636ccdfaf,Che Guillen Palau,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:51:57.740411,with_onion,10.12,2
+63,f30d2e39-ca9a-465a-9b6e-eb495cbb2a38,Ruperta Montesinos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:58:25.663467,classic,,2
+63,c0b6cac4-7a18-4324-bcc1-ff969facb916,Oriana Echeverría-Bustos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 04:04:29.334354,without_onion,12.29,5
+63,e4347381-acf8-48f0-996b-fa9e0fba8b9f,Olegario Díez Revilla,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:28:13.508356,without_onion,,1
+63,442a3a67-3924-4bce-9171-c449fba96391,Teresita Lucena Mena,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:12:52.059941,vegan,N/A,2
+63,c181a259-0676-4b2c-ab17-abe78503df4e,Maxi Salcedo Bayo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:31:56.061456,with_onion,,1
+63,3f40a04c-91a3-4ddf-8a65-9a3020ac0391,Toño Pareja Ferreras,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:01:04.546694,classic,,5
+63,9478d11c-8de3-4566-b74a-2aaca3a1a3e2,Felicia Estrada Santana,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 21:15:05.442547,with_onion,10.8,2
+63,497254e7-9f7f-4faa-bb1b-88e305aa3414,Susanita Ruiz Campo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 06:55:47.397424,without_onion,,2
+63,2d0a824d-093a-4507-8265-cc4186b82ed5,Susanita Ignacia Bello Montserrat,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 12:30:47.968585,without_onion,,5
+63,2187ebe5-83c0-4c50-8776-920f94c34ebb,Odalis Cepeda Ribera,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:08:01.430958,without_onion,,1
+63,dd18a2d0-7fa7-4ade-aee0-e164cdc505ce,Olalla Jaén Murillo,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:45:02.084281,with_onion,N/A,4
+63,f3f1be19-92d3-4f0c-90bd-1ea7a1625204,Nieves Sandoval Cabeza,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 09:45:42.687509,classic,10.85,3
+63,5f9bc4cc-a5ad-4cf8-9f57-fbec396cc7b3,Marcos Lobato Llamas,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 07:43:54.862808,with_onion,N/A,4
+63,eb29d095-481a-467b-94ee-751612cd9aa2,Amaya Leon Mateos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:07:17.796813,vegan,,5
+63,125aae9f-358b-4476-b0d5-a55df26d6d45,Miguela Grande Sancho,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 10:01:29.431185,with_onion,6.54,3
+63,0a90d2fd-13f6-4cd2-ae76-27a7d5c4f3b5,Merche Camps Cuadrado,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 01:50:58.136880,with_onion,12.29,1
+63,56751d20-38a0-48ad-b258-34da4b37b62e,Elodia Chacón Palacio,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 22:18:28.146085,classic,11.88,3
+63,6b1f3d22-37bb-4ca2-a309-0091bbaf0351,Marcela Rodriguez,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 11:36:47.914280,without_onion,,1
+63,4513c523-3d1f-4da5-8cf0-63ca455c6431,Fabiana Pujol Ríos,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 08:22:40.264276,classic,N/A,1
+63,7dfd8a26-671a-496f-a07a-0c3ef45b26b9,Eva de Solana,Murcia,"Cañada Poncio Bastida 925, Cantabria, 13116",2026-05-01 00:02:41.110013,vegan,,2

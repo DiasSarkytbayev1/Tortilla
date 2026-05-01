@@ -1,0 +1,116 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+7,a4a68e80-ec0d-402e-8ed1-ea0f6e9b9c9e,María Cristina Álvaro Valera,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 09:59:28.493750,vegan,,1
+7,ed6f9c69-b34d-40ff-80ac-4fdefef9ad49,Venceslás Garay Bartolomé,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 21:47:21.943068,classic,N/A,1
+7,55d2fe37-d2cf-4046-a961-23bd524be512,Ricarda Gomila Escobar,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 22:34:04.578725,without_onion,10.54,4
+7,a5100578-e90b-4e20-9249-192d69dd2cf5,Azahar Campillo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 15:02:30.705521,classic,,5
+7,81d381dc-d63a-4d92-93da-12828963ed22,Teo Pino Vaquero,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 15:28:59.110032,vegan,,3
+7,6ade39ad-554f-4c33-905a-7804fa01c0ed,Irene Acero Carlos,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 11:18:13.887793,without_onion,,3
+7,5952585f-66f2-4c7a-9aa9-451107f4ecb1,Cruz Ripoll Ros,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 18:39:15.335135,without_onion,,1
+7,5520656a-c44f-40cf-91f1-15ef03b75d78,Agapito Farré Campillo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 06:31:14.246968,without_onion,,1
+7,2e067ebc-9374-4324-8b8a-b483bce00442,María Jesús Tomás Acuña,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 01:19:01.398131,with_onion,,3
+7,54768dae-47df-4b4a-be4d-f4d708fe96cb,Paola Juana Roda Medina,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 10:41:14.717178,without_onion,7.35,2
+7,fd5442d1-616c-412b-8aa1-5f9013737306,Juan Bautista Vicente Villanueva Soria,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 07:42:36.854690,vegan,N/A,3
+7,d386cd41-5d29-4a24-9dc6-5964c45249ff,Manuelita Cerdán Pol,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 18:18:15.620426,vegan,11.81,1
+7,3e6914f8-94eb-44f1-bced-e01339915d59,Leyre Bravo Flor,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 06:13:01.259076,classic,,3
+7,32df5aed-6d49-4076-bc64-fdc5bf36ff49,Carolina Galván-Jerez,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 07:04:54.735804,without_onion,12.13,2
+7,89753619-6835-466e-9a0f-800d9f299847,Mar del Cabo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 01:42:50.729952,classic,N/A,2
+7,5b2fd13c-d38e-4f7c-8872-a8a536241681,Luis Rebollo Hernández,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 16:07:11.461650,without_onion,11.74,1
+7,b2267461-a64a-474b-b464-4b9fa47f84cc,Oriana Montalbán,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 17:20:56.417794,classic,,4
+7,4c92d9f4-35ed-4ea3-b94d-69440e67e073,Elena Benet Almeida,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 19:23:19.101708,with_onion,13.62,5
+7,f18c82d0-1811-4a74-8152-9b4ce6e6428f,Matilde Leonor Cazorla Ariza,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 08:26:30.756081,with_onion,8.37,3
+7,d21608f5-a475-4a68-a215-57f398adb2b9,Simón Hernando Aguiló,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 04:55:31.907072,with_onion,10.52,1
+7,cc1d8090-dfce-4de9-bb9d-a4c647a9e1b6,Luis Ferrando Bernat,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 06:49:07.848401,with_onion,N/A,2
+7,38b52d8a-159a-4970-918f-f9264add137d,Primitivo Aparicio Barral,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 15:08:09.949441,with_onion,,1
+7,4e539d4a-968c-4e38-af73-b2eb561907af,Armando Pallarès Saldaña,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 18:44:25.701912,vegan,N/A,4
+7,cd75044f-05b2-4319-9e09-f0666b60a670,Lucila Cuadrado Olivé,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 20:40:44.176037,vegan,6.91,1
+7,9e013da0-927a-420e-88ea-fee1e4238284,Nilda del Ricart,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 21:06:38.602199,vegan,N/A,2
+7,efcc4007-6666-4ff3-8959-67f963d735d6,Pilar Valenzuela,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 14:07:05.564950,with_onion,,2
+7,bf49b691-33e1-4071-98c7-fff6a45804a0,Gisela Soriano,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 09:01:22.014137,with_onion,,4
+7,67afafdc-c2fe-4a22-a3e0-b66cbf8463c5,Belen Elisa Carro Fiol,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 00:35:40.005599,with_onion,7.03,2
+7,3d760b34-5f14-4a53-b991-db3c401a6ec9,Antonia Cases-Arranz,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 08:59:09.264416,classic,,1
+7,4965771c-479f-4583-9eed-4d631616889a,Edmundo Valencia-Alvarez,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 09:46:22.302604,with_onion,6.44,4
+7,d4e00939-780f-43f7-9bb4-4343e7926b2e,Elisabet Azcona Gargallo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 21:43:06.679284,classic,,1
+7,d53ee52e-9f48-4453-9419-c624fe055d4c,Rolando de Sarmiento,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 15:43:26.262340,without_onion,,3
+7,61808228-6314-4dd8-916a-15a3d244e202,Anna Lara Abad Rius,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 16:55:43.311113,vegan,9.86,1
+7,be82b800-94b7-432b-9bb9-0e202e2f25d5,Amanda Sarita González Calzada,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 10:09:29.119976,vegan,N/A,3
+7,c9b5de53-be27-4df3-8f9c-a42b49c273a8,Lorenza Ferrera-Sanabria,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 23:55:46.595716,classic,N/A,4
+7,9fcb8272-2e3d-476c-b651-84e956c19bac,Emiliano Baró Abril,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 12:42:28.065007,without_onion,5.16,4
+7,0c3f24ff-c8cd-4158-8cb8-393e380a7280,Clotilde Yolanda Nuñez Verdejo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 04:00:42.241738,with_onion,,1
+7,5a044ddd-b41a-483c-bcc3-b5e7ec68b7d3,Cayetano de Quintero,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 03:45:03.221370,vegan,N/A,2
+7,3911c9e4-3fe7-4423-979b-952d29bd8568,Rosario Santiago Montserrat,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 23:03:26.400509,classic,N/A,3
+7,7ba53da0-7b2b-4b03-b811-584ead9841d0,Elisabet Berenguer Miguel,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 16:12:31.053961,with_onion,12.73,3
+7,614efc0c-d784-46f1-8c00-1c2b2de985a6,Encarnación Montesinos Arana,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 00:23:22.440292,without_onion,N/A,3
+7,e9c5d9e9-f1ed-4a53-9048-d4bfe6f755c8,Ciro Lopez Álvaro,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 08:23:22.301794,without_onion,,5
+7,ed915f2b-a791-4e7c-b65d-a6aa249ee894,Ligia Franco,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 13:29:51.215021,with_onion,,4
+7,c2c1b77d-ae09-44c6-ae15-044a45b1ff86,Lupita Folch Gomez,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 05:51:02.152216,with_onion,13.8,3
+7,eae07ab7-b576-4e8e-8e36-7b94a72441be,Estefanía Ayuso Bárcena,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 06:11:22.400029,with_onion,,5
+7,b64a92d5-93bc-489b-9311-195545f4304e,Visitación Carnero,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 06:22:01.952049,vegan,N/A,4
+7,9884bd3b-3da4-4acb-8e25-45f69d8ff827,Elías de Maza,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 00:51:55.785020,with_onion,,4
+7,c043b4ed-b4cd-4c97-9bff-c27b3f4c9e32,Flor Moreno Acosta,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 13:52:14.246482,classic,N/A,5
+7,6361e3c4-77b1-4cd5-9d73-d31b1d9a426e,Benita Puga Julián,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 22:48:07.268170,with_onion,N/A,1
+7,daded705-49d9-43ad-a4f2-d1f9576ad7af,Dionisio Abellán Ricart,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 10:32:00.828494,without_onion,,2
+7,04c69e30-f1a3-4347-9819-36d28047b83a,Consuela Guardiola Luna,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 22:50:30.254636,classic,7.61,1
+7,84c281cc-fbbc-4879-9edc-9781549c2b29,Chema Alfaro Lozano,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 02:08:25.974280,vegan,N/A,2
+7,34b51964-f942-42b2-9886-2fa2589be6c7,Elodia Saldaña Bernat,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 19:14:06.491911,classic,N/A,5
+7,9cc28103-d8e5-4fbb-917d-640cef64c106,Poncio Álvaro Peña Villalobos,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 16:09:51.276413,classic,,2
+7,d316b4fd-8f28-4af2-b62a-6e07bc467734,Milagros Pastor Larrañaga,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 15:36:57.100179,classic,N/A,3
+7,9852836d-09ea-43b4-a5dc-3cb88a95adb4,Amor Gomis Castilla,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 19:59:06.921777,with_onion,N/A,1
+7,5394464e-e412-47e7-bb8d-4a2f3aec7c34,Pío de Ortuño,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 13:25:52.551756,classic,N/A,5
+7,1b0fdfb8-e79e-4dd2-abdb-c8470489e994,Duilio Salom-Bas,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 23:55:04.911518,classic,5.88,5
+7,979450e3-77e6-47ac-afec-5a98198515ad,Josué de Polo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 13:19:43.617060,with_onion,N/A,1
+7,478ab956-d6c7-420d-a1f2-a3945c24c745,Adoración Camila Mir Arnaiz,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 22:42:32.468251,vegan,N/A,3
+7,be7530ff-fbf7-4a56-9a1e-f58ec8e49e25,Teófilo Yuste Barbero,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 05:18:34.193426,classic,,1
+7,593fdcd5-a6e8-40f8-b6dd-79dfe3b99c41,Rufino Salinas Aroca,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 12:49:18.275616,without_onion,,1
+7,88dabc9e-f361-4aed-9773-f3f37741370b,Pepito Llamas Estrada,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 06:41:17.729691,vegan,7.08,4
+7,45d4e446-0ba6-4172-ae7a-6822985915a6,Guillermo Cerdá-Mármol,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 08:25:22.721005,with_onion,N/A,1
+7,6e237383-d5bd-4a5e-a35a-a87f80084331,José Luis Barrera Córdoba,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 14:47:36.862291,without_onion,N/A,3
+7,811ef01c-2e2b-4da5-8056-1ca00045ecec,Fermín Figueroa Prats,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 22:34:52.262391,without_onion,7.63,3
+7,8d17d7f4-5c8f-453c-a46b-31dff90ad61f,Bernardino Riba Gutiérrez,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 04:12:35.273740,without_onion,,2
+7,4548dfaa-5aa9-4058-afd4-e7dbba6f6ece,Sofía Ródenas Gárate,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 21:02:07.417001,without_onion,,5
+7,1704f5c5-b2cc-4469-9e01-40e664e56e85,Nacho Portero Olmedo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 04:47:16.101546,without_onion,13.64,2
+7,125815d9-4ce1-4b46-a4c4-39f5da0d2eee,Ámbar Echeverría,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 16:25:23.244559,classic,,3
+7,959b3b63-c729-42c8-aea4-ee3290919719,Olimpia Apolonia Amador Prat,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 07:54:38.167978,vegan,N/A,4
+7,49696339-832b-47da-af3f-26d743a201e8,Isidora Aparicio Gabaldón,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 21:06:42.081179,classic,8.05,5
+7,e7b40e25-39a7-49ba-a698-8e84132d32e1,Gabriel Ángel-Téllez,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 11:42:27.454054,without_onion,11.11,4
+7,6f3bd115-443f-4ba3-b0fc-565d631daa69,Carina de Alba,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 06:22:42.369168,classic,12.63,4
+7,daa49a26-2541-4f1e-975a-b5cc4393d1e8,Santos Campos Sotelo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 04:26:08.088586,with_onion,N/A,2
+7,80bd7884-05fb-45d9-b36c-c5a617efa477,Dionisio Pina Esteve,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 09:32:33.848548,with_onion,,2
+7,d7291808-d191-453e-b7af-ee5b02c4a8e6,Nazario Ramiro Vallejo Aguilar,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 08:30:18.661187,without_onion,N/A,1
+7,1e110024-d24c-46fd-af15-7e4dcbd3897c,Tamara Mariño,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 16:21:12.249176,vegan,,2
+7,ec80dc34-cdba-4db8-829d-4167f96984fd,Iván Burgos Exposito,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 12:17:31.758667,without_onion,,5
+7,0dd50cfe-197f-477f-870f-b50710db362a,Rómulo Wálter Álvarez Alcalá,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 23:40:59.274298,with_onion,10.68,3
+7,4025a8ce-e235-4447-8d1b-f9a5788e542e,Aitor Gilabert Salinas,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 16:12:19.777633,vegan,7.14,3
+7,ad3cc0cf-5c80-4f15-950a-4a1a19bcf911,Elodia Cervera Galindo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 16:21:38.926492,vegan,N/A,5
+7,47bb25f3-e29f-4d72-9436-1b61041ccc9d,Heraclio de Lobo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 13:38:13.801106,classic,,2
+7,2b27688a-05fe-4dcb-8434-aa623da3a651,Sandra Porcel Porta,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 21:25:40.175080,vegan,9.5,2
+7,79d35f38-14b8-4c03-ac11-838474e939f4,Elpidio del Zamora,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 19:46:49.456821,with_onion,12.17,1
+7,db2538bb-066d-4180-8bb4-ac6a4746cd77,Marciano Hernández Porcel,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 22:48:55.527114,vegan,6.49,2
+7,5704053a-1116-4194-a187-39ae6089e2a9,Modesto Chico Cárdenas,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 19:07:46.849094,classic,7.26,2
+7,7049fc5e-4a67-4646-8e33-17475b861687,Benjamín Fabregat Ferrándiz,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 20:19:13.065375,vegan,8.05,5
+7,4fa8d22f-5f16-4ba9-8722-2d7867441f83,Gerardo Pallarès Echevarría,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 11:40:07.346531,classic,7.02,3
+7,edef5346-4256-4e82-a376-122dc4f08cef,Borja Paz Alsina,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 10:42:18.840305,classic,,5
+7,2847e55c-a0de-4360-8fea-83a961416b94,Guillermo Briones Zamorano,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 22:00:24.181013,vegan,N/A,2
+7,3582067e-bfb3-48bb-a7d4-355cd42f6944,Aarón Osuna Benavente,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 05:37:20.309079,classic,N/A,2
+7,d1341080-2592-455a-8310-f2d88465b372,Fulgencio Vicens Nevado,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 12:47:13.393254,without_onion,N/A,4
+7,98e31bd0-43a1-4d57-b071-6cd875586466,Seve Caparrós Téllez,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 18:45:56.590176,with_onion,8.62,2
+7,e4989ece-8038-452a-9da5-fd2fdc611c9c,Florentino Sola Montalbán,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 06:33:43.991270,with_onion,N/A,3
+7,7cd2d729-c979-4bff-86a8-eb66b555e746,Fernanda de Hierro,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 05:31:18.332856,without_onion,N/A,1
+7,1c7baf37-dedf-4941-9729-87716b4a9fa7,Adoración Godoy Villalba,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 22:01:16.458993,without_onion,,3
+7,bca5f181-f5ad-4f42-bf67-ac27745b7d79,Candelaria Sureda Ayala,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 01:58:33.383022,vegan,N/A,3
+7,9cf0c858-ebee-4e90-a1cc-631f884fd7b5,Ismael Corral Montesinos,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 04:49:11.440508,vegan,13.53,4
+7,bab0208d-94d1-43c0-8c0a-9d90a967ee88,Loida Estrada Ruiz,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 17:37:28.522848,classic,N/A,1
+7,2c8dd2a1-4068-48cc-96b2-49bc54dcf0ce,Leocadia Murillo Ballesteros,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 06:30:35.723963,classic,N/A,4
+7,85a1da2f-ab6c-4dab-b926-a812ba8ba7ed,Casemiro del Salvà,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 09:29:41.002508,without_onion,11.18,4
+7,f983afd9-f252-4e2e-b9f3-ef4da023ab86,Judith del Corral,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 10:47:33.734373,classic,,1
+7,bbb8e055-fd51-4258-aa70-5d1987c96bae,Florinda Campoy Arias,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 02:01:11.156112,with_onion,,1
+7,3e4a46bd-ef84-4239-80a2-d7279be4cc6d,Baldomero Cabezas-Villar,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 21:27:28.486403,classic,N/A,4
+7,7387e00f-913d-4dc5-9f0c-fe0f3be7f723,Fabio Flores-Cobo,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 17:08:37.547445,without_onion,N/A,1
+7,17708c91-5084-4ced-b334-21f8ab24f1db,Alberto Darío Mercader Acuña,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 02:22:43.355463,vegan,6.35,1
+7,69ce4551-42ab-4fd8-90e8-170f90228a74,Máximo Raya Gimeno,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 20:13:34.518466,with_onion,,4
+7,bbc6d067-358e-43e7-9fe7-6ce9972ce2dd,Benigno Tudela Lerma,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 20:32:16.642903,vegan,6.32,2
+7,656e9651-9d12-44a8-ab09-5e1e491598e1,Gustavo Sáez Sobrino,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 17:51:50.874984,without_onion,6.03,3
+7,191bb5a3-66d0-4823-82da-6eaa85bdfa82,Leticia Santos Jaume,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 03:03:18.159576,without_onion,N/A,4
+7,2ad0316b-0776-4862-85e6-da2eba43f486,Juan Manuel Fidel Santamaría Duran,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 10:45:42.953595,classic,6.73,4
+7,4c42dac7-6f68-4783-8c73-e31913e436c1,Antonia Calderón Piña,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 14:58:17.383467,vegan,N/A,4
+7,9c9ab50c-c28a-4ae5-88a5-9df8d885b29b,Edgardo Olmo Campoy,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 16:05:15.477895,without_onion,5.38,3
+7,2f9f77a9-42f7-466d-866e-7799995cca7a,José Luis Durán Bernat,Valencia,"Glorieta Eligia Saura 876 Apt. 77 , Albacete, 39477",2026-05-01 02:34:48.394740,classic,,1

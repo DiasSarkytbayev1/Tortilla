@@ -1,0 +1,72 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+92,8b8afc3c-0a53-453e-b1ff-af32d78adb24,Ani Ainoa Manso Guzmán,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 20:49:59.344503,without_onion,N/A,1
+92,4fbcb9d9-45fe-49b3-9c64-bb65d3883573,Elisa Aguirre Pina,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 14:56:23.335929,without_onion,N/A,2
+92,ab52fa97-d8b8-4dac-8aa3-2084422b6de7,Encarna Sales Valenzuela,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 16:41:02.120052,without_onion,N/A,4
+92,64e81fef-fb35-4fba-9a92-92a86d3fa044,Clemente Cañas Carnero,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 09:32:41.681635,vegan,N/A,3
+92,533c1555-4e5b-45f7-8ae3-283dc656e098,María Belén Requena Conesa,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 00:30:16.602077,without_onion,,1
+92,618a2950-6d81-4ff8-8201-2a7bd5becadd,José Manuel Barragán Montoya,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 13:08:26.362916,classic,13.6,4
+92,412598dd-dbfa-42d4-9235-c822debea1d5,Matilde Araujo Llorens,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 10:50:55.982017,without_onion,,2
+92,47774985-6828-4f67-8168-2d6dd6f4f6fc,Toño Correa Quintanilla,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 15:06:48.767536,vegan,,2
+92,ee053d28-2884-4a68-af41-aea1615a2253,Mauricio Molins Estrada,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 13:13:17.985469,vegan,N/A,4
+92,41028783-29a6-4e4d-87fa-044ed1ff5af5,Dulce Carbó-Esparza,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 00:49:35.775800,with_onion,9.84,2
+92,bac5aee6-f018-4fcf-a99a-92ad2809b142,Gustavo Anaya-Antúnez,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 14:36:21.476762,classic,N/A,5
+92,0c52a07a-23d7-4be6-9eae-0e74fd67ea89,Marino Sevilla-Bauzà,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 19:25:42.483874,classic,10.39,1
+92,32e4d0e9-8371-456d-b17d-a6fa87996e66,Chita Cuadrado Sáez,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 08:36:40.649148,classic,N/A,3
+92,7bcf02a4-0bd3-4148-8c72-e03588cdebc1,Rafa del Amor,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 18:01:53.280922,classic,N/A,2
+92,887a5ae4-d239-4f46-bc58-30a3d4b2f405,Demetrio del Luján,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 10:44:03.141454,classic,,2
+92,029b342c-7275-4598-a5f7-838b5647b268,Lina Figueroa-Mendoza,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 23:47:29.500371,vegan,9.88,1
+92,744ef63c-1d2d-4fa0-93e9-913e5154718b,Anabel Marianela Barrio Castrillo,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 10:42:17.257570,without_onion,,5
+92,df33ffe4-4164-4404-981b-ccc038208e76,Maura Urrutia-Gomis,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 10:38:49.279861,classic,N/A,3
+92,2ffd787e-868b-4f96-96e2-5ee7bee2f685,Reynaldo Girona,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 07:31:37.396062,with_onion,6.53,3
+92,eb8c7171-f4a2-4030-98ad-4f327684d6d3,Olalla Cárdenas,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 01:28:27.473827,without_onion,N/A,5
+92,14aa381f-2da7-4c0b-aa27-a44a4ec65ed2,Candelario Tolosa,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 22:57:55.074858,without_onion,,3
+92,97586a9a-3acd-49a4-8f2e-66188345129a,Julio César del Oliver,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 02:09:51.447983,vegan,9.73,1
+92,665b61fd-c6e7-4324-830b-c2bbaefb5b40,Pastor de Pablo,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 06:28:04.616863,classic,,1
+92,d7514be3-904f-4ae6-9a6e-d5b3aaf46a78,Alejandro Díaz Caro,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 04:59:44.859887,vegan,,5
+92,f0f2702d-3fc0-4fe0-b5a1-bad56c02304a,Nicanor Hoz Zaragoza,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 17:01:53.026375,vegan,,2
+92,312897b1-5339-4c55-93d7-75f591040131,Rosalina Iglesia Vives,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 19:48:36.756880,classic,N/A,1
+92,bbdeaafd-d3cc-4e70-823c-d7efb4f1cd9f,Hernando Alvarez-Arribas,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 07:01:40.454002,without_onion,12.55,4
+92,b2156bdf-b0c2-4ea8-894d-7935f5f0ce24,Román Julián Quintana,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 14:41:49.997054,classic,N/A,1
+92,bc7309e3-3d03-4c7d-a4c9-f3aa3f7a119f,Lola Meléndez Valentín,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 11:56:58.213236,without_onion,N/A,3
+92,374f1997-a27e-4e1b-88c6-ca0c656bac2f,Daniel de Giménez,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 09:27:09.108268,classic,N/A,1
+92,fc30bb2e-dc65-453a-8dcf-96c9653e558b,Desiderio Adalberto Morillo Nieto,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 18:24:24.858166,without_onion,N/A,4
+92,0d6b665b-770e-42fa-b813-5d6e61623265,María Carmen Castells Mateos,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 20:50:14.675742,classic,13.15,2
+92,89fc411e-0b6f-4b33-977b-7fc11ed05941,Jimena Carreño Zapata,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 13:20:41.031114,without_onion,,3
+92,43db7504-99e8-4be7-8050-65d7444d273f,Francisco Cuenca Guardiola,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 14:20:08.568992,with_onion,,1
+92,f13a8904-51df-4d77-8927-9e0896cfc8ba,Carolina de Montes,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 18:15:07.531880,classic,13.81,5
+92,6cfcb862-b146-4995-a434-4e8b45611d5b,Ramiro Ramirez Caballero,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 12:46:57.853789,classic,N/A,3
+92,d3ac174c-8c8f-4534-a66f-e965a6da47b3,Gema Leyre Álvarez Ferrero,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 02:22:46.346483,without_onion,,4
+92,4df31568-0807-49ae-b0d4-fde1ea83ff62,Conrado Figueroa-Solsona,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 17:19:01.883853,with_onion,N/A,4
+92,9bbd06ca-637a-4836-9536-54443a620ba6,Alonso Tapia Caro,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 03:58:23.697189,without_onion,13.59,3
+92,fea1724a-c02e-42d3-a6bb-57b7cfd8396e,Amor Sarabia Cerro,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 18:35:05.999171,without_onion,,3
+92,883ce0e0-6283-4cf8-a0f8-5674a8b1917c,Noemí Expósito Alcázar,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 07:16:16.908337,without_onion,,5
+92,fda5df73-9482-436f-85f4-24cab90480f1,Teo Roca-Valenciano,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 21:24:47.829049,vegan,13.85,3
+92,979c71d4-8c15-46e7-a4c8-932579b0ee05,Norberto Asenjo,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 08:04:54.682880,vegan,9.38,1
+92,41928cb6-6477-4d4c-980f-869cb5beabb2,Marcelo de Carmona,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 19:14:58.070016,classic,13.08,4
+92,e96a3a30-e067-43d5-aa31-992918152293,Demetrio Alcántara Jover,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 01:50:38.689612,with_onion,,1
+92,2daa72f9-3c8d-405b-94a5-bd3645050b83,Graciano Almazán Trillo,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 02:03:54.591164,with_onion,,2
+92,9d7cf036-5d2d-4a25-8f8e-d703f4d3186e,Vasco Luz Heredia,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 10:58:59.353911,classic,11.62,2
+92,dd090cd2-1bc8-429c-be64-42b0358785cc,Teodora Hurtado Carreras,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 10:11:40.070318,with_onion,12.89,3
+92,a504b27f-1fe0-49ce-b804-0bbb5e268a94,Luisa Bou Páez,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 16:38:05.627956,vegan,,2
+92,1c034f0a-4037-438b-a94c-1932cc4a4212,Jacobo Zorrilla-Ángel,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 10:49:33.310408,vegan,13.59,5
+92,d106d254-ba47-4bba-875e-a6f9e7093e26,Fabio Laguna Castilla,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 02:41:22.930035,classic,8.97,2
+92,075b723c-7b58-40c5-a542-a9a4a1257134,Artemio Valerio Cañas Escrivá,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 07:26:25.411116,with_onion,6.31,3
+92,8bfc17fe-9e3c-4e82-96f5-0845f405804d,Lucila Sans Anguita,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 02:50:51.155929,without_onion,N/A,3
+92,1a87e24b-e04f-46dc-b884-9414a81e10a1,Isaac Fabricio Calleja Toledo,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 12:45:02.127799,classic,6.54,5
+92,350196d0-d5f1-4f6a-a113-ab66649e7fef,Sandalio Esparza Cerezo,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 03:01:38.224180,with_onion,8.91,1
+92,b544e321-6ff9-4ba7-9dc5-636ea47518f7,Virgilio Gisbert Amigó,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 00:19:41.317421,without_onion,14.79,1
+92,93543ef4-b477-43b0-81f5-bc04c11840ee,Miguel Agudo Peñalver,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 12:39:14.592627,without_onion,12.1,3
+92,6ea16007-9513-4b59-abe5-c8f1d6e553c2,Teo Huerta Abascal,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 17:27:49.577328,with_onion,,4
+92,5985d5c2-a170-4af6-830e-66aa57dfffc1,Angélica Simó Agullo,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 13:56:35.004754,without_onion,N/A,1
+92,671a9c9b-48c1-40cd-8a38-9b821cdb077e,Paula Benet Pla,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 15:40:56.128967,with_onion,14.55,1
+92,f6e11d69-88bb-4d3c-b3a2-24f1b77198f7,Isaías Meléndez Luna,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 18:48:46.528402,classic,,5
+92,9abd45d6-4403-4193-8b70-59cc12a5c86e,Segismundo Olivera Crespi,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 01:07:34.463185,with_onion,N/A,5
+92,6399901f-da5b-4af7-9565-743d595760e9,Yéssica Garrido Núñez,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 14:21:35.922435,classic,N/A,2
+92,53a3bda1-4865-4475-a8f1-07533286b5ed,Omar Roselló Ferreras,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 04:35:28.480178,without_onion,6.55,2
+92,597b666f-cb40-41c4-810f-bc36d86e879e,Lola Melisa Jiménez Fiol,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 08:36:35.480848,vegan,,5
+92,84de4178-6ceb-49f9-b164-24303b4dba20,Hortensia Calderon Bayón,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 16:11:43.948993,vegan,11.05,3
+92,fc57e504-7b70-40c0-9fb6-19135eb1617c,Concepción Luque-Olivera,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 04:48:34.543631,with_onion,N/A,5
+92,67e6899a-2cfa-4674-a10d-e065c8737fbe,Haroldo Cases Gámez,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 14:03:49.237075,without_onion,7.77,1
+92,754edd32-3a82-491f-a6ca-484fbea4a5bc,Ofelia Trujillo Navas,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 20:36:46.793187,classic,,5
+92,886b6bd7-cfc1-4d98-910a-e8168472f7ce,Nieves Sobrino Novoa,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 20:59:03.024136,without_onion,,1
+92,27f3038d-6ef2-432e-9450-039c38e581f3,Albino Roura Ferrándiz,Palma,"Via Francisco Jose Torrecilla 16 Piso 5 , Melilla, 15417",2026-05-01 15:47:48.314611,vegan,7.18,2

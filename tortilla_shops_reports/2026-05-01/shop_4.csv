@@ -1,0 +1,177 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+4,0172431c-5839-4739-876b-9557077a5d81,Belen Varela Serra,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 15:18:27.051038,without_onion,N/A,5
+4,bcebe8bc-f8b2-481c-8de3-63b804b7b75d,Amelia Canals Carranza,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:24:05.221677,without_onion,7.4,3
+4,9a3e1f13-6ed8-4743-92dd-ee3acedee0ba,Román Cervera-Carbonell,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 07:26:12.649216,classic,N/A,2
+4,418e598d-77b4-4dd4-b58d-de1e0620d39d,Eloy Alvarez Rivero,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 22:10:04.105578,with_onion,N/A,3
+4,21c35b65-7c5e-47c4-91a3-d794d9a1ddc7,Araceli Asunción Fiol Echevarría,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 10:21:11.465740,without_onion,N/A,3
+4,fa49c260-9dfa-4b45-a47c-5f7f917a10a4,Wilfredo Ariño Tejera,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 21:24:55.499728,vegan,,4
+4,c7c18fa5-d829-4492-869f-7e8283e4aa05,Apolinar Salas Mulet,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:48:00.781609,with_onion,N/A,2
+4,ca1cbbae-727d-4d70-bc19-59ad60534ffc,Lope Barrera Reig,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:14:42.478854,vegan,11.07,4
+4,ea8b5093-b139-43a3-b97d-2d739658b350,Samanta Haro Puga,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:36:49.196606,classic,N/A,1
+4,beffba9a-499f-4ed3-abe5-f7d85a6090ed,Augusto Juan Peiró,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 22:58:06.545809,classic,,2
+4,071e520e-b3ca-4fae-b77a-2f2e61399462,María Pilar Pareja Pascual,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 07:13:46.329790,without_onion,,3
+4,dd616836-f7bd-4159-8ba1-beb5b3095418,Charo de Murillo,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 05:24:51.397893,classic,N/A,1
+4,2b318f93-4447-46ab-9761-29e25462f2ea,Verónica Gascón Cazorla,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 08:03:11.957240,with_onion,6.86,2
+4,a597a033-2b44-46e3-9e0f-e2a40e6af942,Graciana Diego Anaya,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:54:17.246989,with_onion,12.85,3
+4,58b9ec25-d493-46a0-9ccf-a797ea3dbb85,Lucio Mayo Lastra,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 07:40:05.325922,classic,8.11,3
+4,6ddc3536-e881-42d2-8111-09e8a09714f2,Abel Menéndez Recio,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 08:58:25.193017,with_onion,,2
+4,915ffa98-06cf-46ab-97fd-6972c6593763,María Del Carmen Tenorio Quintanilla,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:06:02.602120,with_onion,7.63,3
+4,99224231-fbfd-4526-84ed-9ccf9241c9ae,Selena Martín Castells,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:13:14.978503,classic,8.12,5
+4,fe1d81b0-3e86-4c4f-8be2-87f961170799,Anna Batalla Beltrán,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 03:18:17.738874,vegan,N/A,5
+4,2b6f6731-5318-447e-9137-c2997ffe2eb9,Valerio Adelardo Corbacho Castro,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 11:31:39.120630,classic,10.98,4
+4,989c3991-5be6-4cb8-b844-8c2833821503,Gilberto Millán Jerez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 05:08:39.189224,classic,12.22,3
+4,33053de5-26c5-424e-9bc1-e8ba9006e178,Nadia Abascal Torrijos,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 01:59:06.439988,with_onion,,3
+4,a867ae2c-8374-425c-aa06-2f18e516e080,Adrián Eladio Peláez Alarcón,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:28:21.480684,without_onion,12.87,2
+4,ae8b8844-175e-41ed-9be9-1bc556d0b1a2,Inmaculada Santiago Mas,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:38:58.833823,classic,N/A,1
+4,9fadabd4-457c-4c88-b402-25fc8cb7698d,Jose Antonio Puente Calzada,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 14:43:29.905389,with_onion,N/A,2
+4,a256eed8-e7df-4e59-902f-da1a086df367,Eutimio Joan Blanco Marí,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 15:05:21.613058,with_onion,12.74,5
+4,8174f9e9-be20-46b5-ab7a-bf1dfdeec1eb,Maura de Araujo,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 09:18:31.567866,classic,N/A,4
+4,29b5b345-8933-4a03-be44-0a2d7dbda992,Segismundo Macías Diaz,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 20:58:38.595978,vegan,10.56,2
+4,900a58b2-1047-400b-9168-a1a7c919f59d,Emma Vidal Balaguer,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 10:17:52.599338,classic,13.69,2
+4,1f81632d-b9b2-40ce-bd26-eb3334f56c20,Adelardo de Cárdenas,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 09:40:25.988353,classic,,1
+4,9669afe3-4bac-4901-8355-e6e02172de82,Maite Ribes,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:30:30.229213,without_onion,6.08,3
+4,b9058840-e6ae-4d8d-ad68-61bdf2c411c2,Édgar Herrero Zabaleta,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:06:23.851814,without_onion,N/A,2
+4,b6c4ad77-c587-436f-a4fd-4254ee1e77be,Eduardo Alcázar,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:06:47.485379,classic,N/A,1
+4,6887f51d-e5ee-496b-a53c-05b2d39de746,Dolores Jordá Tudela,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 13:27:51.438055,without_onion,,1
+4,e2a0002a-baa6-42af-a2dd-743551bf1788,Marina Carvajal-Abascal,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:06:39.527631,vegan,5.69,3
+4,d28eaf6e-7172-49e4-908b-43cd38b863e8,Poncio Natalio Miró Figueroa,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 15:36:55.265154,classic,,1
+4,e23d74df-9d62-436c-a5dd-bd1570388ddd,Eufemia Giménez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:04:54.917805,with_onion,,5
+4,e89c7bfa-69ef-4026-8fcc-17220b9ff4f7,Baldomero Nevado Guijarro,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 13:59:27.771134,classic,14.39,4
+4,733827f4-2f01-4dcb-88a2-dcf1bb07f9c2,Jose Antonio Juárez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 01:15:22.464717,classic,11.43,2
+4,def1335e-3408-40eb-955e-4bc4d8318dd6,Blanca Ropero Gutiérrez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 08:31:59.571391,with_onion,8.4,2
+4,b185b067-b3ef-4335-abfe-220182a2f0f8,Albert Barroso Roselló,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 01:48:30.428387,classic,,4
+4,7ff0030e-484c-47a5-b11a-8286b1390c32,Zoraida Pintor Valenciano,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:16:25.129658,classic,,4
+4,496641c4-ce5b-42c1-8c35-a1266f833909,Celia Perales Lopez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 08:46:33.009530,without_onion,N/A,4
+4,f722a53c-3f34-41d4-baa0-47d782c56f0a,Candela Carpio Vizcaíno,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:53:04.994727,with_onion,N/A,1
+4,2e20274c-b80e-4c37-a022-2173a2ad2ad7,Vicente Flor Quero,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 14:23:21.380843,without_onion,5.91,5
+4,dd867c91-f851-4f0a-8b58-13aa0a90bc5a,Íñigo Galiano Andrés,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 07:25:39.156770,with_onion,,1
+4,e2e37451-6b9c-488f-b2cc-1f67324e7196,Aránzazu Piñeiro Rivera,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:11:11.393838,without_onion,,4
+4,ce74bf64-1a18-4bb2-8efd-873b0de1e6b3,Jessica Valdés Muñoz,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 07:03:37.303691,with_onion,N/A,5
+4,abe9f8db-71c4-43b0-a9f8-cddb86b742f7,Asdrubal Nogueira-Mora,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 07:36:22.299214,with_onion,9.52,2
+4,f01a6723-8df3-4b73-ab06-d98b2a91b7e4,Armando Ripoll Montalbán,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 13:29:58.107391,with_onion,N/A,1
+4,01b9c9a0-9896-40b3-9a2e-149184eb2a18,Domingo Serra Cepeda,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 02:58:31.194535,with_onion,,4
+4,951b164b-59fc-4f40-b22f-4c6cf5bb308f,Angelina Escolano-Clemente,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 05:08:20.775444,without_onion,N/A,3
+4,01542fd9-5844-4d8f-b60a-bae662ae99b9,Maxi de Báez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:02:24.008621,classic,8.43,3
+4,333ec855-44d1-4dc8-8d7a-b7052e626d9f,Maximino Asenjo-Carbonell,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:11:38.842957,with_onion,8.28,3
+4,d5c3aa70-6396-45f4-bda8-fb55884cfa89,Hugo Lalo Guardia Palmer,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:14:47.765547,without_onion,14.22,2
+4,9e9b8021-9610-4802-9539-e905e067d7d7,Adalberto Marin Camps,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 01:18:47.219746,classic,14.35,4
+4,efe2fe0e-d9c2-4e90-9cdf-70163772fe89,Trinidad del Peláez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:44:40.183185,with_onion,,4
+4,4c1dcad6-8a45-4a20-9e3d-c04a63fdd807,Hilario Blanes Solsona,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 05:19:49.007906,without_onion,14.03,1
+4,17a21f56-c6d6-4ba6-b136-dc40180c2b73,Manu Lloret Redondo,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 02:10:52.718907,vegan,N/A,3
+4,7e9705eb-8594-40a9-ae21-a820a46cffbf,José Antonio Serrano Mulet,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:03:24.192054,vegan,,4
+4,5874698f-cf08-4da6-8387-9af2967fb060,Elba Andreu Atienza,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 21:48:47.818784,without_onion,,1
+4,5a3c171c-fbd8-4879-bfa0-582c66c08b1b,Atilio Cerdá Badía,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:18:56.228504,without_onion,,5
+4,a4b7beb5-8ae4-4e23-9100-71ff9bd374ee,Javier Alfaro Berenguer,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:52:13.888702,classic,8.86,3
+4,bb832fe3-bc94-4901-a571-5c759cb72958,Nadia Dávila Figueroa,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 15:09:42.659141,vegan,5.56,2
+4,15146039-6dd7-4f8f-8419-da979384a3fd,María Belén Real-Ballester,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 22:31:10.142760,with_onion,8.33,3
+4,b2f10ade-7447-43ef-9237-e006f45e92af,María Carmen Gaya Piñeiro,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 09:34:22.375596,without_onion,,1
+4,5b379d09-87a6-4f46-b32d-f968dcebff53,Sosimo Tormo Cabrera,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 13:40:40.362230,with_onion,N/A,2
+4,bc7527be-ea1d-47c3-8c2c-4115fb90e6db,Urbano Marqués Julián,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 06:00:05.552994,without_onion,5.83,4
+4,b7a60f00-78db-48cb-9abc-05fc42b45e56,Eulalia Barriga,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 14:09:08.883581,vegan,N/A,2
+4,3546e614-618b-48ea-87be-6000ef4e559f,Luisina de Soriano,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 04:39:38.324179,classic,7.86,3
+4,ad30ec46-22fe-4788-bd12-c349ecc564c0,Genoveva Nogueira Frías,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 09:11:27.588136,classic,9.47,2
+4,e93ace89-c226-4c7b-91b3-f986ef553280,Santos Jove Pellicer,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:58:24.612331,with_onion,,4
+4,dc7d4f65-cd74-4bc7-8ec0-16d73bd8ca55,Flavio Solé Gómez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:02:01.302919,vegan,N/A,3
+4,b350d702-d71c-4e04-bffd-44de445a2d8c,Jordi Méndez Lucena,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 02:25:04.401115,without_onion,5.37,5
+4,bbf43c61-22d4-4b81-a449-b75279e4784d,Tatiana de Cerezo,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 05:11:45.213659,with_onion,,4
+4,24d8c479-670c-4353-9a5a-454e76acf4e8,Juan Almagro,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:09:52.313821,with_onion,12.99,2
+4,62fe79c6-f190-4baa-a830-545d74587ae2,Aureliano Almazán Peñas,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:22:58.622665,vegan,,1
+4,86225095-20a2-4ade-8e33-28543113e784,Guillermo Llobet Blanch,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:50:53.231314,without_onion,,4
+4,61921d2a-2466-4fa4-be1e-2ea99706c33e,Eduardo Torrecilla Blanca,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:05:34.162159,classic,N/A,4
+4,d6d2ec5e-3df4-45ef-bd28-1a49ad26b9fb,Ligia Prada Piña,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 13:59:44.059187,with_onion,N/A,5
+4,f117068f-709f-4752-941d-b15104fb2304,Carmelo Narváez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:55:36.199858,classic,12.09,5
+4,fe00f42c-aba5-4667-a9a9-3de387dfe519,Emilio Álamo Camino,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:54:59.457901,classic,,4
+4,89631f11-f95c-4587-acae-cc7972896bb0,Palmira Hervia Roca,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 10:43:16.043151,vegan,,1
+4,ce92b4be-c76c-4d95-afc4-283d9540c349,Víctor de Torrecilla,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:27:33.859718,with_onion,,4
+4,9548966b-e970-4b01-8c4e-b2887b8903c9,Emiliano Castells Juliá,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 08:03:26.895633,without_onion,,3
+4,482605c4-df84-41c3-acd4-e2e54aa3faf1,Felipa Aroca Moya,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 03:10:46.377456,with_onion,,4
+4,369b3934-b479-4a79-b13b-beee5056c1ca,Rubén Valcárcel Avilés,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 14:53:48.457418,classic,,2
+4,98e255da-61aa-4984-b779-f5bd1408265c,Faustino Pina Mulet,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 20:49:10.481661,without_onion,N/A,3
+4,d5a66f54-361e-4b6d-b513-d44eaea9db55,Estela Girona Otero,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 10:44:03.643337,classic,,5
+4,ee97722d-ca28-4e90-ad75-b3ccca0516dc,Chucho Hoyos Vara,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 08:25:54.773585,vegan,13.87,5
+4,f5bac96d-ef85-44e3-8945-7bc603415ed5,Patricio Bello Lorenzo,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 05:18:20.732472,classic,N/A,3
+4,192277f6-0d9b-4703-bd36-7b4c381b8cb9,María Dolores Llabrés Oliva,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 02:46:27.121338,without_onion,N/A,1
+4,7bc5c8f8-eabd-4507-9c23-de8225bfc405,Arcelia Amorós Quintanilla,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 11:31:28.514700,vegan,7.83,3
+4,3297734d-f21a-47f1-b9f6-a80e08b8f872,Emelina Blanch Vallejo,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 13:21:49.729591,with_onion,N/A,1
+4,49b3ecf7-eb0f-4ffb-bcf4-055f43963ec6,Noemí Ramis-Paz,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:19:23.849055,with_onion,N/A,5
+4,0bdaf504-2353-4ed9-83aa-d9e07ac8356d,José Antonio Sobrino Maestre,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 11:52:40.662947,classic,,2
+4,2a6e3232-156c-41f2-a26e-e0f367458342,Febe Ibarra Ricart,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:25:07.983145,without_onion,10.43,5
+4,9d053195-4589-4227-90ca-4d834a5ce453,Constanza Llabrés Somoza,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:19:19.198948,classic,N/A,3
+4,6288c9c4-15e9-4f06-9489-7a5feef139ef,Antonio Garmendia-Exposito,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:28:16.772323,with_onion,7.95,2
+4,9aeb2ee7-c1de-462a-8899-3f0cb6a38fb0,Araceli Alfaro Ayala,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:37:57.427864,vegan,,5
+4,c6690638-2d5e-43cd-85d6-998b8d1c8be0,Cristian Pareja Cobo,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 09:46:39.047306,classic,13.27,4
+4,850cb6e5-5c20-48fa-b5b7-64224345981d,Eutimio Pinedo-Godoy,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:27:23.966704,vegan,7.94,5
+4,528ab32a-a0cd-40c3-bf60-3014c6844352,Aroa Camino Cano,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:15:11.816696,classic,N/A,4
+4,b85a373b-7019-401a-b8e6-2deceebe4b46,Zaida Toledo Huertas,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 13:31:58.782997,vegan,,4
+4,1605522a-13cd-46e4-a76e-7be2ea7c7911,Aránzazu Pozuelo,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:20:53.097232,without_onion,N/A,5
+4,c81b406e-c7a2-4a98-a764-ebf7d4486668,Cayetano Porfirio Soler Escudero,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:36:36.721982,without_onion,N/A,3
+4,af057f76-fda7-4dfb-a49d-56f179fcabbc,Eliana Doménech,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 01:23:27.724054,vegan,N/A,3
+4,558a7d3a-490e-446e-9ad9-e24dd5ff9b42,Benita Rubio Navarro,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 03:31:33.716998,without_onion,,2
+4,59128de8-be88-45ed-b5ff-4832c315ad83,Amparo Salcedo Castilla,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 02:05:08.087944,vegan,9.08,5
+4,15c12feb-6f12-4c5a-a32c-851c5a140087,Mónica Cáceres Mir,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:20:50.167029,classic,N/A,1
+4,b3610681-8cc4-4481-aeeb-7f9fe965ac96,Gaspar Morán Quintana,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 02:34:59.977157,vegan,14.69,1
+4,a6f3e5ff-6490-45f7-b9fa-f1d5b43c50c5,Nilda Mosquera Fuente,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 05:52:24.751918,classic,N/A,1
+4,f1c1b5f7-273d-4b3a-87d1-dd00a02a65a0,Óscar Bernardino Lumbreras Tejada,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 07:44:39.555398,with_onion,,2
+4,b539ca02-382a-4476-8fed-e7df27000448,Vilma del Rosa,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 18:30:04.052540,vegan,11.82,3
+4,1cece3d6-cb5e-435c-a70b-5b4563ab269b,Tito del Múgica,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 05:46:10.848777,without_onion,12.5,1
+4,bb950327-d72d-4bd4-823d-400517b79673,Inmaculada Codina Albero,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 11:54:44.445740,without_onion,,1
+4,c5093a2c-3295-4d29-ab61-79e91edda614,Iris Velasco-Duque,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 22:45:38.447688,with_onion,12.59,1
+4,2bfc571f-ddd8-4e59-9a15-d7a35d96832a,Jose Manuel Benavente Aguado,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 14:21:07.230430,classic,,1
+4,92767392-b83c-45a4-819c-c4b2938839e5,Jenny del Paredes,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:39:33.532738,classic,7.98,5
+4,2d8ae084-e6ed-4d1f-8d74-28fb80841c3f,Cayetano de Cueto,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:44:06.359553,classic,,5
+4,91be2940-3fa4-457c-ae25-540848073c87,Bernardo Valderrama-Uribe,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 10:59:10.308941,classic,12.02,5
+4,b68eb713-7378-4757-b178-c4198585a774,Noa Eusebia Iriarte Castellanos,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:01:06.205809,classic,,4
+4,a87a1512-041d-44b2-9088-7435c88b62f1,Osvaldo Gelabert Colomer,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 09:59:19.638805,with_onion,N/A,2
+4,a1946221-fd5d-42a8-ac82-6773b64eaf7b,Josefa Franco Aller,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:32:30.986468,vegan,N/A,2
+4,affa5c64-a41d-4169-b8ac-2ca6a058e4b3,Hermenegildo Izquierdo Benavent,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 15:50:09.291035,without_onion,,4
+4,a4971445-dc8c-4890-ac4f-3ab338d5c307,Iván del Benítez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 10:05:36.548873,classic,8.88,5
+4,52a50a05-f545-463b-9967-2ac4c065c492,Ángel Quintanilla Llorens,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 15:55:55.757008,without_onion,N/A,2
+4,e707b5ef-af65-490c-9706-d2f00ea029af,Raimundo Sanmiguel Dueñas,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 11:35:41.505117,vegan,N/A,5
+4,86368f65-9974-4eba-871a-171cd0f3410e,Emilia Amelia Viana Uría,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 02:46:40.855871,classic,,2
+4,340552ab-de87-4491-8c07-7f1d9b067220,Tecla Juárez Luque,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:27:29.077873,classic,9.64,2
+4,48eb49fc-56bf-452d-b289-3b602f72930a,Rafael Chus Coloma Coll,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:22:26.938889,classic,N/A,2
+4,6782c9f9-a39c-493e-93a1-e28c81cc279e,Reyes de Valero,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:58:04.272788,without_onion,N/A,1
+4,7a2cfecf-090a-4432-8a65-bbdbce997eb3,Amaya Castañeda,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 14:27:51.473692,with_onion,,5
+4,a0e504f0-e781-4019-a88c-6313696fed9c,Sarita Santamaria Adán,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:09:01.239211,vegan,10.05,1
+4,682e5e58-0197-4b5c-98d0-ad884c7ed41e,Román Alfonso Torralba Rincón,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 11:46:12.502400,with_onion,5.66,2
+4,b15a15e6-a360-4208-9fde-19638f0ee552,Encarna Colomer,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:08:03.335647,without_onion,12.87,1
+4,4ab0728f-20e4-4b1a-a188-21c3e68906b3,Carlito Ribas Pera,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:05:44.671174,classic,9.75,3
+4,b7944edd-7ab0-4105-80a2-a9feaf3f7048,Sol Valcárcel Carlos,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:20:47.057985,vegan,N/A,1
+4,8f9e978b-8172-4f4b-b39d-70e632a8a014,Encarnación Pilar Saura Pons,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:13:42.471418,classic,11.98,5
+4,db87b575-45d5-4fc2-aa16-babd5143bbc9,Pascuala Urrutia Bas,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 03:03:12.317995,classic,N/A,3
+4,7ab4c296-bdb7-45a1-a52b-a303ce4a44ae,Blas Tejera Díaz,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 22:27:58.965832,vegan,N/A,5
+4,afefd04e-3f8f-4538-946f-cebda2b569f8,Alejo Pardo Calvet,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 04:50:22.145548,with_onion,,2
+4,34133c31-78b4-41d7-9e65-ec8ff67a2865,Amador Ocaña Villalba,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 03:59:25.335577,classic,N/A,1
+4,4931aff4-c473-4c61-9ca2-bf8ff301cc10,Marianela Figuerola Huertas,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 20:18:11.551559,without_onion,,3
+4,d918f3db-3604-45ba-9e0a-f7d7f7d76512,Sebastian Leocadio Asenjo Arenas,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 04:47:38.251642,vegan,6.15,5
+4,a15c4931-f4af-4ffc-983c-c8bc9991a9a3,Telmo Sancho-Toro,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:17:53.354597,vegan,N/A,4
+4,0486322f-da4a-4692-b7cb-405713a691ea,Lino Vall Salgado,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:41:36.323296,without_onion,N/A,3
+4,b92251a0-6929-4cbf-b909-ac79d3e28cfa,Azahar de Cerdán,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 16:04:46.003918,classic,N/A,5
+4,cad4b6ef-5997-43e0-be2c-39ee8ef6f4bb,Anita Loida Sabater Piñol,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 07:08:20.352740,with_onion,,1
+4,16fba364-0252-44ff-b9ec-64f89dce5314,Araceli Marcela Barrios Varela,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 07:44:04.139113,without_onion,N/A,1
+4,6838aaa2-f685-4052-9447-1f83d789e67b,Susanita Córdoba Agustín,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 06:45:47.322484,vegan,,1
+4,99a1452f-a984-4668-bc51-7a85eb6f8702,Ulises Lamas Cadenas,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 01:37:59.978259,classic,,5
+4,7e71d97c-9a93-49d5-9475-a15b97805c37,María Carmen Gisela Llano Gaya,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 21:50:53.811844,without_onion,10.79,3
+4,0f766ea3-1139-4e3c-8e56-a7666b04333f,Beatriz Teruel,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 01:08:33.247560,without_onion,,1
+4,d55f7fb2-ee4f-41c3-87fa-d94d179086d8,Cristina Andrade Porcel,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 13:34:28.731407,vegan,9.78,3
+4,0ad5683f-5812-4749-8afd-bd8c75118a79,Nélida Roselló Sosa,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 15:58:22.267548,classic,N/A,2
+4,ce7cfe03-59a5-4cbd-b05e-897c89c4a150,Xavier Sedano Querol,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:41:48.588959,without_onion,N/A,3
+4,b4abdba4-5747-47a6-917a-6847cc2b772a,Jose Ramón Ariza Cantero,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 21:02:52.519652,classic,N/A,4
+4,8405856a-da0e-4d6d-b529-f7562ede0648,Esteban Zabala-Viana,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:00:49.491738,with_onion,,5
+4,612df34d-7f61-4b59-969a-76df5a03c6a0,Dulce Marin,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:41:51.252350,with_onion,13.58,4
+4,23186ce0-2e09-4a99-a195-b5ed482ad4ca,Fidela Castellanos-Nogués,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:27:15.128477,classic,,1
+4,37a15221-aada-439c-b0e7-815b55a831f6,Iris Pons-Palomar,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:54:28.281407,vegan,,3
+4,118aa66e-d519-40e7-9950-d1c0325d21cd,Conrado de Casado,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 12:23:43.538574,classic,N/A,5
+4,5c9f2b40-6d30-4ecb-828e-7f884ce32ed4,Albert Dimas Calleja Gomila,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 09:04:41.525731,classic,,1
+4,eb8ad1c0-fc68-4f40-b7ec-25c7ed2c4a91,Pastora Gomis-Villa,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 08:59:14.094722,vegan,11.04,5
+4,2643573d-c2f0-410a-8399-bd1df0568c82,Sofía Manjón Sedano,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 20:00:28.271003,with_onion,12.9,4
+4,94ef0ffe-76d4-470e-aa8d-6e0acceceff1,Eugenia Sierra Torrent,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 17:41:24.520557,vegan,12.3,5
+4,e7e30465-e666-4b73-822e-1e6d66307f00,Tiburcio Sosa Villalba,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 14:34:43.182666,classic,13.42,2
+4,c4d7f825-9fb5-4299-8f2a-96a60f511fcd,Roldán del Pareja,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:11:46.105071,with_onion,,5
+4,8971d625-ee1d-40f5-909f-0b0f0e84951e,Perla Riquelme Contreras,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 20:35:03.757419,vegan,,1
+4,84f37cdb-d9fc-411c-a943-fd4624fc93a7,Begoña Dominguez Gras,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 10:25:45.446978,vegan,,2
+4,cb4620a7-4807-443c-bed1-6963d533853d,Pascual Guijarro Zabaleta,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 00:01:23.530544,with_onion,N/A,2
+4,54683c92-987d-4cba-819f-58b5ba6a8d84,Trinidad Gimenez Ibáñez,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 04:28:28.429176,with_onion,,3
+4,11ecab4d-c464-4b57-aec1-70e7b6a471e9,Flor Maricela Pozo Rocha,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 19:20:22.744041,classic,11.15,5
+4,e01a124c-2ba2-417f-9f38-31a96e157456,Sancho de Tello,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:50:40.666102,vegan,N/A,1
+4,dea8db85-c3ff-4cce-bb03-2cbc4479dfae,Jesús Paz Jara,Sevilla,"Pasadizo Dora Amaya 438 Puerta 5 , Asturias, 07406",2026-05-01 23:36:42.635076,classic,N/A,5

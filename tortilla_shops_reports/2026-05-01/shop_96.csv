@@ -1,0 +1,186 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+96,d64f4841-466f-4e9e-92e7-9e9805ab7f72,Noelia Almansa Osuna,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 16:37:39.942690,vegan,N/A,4
+96,e233be1f-8444-4c38-9981-415b6fe3ebb7,Curro Cal Planas,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:07:07.738008,vegan,6.49,1
+96,0cdfca07-84db-4b44-b06a-d40424c8bfa4,Desiderio Castelló Cabañas,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:17:11.578011,without_onion,,2
+96,fb7d4bea-1905-4285-b0c3-82d7c9e92b50,Bruno Baquero-Gutierrez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 11:41:05.537307,without_onion,,3
+96,18577a78-3ac2-42d5-8c5c-449444e141b6,Encarna Rueda Rocha,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 00:06:46.767807,with_onion,N/A,3
+96,979655c0-afe0-481d-8ca7-d58acd376a58,Fortunato de Nebot,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:09:21.200379,vegan,N/A,2
+96,f0b7a122-e5a9-4118-94e2-f161a0e5f37c,Lázaro Mata Ferrer,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 21:03:05.324528,vegan,N/A,5
+96,547f9555-43ca-4185-b2a7-9830ad1b407a,Sarita Segarra Dalmau,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:10:29.423710,with_onion,,2
+96,7a5a3102-d937-471a-bd08-0465136c5f94,Gracia Frías Ribas,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:25:12.208904,vegan,,3
+96,e5cc5bc9-2f95-4d9b-909c-eb4c962117ba,Amaro Carballo Cid,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 11:22:07.673121,classic,,4
+96,fe76953a-ccc6-476c-af73-dbeddd0cee61,Prudencio Maximiano Albero Jódar,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:40:49.762297,classic,13.27,1
+96,476a4f95-c8c4-4339-aa64-0f974dae53a9,Lázaro Garriga Borrás,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:19:21.438972,vegan,12.83,2
+96,29381a79-a6eb-4b30-a992-ed45ff0479a6,Teo Jiménez Varela,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:38:45.445106,classic,,5
+96,0b9cee62-b8ea-4bed-9908-1faff8fd98c5,Celestino Sarmiento-Estrada,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 14:01:18.323632,classic,N/A,4
+96,f5b6cd13-a2db-4900-a64e-eea19fffcd5a,Patricio de Quiroga,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:03:49.924993,without_onion,N/A,4
+96,4c7c6f3f-5178-489d-bd6b-ed767fed3420,Amada del Lloret,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:55:14.829297,classic,14.12,5
+96,d0247f9e-bd9d-4068-aee5-7a67ac1ba6eb,Cándida Múgica Macías,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 01:36:04.867892,with_onion,N/A,3
+96,357e9063-9ac5-4fef-9953-44cad2d5be44,Luciana Tejedor Estrada,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 16:57:08.788156,vegan,14.82,1
+96,ca251516-5268-43cb-8d32-4bdb98c98e15,Amador Arnaiz,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:03:13.898361,with_onion,,2
+96,46d17336-d888-4a85-b5c4-898fcfe78e8a,Amarilis Badía Granados,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 16:46:00.147717,without_onion,,1
+96,663ac398-6e4b-4fc0-8981-34239e9acfb0,Heraclio Perales Llobet,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 20:30:36.519026,classic,N/A,1
+96,454151ba-deed-4b79-b3bd-93eefd42fcd0,Saturnino Alcalá Rius,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 23:34:55.092656,vegan,,5
+96,0fac0bc1-7b5f-4713-bcf9-4a1ad88ae31a,Prudencia Arranz Perea,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:36:38.213647,vegan,N/A,5
+96,ece6e4fb-25c8-473d-a8e9-f55b9e546100,Leandra Pozo Salmerón,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 23:03:38.232960,classic,N/A,1
+96,144e5a4d-b9c7-4625-9949-05dd469699b7,Basilio Marín,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 11:32:54.040501,vegan,,1
+96,28ebb40e-7572-4697-82a4-48423dfbd88c,Lupe del Gámez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:03:55.522240,with_onion,,5
+96,87df777b-3cff-4809-a275-12c74a3c7f31,Pastora Amigó Bilbao,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:27:41.736258,with_onion,N/A,1
+96,de0c3498-ad4a-4cd7-a69e-0c74ff046c7b,Florentino Marín Roldán,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:30:23.316642,without_onion,,2
+96,588bf4b9-88af-427f-8b4d-bf1478fc921c,Heliodoro del Tirado,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 03:46:16.317464,vegan,,4
+96,bb52288f-8f05-45ef-9c54-c1efb58843c4,Candela Canales Alberto,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 22:12:14.303319,classic,N/A,5
+96,3f0add3f-9e5b-4332-8a3c-3caaa77f0538,Perla Saldaña Lucas,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 16:36:25.442517,vegan,N/A,1
+96,da6c734e-c0a9-4f4a-b224-7c88bcb56540,Álvaro Bernad,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 18:41:45.925770,classic,N/A,4
+96,5cc0870c-7a83-4b77-b4e4-fbe2c2511fc8,Jose Angel Morante-Castell,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:13:22.122616,classic,9.06,3
+96,edfe2e5f-18ba-480c-92b5-f208b4c1a301,Macarena Soriano Bauzà,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 13:36:35.243918,vegan,,3
+96,88763889-1d45-4b89-b3d0-9b23335e2416,Evelia Pérez Ibañez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:00:08.108167,classic,N/A,5
+96,95303dbf-0246-4840-be74-4a072b96ac25,Felix de Manjón,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 12:42:35.668069,classic,13.91,1
+96,18cd8c55-66e8-4b45-93cc-7a4c6a4c5714,Ainara Company,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:32:04.111344,with_onion,,4
+96,b1e23c68-bd80-479e-943e-5676d9c93181,Clemente Calleja,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 00:26:06.917973,without_onion,,2
+96,bfc63323-eeef-4a71-af03-5b2134fbed39,Lorena Valera Llobet,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:28:40.929790,without_onion,N/A,1
+96,59ce79dd-86a2-48f0-94ca-8b598fe88422,Mónica Puente Navarro,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:32:09.114612,vegan,8.4,4
+96,dd0778f7-6805-41ef-8973-15d2bf500729,Edgardo Sanabria Salom,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 11:45:01.500592,vegan,N/A,5
+96,db8bf60d-6781-4e83-bcad-2b939cb8a85b,Sonia Valenzuela Pintor,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 01:57:59.971373,with_onion,11.29,1
+96,0760a2c8-48fb-408e-b3d4-20f7e655822c,Román Castell Campos,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 02:09:31.041264,vegan,,2
+96,095ca075-ee11-409b-96b1-edf3547043bc,Débora Gálvez Merino,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 02:43:22.015442,without_onion,,1
+96,7607a863-e943-48fb-b774-f6faf895f092,Luisina Navas Orozco,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 04:43:57.995744,vegan,N/A,5
+96,e3116ead-0af7-4547-957d-6e37fbc2d572,Zaira Ugarte Bilbao,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 02:03:01.267162,classic,N/A,1
+96,18616417-6fa2-479a-bb0a-151f9f2fa610,Florina Olivera-Gaya,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:21:13.656192,without_onion,,5
+96,b46d78ff-e678-4580-9d1a-93a4dcce4ad5,Mireia Burgos,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:06:35.364566,with_onion,N/A,1
+96,2237dfe1-49d5-4789-96cb-0c13ea44de60,Plácido Arco-Solana,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:05:00.631504,with_onion,,4
+96,bd3b8fe1-b3cd-4a63-812a-236e11cb60af,Flavio Saturnino Solana Gómez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 16:40:35.369779,vegan,,3
+96,e4f6d7f5-45fb-4041-92d6-77f3b8e93aaa,Marcial Ruiz-Ródenas,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 14:26:50.856761,classic,N/A,1
+96,c9071b00-ec57-44d2-b730-54b735f01295,Enrique Pinto Pavón,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 04:41:28.932902,without_onion,N/A,3
+96,18cb7536-4162-4427-b194-4017479116d2,Laura Rozas Cuevas,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 18:14:31.628100,with_onion,12.67,2
+96,f557963b-2b91-41a4-b15d-7e5a52ec8bc0,Luz Coloma Márquez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:35:50.325005,vegan,N/A,3
+96,253c40b6-1392-4ec4-b75c-dd0cdd7bd22c,María Manuela Egea Burgos,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:05:23.054433,without_onion,N/A,1
+96,a28fba8b-95e7-4b2d-b6fa-2a7d87fd3b85,Teófila Laguna Baeza,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:25:24.743196,without_onion,,3
+96,0ea446df-3fe3-42c2-9946-2cc90032b96f,Nicolás del Esteve,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 02:26:43.791057,classic,N/A,2
+96,aa92124d-eb0e-473a-9256-b127ced5210f,Federico Luque Rios,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:11:14.089718,vegan,,1
+96,b0d4c712-63c5-44e2-a69a-a686f1b05c72,Juliana Blazquez Ribera,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 15:12:44.249413,classic,N/A,3
+96,2dd08de4-a4c6-4ccf-887a-849566852a0a,Magdalena Lillo Perez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 18:07:50.009756,vegan,,4
+96,16b53a7c-63f2-4631-977a-b3e809ef31a3,Vicente del Hernández,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:39:39.385279,vegan,7.47,2
+96,bd91e1ac-4f63-496d-8410-54f215b1642a,Xavier Marti,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 21:13:04.073392,vegan,,1
+96,b0ad0965-5231-4d1a-893d-36b50438d98b,Augusto René Morell Fuente,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:02:39.476744,classic,14.91,3
+96,bdb1a40f-9f2b-48dd-b8c9-f51050155ec1,Benito Dueñas Iriarte,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:14:09.888294,vegan,11.47,5
+96,a246c070-0b14-4159-8432-46d5e19220ea,Olegario Correa-Soto,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 23:35:13.337484,with_onion,,5
+96,564aa004-bdc0-4f0a-907d-92b2822e5f13,Jordi Guerrero Redondo,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 16:32:25.942702,vegan,14.13,1
+96,027dc5ab-f978-402f-8263-f9e16f11543e,Roldán Reguera,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:25:56.966606,without_onion,9.69,1
+96,4d5fa1bb-6b6a-4c8c-bfa4-af31d5c20971,Agustín Palomino Riera,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:15:27.516200,without_onion,N/A,5
+96,21c6a1c1-2c41-420e-ac6c-c8f0ba93c9d0,Dimas Sánchez Arrieta,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 15:38:30.414952,classic,N/A,1
+96,828ef984-6fa7-406a-bb70-33c08714d1d1,Josefa Guzman Bru,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:33:14.042294,vegan,,5
+96,605f81c4-197c-4c2f-b90d-9b3518ffe974,Etelvina Olmo Bosch,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 14:04:48.907436,vegan,14.72,5
+96,99112997-1a1d-41a3-bb1c-f2dc2f6c529b,Natividad Rius,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 23:17:07.043667,without_onion,,3
+96,06c8e637-f021-4061-9240-c8dfc9ac5b0b,Jovita Bárcena,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 21:20:47.667272,vegan,,5
+96,5176f4a7-e028-4dd5-a2b5-f387caad26b4,Marina del Bartolomé,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:43:14.004837,classic,,1
+96,e46f5623-4d12-45c2-ba7e-366ee66fb03d,Bernardita de Cid,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 01:30:22.928173,without_onion,N/A,5
+96,3fd8a9d4-d0fd-4f1b-9f87-15f7800c61f6,Aureliano Ayuso,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 21:46:52.510538,without_onion,N/A,3
+96,7879cdfe-e26d-43ea-87f6-e5896957f86a,Cayetana Exposito Gallardo,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:23:36.311085,vegan,,5
+96,d8ce80c2-5005-4cbc-b609-b290f5939d00,Roberta Ferrándiz Salinas,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 04:15:56.440199,with_onion,9.64,3
+96,3dfa7eda-61a9-41ed-aece-d6c911cef8c8,Eusebio Mateo Mármol,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:25:04.279580,classic,N/A,4
+96,349e02f9-7537-4670-ba12-28661d62e1f8,Lupita Palacio Verdugo,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:36:56.156940,without_onion,N/A,4
+96,f3f60f4f-0c27-4282-92cc-a26e45331bb4,Isidro Acevedo-Bermejo,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:30:35.526550,without_onion,,5
+96,b409c5a5-b15d-49c7-91d9-1b00100ed83b,Rosa de Cortés,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 11:36:36.415448,classic,8.99,5
+96,953fb6fc-f0be-4ca8-9f33-542139b02fbd,Teófilo Báez Pinedo,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:52:54.861680,with_onion,,2
+96,b59e342c-e8a4-4842-afc3-4027f627c857,Estefanía Vazquez Vallés,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:36:56.780647,classic,14.6,4
+96,09219a04-1f8e-439b-8b2c-ade44fec33e0,Antonio Manrique Rosell,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:01:51.734846,classic,,1
+96,479aa002-92ac-4453-9e48-a8eafc7fb115,Herberto Abellán,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:16:07.424662,vegan,,2
+96,416ac9ea-9932-4d7b-8001-c10da6ad6dbd,Felipa Olivares,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 15:57:06.335336,vegan,,1
+96,08a4e970-5be7-4c5b-8734-039f282110f5,Santiago Castro Serrano,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 22:23:07.497013,vegan,6.75,3
+96,5c129148-3063-4561-9d60-5d6aa67e1341,Lino del Miguel,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:19:31.131052,classic,,1
+96,a5f13c17-2ea5-4727-985a-0fccc92726c2,Luis Colom Martinez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 03:10:00.185053,classic,N/A,2
+96,6a76d545-2f6a-4158-81fe-92c951ee5fe2,Máximo del Zaragoza,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 18:48:57.625067,with_onion,N/A,4
+96,680bb409-c2b1-4088-a055-f8346bb951b3,Amarilis Ramírez-Quiroga,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:55:18.973576,with_onion,,3
+96,8c891f5b-6606-412a-a4e2-23a1c215b0d7,Vicenta Bonet Valls,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:18:56.182309,classic,5.5,3
+96,af0c8278-140a-4424-8a5c-7a95e80b7d46,Máxima Collado Benavent,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 03:26:25.329623,vegan,5.89,3
+96,b72fb06b-47b6-433d-91e6-cd8c8a02f27e,Águeda Pedrosa Canet,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:49:15.484388,vegan,,5
+96,47adad1e-8475-4da0-aead-c4c1a0fdfa50,Gervasio Madrigal Villanueva,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 20:04:42.723370,without_onion,14.0,5
+96,e2ad37af-ce5c-46ea-b0de-8a5cb9c845a2,Plinio Portero Ureña,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:40:18.771146,with_onion,,4
+96,19c41ac0-0bfc-4bdd-bb29-4828bf3b78c3,Tatiana Alba Mayoral,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 17:46:24.447601,with_onion,,4
+96,8849b09a-51d4-4ddd-8cf2-0ff7a609ed47,Melania Villanueva Gimenez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 23:47:33.323291,vegan,,4
+96,38de838d-c850-4134-9c9c-f577d33b9c94,Teodora Zaragoza Quesada,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 12:51:30.634651,without_onion,13.86,2
+96,dc96767b-fc17-41de-94ab-37728f5aefc7,Santiago Tur Julián,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 18:54:25.883190,without_onion,,3
+96,d6f6787c-369a-409a-9439-a73c280d03f7,Belen Viñas Rivas,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 14:19:23.393073,without_onion,,4
+96,15ce7c9e-e35a-4ebb-9dea-8e73c6165b7b,Nicodemo Barceló Oliver,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 00:23:04.970659,with_onion,,5
+96,fff1af4f-6523-4257-8eea-6733890b4cf0,Asunción Amigó-Riquelme,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:14:12.148768,classic,10.66,3
+96,cb81e571-ffcf-4316-978c-eee93f01fcf2,Lucho Mateo Alvarez Carreño,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 12:52:29.725710,with_onion,N/A,2
+96,96ecc1eb-f052-4631-8011-97396bcaa9b2,Teófilo Alcántara,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 14:09:56.508138,with_onion,N/A,5
+96,7269c6f0-0d6c-4417-a56f-bc9d72d012ca,Socorro de Uría,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:56:15.078832,without_onion,,1
+96,de819815-5f72-490c-b60d-d5e92ff7b71c,Rufino Salmerón Zurita,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 10:14:58.670026,vegan,,1
+96,f02a98f9-4bfb-4b67-8a80-b9a7e33eedc8,Jerónimo del Cantón,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 14:05:13.699531,without_onion,,1
+96,e7fc31e3-3b58-40cc-af5f-6347e72713e3,Pascuala Escobar Barrena,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:22:37.898552,with_onion,N/A,3
+96,182b5806-554a-4885-8ef6-24ab649c19b7,Mario Pomares Ibáñez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 22:24:13.932509,without_onion,,5
+96,3e1561ec-0e78-4319-b372-26d4e8b0f954,Guiomar Armas-Leal,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 10:44:38.334730,vegan,10.17,5
+96,a4b0b0b8-f227-472c-ac2a-6410e7b3c6f4,Cesar Avilés,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 22:24:32.669530,without_onion,N/A,2
+96,4896416f-33c5-4882-89d3-eac07cb0911c,Alma Lucena Osorio,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 10:03:30.359566,with_onion,N/A,2
+96,6f2d1519-c685-478c-a12a-f9d534cbbc85,José Luis Mendez Zorrilla,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 21:03:53.319265,vegan,N/A,5
+96,c1d56672-83a7-448d-8bc0-9f2b0950534c,Graciano Samuel Montesinos Contreras,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 21:26:08.168163,classic,13.66,1
+96,f3dc3b0c-726e-44ef-8dba-5f10c4922024,Calixto Belmonte Dávila,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 03:34:51.467337,with_onion,5.61,2
+96,dbbbbaf9-11c9-4c8e-b74e-7c5c3cfc6c5f,Susanita Barberá Mesa,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 02:32:13.121094,without_onion,N/A,2
+96,10f6c5a9-5bac-421e-9a70-451552770bf9,Abril Gomez Vives,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:12:03.919683,vegan,,3
+96,7ef83675-d737-46b0-bcb3-d03dcfc7c3c0,Norberto Carbó-Alemán,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 23:13:09.086649,classic,,5
+96,400c22e6-af5e-44ea-8c08-245dd55465f1,Beatriz Emma González Arribas,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:22:40.673393,vegan,N/A,3
+96,06b79a9f-19e4-436c-9666-b53b1e1e32fb,Nayara Montaña Céspedes,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 03:16:45.675471,classic,N/A,2
+96,bf157c53-c72d-4a8d-908a-305c401ec3ce,Ibán Oller Espada,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 22:07:21.630550,with_onion,N/A,1
+96,537046ad-c770-4ae8-bd4d-22f32456aa66,Eulalia Vázquez-Pintor,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:33:12.253695,with_onion,N/A,1
+96,135309ae-3b0a-4d3f-8a89-4dbe7b411512,Julieta Blanco Iniesta,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:05:30.044163,vegan,,5
+96,d654513e-a823-4358-aa40-218185cf5316,Isabel Morell Mir,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:30:25.254888,without_onion,6.0,5
+96,f9b51bd8-7c6c-4cfc-9fea-045507f7f2e2,Nicolás Isaac Arias Calderón,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:25:06.559231,classic,,2
+96,add01408-1896-456e-8735-1f3a068cd508,Carlos Cerezo Busquets,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 01:16:49.464258,with_onion,11.79,3
+96,e98350cc-5bf1-402c-bd2b-10b85f99a001,Elena Mate Agustín,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 18:57:35.634601,with_onion,N/A,3
+96,18457917-379e-4ffa-b857-e2df71268f06,Carmen Mur Robledo,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 10:20:29.239103,vegan,,2
+96,4edf7897-d312-4b8a-aa19-1b02b9648283,Hugo Martínez Juliá,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:54:08.758544,without_onion,14.2,2
+96,cecf8ada-c402-43be-807b-3ea2f8645f09,Nazaret Águila Osorio,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 22:24:44.966820,without_onion,8.1,2
+96,d54c1afa-d5cd-4712-a4aa-071f57ec9ffa,Xiomara Peñas Azcona,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 22:58:56.727398,vegan,11.36,1
+96,f9578b41-63fb-4d90-835e-cf09c9cbd3fc,Jose Ramón Uría Ibañez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:21:40.449957,with_onion,,1
+96,5046f772-d0a2-4ffe-b51a-7548cf9c116c,Evita Pinedo Bernat,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 23:13:29.269048,with_onion,,1
+96,0fc271e4-6135-4e82-a740-079fd3dd1fce,Pilar Cuevas Olivera,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 18:53:31.241033,without_onion,N/A,4
+96,ca5c93c3-da11-491d-a3f9-8316b2d49f29,Luís Barrena Marti,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 15:55:49.668222,classic,9.27,3
+96,58c727ac-7f4c-4287-9c7d-eb35fba14524,Rosalía Bas Laguna,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:48:56.205413,classic,N/A,1
+96,e18b95eb-2ca0-4663-aa22-6e694bda4621,Griselda Quintero Santamaria,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 10:00:54.444614,without_onion,,1
+96,c3014119-fe64-4d93-a7c6-df30228a625c,Marco del Bosch,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:11:21.378087,classic,,5
+96,670b5fd8-bf62-4fdc-bd05-48a24112bd71,Belén Cabo Maestre,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 02:51:10.305337,with_onion,12.66,2
+96,bc6e9276-7f4d-4b52-920c-6f55e936fff8,Jafet Luque Piquer,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 01:58:00.569526,with_onion,8.91,4
+96,a14263e6-cc7f-4839-a588-15856a39f5eb,Marita Cases Niño,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 18:34:07.721149,without_onion,N/A,2
+96,5e90b0a8-88c8-48a2-995d-62b272941c7d,Nidia Ricart Plaza,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 13:23:16.909503,classic,,2
+96,724f39cc-283e-4895-b5ca-e5670f1fc901,Otilia Ariño Alcázar,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 02:54:10.772647,classic,,4
+96,ed31ebc2-f455-4e74-966a-9e324c512528,Jordi Juliá Ortuño,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 03:53:33.781730,with_onion,10.5,3
+96,81e0e91c-0fce-4651-bccd-8c018e11ca48,Gabriela Barroso Luján,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:08:48.852337,vegan,N/A,5
+96,cd97d075-dc94-4c4a-92c8-63c69abeb43c,Vera Torrens Ramírez,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 17:03:20.465814,with_onion,,1
+96,aa8f16a3-7cdb-42ce-be38-3ddab59ac077,Jimena Garcia Gual,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 18:08:37.346053,classic,10.51,3
+96,a9f43483-f1ff-4f31-8eeb-3cd22cbb2ee9,Marisela Quiroga Figuerola,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 11:01:10.352033,with_onion,,5
+96,6245c70b-191a-4110-a142-95e9c19eb8bf,Reinaldo Belda Tejedor,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 08:34:23.773680,vegan,6.79,2
+96,0e3c5e84-8948-46b7-bf0b-23cd08473892,Ramiro Barba Zabaleta,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 04:17:27.207888,with_onion,N/A,1
+96,9bf050ec-f9dd-4193-b8e8-6bcdd8e0bf77,Sonia Alcaraz Calvet,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 01:24:58.571335,classic,,5
+96,080a66ed-aea2-4b90-b668-7d318910c828,Ruperto Berto Solera Piña,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 00:05:20.898073,classic,,3
+96,62a0b79e-9d9b-423b-9379-1a991f91ea9a,Itziar Gárate Cano,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:57:26.644123,vegan,12.14,1
+96,91df19d4-64cf-459b-ae33-e7c8d8b95960,Diego Abascal Pina,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:41:24.201030,without_onion,,3
+96,a6850139-d2a8-4008-b14f-14e00ef5d519,Raquel Viña Chico,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 10:14:50.727353,classic,,1
+96,a3c43ea7-27de-40e9-8020-f2ec6c9ad8e5,Danilo Pinilla Gilabert,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:16:20.525670,classic,,2
+96,8c5f7b65-283c-4f35-90eb-4cb4dbadc961,Natalio de Sevillano,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 23:13:56.686839,with_onion,N/A,5
+96,124b74c8-3436-4332-8577-8ba9de14c5a1,Luís Lluch Franco,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 16:46:58.456417,without_onion,N/A,2
+96,2702d519-5021-491e-9f61-c4eb97f24d36,Guadalupe Amat Vaquero,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:53:25.730591,without_onion,,1
+96,8e907a57-184d-4d37-832d-250bd31c021d,Benita Lara Valls,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:12:12.460122,classic,N/A,3
+96,379feb4c-978d-4b1d-83f9-0464a590ec8a,Custodio Jódar-Montalbán,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 02:15:11.039174,without_onion,N/A,3
+96,694feaf8-9d6b-4a6c-891a-74dc8d2baebb,Cruz Balaguer Rebollo,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 03:58:17.190750,without_onion,,4
+96,73d1aabe-ffda-441b-bf38-10468a68fc70,Noa Izaguirre Sacristán,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:30:05.034631,with_onion,N/A,5
+96,40691b4c-f1a9-4ebf-9aac-8afd88849276,Almudena Benitez Contreras,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 13:50:42.939201,classic,N/A,4
+96,9c119632-8dd6-4300-8ddb-9f1b4ad8a125,Tito Aragón Moll,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:43:11.151372,with_onion,5.91,2
+96,c8f4ae58-bc90-4bc7-9392-294e106ad2ab,Fidel Quesada Anglada,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:20:02.223596,classic,,3
+96,31bf5c2b-e766-4051-9b7d-eb9e0c780300,Bibiana Pintor,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 03:20:49.226690,with_onion,N/A,5
+96,0d9589fa-2698-4abb-b9c2-13e8336f8b0c,Octavio Arcos Rey,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 07:33:25.099479,without_onion,N/A,5
+96,d11441d0-66f5-44bc-89d0-c1b1145df42a,Nerea del Luna,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 16:04:51.669824,vegan,,1
+96,3384160e-38f7-474d-b293-f89ccacacaa8,Maura Bayón Cabello,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:25:41.977560,with_onion,N/A,2
+96,c28402f3-3d5c-4fd2-8130-b4f597ff3d53,Guiomar Cobo Palomares,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 12:47:55.225173,without_onion,N/A,1
+96,b56a56f6-5881-4856-8fc1-8e2ae0ac6f88,Úrsula Bustos Román,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 20:39:51.312418,vegan,11.1,4
+96,605a41ec-2456-41cd-9d6b-932cb791f1b6,Paloma Alfonso Miranda,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 05:43:40.744316,vegan,,1
+96,87149aac-f729-4c1b-b706-39ae7945b5c8,Bibiana Pastor-Vallejo,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 22:49:06.613820,with_onion,6.01,5
+96,5955a4ef-ef53-4c0c-99e4-f04b0b2a4db2,Ruperto del Riba,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 14:54:08.504211,with_onion,,3
+96,7eb19ca5-bd2f-40b0-9c17-728445af3a00,Adán Carrillo-Aranda,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 22:03:28.142220,without_onion,10.63,2
+96,b71d9bd8-7e60-49e1-ab02-18f01cd8e374,Gustavo Barranco Escolano,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 03:00:48.950881,with_onion,N/A,3
+96,448f35a2-88bf-4250-8d8a-039040a87753,Nacho Cañizares,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 09:11:49.349804,vegan,N/A,3
+96,009e371b-aa56-4434-8cb7-f86df25f4e16,Carmen de Vendrell,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 10:52:28.804983,classic,N/A,1
+96,6e41eef3-ae54-407e-8be3-0abb64bc278e,Jose Miguel Bonilla Montaña,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 19:11:47.622584,vegan,,2
+96,ecd49c4c-f23e-4de9-b824-8acc0a839940,Marita Rebollo Viana,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 02:39:47.144335,classic,8.28,2
+96,45dc5441-3b18-419f-9d8f-25c602de1151,Juliana Paniagua Querol,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 17:00:06.123283,without_onion,12.84,4
+96,8ff6fa7c-cfd1-4f12-9e94-5381095e56ab,Hernán Padilla Doménech,Alicante,"Ronda de Azeneth Redondo 48, León, 15784",2026-05-01 06:05:30.117922,classic,13.01,3

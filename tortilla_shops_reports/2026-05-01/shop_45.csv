@@ -1,0 +1,187 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+45,62533b6c-6c97-446d-8c2c-387e8c1e98f5,Visitación Echevarría Torrent,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:52:41.524199,classic,,3
+45,21bb489c-2ba3-4bb8-9d7b-c9cd5c109533,Berta Anaya Mendoza,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:39:27.646950,without_onion,N/A,1
+45,8001e3c5-c8eb-47f7-8a81-d4d1e5eea5db,Salvador Álamo Jover,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 17:48:03.290906,classic,,5
+45,a167f0f6-ade4-4993-9259-4721b7cde047,Iván Elías-Arranz,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:10:34.264951,classic,N/A,5
+45,e0b5f850-62fe-4012-a0f8-03cd712f8d8c,Teresita Toledo Marcos,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:35:41.972661,classic,7.67,2
+45,eb1a53fb-3f65-4f3f-9d46-a60b65e5bcec,Lupita Hierro Gibert,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:17:34.746109,vegan,6.75,2
+45,bcecd67b-05c2-48ab-af38-c342ca92a0cf,Ariadna Maite Torres Carmona,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:07:22.588986,classic,12.0,4
+45,cee22f29-5aa1-4ecb-b05e-35dee4f7d1e6,Elena de Elorza,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 20:43:10.801522,without_onion,10.53,5
+45,28e0d2ee-34a7-482e-b88c-e88ce4ef810a,Isabel del Bayón,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 20:57:08.259375,with_onion,,2
+45,7227f27b-f655-4a4e-b00a-4710565acc03,Flora Custodia Blázquez Soto,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 14:23:25.428408,classic,11.04,4
+45,43301d71-3f2f-42a6-b6eb-3bc3cda36bf6,Prudencio Canales Romero,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:00:25.595623,without_onion,9.76,1
+45,57302690-bee8-4d2c-8b86-833b77eb6aa8,Jenaro Prats Cepeda,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:18:27.159863,with_onion,,2
+45,c592ca71-6a54-4c9d-a018-09f0a08ef119,Vilma Villa Cabello,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 22:25:25.589292,with_onion,N/A,3
+45,57201f4d-3620-403c-988e-2c12a182c86d,Macaria Uría Giner,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 21:55:36.352788,vegan,,1
+45,d718d234-4cc0-48e9-a696-48d8e38ee366,Rocío Carro Castell,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:14:45.121946,without_onion,,1
+45,f1b42032-9836-4115-b8db-d014248f7eaf,Javier Neira Vilar,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 20:04:08.120347,vegan,14.45,1
+45,63b7328e-bfe6-4a72-aeeb-f5eb89b86e53,Jordi Rufino Garcia Arellano,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:43:17.214617,classic,,4
+45,5f91054f-8802-42fb-8570-a57bbfbad52e,Encarnacion Segovia Rivera,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 22:15:26.039599,vegan,N/A,2
+45,64ee63fe-d8bd-441d-9180-bf73597839ca,Encarnación Batalla Belmonte,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:14:42.645722,with_onion,N/A,5
+45,d5256a44-40c6-4c0a-91d6-0fe68f0aa0aa,Íñigo de Gutiérrez,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 01:34:49.650424,classic,N/A,2
+45,b65bd047-737a-453a-9bcb-a0fd2c2d508b,Aroa Maza-Andrés,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:31:25.695665,without_onion,13.55,4
+45,8bf7581d-7e34-406a-9b98-1eab0977bbff,Glauco Mulet-Godoy,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 21:10:17.259647,with_onion,,5
+45,c4812851-8725-43fb-a267-b4482fa30bbd,Dan Tovar Nicolau,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 08:31:57.741137,with_onion,,1
+45,33256f99-a432-4959-b2ba-c350c25926f8,Eugenia Casal León,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 02:15:12.055845,classic,,5
+45,6dbd152d-aba5-47e0-9378-11e93a713be0,Eric Zabaleta Mulet,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:42:36.532347,vegan,11.51,5
+45,11d9f226-4711-43bf-8af0-41ffa116026a,Moisés Cózar-Palomo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:59:46.215686,without_onion,,2
+45,3f3c5c62-11ff-48d9-95b9-a37854f628db,Nacho de Bueno,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 13:50:31.556930,with_onion,,4
+45,6541306a-3b48-46c4-92d2-699f78a7a584,Cruz Arribas Vicente,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:56:50.002153,with_onion,N/A,5
+45,23877af3-740b-460d-b38e-a032b9534759,Gaspar Bonet,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 23:34:52.036300,without_onion,6.34,5
+45,b66f3200-2e4a-4ef3-a8bf-1c500d77d357,Nico Fabra-Bertrán,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:26:05.690238,with_onion,13.19,2
+45,9c2755e1-17d5-4128-8f62-4d53f42bc76c,Hilda América Rocamora Morán,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 01:40:23.913459,without_onion,N/A,5
+45,d940a52e-03fd-4503-8df3-747ae1a9e6a3,León Prieto Blanes,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 14:52:25.027631,classic,,4
+45,b8db189a-8442-4d4c-b828-c9e987b860eb,Daniel Nilo Lorenzo Bru,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 23:50:31.641538,with_onion,,2
+45,dcc44ea8-63be-4c0d-aea4-850d7fb9b94a,Julio César Novoa Palmer,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 19:09:26.598386,vegan,,5
+45,7c940b27-9bfa-48ad-b436-a8239e7d98c4,Jordi Carnero Español,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:44:16.421771,vegan,14.48,4
+45,e5d899d2-c50a-4fb5-a30b-ebb9457b5bef,Glauco Galvez Castro,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 03:18:07.257393,vegan,N/A,3
+45,1d8ccfe7-4b13-450a-8945-64dab2e18697,Marcelino Bartolomé Carrera,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 08:34:19.785441,classic,,2
+45,e76b417d-21cd-495f-b2ac-00e3b33cb7be,Carolina Pozo Moraleda,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:26:30.738304,without_onion,13.5,4
+45,9f6acaf9-7329-4e3a-93d2-263904c02ed2,Evelia Castillo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 10:14:01.889804,vegan,,3
+45,9efc5288-148e-41b1-a1bd-47f83450190f,Beatriz Ballesteros Ávila,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 02:29:52.739425,vegan,,5
+45,7e54cd01-a117-41b7-a8fe-95b8d53c0031,Eusebio Clemente Coronado Salas,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 11:17:17.106265,vegan,13.05,5
+45,cf0d70fc-6b1d-4af0-bc12-86026da1940e,Adriana Sureda Camps,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 17:57:42.331543,with_onion,N/A,2
+45,4b104b24-5020-4db4-aa56-f3f7aaa8ee39,Bonifacio Gaya Santamaría,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 22:07:29.605046,without_onion,,5
+45,61c6e0fd-edc2-49ad-b404-d2ff67138550,Coral Pascual Amorós,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 07:10:10.995539,vegan,N/A,3
+45,a7bf94f9-db60-4de0-8e5f-d3c50c22cab4,Sara Mata Silva,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 06:43:13.352900,vegan,N/A,3
+45,3098e106-9a79-4f57-8242-212d11e70144,Sonia Florinda Santamaria Gilabert,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:25:35.720881,with_onion,,3
+45,ca26f743-3dc8-49a1-a494-93c209cb8df3,Rosalva de Ledesma,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 21:47:56.045196,without_onion,14.64,4
+45,3b69037e-03ee-4901-8807-03f1f48dd33d,Andrés Felipe del Quirós,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 01:10:19.405925,without_onion,,5
+45,156e0876-c485-4557-aabf-31797d7e9d0d,Nadia Salmerón Gordillo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:55:28.333129,without_onion,5.76,2
+45,dfebc880-b5cc-4265-bc5c-2c9a7f42e6de,Eloísa Goñi,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 03:39:50.529494,vegan,,3
+45,9f8384d4-02ab-4ae8-8822-0a3551379522,Sancho del Bauzà,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:51:28.466694,classic,N/A,1
+45,d193e8eb-54ad-4f86-9f88-04cb303a3566,Abilio Baldomero Lobo Carrera,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:49:23.054838,with_onion,14.91,3
+45,4537fac8-8c87-48af-829c-9ca5375f2895,Reyes Arellano Rosa,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:00:32.434014,with_onion,14.52,4
+45,970aee63-1743-4125-96d5-3427872a1d43,Edelmira Mata,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 10:59:41.121665,classic,6.46,4
+45,f6c2e2a6-f316-49a1-a3ef-e5d6cd17d551,Serafina Canales Pozo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:55:41.088788,vegan,,2
+45,ec447f79-4378-4776-af40-94de99c63e0e,Carla Jordán Camacho,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:33:09.341606,classic,N/A,5
+45,17cf6035-c5b7-4717-a312-70694305d78f,Petrona Gonzalo Galan,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 20:38:22.613595,without_onion,N/A,3
+45,9c363fd6-ad44-4d01-bd88-8e5f29ccd2f6,José Ángel Huguet Peñas,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 17:02:03.628704,vegan,,5
+45,a93664e3-5232-4a73-a684-e89ea4ede822,Anacleto Uriarte Camino,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:32:39.959817,with_onion,N/A,2
+45,64afaf4e-75ab-4901-8654-1ade8912c064,Telmo Meléndez Aliaga,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 03:13:32.619629,vegan,,4
+45,140ec32d-3a81-425a-9d83-7ab2f5c3c7e0,Gil Bilbao Pardo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 03:19:16.692806,without_onion,9.31,3
+45,e125aaae-f425-43f1-982d-5cad4db82d92,María Del Carmen Cañas Mateos,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 12:04:29.663421,with_onion,N/A,3
+45,515a37bd-e9ff-4e33-b56f-266921f5ca22,Claudia Carbonell Boada,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 22:41:14.069235,vegan,14.39,5
+45,be390abb-2a7a-4374-a8bf-c759e783e54e,Javier Américo Escolano Carballo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:28:31.089435,classic,,2
+45,0aa4d8bb-ed98-4d73-a5b7-8da1ce8552a4,Moreno Avilés,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 01:58:10.172867,classic,,2
+45,765e3d58-46b0-426c-9b6d-d7890f87dbb8,Tristán de Neira,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:44:15.623943,without_onion,N/A,5
+45,65238a7d-9671-41bf-85c9-f5b8d8a33966,Emelina de Mariscal,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 19:23:14.414482,vegan,N/A,4
+45,25be947f-9162-45d2-a17a-4707eaf067e4,Hipólito Olmo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:25:23.073802,without_onion,,3
+45,884d7b48-4b82-445c-9a4b-5fb8ae52640f,Paula Tejera Cobos,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 12:38:14.049542,vegan,N/A,4
+45,b1cca43c-a0de-4cfe-a725-0a86562f7599,Abilio Vives Echevarría,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:26:23.962379,vegan,,3
+45,7d44b7e8-28c8-4034-becc-7871f3970918,Mireia Mora-Carnero,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 06:03:18.842069,vegan,N/A,3
+45,bb248fb9-63e3-4ff5-8a51-9b31b1f37724,Manuel Rosado Colom,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 18:17:20.214500,classic,,5
+45,f88f9e3b-c6af-45f7-884b-7b3ec6a65956,Abilio Quintanilla Matas,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 02:34:00.409299,without_onion,N/A,1
+45,bcf5888b-ec4f-4cc0-ac54-1141a99d2cb3,Cornelio Fuster Sandoval,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 07:28:14.847019,without_onion,,3
+45,d5f102ab-d895-46a4-9afe-8c461e131aeb,Miguel Ángel Fajardo Talavera,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:15:06.805424,with_onion,,5
+45,594b9801-1d18-4b6e-b91f-a5ecc1d726c2,Eladio Catalá Carballo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:48:14.681430,classic,11.06,5
+45,435005aa-06b5-40a5-86b5-ba95f553992c,Ruperto Tamayo Jerez,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 19:12:11.293055,classic,12.61,1
+45,fc2a7895-4c0e-4e17-a710-0e2dd19e5b05,María Ángeles Rosenda Giralt Doménech,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 08:39:31.041371,vegan,N/A,5
+45,fd67d0e9-eee1-4b34-bb1c-3535d9908ddb,Juanito Atienza Diéguez,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 18:46:26.825619,classic,10.44,4
+45,0a2e1cde-4146-4d0e-b58d-69feb6b35fd2,Manolo Andrade,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 06:32:13.429239,classic,13.05,5
+45,ce414298-27e9-46a2-b054-5776c181bca7,Alejo Ballester Pedro,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:18:40.146504,vegan,N/A,1
+45,11029a07-15b0-4d2a-b6c2-9ca5c81bc90f,Hermenegildo Bonifacio Manrique Villalba,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:04:27.906159,vegan,N/A,3
+45,8302726a-93d0-4092-b10a-b77c72ab4548,Rosalinda Peñalver Pelayo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 03:36:52.147542,with_onion,8.95,1
+45,fc78c9cb-577c-44fa-9802-cf2724e29dfd,Clemente Ricart Feliu,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 06:03:44.874261,classic,,4
+45,913b81ff-dd92-4e7a-b944-64cb99320183,Belen Cabeza Patiño,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:46:50.306446,without_onion,5.12,1
+45,905d0c35-9b80-45c2-9b12-f7eee169a4dd,Celia Madrigal Alegre,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 22:28:38.959743,without_onion,N/A,2
+45,4af58982-b4f5-4426-b5b8-53bbb6287f39,Pastora Diaz Guillén,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 02:55:32.633279,without_onion,N/A,1
+45,05a8fcc1-43af-461d-9018-480a1a02ec6f,Abilio Soria-Quevedo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 10:12:59.993904,classic,,3
+45,aebfd056-8ced-48e6-b70b-bd8c082dfc47,María Del Carmen Estrada Polo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:40:35.744833,vegan,12.61,3
+45,1923c49c-c9df-49c4-b8be-6364390655fc,Marcelino Urrutia,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 18:51:22.606812,vegan,10.48,3
+45,9290950d-6ecc-46a5-aeb0-d9ba377aaebf,Anabel Galván Huerta,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 01:35:34.300559,classic,10.05,5
+45,6e10cbb1-2440-44ae-918d-25f3eec52157,Eli Álvarez Barrena,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 02:06:33.684989,vegan,,2
+45,4bdea890-a134-4164-91e7-7a8188b9fb24,Blanca Goicoechea Franch,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 19:01:57.241453,without_onion,N/A,5
+45,5592f7ac-ff9a-45fc-b58a-7efa4271e0b0,Ciriaco Egea,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:18:29.904288,without_onion,N/A,1
+45,28319025-0569-4f72-a9f7-3dd6b8a69acc,Anselma Saturnina Nuñez Alberdi,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 20:41:57.009440,without_onion,N/A,4
+45,7d3aebf4-6935-4b34-9186-9c79b53c3f2b,Juan Antonio Montero Urrutia,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:12:43.868657,vegan,6.08,3
+45,dfdab54a-a5aa-4c89-8d85-d79bdd1feae8,Primitiva Anguita-Solé,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 14:13:37.966122,without_onion,N/A,5
+45,3ca3bb12-453c-437b-baab-1d67b995a34d,Vera Ocaña Sanjuan,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:17:01.090078,with_onion,,1
+45,17079f74-3f20-4a49-a114-a9e79017cb2c,Cornelio de Villalonga,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 17:54:29.716568,with_onion,8.97,3
+45,b41643d2-3ea3-48a9-9257-bef7e5303b7b,Pepe Laguna Zabala,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:28:29.587458,without_onion,,5
+45,9bd4a577-137c-40a0-b74f-6bd34062b93c,Ámbar Ruperta Murcia Tormo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:31:27.213818,vegan,,1
+45,320f3f3a-cf54-4d18-a038-86be8296e1d3,Carla Barriga,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:43:36.818760,classic,,5
+45,cceb573b-232b-40dd-adaf-3de8b83bdc1e,Candela de Clemente,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:45:32.221893,classic,N/A,5
+45,2dc077c6-6bbd-467c-839a-537b57a64600,Sabina Arjona Flores,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 21:55:15.654585,with_onion,N/A,3
+45,98ced628-d4fa-46d2-9d08-817802d6c00a,Maxi Herrero Corominas,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 12:26:04.827033,without_onion,,1
+45,9a6ad63a-ebcc-476c-a75f-eb972be844f1,Ana Belén Seco,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 21:25:52.944385,classic,N/A,5
+45,d06d3a49-6f71-4941-b139-d1eb829d9627,Inmaculada Berenguer Pineda,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 20:44:19.774119,classic,N/A,5
+45,0df898ce-2ba6-40b0-93e9-bdcca849643a,Emilio Múñiz-Alemany,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 10:52:09.740931,vegan,,5
+45,5eddfe93-0a6b-481f-8bb6-2435894cd0b2,Patricia Ortuño,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 20:24:41.997305,vegan,12.23,1
+45,5723633f-2cb2-4963-8c1b-38ee56955919,Poncio Sastre-Baquero,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 23:03:19.238816,with_onion,N/A,2
+45,d7f27ee0-1970-45b7-a0a0-55f8548219f0,Gonzalo Artigas Oller,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 08:48:33.572555,without_onion,N/A,4
+45,2ff583b8-649d-440e-a1df-b6e68a1fcc4b,Gilberto de Girón,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 22:25:06.077489,vegan,,2
+45,f213a8be-b19e-43fd-8039-b43bfc6475b2,Estela Peláez Clemente,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 10:58:04.374002,with_onion,,5
+45,2f51f048-e171-460e-a35a-75adc7a9c555,Timoteo Ribes Villaverde,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 19:35:02.278849,vegan,5.28,1
+45,33992ce3-e353-462a-b248-da720cffa749,Brunilda Sosa Vidal,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:32:31.603237,without_onion,,2
+45,f74277f6-0411-410a-bc85-1365f3d89789,Mar Mónica Gárate Marcos,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 11:35:42.019585,without_onion,,1
+45,c91a9a22-2746-4d4e-97d8-6526755e27a5,Natalio Herranz Melero,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:02:42.529055,with_onion,,4
+45,fa85d0d8-95f9-469b-b676-d1c03c09a36a,Eli Jordá Galindo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 08:55:59.136800,vegan,,5
+45,5151f9b7-437f-4ef6-9767-5790f8abe894,Luz de Sierra,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 02:37:06.304297,without_onion,12.81,5
+45,112aae94-61e1-4a65-b72e-6b0731b5beec,Haydée Nélida Figueroa Pujadas,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 21:00:42.858693,classic,N/A,2
+45,b833e5fc-88f4-4f73-8cb4-f29d3e177b15,José Antonio Lorenzo Castell,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 06:17:37.262036,vegan,N/A,4
+45,818546c7-1fa4-4a06-bef9-af2a3d4c9296,Marianela Rivera Iglesias,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 14:05:01.052177,classic,6.74,5
+45,1de05567-da4d-4db6-b10a-88b5d3f521d2,Cándida Vidal Tenorio,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 21:12:45.124112,with_onion,,2
+45,bf4b6ebb-2f98-4911-abd4-63fa64b837c0,Quirino Casanovas Blazquez,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 18:00:22.173039,classic,N/A,5
+45,1e0cd518-a08e-47fb-bc1d-f63d3c293839,Wilfredo Palomar,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:26:06.495619,vegan,N/A,2
+45,e2f73b11-8c1e-46fa-b83f-a45a235a0b8d,Jacobo Salas Sebastián,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 18:50:13.332341,with_onion,N/A,4
+45,93fc50c7-014c-4f72-9850-fce83ae9b9c0,Lupita Nieves Peralta Arteaga,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:17:43.864533,with_onion,,5
+45,f34f2f72-fd0c-4fa7-a034-2caaab64ddec,Domitila Salvador Gálvez,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 06:05:50.853753,with_onion,N/A,3
+45,4e9d789a-8d58-4b69-bc1e-fb03a87d50d5,Teresa Bernad,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 01:08:22.205932,with_onion,7.62,5
+45,6bb3fd33-f7b4-42d2-8e27-6b4b30ddeae9,Jovita Vidal Milla,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:07:42.854200,classic,N/A,4
+45,a6f0b33e-17de-4be6-a0d2-d54d66944376,Dan del Fortuny,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:21:26.891566,without_onion,8.06,3
+45,0f6866e2-754d-4cf1-9c63-01cf9f85cd66,Raúl Reguera Baró,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 17:49:55.915107,classic,8.9,2
+45,a47321fd-6cd8-44f8-b043-444973c0c482,Diana Botella-Sánchez,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:42:43.158911,without_onion,,2
+45,bf8adc27-45d3-4918-bb4a-4d29143b9463,María Cristina Murcia Sebastián,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:59:33.357684,with_onion,N/A,4
+45,79f2fc1f-aa03-4af4-90dd-8c1df9e5c240,Silvia Ruano-Serna,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 11:26:21.617613,without_onion,N/A,3
+45,cade6cbb-dfe8-4106-b523-670e27bdb9e7,Dulce Sabater Sarmiento,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:45:46.868686,vegan,,1
+45,a6fa4ec3-24f4-4ac1-83a4-5fe18bba80eb,Maristela del Aragón,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 02:11:18.630975,classic,11.83,1
+45,0f0a5bae-2114-4512-bd9d-c74ef42ec237,Nando de Berenguer,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:12:59.997947,vegan,6.46,1
+45,70f92085-25be-41c2-935a-acc723650f5f,Aristides Francisco Moreno,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:59:07.410540,classic,7.53,2
+45,b9ddb7d5-922a-4e41-813b-6dfc2e1a25b4,Anunciación Guitart Arana,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 14:52:01.956602,without_onion,,1
+45,3778febe-711c-4e73-a1d6-fd1785fb29a1,Edu Ortega Peralta,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:36:54.336745,classic,,3
+45,4bf71b61-a66f-4ade-9609-571d3f56aa4c,Gerónimo Camilo Lasa Carnero,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 08:38:58.691649,vegan,,3
+45,92eeefbd-317c-4ba5-a1ac-9bf68c38a267,Efraín Heredia Ferrández,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:04:55.829935,without_onion,N/A,3
+45,264bd0f9-57e1-4535-a3a4-8238d1b86f7a,Susana Montes Flor,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 10:53:10.952003,classic,N/A,5
+45,3ced13af-e7bb-4d06-a07b-c5e188106c13,Celestino de Guillen,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 06:24:55.252941,vegan,6.33,4
+45,d87a2fca-fa0e-462e-9adf-9a4ef0eba60d,Encarna Tapia-Arévalo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 02:22:39.124346,with_onion,12.15,5
+45,04c9d949-6f2d-4253-952e-17a46dca41de,Josep Arce,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 17:33:15.327052,vegan,,4
+45,f124ecc8-4965-4d36-97f5-f5ca9718403d,Cándido Pío Rivas Gabaldón,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 16:58:40.589025,classic,N/A,3
+45,6af1c3dd-b623-4aae-b735-a6593fa3e061,Aníbal Cuenca Muro,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 03:35:04.468336,without_onion,N/A,4
+45,f05a0ffa-fd19-4932-8e77-5ae9a9828560,Josué Lozano,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:26:53.037028,without_onion,9.22,2
+45,13f1302c-a666-44f5-9d32-82d50ab2ae3b,Toribio Orozco Oliveras,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 05:46:03.031065,without_onion,,2
+45,eb1d2954-886d-479a-b015-04e10211c676,Josué Ulises Garzón Cabo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 08:01:45.568446,vegan,6.1,5
+45,f484f3fc-618c-4c0a-9cae-77636782100d,Teófilo Larrea Camino,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 03:27:31.621469,vegan,,2
+45,6df08471-3fdc-4c10-be07-9a9da4d237c4,Anunciación Rubio-Adadia,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 18:44:23.572105,vegan,,4
+45,0eaa02af-fadb-4491-8ee9-2a980303277e,Francisco Norberto Pons Matas,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 07:07:30.317401,classic,,2
+45,bfb67904-3566-4969-b719-215930733888,Quirino Crespi-Alba,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 21:25:00.795227,without_onion,N/A,4
+45,498dc3b8-1997-4a09-b07b-61c91fca5d51,Erasmo Castañeda,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 09:33:01.084606,with_onion,,4
+45,9c268dcd-cadf-472f-b908-e832b52a4f6c,Jonatan de Soriano,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 01:52:51.563464,without_onion,N/A,2
+45,7b10bb70-3ba9-4948-8603-83843a2546a0,Consuela Santamaria Posada,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 17:27:31.097299,without_onion,10.18,3
+45,56f4da2e-eb0e-4dc7-80ed-e952db0c54d4,Adelardo Gibert Quirós,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 01:31:48.722871,vegan,,4
+45,a1016b88-b12c-43f2-aaf3-5edb8c472291,Maura de Losa,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 13:41:28.600388,without_onion,7.46,1
+45,3b746a77-4f13-4623-80d7-37337a7686a1,Juanito Mármol,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 06:21:33.177837,with_onion,14.01,3
+45,519ffc19-117b-4d09-b257-2c7273776353,Amador Sancho Pablo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 23:47:56.352094,without_onion,N/A,5
+45,f7cacc2f-2c63-4f18-8e9a-aa996b149f43,Mirta Luque Mayoral,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 02:28:17.179387,vegan,N/A,1
+45,79d3cc02-af92-422f-9320-dcb41400389b,Lalo Zurita,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 12:19:27.745069,classic,N/A,2
+45,b7f736ca-2248-43f9-89d8-dc8276e76163,Angélica de Losa,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 17:49:53.255263,with_onion,5.0,4
+45,2f1d8219-7338-43b3-9b04-44562dd82e0f,Noé Mayol Puerta,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 10:50:13.533677,vegan,N/A,1
+45,eee6890b-b110-4d76-abf0-1cf469bbf2bd,Tere Tello Berenguer,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:08:01.591295,with_onion,13.56,5
+45,4a53e398-7b8b-4c74-9c08-5e2ad28dfd90,Cipriano Aller Poza,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 19:48:47.386606,with_onion,,2
+45,3a29d641-a9e0-467a-998c-d803eb65c9ef,Celestino Eligio Campos Palacios,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 06:42:26.671890,without_onion,N/A,2
+45,a2aef12d-1a69-4c4a-a960-dd513ea8e0dd,Nilo Morante Arjona,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 07:21:34.905967,with_onion,14.91,2
+45,42ca994e-d7f8-447c-bde6-03db65ee084e,Pilar Gallego Gargallo,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 18:50:19.432420,with_onion,,3
+45,01041386-6845-4ab1-9c1e-957beb0e53a5,Rufino Folch-Palacios,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 18:09:33.958704,vegan,N/A,5
+45,ba1aedd9-3ab1-47e9-ae1a-9df255ef80be,Gastón Verdú Cortes,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 22:10:47.998119,without_onion,,3
+45,7b8cd983-2027-4d37-95d4-2e19a1ffcbca,René Jose Ignacio Cabo Escalona,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 14:08:17.405571,without_onion,N/A,3
+45,5c5b6ff3-3a88-4627-86d1-2b6e850a7c27,Chucho Figueras Almeida,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 10:44:55.654168,without_onion,N/A,1
+45,6b56164e-2004-449a-aa38-6b5bf5010020,Eva Contreras,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 14:45:43.608934,without_onion,,1
+45,2a8c8fb9-9181-4ae0-ab60-9b694c9c68b3,Carmelo Pellicer,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 00:08:18.778276,classic,,2
+45,f8fb3ef2-4452-4fe0-80bf-258d48e46c50,Jaime del Alberdi,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 04:12:15.351905,without_onion,N/A,4
+45,d2ac7b23-5da1-44b2-a614-4cd4db0f7b57,Abilio Capdevila Lerma,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 14:18:37.690630,classic,,4
+45,354b0785-3ae3-4ef8-bf72-0819967f5a75,Leonor Villar Jaume,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 07:58:12.740720,classic,,5
+45,635d5f4f-8db3-4220-b51e-5fb77668d4a7,Victoria Velasco Iñiguez,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 22:08:54.754155,with_onion,,1
+45,6596a32d-b520-4660-a14c-ac56779c261b,Ramiro Sanmartín Nicolás,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 17:56:25.536373,classic,5.66,1
+45,9a0abd26-f151-431e-a14f-11706852e6d1,Carlito de Nadal,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 23:10:00.086738,without_onion,N/A,2
+45,473664f7-cc3d-4f93-af6b-97c82e1eaaed,Agapito del Bilbao,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:09:52.701349,classic,5.65,4
+45,27569876-31f6-4821-bd41-c0d036d7b487,Reina Pina-Arco,Murcia,"Pasadizo Rita Burgos 76 Puerta 5 , Álava, 33215",2026-05-01 15:13:33.082694,vegan,,2

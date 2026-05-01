@@ -1,0 +1,93 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+100,f25f5de0-da38-481f-b788-f0ffe697d99d,Vasco Parra,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 21:57:40.540581,vegan,,1
+100,a44d39b6-fde3-498a-9d60-57726ad0789c,Segismundo del Gallo,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 22:18:02.221128,without_onion,,4
+100,2f54012e-3a00-4a38-9bf2-b4a03fcbeef5,Julieta de Román,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 03:01:05.105787,classic,N/A,3
+100,d64fd001-b07b-4495-b5f6-cd83c0ef0c83,Itziar de Acuña,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 07:16:34.026413,classic,N/A,2
+100,ddcece9c-a863-49df-90fd-3c5ded4799a8,Águeda Gual Martín,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 15:32:32.771132,classic,N/A,3
+100,aadbfc66-707e-4c90-9ba4-895d9292031c,Tamara Flores Asenjo,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 23:49:05.622555,with_onion,,1
+100,f1338b2b-ec29-40b8-a344-be6f7d1d0400,Jose Manuel Hervás-Pozuelo,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 01:33:58.886521,with_onion,N/A,1
+100,abd45357-1b1f-40a9-a3bd-56cdeafa1c5c,Nacio Melchor Cózar Alfonso,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 01:18:42.474093,without_onion,N/A,1
+100,e0e0d822-ce8d-485c-8d59-d1f03e493ef6,René Amaya Sanabria,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 08:15:59.587630,vegan,,3
+100,52843f4e-6b18-4252-ac2c-25e67314feda,Amarilis Prieto Zorrilla,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 23:23:22.703335,without_onion,N/A,4
+100,b5aed069-f1b6-4834-a113-6324e9e30cff,Ruperta Isidora Bernat Palomino,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 10:37:07.304280,vegan,,3
+100,b7dec017-b4bd-40e0-b1a9-20b8b208c145,Jorge Ibáñez Antón,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 23:46:28.919321,with_onion,,5
+100,2b37e10a-2593-474f-8103-6da06ced0215,Odalis de Sobrino,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 22:08:30.413344,with_onion,N/A,4
+100,abdff6c2-103b-495b-a5bb-15e3f5a87ea3,Ibán Batalla,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 02:50:16.399064,without_onion,N/A,2
+100,d4ce3691-0b22-4333-bdca-6a3f151e6b1c,Nazario Piñeiro Moya,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 01:31:29.409380,vegan,12.95,5
+100,51713cd7-72a0-41f5-9cc8-d42d921bfdb5,Florentino de Aznar,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 05:03:46.515972,classic,14.24,3
+100,400ccd9e-1ded-4cce-a927-c51a749fa3ec,Patricio Isaías Manrique Zorrilla,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 06:26:52.342864,with_onion,N/A,3
+100,35d872c4-acc6-4457-bc50-93cb257700db,Ruperto Jiménez Laguna,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 20:17:06.566406,without_onion,N/A,2
+100,c2485552-362b-4b24-a5aa-668bbf23c86e,Olimpia Real Rosell,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 10:32:11.329797,vegan,6.89,4
+100,4e2ca6a1-f62e-46e1-9ae6-e6791528828a,Fabio Piñeiro Carrera,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 10:30:16.823943,classic,,2
+100,fc89d632-12ce-47b1-92aa-7773775d5bff,Eligia Barriga Santamaría,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 04:28:51.895934,without_onion,N/A,1
+100,3c618439-db79-470d-ae2e-ec18b7717bd6,Apolonia Arana Leon,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 12:18:53.408600,with_onion,11.67,4
+100,92674711-8f2b-48a3-96d3-039d6c93337b,Damián Sanabria Bejarano,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 05:38:14.590239,without_onion,11.47,5
+100,33aedd9a-8a37-42d1-93e1-6efdb282fcda,Pepe Catalá Cano,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 18:44:32.998305,with_onion,,4
+100,fef459e1-b4d7-4682-a3d1-af3383aafa43,Eliseo Pomares Escribano,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 09:38:00.391709,vegan,,3
+100,89a1ef4f-e15a-441e-aeb1-98532da01891,Aura Cordero Vazquez,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 17:07:12.004393,vegan,N/A,4
+100,45445f87-466e-4d83-8acd-7fde3f18faea,Clemente Solano Pineda,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 20:13:02.587137,with_onion,N/A,5
+100,d88b4f82-970b-4e69-b66b-52150da7c9cc,Godofredo Piñeiro Valdés,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 13:01:06.548800,with_onion,N/A,3
+100,f0a7a156-daf3-47ba-8597-2a7fbe02cefd,Benjamín del Cañete,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 01:38:41.977162,without_onion,7.2,3
+100,289f1fb1-4058-4c1b-9359-531b2f097ee0,Valero Chaves-Porta,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 10:29:47.860088,with_onion,N/A,4
+100,914a1e40-57c9-4d20-86d6-b6e19b4cefe5,Elba Suarez Simó,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 04:11:47.082448,vegan,7.65,3
+100,7f353073-0463-4693-9bff-d39607069a5c,Íñigo Ramirez Mendez,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 13:37:04.569169,with_onion,7.52,2
+100,9c610e67-a8d3-4481-b48e-6883e9336ed7,Íngrid Cerdá Ortiz,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 07:33:45.138508,vegan,5.45,4
+100,aa791368-a9b3-46fc-9ace-1ff1cbcf1230,Ariadna Castell Plana,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 15:55:05.342789,without_onion,6.68,2
+100,1d882ac2-57fc-4412-ba1a-fac7bb97d3c5,Leocadio Casanovas,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 22:35:07.725285,with_onion,,2
+100,67f8359f-73b4-4df7-9c2b-f9dab57154e7,Buenaventura Jáuregui Baeza,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 00:56:44.836949,without_onion,N/A,3
+100,aa2ecbec-45ad-4978-9c10-53a3a0220665,Aarón Figueroa Poza,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 19:34:35.744964,vegan,,5
+100,2320729e-7c0a-4dbf-9500-3451a8fdac78,Marcos Hierro Amores,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 20:00:01.248194,classic,,2
+100,4d99c35f-3d1c-4ff2-aa57-30b09da3b86e,Leticia Miriam Lucena Lerma,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 17:51:18.639385,classic,11.24,3
+100,b18f414f-b9b2-45c6-bbd2-92cbf31814c0,Tere Calvet,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 20:24:24.699690,vegan,N/A,4
+100,b175feea-4213-4c1c-bd68-13caa764a452,Pepito Carbonell Gimeno,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 00:00:38.025829,with_onion,,2
+100,80b5fde0-ad5a-461e-a958-7d9e7cd2a7d5,Gisela Sol Torrens Blanch,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 13:33:59.223851,without_onion,N/A,5
+100,6e71d3bf-5da9-496a-baa8-8f05b5e76782,Juan Pablo Vidal Tudela,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 16:39:26.249128,without_onion,,5
+100,56562474-6576-486e-9308-9b784a2eee04,Erasmo Cano Hurtado,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 09:41:10.672830,classic,7.81,5
+100,bac10cf4-2bf0-492a-a1fb-89f00db5f688,Nélida Gallart Zamorano,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 18:32:49.647618,classic,,5
+100,2c5c77b3-29e9-47b0-a18d-dceda9ce76a4,Beatriz Planas Ramírez,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 17:43:43.054522,classic,,5
+100,e2a975c7-70f8-42bc-a122-a0035351eb16,Paula Tolosa Jiménez,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 12:56:11.762374,without_onion,N/A,2
+100,169178fc-2c9c-494b-a687-7fc3174e9b86,Jordi de Franco,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 01:37:31.426240,vegan,,3
+100,5ea0d3b7-5b85-4a0b-afa4-5bcf6791deb3,Marisela Molina Lobato,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 10:51:21.153058,vegan,N/A,3
+100,ff29c40b-edd6-46c3-b8d9-d87e75d943ed,Anita de Alba,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 16:43:34.181330,without_onion,9.64,3
+100,7e3fe869-8f6e-4ef5-a96b-e845b6b23006,Benigna Perera Campoy,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 23:40:29.671282,with_onion,,1
+100,dfb2f85b-5cf8-4f95-a081-d26c40dc6f55,Casemiro Barrio,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 00:32:37.369959,classic,,5
+100,1070f339-8a9f-48db-82f0-4eb73e49b3c8,Teodoro Terrón,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 01:44:39.350303,classic,,4
+100,f2e61a04-f12c-4646-bcec-0c79f25bf201,Eugenio Cortés Cazorla,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 16:21:30.459404,without_onion,,3
+100,069fcebb-68d4-45dc-9045-4c8d2e140c8b,Eric Manuel Fuertes,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 09:05:26.819075,classic,12.21,3
+100,eabe2f14-f60c-4179-b23a-8881adea0b15,Nerea Consuelo Segura Pino,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 18:14:22.712611,vegan,,4
+100,66c7e2be-2d84-4e5e-9ae1-2dcf698d9ecf,Susana Esparza Flores,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 03:01:27.310001,classic,,3
+100,697a77b9-c9dd-4ba5-bbc6-e8a67c663d8f,Ciro Cerezo Morcillo,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 16:47:59.745619,classic,N/A,2
+100,60e8b07d-31d3-4324-96ca-08b0c904827a,Daniela Fajardo-Taboada,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 09:02:17.131491,vegan,13.83,5
+100,6de4b144-1cfc-4eea-b6d6-360c30d98519,Gema Ana Herrero Abril,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 14:57:05.393656,without_onion,N/A,2
+100,7ab1c3db-1559-4e9f-9367-687668916095,Tecla Cid Gomez,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 20:33:51.185636,classic,,1
+100,0be0e30e-4d5f-419f-909e-a4ed5774fbe7,Eliana Vara-Serna,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 14:40:26.320361,without_onion,13.24,1
+100,eddc64b0-a6b1-4c1a-a460-68b3b5fae5a1,Verónica Vilanova Román,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 00:44:22.870796,vegan,N/A,3
+100,1e75f126-cac3-441d-82f2-f1477a96cfdc,Carlota Soto Gilabert,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 23:25:22.499995,without_onion,N/A,4
+100,15ef55a6-5a2d-4947-83bb-a211819ea4da,Maximiano Bayo Catalá,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 14:32:45.967423,classic,N/A,1
+100,f17a25b3-15be-4b6d-9540-fce553659145,Carmina Méndez Aguado,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 03:29:04.350525,vegan,5.88,3
+100,fb79185d-62bf-478d-883e-69005a9db9b4,Eugenio Cañellas Bayo,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 10:56:58.389713,without_onion,9.96,1
+100,922c49a7-5a59-49b0-9e53-d750b0ff25cd,Catalina Vera Redondo,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 01:22:57.267058,classic,,1
+100,f27e6f96-0a34-4839-8bde-686658965588,Alfredo Vega Gallego,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 13:25:43.751541,classic,6.27,1
+100,74e737d0-69e9-4140-a883-574f0f81a161,Marina Cózar,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 21:27:30.881116,vegan,N/A,5
+100,faea81a4-93d0-4181-8103-4c8f68a6ab21,Álvaro Lerma Miguel,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 23:06:26.605578,classic,,3
+100,75e5d943-519f-4301-8502-2620c6f5dcd1,Genoveva Pedrero Guzman,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 15:22:07.501172,with_onion,N/A,2
+100,883c1572-4746-44e8-a6ad-fa93a9511828,Sarita de Ayala,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 15:37:53.824446,classic,N/A,3
+100,0a4fec24-09a5-4c68-948b-40c61b3b355c,María Teresa Bustos Cabañas,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 02:04:55.138522,without_onion,N/A,2
+100,6852019b-60f6-4fcb-b087-74c1cae53c9b,Paulina del Manrique,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 23:21:09.600342,with_onion,,1
+100,92f2ec35-cbef-4ae0-8e21-1bff90f36df2,Azahar del Murcia,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 18:44:20.837425,vegan,N/A,1
+100,b3a50a5c-a58b-473d-9d8d-74f8dab6faf1,Leopoldo Santiago Serna Garriga,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 03:30:38.016776,with_onion,,5
+100,0e7d83b4-9320-4ce0-81f9-b6c2576c354d,Victoriano Édgar Blasco Oller,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 13:51:13.303328,vegan,,3
+100,6283fe7b-07da-48cc-a5a2-7a2a230c9947,Gilberto Barrena,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 22:52:39.503641,classic,,3
+100,1d75e6d8-e06b-4254-a2d3-78f3dece5316,Encarnación Claudia Cuenca Aliaga,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 02:18:59.927339,classic,N/A,4
+100,da946c40-c33c-4e3f-a6d7-f405e89910ba,María Fernanda Estrella Galan Borrás,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 20:06:44.370393,without_onion,8.1,1
+100,f663621c-d2ee-4342-8037-9acf7917e418,Angelina Trillo,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 01:39:43.707105,without_onion,13.06,4
+100,aa8a23cc-b6b9-4b57-ae7d-7cc7501a304c,Eleuterio Baeza-Miranda,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 08:06:37.414533,classic,14.57,3
+100,ae803f06-2069-4e21-b29a-9d4433826833,Hilario Castillo Guerrero,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 10:24:27.337634,without_onion,N/A,1
+100,922780d0-9a92-46b4-820b-9bd64eadd08d,Filomena Iglesia Toro,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 02:48:06.385368,without_onion,N/A,4
+100,b45010f3-c491-462e-8d55-b0d6fc9e9fd7,Gisela Velasco Yáñez,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 20:17:17.456620,with_onion,N/A,2
+100,6cf032c4-59dd-4adc-af07-0925a0a8e3fd,Reinaldo Tapia-Giner,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 14:04:58.120278,classic,5.09,1
+100,a81f10b3-88d1-4426-b06c-27eb8af7fdb4,Juana Lorena Blasco Landa,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 07:29:41.143666,with_onion,9.52,3
+100,49c7f149-8d15-4b66-a949-60e747af1572,Juan Manuel Verdugo Lloret,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 08:25:27.852638,without_onion,,5
+100,e0d6c604-81c7-419e-88c4-77b64ac09dfb,Gabriela Galvez-Manjón,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 06:19:54.722534,classic,,5
+100,7ff2f5eb-cfce-494e-ab1d-3de8564780c3,Aureliano Gámez Coronado,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 04:19:11.992342,vegan,8.96,1
+100,63791edc-e323-4e53-ac9f-069053c5eb8d,Cipriano Aguilar Gallardo,Murcia,"Callejón Aristides Casal 7, Toledo, 42856",2026-05-01 02:59:26.861347,vegan,7.81,1

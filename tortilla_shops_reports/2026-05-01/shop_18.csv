@@ -1,0 +1,211 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+18,ceba27be-474d-486a-976e-d763a630de3f,Arcelia Llobet,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 16:40:03.487580,with_onion,13.3,5
+18,7d98559c-14e8-4435-88d9-75d1830a3ef6,Fanny Hierro Cañellas,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:24:30.429563,with_onion,N/A,4
+18,6cc59f56-3ace-46d4-8794-7c8ec422f38e,Rolando Acevedo Pardo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 16:41:14.085788,vegan,N/A,5
+18,607e95a7-feb7-4bd6-ada5-83fb7e9b701f,Elisabet Peral Tejero,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 10:21:02.960705,without_onion,14.26,5
+18,bb367edf-0d9b-4cdb-84fe-9bc61c1979c5,Benigno Palacios-Mercader,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:10:04.786205,with_onion,N/A,4
+18,c1f74303-2542-40f8-a029-f2dcbf11628c,Loida Quintana Tamayo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 16:16:53.637445,classic,5.69,2
+18,6196b070-043c-439e-a736-452518be75d9,Silvio Rodriguez Roman,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:56:42.354066,vegan,,2
+18,237e36a5-6e84-4f8f-8028-b6e6f750238e,Cintia Royo Sanz,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 19:37:15.538048,with_onion,N/A,4
+18,de6c18f0-ed48-40e7-a350-173bfeca111e,Javier Marín Valle,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:09:52.913157,with_onion,,4
+18,dca6fc70-b9f3-4127-97cf-9b022ef67e54,Corona Ureña,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:15:05.326576,with_onion,N/A,3
+18,0c96bc95-780d-4557-abc2-fbfc801a71a4,Tere Velázquez-Ramis,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:16:26.241171,without_onion,7.61,5
+18,3755cd3f-e8e9-4c91-98ab-d20a32ee4e15,Severo Santamaría-Cobo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 06:04:31.717788,with_onion,6.51,5
+18,7ce7518b-e7f4-4d73-b0b1-96cd55ade557,Pío Domínguez Malo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 08:09:43.790512,without_onion,7.72,3
+18,a61ca282-18cc-491b-8070-daac7f9f671f,Ernesto Linares Alcalde,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:59:26.446258,vegan,,1
+18,7884e819-29cc-4570-9fea-0b9f4f874617,Maite Sáenz Iriarte,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 19:30:36.137075,with_onion,5.9,4
+18,2a9edc97-c4aa-444f-af8a-2fda62d0f828,Tomasa Pavón Mendizábal,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 06:49:01.521908,classic,,3
+18,909adbe3-f162-4cf9-a469-af8aa50eacb9,Candelaria Aroa Cerezo Chaparro,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:51:29.660746,vegan,,4
+18,ca735000-bbbc-4981-a3d1-900fd3b4cc5c,Rafael Adalberto Donoso Maldonado,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 10:20:26.346651,vegan,5.64,5
+18,1bb4c2bd-43e6-40b5-b645-c0e11955d914,Matilde Amaya Patiño,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 00:21:15.514910,classic,,5
+18,9ef737af-9ce5-45f6-8bcb-d2aa564a6050,Elena Canet-Zabaleta,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:11:44.475363,without_onion,,4
+18,80c58047-3033-4028-a713-8fb01e3566be,Dalila Cabanillas Alcalá,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 07:29:07.105768,without_onion,,1
+18,c0f1e1c6-2a3b-465e-ba97-c3b37a0168b3,Haydée Salas Batlle,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 19:21:08.808348,with_onion,8.55,4
+18,0544c62a-0457-4419-a002-93040fe23d78,Aureliano Abellán-Aguado,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:06:26.970342,with_onion,,1
+18,33fe16e9-6823-452a-aa58-1c0bcb0df158,Fermín Asensio Baeza,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 11:13:57.177866,without_onion,14.44,5
+18,865236a2-6e1f-4efa-bab1-b3c9235fe0af,Arsenio Rodrigo Menendez Tur,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:22:50.824371,classic,,3
+18,e9aaff1b-5abf-483c-abad-a7e288acd824,Aránzazu Falcó-Tolosa,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:55:45.009771,vegan,6.56,2
+18,ee76ab0f-dd7b-4d85-b8c2-572eee731c75,Rosendo Zapata Nadal,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 09:31:44.498707,without_onion,N/A,4
+18,bbc9303e-e5d3-4245-b28a-a62668d9c7fc,Ismael Carrera Caro,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 18:54:51.513637,classic,12.03,2
+18,d2fd18b7-7fbe-4d7d-9e09-01330ea54cea,Pedro Vera-Miralles,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:34:37.622562,with_onion,N/A,3
+18,da0652c1-4b1a-4f7e-aa8b-0d77d0350438,Ruben Agudo Ángel,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 00:53:45.302867,without_onion,N/A,2
+18,5d775345-60b5-4fad-a5cb-dea23dd91056,Ani Rodríguez Badía,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:21:45.501147,with_onion,,3
+18,3e4117b3-8164-4dd6-b13b-ff84b494780f,Nereida Quintero Novoa,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:55:10.620851,vegan,,3
+18,3451a9a9-2464-4837-b0a2-0dbda7c9edb9,Diego Segarra-Cabo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 00:45:34.201807,classic,N/A,2
+18,7f598411-53f2-4ca2-9b04-41dda1c08a84,Alejo Santamaria Miró,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:18:16.809473,classic,N/A,5
+18,4990fa3a-d2d1-4b8b-896e-6477ec0b419d,Viviana Roman Uribe,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:47:07.684094,with_onion,N/A,5
+18,9f276ccd-44fe-4754-a006-486ed816f6c3,Sebastian Iñiguez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:47:46.585461,vegan,,1
+18,2221698d-2496-4a0b-8502-7d725b63ef1e,José María Fernández Maestre,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 07:57:08.343151,classic,,2
+18,ce15c71f-33f9-4dad-a992-aecc10eec6a0,Flavio Arnaiz-Ripoll,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 17:39:39.874279,vegan,,2
+18,dee0040e-0a39-494d-915d-c58b858c4298,Víctor Fajardo-Navarrete,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:35:27.445153,without_onion,,1
+18,c0c43b06-6e1c-4211-b122-7fb19adc51c8,Nicolasa Plana Criado,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 09:57:00.332407,with_onion,N/A,2
+18,44c09fa9-f12d-4ab6-976c-3470626baeac,Marianela Colomer Macías,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:20:27.565274,with_onion,,1
+18,4f9b0a68-6a12-411a-80c3-7352e96eaf3e,Julio Zacarías Carmona Pont,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:20:51.266524,classic,,3
+18,8927c0a8-60b1-4ccf-97d6-fee71b2f6ef4,Paco López Terrón,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:39:03.582417,classic,11.62,3
+18,d9e609b2-a746-4677-be23-ac76783c62e4,Julián Borrego,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 06:27:08.130327,without_onion,12.3,3
+18,6c58ec3c-c433-4be2-b0f8-61c05dbc43d6,Coral Batlle-Fabra,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 05:55:55.410203,vegan,N/A,2
+18,5e173fa0-1e5d-49e3-aca6-a3d13be3119c,Candelas Tapia Ibáñez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:39:39.414168,vegan,8.3,2
+18,245376a0-3650-48e3-aece-3abd74a5fea0,Efraín Parejo Pinto,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 17:04:38.881559,without_onion,,1
+18,a2c890e9-8aeb-4e2a-8717-1252a903b8b4,Herminia Aroa Higueras Ruano,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 16:07:11.366625,with_onion,,3
+18,a1ccb462-0bbd-4786-8c8f-a8922df09102,Marina Nevado Criado,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 05:47:57.689390,with_onion,,5
+18,4b3bc1b0-adb4-41b9-8e40-7ac6bc5008c4,Quique del Alsina,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 08:06:43.854487,with_onion,13.97,5
+18,78a47098-4c87-4b25-8239-145f7d22ded2,Ariel Eva María Prado Morales,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:10:36.743785,vegan,N/A,5
+18,380818d7-18a2-40b2-b7e1-7d483b28c74d,Olga Arnaiz Mateos,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:41:27.681284,classic,N/A,4
+18,f65c52c2-b6fa-4485-a15d-a760758179b2,Toni Fuertes Arenas,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:15:52.733061,classic,N/A,3
+18,acec587c-8069-4ba9-9d43-f8f1b2a09b8f,Olimpia Arribas Iborra,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:30:11.342592,classic,6.45,3
+18,7602f724-d1b7-43d4-be7e-518889eb4b01,Regina Aragonés-Roig,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:33:26.032656,vegan,,4
+18,1a8a67ed-956b-42f0-9c44-40b462066c34,Bonifacio Casals Barreda,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:38:07.822326,classic,,1
+18,f79be9cd-d6ad-4b12-800b-9d1bfc68eaed,Roberto Macias Guardiola,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 10:28:57.333624,with_onion,N/A,1
+18,7ae4f469-e7b8-4222-8c0a-74174a5d8201,Celso Rodrigo-Juan,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 16:11:10.674458,vegan,,4
+18,58f59c77-c211-49e9-9d53-353cc0c273a6,Ángeles Múgica Perales,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 19:17:52.423150,without_onion,N/A,4
+18,7c283e06-3b2b-43ec-88c9-1121d5a42678,Luciano Jose Angel Zaragoza Sánchez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:29:46.653334,without_onion,N/A,2
+18,523f5e31-565e-4592-a896-05cfa4c18841,Abraham Benitez Cornejo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:30:37.222399,without_onion,,5
+18,1b4805fb-72ca-4e44-bc73-2d5316cdb97b,Óscar Salvà Llobet,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:07:31.610627,classic,11.61,4
+18,f24eaa42-6bd4-48f4-8a81-3db9dcdade95,Bernardo Perea Mora,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:10:23.311617,with_onion,,5
+18,db43dac3-2cfe-4355-970b-b907b6d61cb6,Evangelina Menéndez-Pinto,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:45:41.849386,without_onion,N/A,4
+18,192bed09-a645-492a-8d4e-0643c7ad2fbe,Ana Belén Garzón Manjón,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:06:16.781455,with_onion,,3
+18,23dd5de8-3459-48cb-a8f5-6d8b9c214789,Estrella Encarnita Calderón Pineda,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:06:46.175208,classic,N/A,3
+18,8355f21b-5f1b-47a1-9381-b1486bf3f9ed,Gregorio del Cortina,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:44:18.198995,classic,,5
+18,840fdbc8-7ed8-4df7-b365-48c05da00d31,Fabio Arana Cerezo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 00:12:19.775787,classic,,1
+18,65377ffc-73ff-47c6-9315-031ac0a1f2d4,Chelo Larrañaga Molina,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:37:14.569095,classic,N/A,5
+18,a9ac1af3-1b28-4216-86d4-7777e9546426,Emilia Baños-Nuñez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 02:05:59.164539,without_onion,6.57,1
+18,9f1ae2f9-61c0-44ae-893c-690654c7d4d7,Marcial Alcaraz-Ruano,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:13:57.921669,classic,,4
+18,9e376803-10f5-4bde-9b11-3d343dd2e03c,Bárbara Goicoechea,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:22:52.163617,without_onion,N/A,1
+18,acc22824-9538-484d-86ce-26670e0b1ada,Fabiola Cerezo Sacristán,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:02:54.801613,without_onion,6.61,1
+18,0586af2b-5e17-4a6f-9f9e-3eae04d86915,Lisandro Ordóñez Miguel,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 08:15:41.080591,classic,,3
+18,0f84699c-da76-4377-8037-eb088332f68b,Teodosio Fabián Leiva Nicolás,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 10:38:21.463777,classic,,4
+18,f210d2a4-74e5-4d7d-a8b7-f6906b595523,Flavio Catalá,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 11:12:56.481497,classic,N/A,4
+18,9c164c1a-4c28-454b-8171-a421dea79d5f,Valentín Portero Company,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 02:12:05.669447,with_onion,14.75,4
+18,3a32d075-47f0-4c5d-ac56-955faaee4e52,Emilia Capdevila Vélez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 18:18:04.577931,vegan,,3
+18,fe1416d1-666d-4f97-9e09-9011747f33af,Cecilio Rivas Fortuny,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:46:15.928328,without_onion,,1
+18,52c2edac-861d-4cc2-bcc4-589fd5386289,Heriberto Torrens Goicoechea,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:08:27.285125,without_onion,N/A,5
+18,f23e7283-a333-4a03-95df-c5c3999b21a2,Olivia Córdoba Montes,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:54:56.350477,vegan,12.82,1
+18,46531483-e655-4a2d-a492-7deaf5add12c,Daniela Aguilar Neira,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 11:14:05.644025,without_onion,N/A,2
+18,fbd0a708-2670-4047-854e-183221c78d19,Domingo Ruy Miranda Macías,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:10:10.416815,without_onion,6.7,3
+18,3fa85ef7-eda0-469e-bfb0-a6ab4d841f7b,Miriam Lumbreras Milla,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 05:30:26.933864,without_onion,,2
+18,ed710fb7-0702-4afd-acdf-0093a051858b,Delia Almansa Hernandez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:28:26.521750,with_onion,N/A,3
+18,74dc1154-573a-40f8-8942-01323d2bf23d,Ignacia de Palomares,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:27:26.001902,without_onion,5.93,4
+18,0e45fce4-d095-4186-a56f-42a24cac588e,Demetrio Pareja Peiró,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:48:10.268015,without_onion,N/A,1
+18,aee02cf9-3482-458d-9b98-2d516431bf2b,Rosa León Bonet,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:51:02.260295,classic,14.23,2
+18,4d1d7e2e-01ba-4bb3-a7f1-a7be48f5f502,Angelina Toledo Borrell,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 10:25:16.914021,vegan,9.11,3
+18,cbb9a17e-b444-4e75-990e-fcc647354eb9,Jose Manuel Río Coll,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:40:09.485914,with_onion,N/A,1
+18,2d062c97-abe7-4389-a18d-18ab6dd60b69,Severino Sáenz-Bueno,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:56:37.349538,without_onion,N/A,2
+18,9d0f1ec2-ba58-45a9-971e-7ebefb77d774,Chita Llamas Alcalá,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 16:58:17.260224,without_onion,5.91,1
+18,962ebdda-5e19-4054-914d-54f2264ba8c6,Rodolfo Bustamante Verdú,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 18:09:20.619099,vegan,,5
+18,ba78dc18-d9f5-41f5-8060-ad647f7189b9,Maximiliano Gutiérrez León,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 05:32:48.690480,with_onion,N/A,5
+18,144cf7c3-d08f-487f-b3c1-dc94449b8e72,Marisela de Ballesteros,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 07:30:00.203461,classic,N/A,3
+18,25973609-7af4-47e7-a9de-cdbef70b5719,Nicodemo Quique Tur Segarra,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 10:41:17.770620,without_onion,N/A,3
+18,0007b475-d679-44c8-abb6-29e39e719bea,Evangelina Collado Ochoa,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:45:35.848025,without_onion,13.43,3
+18,738cf06a-b8bc-4349-afa4-10e1a4ecd133,Pepe Rolando Solé Martinez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:18:44.829161,with_onion,N/A,3
+18,1252a029-425d-48b9-86fb-429cc0f383c0,Jesusa Zamorano Llamas,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:26:08.198837,without_onion,,2
+18,48318650-e217-453e-a2fb-0078bb797433,Salomé Mir Arregui,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:49:55.254935,vegan,N/A,1
+18,acc65b58-cff0-416b-be7f-8ce5f75c2247,Agustín Sáenz-Doménech,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 17:09:10.630363,without_onion,,1
+18,e82267e2-5e18-4c28-a3c0-4e027cab0705,Dorotea Cortina-Ortiz,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 08:09:07.993181,without_onion,,2
+18,53791eaa-a04a-40f2-8f66-dbd55d6a565f,Juan José González Hurtado,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 08:06:45.520529,with_onion,5.49,1
+18,102b4200-e2f2-44a8-9dba-4e3897702a62,Alejandro Bayón Franch,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:07:42.524408,with_onion,,5
+18,1d2b6b8f-777e-4a8d-8542-59e3cf39c074,Rosa María Merche Real Osuna,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:26:19.997716,vegan,N/A,3
+18,43318533-39b7-47d4-a555-15475780d1e1,Priscila Viña,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:18:12.726137,with_onion,N/A,4
+18,ab70ad3a-c2f1-41d9-8350-618efe942367,Ulises de Robles,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 08:27:22.455321,vegan,N/A,4
+18,6c98cc89-5de5-45e7-a1b2-245865ced197,Ángeles Fabiana Español Espada,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:05:00.491257,without_onion,,3
+18,1ebe9a16-bdba-45a0-9e82-cd9546ad5a42,Jose Luis Romero Garmendia,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:51:47.262402,classic,7.67,2
+18,05b398c6-aaf1-4d5b-a022-ca087faf7004,Abel Santamaría Bonet,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:41:19.378553,with_onion,N/A,3
+18,c98b16f8-c153-4b8e-bf3f-9f9e77492c4a,Cándida Sanz,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:19:18.958825,without_onion,12.51,1
+18,3af39cdb-5e9e-43d7-8cec-7130154fbc87,Lorena Pepita Roca Chamorro,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:20:47.886965,classic,,2
+18,d33891a8-1e15-4bd8-b26f-643e450597cb,Angelita Carballo Cardona,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 16:17:43.849077,with_onion,13.29,3
+18,eea356b1-9576-4f40-8da7-fc79d2d44a91,Gaspar de Clemente,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:59:55.467769,vegan,,3
+18,8510da06-10a7-4324-8ec4-79e689b04f2a,Manu Seve Baños Armengol,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:22:35.790912,vegan,6.21,2
+18,1cb30b8c-905f-448b-bfdb-8a494ee65ee5,Celso Rocha Tenorio,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:13:30.828082,classic,13.18,5
+18,deb870e5-5a32-4766-b7c4-cb1b7bc14671,Anastasio Jenaro Benítez Madrid,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:13:45.488979,without_onion,5.8,4
+18,b002ff54-9ee2-404e-9f15-caefef850be2,Américo Jover Carpio,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:27:24.996272,classic,7.68,2
+18,069c1bb4-3b69-43aa-a0cc-582899d672f6,Rita Barrena Farré,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:29:47.450065,vegan,,5
+18,507da77c-5d17-4ab0-abb7-e21cd2b1f1fe,Edelmiro Caparrós Tapia,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:03:10.992784,without_onion,N/A,1
+18,701094d5-3a0b-4756-b341-2a3426f2706a,Úrsula Franco Rovira,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:20:36.201531,classic,N/A,3
+18,714c1884-ec30-45aa-a4f8-378ba4d97c8a,Santiago Pagès Luque,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 09:35:09.734878,without_onion,,3
+18,be926753-628e-458a-ae52-3153d280b506,Loreto Evelia Orozco Uribe,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:45:09.397660,classic,N/A,3
+18,7998db5c-e679-43a6-81f3-0319f390522b,Agapito Mendizábal Hurtado,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 08:43:28.426886,with_onion,,5
+18,87a04f3c-fa8b-40e8-a82d-a93fdef4f83b,Miguela de Canet,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:16:14.932606,classic,,1
+18,593ae039-57e9-4255-8cf8-f1d530759343,Ovidio Roman Guerra,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:31:55.232961,vegan,14.33,2
+18,4e556f58-16a3-445d-ade2-e14a4f7ec01d,Fulgencio del Duque,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:17:59.478765,vegan,5.82,4
+18,b3dfbce2-6646-4cc1-9e78-2cc47fe54a50,Fortunato Coronado Puig,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:40:30.367265,vegan,N/A,3
+18,570a285f-50f3-48f4-9f0c-243b25390db9,Nuria Roldán Rey,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:22:15.226180,classic,N/A,1
+18,b7d1a3e8-7fcb-40a0-b93a-f436d6a83e60,María Fernanda Julián Estrada,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 09:31:39.565070,with_onion,,1
+18,5da6210e-66f9-4f8b-98d6-8a0dac3c06dd,Sandalio de Calvet,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:26:48.439147,with_onion,,4
+18,2f99d6ca-7ba5-42e6-9cef-d4fa7b491f18,Odalys Bravo Nevado,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 19:31:49.313610,with_onion,14.54,1
+18,cb038911-cc55-4642-a49c-6d498102b45f,Tadeo Zabaleta Sales,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:04:47.905956,vegan,11.34,1
+18,1e8617f6-71c8-42f7-a389-f5853958f797,Gloria Paredes Paredes,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:07:46.324049,with_onion,,3
+18,6606787c-d96a-4622-b558-97c344a4ea13,Zaira Recio Lobo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:58:59.283809,with_onion,N/A,1
+18,4e34edf0-e231-4852-a77f-60ad962da1c1,Sergio Bernal Pintor,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:27:27.987717,classic,N/A,1
+18,895e5c5b-8782-4dc5-91d1-15893569d453,Ruy Costa Chico,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 07:09:58.994700,with_onion,N/A,3
+18,679e4458-c34a-4eb4-8541-28e6300721c6,Vanesa Villanueva-Rosado,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 10:25:46.677571,with_onion,N/A,4
+18,0b863346-80dc-4e29-b433-690881e1bcac,Octavia Abad Pol,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:19:49.525413,without_onion,5.93,3
+18,11ddf1cc-0e77-4e25-969b-99ffcaf735ac,Aurelia Cantero Rico,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 19:06:27.076420,with_onion,N/A,3
+18,f1f45e38-2151-4fdd-82cc-64514ceb5984,Yaiza Valcárcel Figuerola,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 11:04:54.347765,with_onion,N/A,1
+18,d36b79b9-9c27-49c0-8e58-c3f9eec8d01e,Salomón Puente-Merino,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:51:59.589816,with_onion,5.49,2
+18,5ba02e6a-b4d9-4f09-85f9-d7fe25044763,Odalis Colomer,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 09:48:10.278836,vegan,9.77,5
+18,a7c7ae1d-c5d2-4a59-b28d-2138f6fe78b3,Dani Miranda Cortés,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 17:48:39.281940,with_onion,N/A,1
+18,7c578e61-92ff-4981-bb03-569078b2e2ec,Estela Navarro Santos,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:17:52.860610,with_onion,8.8,4
+18,d6ea73fb-4b09-4214-b801-b3b948fbdef2,Anselma Morillo Folch,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:58:39.206962,classic,6.49,1
+18,fb52e9db-e62d-4207-94a1-0790d0aa066b,Isaura Casado Diéguez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:29:18.849395,with_onion,,3
+18,2358d467-5d75-4904-87b3-b8eed3facfdf,Cándido Morillo Busquets,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 05:50:22.103536,vegan,12.9,5
+18,0a2e1e50-52ba-43ff-a0c1-25cccce9b443,Berto Gascón Arteaga,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:28:26.722235,classic,N/A,2
+18,ffa2e47c-ff34-4285-9a70-ed92764db3ae,Melania Cisneros Matas,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:31:45.772959,classic,5.57,5
+18,b5c67369-c7e8-4870-a018-b09404655ebd,Dora Losa Almazán,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:23:48.834932,with_onion,N/A,2
+18,8dc9503e-1653-41c8-854e-22d63a5d4b8b,Lucho Maestre Iñiguez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:00:06.823171,classic,11.17,3
+18,d175e9d8-1964-4211-af79-78ecc075baaa,Elena Cerezo Salcedo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:08:15.263371,classic,N/A,5
+18,923bb8e2-e0c2-4c10-bcba-d6c18408bb07,Ainoa Santos,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 10:34:39.852300,classic,9.9,3
+18,26836fcd-b82a-4149-bda5-07101a23c765,Ruperto Lumbreras Zurita,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:22:28.105496,classic,11.84,3
+18,de9abea9-bc0b-4e9c-8561-d0fb85d2adc9,Reina Lopez Barrio,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:42:45.758351,vegan,,5
+18,869f3678-1a9b-4e07-a7b4-ac9db237fdb3,María Cristina Fernandez Alfaro,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:25:40.645147,without_onion,N/A,1
+18,4e778d2b-8314-4834-b0c1-2903df1ee79f,Mariana Rios Donaire,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:10:30.619582,classic,,2
+18,eba71164-90c6-4b04-8a4c-ebfee5f6bdc9,Heraclio Francisco Neira Luján,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:05:32.029934,with_onion,,3
+18,2926a9ac-8eba-495c-b806-5dd70378774c,Sarita Camacho Villena,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 02:40:31.650136,without_onion,,2
+18,d2d2256e-c872-48e9-b26d-f5692d872e74,Reyes Crespi Benavides,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:01:06.477140,with_onion,,3
+18,f985a0b8-3236-4a5a-82bc-b8ca5390528e,Adán Toledo Crespo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 06:30:23.699007,classic,N/A,3
+18,4bfb20bf-2e1d-4209-bd84-b475744d90cf,Francisca Pla Núñez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:31:26.275407,with_onion,14.4,2
+18,7872e829-a5fd-489b-9908-a86fdd0b19f5,Marcial Elpidio Menéndez Gaya,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:10:48.229990,classic,7.9,3
+18,034f6d51-0852-476b-9034-d97e0100522d,Paulina Ríos Águila,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:01:04.935468,with_onion,,1
+18,547cccf6-a3b0-4232-a40d-b2dfd9e902c2,Joaquina Aparicio Cabello,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:48:02.353772,classic,9.86,3
+18,ef18a15f-2e42-4fec-a48d-0fb3814f1734,Mariana Ariza Frutos,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 08:03:55.019947,vegan,N/A,5
+18,f5fb794b-37ed-43bf-853d-e446e66f5264,Isidora del Suárez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:54:00.076189,classic,,2
+18,2f290e10-eb76-4a20-9a31-0fd8b71adb79,Martirio Iglesias,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:16:21.181658,without_onion,N/A,4
+18,9479f279-ea4f-4f8b-98ba-816d1960d2b3,Rosalina Ledesma-Hernando,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 01:00:39.240022,without_onion,N/A,4
+18,2a884ed0-217e-4809-8f9b-25e573488d2d,Maxi de Vendrell,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 06:12:51.806614,without_onion,,2
+18,b51abeee-f052-4873-8d1a-174a1049d04b,Simón Viana Castillo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 18:16:35.819734,classic,N/A,3
+18,a38f1ae8-6f54-4abf-8afd-746904bb1777,Bernardita Manzanares Pellicer,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 16:49:16.956469,without_onion,,5
+18,de002385-a9cf-40db-8a12-19e625b7c13b,Hector Fábregas Naranjo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:31:35.865719,vegan,12.79,2
+18,7338defc-3404-4696-97b2-38bc05558ca5,Ángeles Berenguer Niño,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:12:12.287986,without_onion,,4
+18,5d27394f-14e6-4685-9b78-e9651ee3790a,Lourdes Bayona Parra,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:42:35.090512,classic,,1
+18,9c9cbc9c-78af-41c5-9fb5-29652875aa51,Valero Coll Domingo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:54:01.126805,without_onion,,2
+18,a68eee43-84ad-4567-abef-bb609bdd9745,Cesar Marin Marín,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 17:05:41.603140,without_onion,11.47,3
+18,055029a4-2d2c-4e51-b92e-4ff7e7f8ee1c,Severiano Sanmartín Escamilla,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:26:10.464318,without_onion,,4
+18,b4261f55-b6b9-47d2-a958-b820631bf0d1,Jose Antonio Valenzuela Cornejo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 06:25:00.266034,with_onion,13.2,2
+18,3c8a4b1b-4d7b-4501-96e1-74dddb1ea75d,Néstor Toro-Calderón,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 23:07:51.980688,vegan,10.68,2
+18,96260ee5-ef65-4d30-a30e-fb5400b84cdf,Lorenzo Botella Andrés,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 11:24:31.154512,with_onion,N/A,2
+18,34a966a0-c4ae-43f7-bb74-d1b1458cf70b,Maristela Albero Iglesias,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:16:30.139237,without_onion,14.16,5
+18,7fb9b576-89e9-4e2b-a92e-630535d039df,Modesta Valls Ferrero,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:44:03.881000,without_onion,9.45,1
+18,51ab6b09-a0f4-48ec-97a7-3835269d2d9b,Mercedes Sosa Palomares,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 07:14:19.482550,without_onion,N/A,3
+18,7cae620c-5c98-424e-957d-2bed97ed9f2f,Cristóbal Prado Jaén,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 09:45:20.820127,without_onion,6.04,5
+18,a2b3de3d-16dd-4594-9ac8-2cf796fb3f83,Hector Severo Palacios Marco,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:56:36.075148,classic,,3
+18,b861b406-2cf6-4ec9-ab3a-9a1baf6ed318,Ezequiel Zabala Alberdi,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 21:38:06.856684,with_onion,,3
+18,62b8b1ca-fcc7-435d-94c7-98a2640e346d,Eugenia Lastra Priego,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 19:15:07.659723,without_onion,,5
+18,4ce09220-e163-4e7a-9ed4-94d1e62553a5,Paz Guardia,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:07:03.621313,without_onion,8.9,4
+18,10f5db8c-0023-4e3c-ae88-506c3e1b4f54,Vicente Arroyo Haro,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 00:08:03.476336,with_onion,N/A,1
+18,5ee4d4cc-a65f-408e-8aa2-76e297f6fea7,Duilio Duque-Arana,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 06:41:34.973793,without_onion,9.37,1
+18,dd10ac18-6735-46fc-ba79-e9e8fed53787,Miriam Serna-Lloret,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:39:55.508582,vegan,,5
+18,a0444864-71f0-49e6-849a-50d6fa7e6acf,Adelaida Barco Carbó,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:17:43.237003,classic,,3
+18,42c4864d-dc5b-413e-b46c-1ca91b7f2219,Hilario Echeverría Agullo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 13:41:06.608092,with_onion,N/A,4
+18,6f13e0e3-602c-4eb2-9f86-fd485ab3c9c4,Julio Pastor España Saavedra,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 22:53:06.196559,vegan,,1
+18,faf64742-99b4-4d8b-8a19-517ed3a6e999,Eusebio Peñalver,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 16:54:35.418632,without_onion,N/A,5
+18,43ec15b8-e7f5-4182-aac3-84479066844d,Lorenza Benavente Seco,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 12:18:46.573483,without_onion,N/A,4
+18,d4325247-a35a-4b2e-a2c8-e7544a943062,Cecilia Jurado,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 06:33:33.025896,with_onion,,4
+18,7d4267c8-135c-4428-b932-f6b861c3a1af,Chema Hervás Pedraza,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 02:29:38.123884,vegan,N/A,2
+18,a40683ca-2782-4b36-a7a0-20a680db5d29,Cintia González Rosell,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 03:52:47.035660,vegan,11.97,3
+18,d5f74b32-3a9a-4c9b-86ff-62aa5ce1d038,Carlos Solano Durán,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 18:58:51.228761,without_onion,N/A,3
+18,0d6dd9f6-c16f-4e41-91ba-5c73dd65a292,Yolanda Font Castellanos,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 15:39:56.332839,classic,7.41,4
+18,c7540359-6fc1-46d0-9875-6d31f98e72d6,Cecilia Urrutia Ramirez,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 07:26:55.919753,without_onion,N/A,3
+18,9b980b74-aa74-4399-93cf-937e5e66555d,Encarna Lopez-Martin,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 10:05:53.637063,vegan,N/A,2
+18,caecd366-7882-4a64-bdfb-ab554eee82e9,Calisto del Mancebo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 00:44:55.766021,without_onion,13.88,1
+18,89b21555-8c97-4dee-be57-0925c672f931,Manu Mendizábal Salom,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 14:39:55.544018,vegan,N/A,4
+18,e8de6dad-735e-4fe6-8ae9-2e03ecc41de5,Martin Aliaga Salcedo,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 04:05:13.688010,classic,,2
+18,69bda9c5-6a47-4ff5-b0a7-f38574f799ac,Horacio Sedano Uría,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 19:52:47.226455,without_onion,N/A,4
+18,2dc6525f-ea59-4f73-8ee1-57b8d082d3c4,Nicanor Ariza,Zaragoza,"Paseo Irma Sierra 714, Cantabria, 26737",2026-05-01 20:29:07.564980,vegan,,3

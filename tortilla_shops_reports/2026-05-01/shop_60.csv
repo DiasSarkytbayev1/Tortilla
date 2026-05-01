@@ -1,0 +1,152 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+60,056fadec-d89f-49ea-9e49-1226514fe39c,Tatiana Vendrell Pinto,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 07:25:02.915205,without_onion,14.32,5
+60,b00dbcfb-765c-4c46-b90c-722a61942032,Martin Campo Sosa,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 16:34:34.334677,with_onion,12.58,2
+60,b84968e4-6c08-402f-88d5-1d5a8398df54,Rosa Raya Alvarez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 13:11:00.380777,classic,11.27,5
+60,be92bc3d-f090-4cb5-9ac3-b02d0a899d74,Juanita Bernat Folch,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 20:48:21.876967,with_onion,5.3,5
+60,53c49eaa-7e62-4103-8191-b3b8de2dc141,Atilio del Baró,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 09:49:59.515220,vegan,,2
+60,8d6afd11-8413-4300-9071-29ec127d5667,José Mari Sola Batalla,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 02:53:41.440533,classic,N/A,2
+60,fe346d09-946c-41e0-a337-eeb4acbb71e8,Francisco Jose Prado-Blázquez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 18:18:57.643257,without_onion,N/A,4
+60,e584fb38-28d7-49f3-9d74-f63561172e5c,Olivia Ligia Rios Moreno,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 12:34:25.274585,without_onion,,5
+60,f5808a74-dffc-4ed8-b7d3-6ed94966483a,Dulce Molina Borrell,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 06:03:49.570213,classic,,4
+60,9504c803-0498-47ee-b556-58d290fb0e7a,Aura Escobar Suarez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 19:43:14.948467,with_onion,,5
+60,eef3d8e7-c4fd-42c5-9848-9e1eba7e89ea,Juan Francisco Maza Bayón,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 01:12:52.888571,vegan,,5
+60,dfd210da-98a3-45c1-bcd9-b9ec5b57d252,Úrsula Rios-Amo,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 19:50:11.515595,classic,N/A,3
+60,d7fcc483-5243-4625-905e-b60e5b972570,Encarnación Sanchez Pazos,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 06:50:00.291344,without_onion,14.48,3
+60,dfcf7eda-e26a-469e-a04e-0c56b0e740d0,Demetrio Agustí Riquelme,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 03:04:32.302175,vegan,N/A,5
+60,1fc31158-4421-4f65-89c0-8d72d04effbf,Mercedes Angulo Lloret,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:51:02.472434,without_onion,11.87,4
+60,d6ff4448-cbcd-40ac-a929-2e53dae7cc8b,Olivia Beltrán,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 14:18:19.204002,without_onion,,1
+60,1a5d1d8b-8070-4b35-b88d-ec611028d08e,Ágata Gimenez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 13:30:58.905927,with_onion,,2
+60,d4371c25-d06f-4604-8ccc-c97ebd6fb37f,Fito Sedano,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 07:29:20.274534,classic,10.85,5
+60,f07b5c92-515a-41d3-aa16-e65f2aa58055,Severo Fuentes,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 18:04:15.495575,without_onion,N/A,2
+60,7d7b7dd6-d759-4a57-b41f-b006df68b18f,Oriana Osorio Asensio,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 08:17:12.922639,classic,N/A,3
+60,f409a1bf-3699-4182-b0f1-ba7e2abe9e1b,María Ángeles Cervantes Farré,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 03:47:43.688274,without_onion,N/A,4
+60,5dc4936e-76e3-4398-aced-f90d6a2b3ef2,Mario Aguirre,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 14:33:50.969788,classic,N/A,1
+60,1ffe32ab-8dd3-476b-b43b-8857e2b6ffe1,Viviana de Belda,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 17:53:14.839383,vegan,7.49,5
+60,9d08cb8f-3883-4d54-8449-d8e62e441181,Antonio Cáceres López,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:35:54.707020,without_onion,9.35,4
+60,52706b64-18e5-42b1-a020-c7b36e5a0a98,Ema Seco Jaume,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 12:17:38.184488,with_onion,N/A,4
+60,1084e2e5-9576-4111-a798-6635a6efa12f,Gema Peláez Cabanillas,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 01:02:19.979306,classic,9.48,2
+60,cf4007f8-3ce5-425b-886b-4ddc8c50d6f1,Rosario Bayona Izaguirre,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 11:17:40.817338,without_onion,,3
+60,c3216b5c-c79a-4cda-ab23-284a31f76d90,Eustaquio Seve Gilabert Mendoza,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 17:56:03.055904,with_onion,,3
+60,380ef9e8-564a-4d28-b9a6-414b73d8daa4,Encarna de Arellano,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 11:16:26.971811,classic,12.9,3
+60,6b82e258-843f-4edd-a49f-82c970a37815,Nicolás Company Caparrós,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 23:07:49.201009,vegan,N/A,5
+60,88e07813-2001-47db-9dfb-faa02c04b7a7,Tamara Lidia Juliá Bernat,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 17:14:06.880958,without_onion,,5
+60,1a557d95-12f9-4aa6-85e5-cf8c2c70696b,Victor Manuel Mateos Carbajo,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 08:57:31.661345,vegan,12.39,3
+60,93fbc484-712d-4c96-b2da-39d64e48bde4,Hermenegildo Solera Herrero,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 10:50:26.284405,vegan,N/A,1
+60,97afeb0e-2d3c-4500-bb70-4d1f63dd8f99,Ulises Ochoa Vallejo,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:54:14.192570,without_onion,,3
+60,915f46b4-17a0-4029-922d-d8c271da460e,Irma Galiano-Gálvez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 03:37:49.893624,classic,,2
+60,471d90c0-8955-4fb3-baba-880becab2cbc,Victoriano Mosquera Giménez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:46:11.825681,without_onion,,5
+60,1aabb73b-10a9-4a7a-b90a-5cad91ba9c12,Samuel Cerezo Polo,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 18:02:28.495190,with_onion,,3
+60,b7b06be9-73dc-40fb-bfa2-f299b7ec31c4,Edmundo Orozco Cardona,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 06:12:02.573222,with_onion,14.07,2
+60,989e44f2-e012-46f4-9ede-3e2d5beb36fe,Macarena Rueda-Nieto,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 20:27:01.109215,vegan,N/A,3
+60,0b01eca7-ba55-43fb-ad88-1ea1b445b87f,Carmelita Vélez Gascón,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:41:19.381087,with_onion,,3
+60,8f405a0e-9f5f-447f-9d73-5d35745cbdc3,Moisés Pla-Ripoll,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 00:21:42.968090,with_onion,,3
+60,944b1c41-7154-4a11-8017-d507fc268ba2,Reinaldo Lorenzo-Carretero,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 09:23:13.538318,classic,,1
+60,63374ec8-420c-4eb9-b80c-6fb5b2d56f83,Flavia Vazquez Tejedor,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 12:20:20.777536,vegan,11.23,5
+60,5d42d3dc-aa35-406c-8f02-44c0c051ba6f,Raquel Gallart Saura,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 10:31:15.727124,without_onion,6.9,2
+60,014e91b9-019a-48b2-80d4-a40f768c5d8c,Morena Pereira Benavent,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:55:48.117636,with_onion,10.51,3
+60,9831cd82-5c42-44c9-83f2-0120d5526297,Angélica Castañeda Aguiló,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 11:27:20.203269,without_onion,11.92,3
+60,da75eb98-408c-4976-8057-a5afbff26171,Mirta Baeza Cabañas,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 19:48:49.064701,without_onion,13.0,1
+60,ae1ebe7f-8269-49e3-82e1-0ad1ce460a89,Amado Julián-Echeverría,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 18:12:10.717229,with_onion,N/A,1
+60,0dae85ff-bc7f-4505-b7bb-94eb9c88cb69,Adolfo Adrián Rosell Torrent,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:30:00.055246,vegan,6.83,2
+60,cc505117-5447-444e-9c0d-5b70c78b7bda,Clotilde Quirós Clemente,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 18:26:43.165650,vegan,,5
+60,f0962274-3e81-4a4a-9001-3179da5d02ab,Anabel Terrón Ruano,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 19:45:29.003050,without_onion,,3
+60,f9afc3b6-7a90-4632-bcff-5bcae56e4aaa,Rafa del Mateo,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 09:25:20.517413,without_onion,9.97,1
+60,90850ef7-5a83-4f5f-9f4f-fa5f4354e645,Agustina Burgos Rico,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 00:16:33.586909,classic,7.13,2
+60,ee3e5583-2e11-4409-b4b6-77555bf41c20,Candela Bou Ricart,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 03:39:40.615038,without_onion,6.14,4
+60,fd4bb29c-d5b1-4050-9cb3-c51c42e1cae9,Aitor Arévalo Zorrilla,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 19:35:54.647167,without_onion,N/A,5
+60,3e9deaea-1658-48f8-99c5-18f12ba946d2,Hipólito Patiño Clemente,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 03:51:37.140877,without_onion,,2
+60,ca1490d6-abb9-45a1-afcb-b3dd1389a77f,Dionisia Piñeiro Castellanos,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 05:58:15.141699,with_onion,N/A,3
+60,aed9dc52-314c-46e0-98bb-d08fd5112124,Vicente Roman Exposito,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 01:45:07.055957,vegan,,3
+60,f930cefb-369e-41eb-b8ce-04d099954778,Vasco Alberto,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:53:03.364714,classic,N/A,5
+60,497b61a5-2810-496b-ae66-595a6481fa52,Adán Quiroga,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 00:26:47.616900,without_onion,,4
+60,bae5f3c9-df04-478a-bc05-862d8d387dc1,Seve Guardia Cañellas,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 01:40:19.317816,classic,N/A,5
+60,cbd12585-72ba-404d-91a2-aeb7db860f2c,Paloma Guillen Sacristán,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 02:36:30.696797,vegan,5.31,4
+60,9acd0f86-d134-4952-9961-bc6338bbf6ef,Gonzalo Almagro Barceló,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 18:06:16.138772,vegan,N/A,4
+60,a9dac82a-dd24-4b27-b45e-8781cb5e0b7d,Simón del Alvarado,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 20:25:53.761216,vegan,N/A,3
+60,7d92b335-97e0-455b-8a7e-74bb2e059f97,Nilo Verdú Girón,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 16:29:43.920315,vegan,10.88,3
+60,e2a2de55-e132-49b6-886a-695a8113b6e9,Ariel Florencia Larrañaga Jove,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 18:17:51.219333,classic,14.73,2
+60,3af2fd63-035b-4837-9e38-7b5fb2d5878b,Samanta Espada,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:40:30.897858,without_onion,5.65,2
+60,2a1febbf-ec5f-4a46-b40b-48d3e077ff10,Arturo Santiago Burgos,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:47:00.722527,classic,N/A,5
+60,b88049b7-02ab-4e11-a7d7-df05741feecc,José Córdoba Giralt,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 07:36:02.680257,vegan,N/A,4
+60,bf6a3e01-7dbf-476b-ad98-1b96e4595a4d,Edelmira Pérez Lucena,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 06:56:10.771519,vegan,N/A,2
+60,e1ef9736-8e1d-407a-8b9f-f3608467be2a,Ileana Blanch,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 10:59:29.600882,vegan,,5
+60,e4e6c908-75ee-4e2e-8559-94f8188199d1,Natividad de Prado,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 23:35:36.777564,without_onion,,4
+60,a03b2797-a898-4926-8d1b-7ca4757c30fc,Pía Castells Sanz,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 18:22:24.878876,vegan,5.38,3
+60,ec64e67b-dd18-400b-989d-70deeb03fe4a,Arturo Peñalver Cordero,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 14:06:04.426467,with_onion,N/A,3
+60,e95dcfdd-a41f-4bd6-8e62-029318610cef,Asunción Otilia Cáceres Batlle,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 10:32:41.182637,without_onion,8.96,5
+60,a5c60cb0-644a-4262-9014-be66846ea230,Pacífica Hurtado-Pascual,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 04:37:40.946834,without_onion,N/A,2
+60,3c321170-ef94-4348-a50f-34013fe93555,Jonatan Calleja Naranjo,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:45:02.076345,classic,N/A,2
+60,1375ac91-0218-4fac-8c99-c46d6f890a73,Victorino Sanchez Carpio,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 00:33:58.251241,with_onion,11.32,1
+60,e4588eb6-1e1d-4297-919e-c2dafe9a8f58,Encarnacion Moya Elorza,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 03:02:12.664315,vegan,7.26,2
+60,b72fa504-337e-4230-a408-fcf5f98e2876,Hernando Royo Duque,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 01:19:31.602936,classic,N/A,2
+60,6169331e-a5b9-475a-ba45-ef2203a48801,Chucho Guerra-Carpio,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:57:41.669983,without_onion,N/A,5
+60,7888a4e3-8c69-4eb6-acf5-e71b576f9a17,Pablo Gonzalo Español Maldonado,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 20:09:44.321021,classic,5.82,5
+60,dc7b8d97-8e5f-4964-844f-af3f66cd0748,Bienvenida Ros Torrijos,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 06:14:49.786060,classic,12.99,4
+60,151bb081-f46b-4f63-9980-00b98ee51cbe,Aurora Bermúdez-Peña,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:22:50.988246,with_onion,,4
+60,a2ae0bd9-2445-47ed-a469-e5d972c68bf3,María Carmen de Estévez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 16:24:29.874767,with_onion,,5
+60,e87dcf85-fac6-4bf8-b2ff-5f2354350409,Adán Alvarado Priego,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 04:47:48.624562,with_onion,5.93,5
+60,d7aa0c6f-6b22-4f9e-ad00-be8c3af1a96e,Alonso Hermenegildo Acuña Pla,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:24:25.047037,with_onion,,4
+60,bd8696f6-ffc4-4a69-a580-82dc7cd02218,Trini Vazquez Capdevila,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 03:35:26.903376,without_onion,,1
+60,899ad904-6eb3-4487-a392-f5b14004bf11,Susanita Olalla Armas Cervera,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 20:14:22.144944,vegan,10.18,4
+60,fa37f882-14db-4ca8-80c6-8f3077d68168,Angelina Cornejo-Salvà,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 20:26:35.428014,classic,N/A,2
+60,96ef17b5-f464-4e62-88aa-d4f2e59baa5d,Juanita Mendizábal Prieto,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 08:02:15.424825,with_onion,6.05,5
+60,3c11baf0-1c66-4758-9b63-571a75e4650f,María Ángeles Dulce Talavera Crespi,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 02:57:08.327450,classic,,1
+60,5b7b3555-6890-4629-9cc7-a99d19a07fde,Hernán Malo Font,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 08:22:22.707756,with_onion,14.67,4
+60,4b430471-f3bb-4ff9-afc3-cce2e3667fbb,Aurelio Fuster Jódar,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 22:24:58.151513,vegan,,4
+60,c4312ca3-15c8-4fc6-9a8a-7aa628386441,Joel Gomis Peñas,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 19:25:18.590421,without_onion,12.07,3
+60,39d49bc9-79bf-4f26-b24d-7e29314c3735,César Rosell Vall,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 17:36:38.304547,without_onion,N/A,1
+60,98444865-d9ff-4857-ba67-faff85acb9fd,Abilio Albero Cortes,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 11:57:09.804508,vegan,N/A,3
+60,9a8888de-751b-4e01-a59a-25b0c8ddca1b,Cristina Miralles Girona,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 10:40:31.362441,without_onion,N/A,1
+60,b0b7d382-2e65-4744-83c0-e06d19f0bd85,Cintia Fanny Pulido Carbajo,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 06:10:59.968466,vegan,5.38,3
+60,1c9df0be-86b6-46c9-b11b-fec3d94845a0,Eligio Arellano Galán,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 02:35:21.947452,classic,N/A,3
+60,05fa1f9a-b582-4295-b897-7b459c5cb72d,Marciano Molins Palmer,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 11:39:09.499037,vegan,N/A,5
+60,70a5a3db-4014-45be-b586-4e7346fc0976,Quirino del Ibáñez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 13:04:48.429302,classic,,1
+60,f9aa81b4-0544-4a2b-bc00-8159a39c9741,Guiomar Sancho Ramirez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 06:52:06.225741,without_onion,,2
+60,f5ff4eaf-a3bd-45c8-bbbb-d7c1640397e6,Íngrid Lozano Bermudez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 08:17:10.388663,without_onion,N/A,5
+60,e5f7949b-7e7d-4aec-b28b-6da46ab6b1ed,Gala Porras Esteve,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 06:38:04.757485,with_onion,,5
+60,479d23af-55cb-4105-ba00-dba95a393f91,Antonia Hervás Manjón,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:57:21.034394,vegan,6.43,1
+60,fd6abae0-3cf7-4490-ac6a-7dedddcef51c,Candelario Palacios Meléndez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 09:49:12.403774,with_onion,14.78,1
+60,eeb317f9-9d7f-49cd-beed-433b3bf8eabb,Benita Márquez Villalobos,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 11:45:36.789664,without_onion,14.54,2
+60,cc6ca036-7642-4852-b8cd-7bcc22f4ca04,Pascuala Toro,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:26:18.967175,classic,,1
+60,cf1a26ae-f979-4495-9688-17e122af34ac,José Manuel Batalla Quevedo,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 07:27:48.502811,without_onion,,5
+60,ccfb0267-af9d-4b98-984c-ebb010f81444,Jorge Arias Riquelme,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 22:11:03.381139,vegan,,3
+60,66191cfd-1352-4fcf-80cd-3809d525f00e,Jose Ramón Córdoba Llorens,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 12:27:27.499028,vegan,13.05,5
+60,0d165f0c-e7c2-481c-bd70-f995104eab81,Narcisa del Cervantes,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 04:50:56.957179,classic,9.87,4
+60,9296587a-8ebb-4951-9baf-ca405564a6ad,Maite Ayuso Montes,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 03:55:02.426235,vegan,N/A,3
+60,3bb8c79e-2cb9-454c-a5f5-421aafc02bea,Adriana Lumbreras Corominas,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:59:42.827268,classic,N/A,3
+60,d4e379ba-b063-490d-937b-8c889c87c895,Federico Berrocal Benitez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 19:44:40.330882,vegan,N/A,5
+60,79d0e1fa-db49-4fdb-9407-05a9a18566b6,Juan Luis Duque Villalba,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 16:54:25.859988,classic,,1
+60,fa3e41f5-16a1-442c-abf4-e1dd2da580af,María Belén Contreras Giner,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 16:08:25.145220,classic,N/A,1
+60,ccef48fd-bb0b-49ab-817a-5a53ff8bb8cf,Albino Villaverde Duran,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:25:23.205042,with_onion,N/A,1
+60,13a7f1bd-745f-4c99-9b6c-092d9c9960e2,Bernabé Cortes Garriga,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 11:28:45.740002,with_onion,6.73,4
+60,025f50aa-d635-4bd3-974f-de4f5d7df6de,Fátima Cabo,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 10:36:28.806136,classic,,5
+60,730bfed1-9868-4b95-9db4-d32129c1e3ac,Vilma Nogueira Morán,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 10:13:21.582753,vegan,N/A,5
+60,db74ede4-9c60-4b2b-bb3c-ee3c866ac9f9,Lalo Uriarte Oliver,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 09:49:35.808428,with_onion,N/A,5
+60,33c7214d-13dc-49d2-88c6-33aace666e4b,Salvador del Carrera,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 00:19:51.375529,vegan,,1
+60,95388bac-5e93-451c-8849-818a2fcd7ba6,Constanza Melero Mena,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:14:26.828454,without_onion,13.77,3
+60,d37957c7-1a51-4e8f-adac-c82df6da4ffc,Palmira España Juliá,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 07:49:26.489858,with_onion,,4
+60,78854c07-5e0e-4cb5-9cdf-bf40ea681a10,Roxana Clemente Mesa,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 22:26:10.514349,without_onion,N/A,3
+60,758288e3-b2e1-421b-9445-850cb72c6080,Chema del Valderrama,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 20:56:23.986387,with_onion,,1
+60,a9bbaacc-8d0c-4c83-9b2b-ec32abf39e98,Maite Pintor Valls,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 12:55:50.066871,without_onion,N/A,1
+60,6e389f43-3fdc-448a-8de1-6bd6668acd86,María Del Carmen Acosta Ordóñez,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 14:52:16.754810,with_onion,N/A,5
+60,b4b0dcb1-12ab-47c4-9b41-ca77764d9f89,Antonia Ponce,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 12:18:20.728607,vegan,N/A,4
+60,cc241d92-85b5-44b1-8c17-5f1b652cc26c,Febe Juan Soler,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 02:02:09.373639,vegan,12.69,3
+60,6da2fe07-3003-49de-a220-a10e05d86d09,Anselma Pedro Ferrández,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 04:32:15.214038,classic,N/A,1
+60,a227328a-5206-413a-92b3-13c45ebf387f,José Maldonado Borrego,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 08:40:03.180140,without_onion,9.82,2
+60,aef7b483-d0f1-4a0f-982c-5674107a59e2,Amaya Batlle Rozas,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 10:50:26.294198,with_onion,N/A,1
+60,4f9596c2-7650-4939-b0d9-c91314591e54,César Cruz Manzano,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:43:36.035335,with_onion,8.81,4
+60,1c6e72ea-2891-406d-a00f-f38efbc78c3b,Hector del Giralt,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 00:05:35.934469,vegan,12.32,1
+60,602bcbcd-967c-4c88-b2f5-5dbb373a26c7,Rosalía Codina Posada,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 23:56:35.460277,classic,10.78,3
+60,6c1344c6-4804-48ba-9edd-3cc5eaa1c4b0,Porfirio del Llopis,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:40:29.153855,with_onion,11.02,2
+60,6c381325-7242-49c0-be0f-9d29145b29d3,África Melero-Iglesias,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 05:11:25.395949,classic,8.21,2
+60,0effa3c1-6673-4c16-b04f-e598825d0f75,Eutimio Palacios-Abril,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 10:58:38.416963,with_onion,7.6,5
+60,ba8c219b-f92c-4919-bcf3-9b76b4b44770,Gerardo Carbonell Cuevas,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 11:02:50.144720,vegan,,5
+60,6194afad-0eeb-4f53-ad73-f623994bd88c,Benita Tur Mata,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 21:39:40.943434,vegan,N/A,2
+60,98470e2f-7459-457b-b7bb-62ffd58be036,Abilio Carro Solano,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 03:06:17.938574,without_onion,9.8,1
+60,c0974feb-45f6-43ad-970c-d9f1f0d600ab,María Luisa Mena Abril,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 08:07:01.086675,with_onion,,5
+60,22b920eb-3923-4d58-8bbc-95d6bdd284da,Nadia Beltran-Mayoral,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 15:47:00.917611,with_onion,N/A,2
+60,072d8eca-5195-4ed9-aaa0-beec835e5b49,Francisco Jose Duran Cabrera,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 00:46:53.937399,vegan,,1
+60,35373249-e124-44cf-8618-fb9c0cfd5a3e,Visitación Nadia Rodriguez Gibert,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 16:18:41.526130,classic,14.92,4
+60,04efbce1-ee6d-4da7-97ba-eafdde3267f5,Martina Expósito-Roselló,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 12:49:48.580731,vegan,,5
+60,c3f14690-c5e9-46b5-b7c6-38e0a6efabb6,Cloe Tamara Diaz Moraleda,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 18:55:59.091207,vegan,10.82,1
+60,e3b19349-a42d-4b05-8d7d-f4da3cbd396e,Ángel de Cid,Valencia,"Pasaje Graciano Marín 90 Apt. 95 , Barcelona, 10739",2026-05-01 02:56:13.666636,classic,8.2,4

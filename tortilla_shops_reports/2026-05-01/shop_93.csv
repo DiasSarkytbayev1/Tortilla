@@ -1,0 +1,496 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+93,7af8c6a5-cd62-4784-bed3-d4fa37f384cc,Zaira Recio Gómez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:57:23.976590,with_onion,N/A,3
+93,b8addfe6-efa4-443a-821f-a37f8bd4136c,Mireia de Diaz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:04:37.856320,with_onion,,5
+93,6e67c1e3-084d-4b12-ac74-64cf061b7922,Nieves Rosa Lasa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:12:32.513003,vegan,12.07,4
+93,f3cbc3a1-00d7-473c-908c-560da98f13b7,Joan Viana Morán,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:18:13.197436,with_onion,6.9,5
+93,e322675d-1fe8-46dc-b9f7-bc8320081ebb,Carlito José Antonio Fortuny Casares,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:33:09.760991,without_onion,10.68,4
+93,10080a5a-aa76-478e-83ff-e9ff72b03a57,Dafne de Tejero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:08:03.691749,classic,7.14,2
+93,afd63cfb-8cea-48a4-b5d9-ea062f4c2dcd,Vanesa Lamas Segura,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:50:30.226077,classic,8.77,3
+93,0611fa81-1d36-416d-9c4b-08051e563b26,Ileana Lluch Tejero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:10:26.910293,classic,N/A,2
+93,18920491-d477-46d8-bcf1-e7dcdd713221,Lina Nevado Atienza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:07:16.757522,without_onion,,5
+93,fb7c5cbe-5775-4b80-aa91-c22e99e91878,Lorenzo de Villa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:56:54.122214,classic,,1
+93,fce9d51b-9120-4274-bd54-8fbba5ff4df1,Genoveva Gárate-Ballesteros,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:52:54.568279,without_onion,,5
+93,1fbe1f6e-c026-45b7-ab5f-c7f52641dc81,Luis José Mari Pedro Alvarado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:05:56.130402,with_onion,,4
+93,fac3a7ef-32fe-41f4-9642-f669c2e471f9,Manu Montoya Salom,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:49:05.479224,without_onion,5.63,2
+93,aeb4955d-ddca-4506-a56c-dd74b20fd84b,Chus Tirado Arias,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:14:06.466352,without_onion,N/A,3
+93,7bcb3036-903c-4c5c-afbf-c3e4da81f790,Faustino Batlle Martínez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:09:06.161156,classic,N/A,4
+93,a08947e6-f6b2-4a06-ba22-1e37a24b6106,Chus Mosquera Gálvez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:18:09.269929,without_onion,10.88,5
+93,f61838fb-99d3-40e4-9e68-12354fa91e2d,Carmelo Cabello Jaén,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:09:48.408700,without_onion,N/A,2
+93,a50f5ba1-64a4-4694-a8c2-a8b767876273,Bautista Lastra-Almazán,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:20:02.628332,vegan,,5
+93,be9f06f3-e83b-40a6-9e65-32ebf2129d5d,Vilma Eugenia Larrañaga Díaz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:38:03.223742,vegan,8.77,1
+93,142de1e3-29f6-420f-9c10-7b83f29171dd,Elpidio Badía Cervera,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:23:19.352278,vegan,12.1,1
+93,0a26f6cd-5d1d-40db-9334-3b046711a7e9,Ángel Alfaro Costa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:51:52.901626,classic,N/A,2
+93,e988b56d-1fab-43ec-b67b-6bf4628f57c1,Pablo Villanueva Álvarez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:10:19.231234,with_onion,13.24,4
+93,0bbaf9d5-d83e-4a18-8d97-16128e054b81,Juan Luis de Torrent,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:03:37.434568,without_onion,N/A,3
+93,85496c08-64b0-4ce0-bd42-e56384cf3e9d,Clotilde Barberá Duque,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:24:03.090140,classic,8.16,4
+93,a76c434c-970e-4746-9473-7e8f94cdbdf8,Francisco Jose Infante,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:33:08.477850,classic,,3
+93,e2455ddc-26df-44fd-870d-83471057fa88,Matías Machado Ferreras,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:47:53.219209,with_onion,N/A,2
+93,198552ea-72d5-45c2-82c7-e2749e585d34,Anna Teruel Cepeda,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:13:32.331184,without_onion,N/A,5
+93,538b84e2-aab2-4032-9c59-00b6f80f3348,Godofredo Albero Gimeno,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:53:54.832331,classic,7.95,5
+93,5631239b-b65f-418e-a13c-48945799af62,Sara Matas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:32:17.356415,with_onion,6.87,5
+93,5af2fdd0-f1e7-461e-9155-d57101d649f1,Charo de Benitez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:41:56.339782,classic,,2
+93,92196e2c-b54e-42ca-9927-898012d1fd40,Borja Blas Anguita Isern,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:43:47.395749,classic,N/A,3
+93,2e0a221e-a0f6-4cd6-a9d9-abcb4a6c1465,María Carmen Maestre,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:18:30.083492,classic,13.18,4
+93,2edf2af8-8722-489d-9f4e-dfa0d14ce7e9,Juan Francisco Bautista Sotelo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:37:55.919376,classic,N/A,4
+93,27b6900d-a9ee-4038-929a-89c8cf5b2021,Nazaret Priscila Valencia Mayoral,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:05:32.373896,classic,10.34,4
+93,731cfa1d-9ec6-4700-b4ef-c48bd7df42b2,Pedro Sancho Viñas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:23:19.252035,classic,N/A,4
+93,f2eba4b8-475d-4015-86fe-aed87eba8dbc,Severino Machado Vergara,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:34:58.394780,with_onion,7.44,3
+93,491dc032-41cd-432a-87fc-e880b4634a7e,Begoña Perea Narváez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:19:31.312939,without_onion,7.22,3
+93,2b653b7f-66ac-46f2-b42f-2d9729c0b5b9,Lucas Miguel Saavedra,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:20:03.362215,vegan,N/A,3
+93,7f00aa65-d9d9-4aa1-9bbb-a28c4db5c919,Rosenda de Roig,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:49:52.691905,with_onion,N/A,2
+93,2f54d3a2-8ec7-4d58-8126-d8ecea74fc5c,Alberto Castrillo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:22:39.832113,without_onion,N/A,1
+93,f7ea1050-4478-4f58-aacb-7da4ddd42c11,Donato Gallo Poza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:31:48.005844,without_onion,,2
+93,2b8662d7-3617-4e31-b6cb-ad3a25d0d244,Juan Pablo Salazar Ferrer,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:33:32.372471,classic,11.09,3
+93,8668fe91-fa3b-4ce4-aa9c-e4e4ac10343e,Brígida Redondo-Cárdenas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:11:13.899545,without_onion,10.6,5
+93,b7f7c274-1e9d-4ea1-8079-77f758e2d1f6,Abigaíl Berrocal Echevarría,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:01:51.155104,without_onion,N/A,2
+93,cd210d94-ec3b-486e-a10a-ed90edd5e0bf,Francisco Jose Bru Coloma,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:42:58.924319,with_onion,,4
+93,8bbf2f4f-7073-4b0e-8e75-6e43b45457b0,Carla Salazar Franco,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:01:04.569573,without_onion,8.95,2
+93,be0c9356-42b1-42b5-aac9-e77654f0d8e3,Julieta Batalla Mercader,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:23:37.648422,classic,7.05,4
+93,69651d50-65a5-4f30-a0ac-44fb5c5d7132,Asunción Azcona Galindo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:52:01.573398,without_onion,13.83,1
+93,e9d7f629-371f-4158-8295-441cb5472b57,Sigfrido Soria Carmona,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:49:18.855830,vegan,,1
+93,69bdadc7-bdd8-4b8b-ac34-8c6bc47550e7,Andrea Priego,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:18:10.417255,without_onion,,5
+93,f1f596af-be91-4a51-8a1b-bf0460fc9817,Almudena Dominga Tenorio Nieto,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:16:05.813412,with_onion,,5
+93,403db3a0-2edb-4798-9ae7-b39f76384e82,Clotilde Andrés-Díez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:15:37.555953,without_onion,N/A,2
+93,825aa30a-3556-4db5-87a5-1855c7e8d39f,Wálter Quirós Cal,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:59:55.286503,with_onion,11.49,5
+93,24d805c0-2249-43ec-9673-4e56994c73df,Ángela Lloret,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:21:53.734134,vegan,,4
+93,564ed7d7-5436-48f7-af9a-06ca8989fafe,Amanda Lladó Marquez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:56:21.904839,classic,,4
+93,46a95874-80cf-4eb1-a777-f10bd0c62cac,Macario del Leal,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:13:54.182087,vegan,N/A,2
+93,95754a5a-9546-46b3-9b71-ec16069ab723,Alfonso de Gimenez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:45:59.090755,vegan,5.49,3
+93,90e03373-b421-497a-aa61-977f29d93909,Isabela del Salas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:46:21.218389,with_onion,5.03,2
+93,6336fc6c-e13e-4258-876c-2ecde8ce4781,Nadia Aroa Belda Rincón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:24:17.423781,without_onion,6.99,1
+93,96d157bb-60c0-472f-948f-a3b14101e97a,Íngrid Morell Cueto,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:12:03.399433,vegan,,4
+93,2d29cbac-8db3-428e-8ea5-da993fc4ec9d,Anita Trinidad Berenguer Aragón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:37:14.603255,without_onion,N/A,3
+93,d668ba83-3355-4e1b-ab71-4ae1ea494525,Constanza Rincón-Botella,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:54:17.653988,classic,N/A,2
+93,411ee4c7-9950-4421-b7c7-d8a676e658a6,Néstor Hoz Barco,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:53:07.175728,with_onion,,5
+93,0435252e-a513-4018-b209-a574e56330ec,Vicente Paniagua Julián,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:33:37.425150,without_onion,N/A,2
+93,da350f9b-83cd-48b9-9bbe-a01f7e45d565,Sebastián Plana Tejero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:06:23.437886,without_onion,,4
+93,552c1c66-6cfd-47e9-abd7-5d38ddcb0b8d,Casemiro del Casal,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:28:09.883431,without_onion,,2
+93,b7a92fc8-cd80-4b2a-b5eb-38420e978643,Salomé Serna Bou,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:39:51.587958,classic,,1
+93,7d59ef38-e755-493c-a962-7fda45697ce7,Martín del Tur,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:17:42.226659,classic,N/A,3
+93,be0db91b-d130-43cd-b7d9-101d3c539afa,Gustavo Rubio-Aranda,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:45:17.405834,without_onion,8.67,2
+93,4a2ec308-0c03-4b88-868a-486d50ca36c0,Gilberto de Echevarría,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:42:31.067556,classic,,2
+93,f76236f0-229f-410b-8c56-d5d4699b872c,Mateo Barbero Amaya,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:11:30.273354,without_onion,11.59,2
+93,f17a2296-1c18-4859-a43c-341823c193c4,Bernardita Goicoechea Maldonado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:22:15.567661,without_onion,14.24,1
+93,0d5cd524-5fe1-42d9-93ef-783d3e9d5ea7,Adelaida Amigó Araujo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:20:58.647016,classic,6.59,3
+93,75cdc2c3-e8df-4c5d-abaf-81d2fccdc313,Emperatriz Ayala Rios,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:06:35.257210,classic,11.28,4
+93,21038b84-18ad-4306-99a1-3e234cdd4e02,Tatiana Torres-Quevedo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:51:08.245257,with_onion,N/A,3
+93,ce52d8b3-95b6-47a0-8ba9-159036003142,Alonso Tur Miguel,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:14:33.325203,with_onion,13.35,4
+93,a8ad3637-53aa-4f15-966a-b57ff29a8562,Cristóbal Esteve Peñas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:05:42.435166,vegan,N/A,3
+93,ec787945-3d05-48d3-b6e9-96b8214bb00e,Haroldo Rubio Varela,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:54:20.084487,classic,N/A,3
+93,7caad22d-fa2c-492d-8a39-9580bbf3eb4c,Roldán Cabanillas-Garmendia,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:14:57.449126,classic,7.41,3
+93,abf48492-bf10-4c37-87eb-f25fc0563838,Eulalia Soria Menendez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:30:59.388845,classic,,2
+93,463b3a7b-1259-4c70-bfba-0d69fda75b3b,Jonatan Augusto Palacio Mendoza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:51:21.401026,with_onion,N/A,4
+93,2614acf4-1933-4256-9e5b-67de22f57a7d,Prudencio Narváez Cáceres,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:30:19.731894,with_onion,,4
+93,a201a9c0-4b52-40a6-92c6-d1df1a13078c,Sabas Sevillano Cobo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:46:30.234402,without_onion,,4
+93,0092af7e-7dc6-490b-a375-84e968d986e3,Anselmo Castrillo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:01:44.515032,vegan,N/A,4
+93,00a03599-92a0-46cf-9b40-32b11de16f84,Alfredo Edu Lloret Rocamora,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:31:42.625810,with_onion,N/A,4
+93,010ae6db-bf73-45c3-9945-75a887896f81,Soraya Cervera Campo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:46:09.101890,vegan,14.58,3
+93,cbd54c03-1fac-45ad-9a42-30dad78abee9,Blas Inocencio Borrás Aguirre,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:58:06.315494,without_onion,N/A,4
+93,a95fafaf-e92a-41d0-8083-db2859412216,Marita Lorenzo Martí,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:46:32.771478,vegan,N/A,1
+93,1367a557-a0ed-4871-b66d-686c8e835596,Wálter Pulido Losada,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:51:19.453259,with_onion,7.83,2
+93,98c0441d-22cd-42f6-af93-fd48d36388e3,Amor Toño Cuesta Bastida,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:41:05.999782,classic,N/A,5
+93,31c7b65f-0f8f-45d8-86d5-7085b28c29c6,Dalila Gomis Mariño,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:00:03.950317,classic,N/A,3
+93,ed2d1ac7-5f69-45a5-b473-a041a88247f6,Porfirio Mosquera Figueras,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:52:15.548061,with_onion,5.14,5
+93,d3979f2d-e7d0-434a-a05c-41082a23162b,Mar Aragón Llamas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:23:31.628210,vegan,9.71,5
+93,f750855d-b76a-4024-977d-83e4c1961326,Zacarías Jódar,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:32:32.715246,without_onion,,2
+93,1b4fc8b2-c695-41e4-81df-fd1efdedcfac,Delfina Amanda Peña Cisneros,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:58:53.550831,with_onion,,1
+93,95f4a470-ca95-45f7-990f-c3ee2933af5d,Severo Herrero-Sobrino,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:22:12.180535,with_onion,,1
+93,eddb957c-5467-4639-a754-e4bce7acebcd,Emilio Zamorano,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:15:59.753458,vegan,11.53,4
+93,daa66d5c-8432-4f1b-9a22-9e0f908f5415,Elisa Querol Bastida,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:44:20.487487,classic,N/A,4
+93,dfd43ff2-f6c2-4d25-a9c1-b83d33d0c50d,Fabiana Bertrán Alvarez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:53:35.975965,vegan,N/A,4
+93,6ceff3ee-acd5-495d-ab35-0cea69255f22,Emelina de Alberola,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:13:42.903327,vegan,N/A,3
+93,6091484b-0315-491b-b643-8a0d649dec92,Vicente Ruano Higueras,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:33:48.400002,vegan,,4
+93,b34d4c74-a278-4cb0-a3bd-4dd1e8bd50cd,Juanito Alegria,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:27:55.736664,with_onion,N/A,1
+93,6fef4c20-3873-4c7b-8222-26f39deac725,Josep Rebollo Calatayud,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:39:18.300012,classic,10.71,1
+93,c14b9a20-ef20-48e4-8afa-eee239a0a2cc,Olga Leticia Vargas Posada,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:38:54.064904,without_onion,,3
+93,72689b4a-f952-4f10-8a43-0816ed6cca45,Petrona Bayona Ballesteros,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:36:57.160737,without_onion,,4
+93,6c855fe4-010e-4b68-bf68-823e1fb79341,Ángela Angulo Ribera,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:45:44.821132,without_onion,N/A,5
+93,c53aafd1-396b-4644-800b-416ba7458d51,Otilia Tamarit Palma,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:06:54.344015,without_onion,,2
+93,3ece27a6-ca67-4b6c-acbb-28733fff34cb,Febe Perelló Aguado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:03:13.308979,vegan,,5
+93,2b213fe5-c8a8-4cb7-ad10-599faf72f5e5,Francisco Jose Mario Reyes Barros,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:28:40.416080,vegan,12.92,1
+93,4f3437e1-0a0d-4559-8253-90cbe2979cb6,Marisela Aguirre,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:15:39.404052,vegan,N/A,5
+93,bff54655-f9e4-4d8c-a534-fb3efd35756a,Basilio del Salgado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:42:06.239441,with_onion,N/A,5
+93,356de323-3b5e-41df-ae43-6d50912f8635,Gabriela Cal Carbajo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:50:16.646107,without_onion,,4
+93,fe6e13ae-6f4f-4e3e-b7cd-e5fc66e99255,José María Miralles,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:02:09.831672,without_onion,5.5,5
+93,4deccdb3-d040-4544-b0be-e7a7907651b1,Buenaventura Salamanca Melero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:36:06.960160,vegan,,4
+93,439cd3d9-2bf4-45bb-8885-bcccba538c52,Lupe Perelló Sastre,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:33:20.080973,classic,12.81,3
+93,a9bd5356-38b5-48d8-90e6-89f7130a11cc,Josefa Belmonte Porta,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:55:40.314063,vegan,,4
+93,db2e882c-7f33-481a-bf5c-c68be0d2c58b,María José Escamilla,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:57:26.089756,without_onion,6.9,1
+93,353645db-0805-4907-bc8b-5f60bbd8fb29,Andrés Felipe Ramón Abad,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:32:03.720124,with_onion,13.52,5
+93,bc1a3395-643c-491a-a8cf-280b53a74a95,Martin Valverde Miguel,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:53:59.642998,with_onion,,3
+93,3423fe55-6924-42ba-a47a-f2e7694d1b51,Narcisa Barros Mateos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:46:45.165879,vegan,N/A,4
+93,7a91bc2a-ceab-4dfa-b609-d5c4c11b0d6a,Poncio del Giralt,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:43:01.220517,classic,,3
+93,9c4e72b9-2c54-4699-bfb7-26b556080112,Aarón Julián Arribas Almeida,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:49:51.267325,with_onion,12.16,5
+93,050d8525-a201-41e4-9b60-6ce948e49bb7,Jessica Heredia Alvarado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:55:52.497787,without_onion,13.63,3
+93,ca027077-65c9-4d70-a8ac-5c343e0f778e,Octavia Socorro Neira Girón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:18:44.171324,without_onion,13.22,4
+93,ffadfd75-938c-4c57-85c8-eaa729250d98,Benito Chacón Carlos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:24:10.776522,classic,N/A,4
+93,a53d8a10-3cb7-4b2f-9683-0fd1f96c48ab,Ramiro Alfredo Jara Arnaiz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:49:51.033477,classic,,5
+93,f6fe55e3-7a50-4aea-a878-e38f4a992b37,Tatiana Casado Palau,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:09:26.369137,vegan,N/A,3
+93,f7e061a2-352a-444d-8dd4-9a0c3ef510f4,Virgilio Barral-Cabrera,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:26:39.104140,classic,N/A,4
+93,e3c1ea51-7584-41c6-b4fb-e12cbbd76a78,Nazaret Arévalo Mayo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:18:29.055150,without_onion,8.51,4
+93,58ae00b7-96d8-4f28-a67f-a210fa14c47f,Juliana Santos Pedrero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:30:22.761215,with_onion,N/A,3
+93,b9572896-f395-403d-84c2-7e2f01e3d54b,Victorino Severiano Hoz Abad,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:09:10.444891,classic,N/A,3
+93,75c4b878-3555-4efa-8961-ae6f9e048c01,Aitana del Santana,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:55:04.835506,classic,N/A,1
+93,53c7e810-1161-45fe-9995-b773f33211c1,Amando Cabrera,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:23:09.765818,without_onion,10.83,2
+93,2a9bafa8-8786-4357-88df-ce5126f1f4ff,Carmelo Iniesta Guzman,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:35:51.728231,classic,11.24,3
+93,d4b13f50-1e61-42fb-9523-9bc1e9d532fd,Marcial Ramis Campoy,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:53:23.848493,without_onion,5.67,2
+93,81d3bc2b-9d76-413f-8188-c61ff11545fb,Juan Francisco Viana Cañellas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:23:23.467628,classic,,1
+93,b99b3d70-5f61-4403-b726-847f4fecddc0,Íñigo del Lobo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:40:41.308844,classic,N/A,2
+93,dafdf227-eadf-43b2-9bc1-f23ac1bea7d3,Atilio Cañellas Raya,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:53:52.028738,with_onion,N/A,2
+93,aab40747-4e64-4bee-8607-95c6a0ebd8a0,Otilia Duque Julián,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:13:12.685531,vegan,,4
+93,182215cb-c6a1-4355-95ac-6d2512a4f0a5,Régulo Pereira Gibert,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:10:43.230941,without_onion,,5
+93,2e73a6d8-ae33-4e67-9ca2-34f1627865ca,Quique Saura,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:16:19.309417,without_onion,,3
+93,950454d5-b1c0-490a-9444-209dc771bbf1,Diana Núñez Roca,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:24:58.766111,without_onion,N/A,3
+93,70e6680d-0c0c-405c-860f-d3a89f388e07,Aitana Anglada Ochoa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:44:26.654631,without_onion,N/A,1
+93,36da6fcb-ed57-43e3-8e3a-fea2d26b8ba3,Jose Ramón Badía Barral,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:08:05.966098,with_onion,N/A,3
+93,943d03f1-eb07-4835-bd19-a921dfed90bf,Adela Fonseca Pablo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:24:21.705003,without_onion,,3
+93,48ff5a5f-7bcd-46e7-a043-d0bc7d9c5c4a,Teodora Figueras Alcántara,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:59:47.574367,without_onion,6.32,5
+93,b43b4572-19d3-4b4b-83f6-0daf83e84d12,Cecilia Roig,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:53:25.318338,without_onion,,1
+93,e21fd9cd-6554-47c2-ad2c-50f62cb79cea,Aurora Carmela Viana Jurado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:09:38.371069,with_onion,N/A,1
+93,7a6195bc-65b2-41aa-a2c7-c7548e3f6c22,Paca Riba-Peinado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:24:56.628994,vegan,,1
+93,cd6faee1-7dfd-48b0-b27b-49efc5371c66,Griselda Rodriguez Sainz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:09:12.304808,classic,,4
+93,6853ab88-a757-400b-b265-b8a2b5628e53,Pastora Riba-Flores,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:56:04.445635,without_onion,,2
+93,a3842a5e-ecc4-4290-9452-bf0911bf143c,Edmundo Duque,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:42:51.877509,with_onion,,5
+93,17673dc0-76f3-4bb2-90f1-9295b3d98ccc,Susanita Cabeza-Rivas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:54:29.961153,without_onion,8.98,2
+93,e4fa857c-ffd9-4881-91d3-16534ebc6102,Zaida Capdevila-Parra,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:38:20.228015,classic,N/A,3
+93,7bfa515f-89db-4770-8a49-43b84a77511d,Leandra Pastor Iriarte,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:51:53.568555,classic,N/A,1
+93,96dbfc2b-8ea3-4524-9f77-276a5c24f2a0,Elisabet Palmer Marin,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:36:34.025448,classic,N/A,2
+93,12a72aad-e476-47dc-89d1-b038c72fca0c,Evangelina Córdoba-Cordero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:10:18.310730,without_onion,9.86,3
+93,2a169952-52bd-4ab0-8ede-e1245a2fcf69,Manu Parra Bermúdez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:50:58.243342,with_onion,N/A,1
+93,3cd53279-3c5e-4df9-a8e3-c18549078fd1,María Manuela Nicolás Llobet,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:19:03.099902,classic,,5
+93,0cfca9a8-85a3-4110-8087-f83c90f3da02,Pascual del Colomer,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:37:57.409510,with_onion,9.3,3
+93,8db1147e-0ae1-4471-8128-b53537220f7a,Esther Perelló Fuster,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:51:05.960082,classic,,3
+93,bfad6f17-9b7c-4dc5-b40c-e7a0e0609833,Manola de Pulido,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:09:26.448417,with_onion,,3
+93,f3e54fe9-0c9c-426b-bf3f-6807877b7459,Marcial Oliveras-Ribes,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:42:47.789041,classic,11.13,2
+93,176faf7d-132e-4ad8-900d-e1772cab0694,Isidro Luque-Olivera,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:21:08.431053,vegan,10.85,3
+93,42b378eb-24a0-45a2-843e-2009a32258c2,Dulce Gallo Alberola,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:39:41.623556,classic,12.0,1
+93,3759d13d-16ed-4424-965b-172a5f99d14a,Asunción Crespo-Carlos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:07:27.842585,classic,,4
+93,6ad59a1a-c3fd-42a7-a6b8-07a04b0127a9,Hipólito Exposito Rovira,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:32:01.217932,vegan,10.42,4
+93,b3a75bae-8ba9-44ee-bc97-107a2ae7060b,Carla Naranjo Palacio,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:48:08.618378,without_onion,10.59,5
+93,8d67f646-75d1-4fc4-ad9f-c42a6b0cf977,Carmela Cruz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:31:48.661889,vegan,N/A,1
+93,7657264d-7959-495f-897c-b39836c81b41,Leoncio Nadal Sastre,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:34:39.214636,with_onion,14.37,1
+93,9de80097-a88d-4ad4-b5ff-3c3f9a91a788,Isaías Gallo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:13:54.943356,with_onion,N/A,1
+93,347219c4-05ec-445d-ac5d-c03df2b8f4e5,Azahara Lladó Pedrosa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:00:34.345254,classic,11.41,5
+93,41f0e0a1-afb0-448c-bbbe-30fdd9a77b69,Alcides Vilaplana Fábregas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:47:48.856940,classic,13.63,2
+93,7b8c9781-8c4f-43a3-9698-5c252c77fb83,Octavio Gallardo Peñalver,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:52:18.223810,vegan,N/A,4
+93,5bdc09f7-8e57-4b27-bff1-94ee6972d06d,Maura del Serna,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:35:22.367463,without_onion,,1
+93,7f98fb10-b64f-4b12-a4c6-d0cb9540f099,Montserrat Rincón Vigil,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:01:24.319294,vegan,,5
+93,a3ff95ee-be48-4aa6-93ea-ba75df298498,Reyes Elorza Madrigal,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:44:38.132965,classic,N/A,5
+93,92b63ad8-2186-4795-8108-62339fb43c52,Noé Teruel Martí,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:08:17.061465,classic,5.33,1
+93,8e3c7cac-8a07-4f0f-a54e-5c7ca8192a64,Azahara Lladó Sáez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:05:16.075905,with_onion,N/A,2
+93,064ebda7-0a1e-4315-80c3-20551c9ed10c,Herminia Guardiola Alba,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:48:30.343150,classic,N/A,2
+93,265492c2-75ff-4193-b5c8-d2b7c392b5f8,Irma Llabrés Echevarría,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:40:16.562788,vegan,5.33,2
+93,05915a59-bf3e-4ac5-b564-d9c7590b8e04,Galo Alberto Ariño,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:40:21.472433,vegan,N/A,4
+93,5feb0135-395d-439f-8669-f6f38c13545b,Priscila Morales Jódar,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:47:01.823384,without_onion,,2
+93,7e24a33f-2046-4723-bda9-387f5b6c659c,Ainoa Rivera Mariño,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:53:05.683314,without_onion,7.48,1
+93,83846a46-73da-40b0-aeff-7100e6930bbb,Gregorio Amores Priego,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:59:46.799070,classic,,2
+93,2da05549-5415-4516-b298-65cc2ecd37f7,Felicia Barceló Suarez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:06:07.945292,classic,,2
+93,cb32d5fb-5c7f-48e1-a888-47959fa9ea8c,Petrona Claudia Pinto Ortega,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:39:00.056635,classic,N/A,3
+93,fc7c79a8-fa74-4090-9ab2-4525ea648d71,Elvira Marina Gual Álamo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:04:21.889603,with_onion,N/A,4
+93,7101b7f6-8579-4243-935e-7ef13030c81b,Aurora Sanjuan Ortuño,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:04:46.839968,vegan,N/A,1
+93,55cf6453-eb56-4243-aafd-28c76c79656b,Patricia Requena Ruiz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:55:29.462512,without_onion,,1
+93,c14f3e4b-aa1c-4cc4-9052-b1680b415105,Néstor José Luis Peña Estevez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:37:09.577511,vegan,6.71,1
+93,8b2edad8-7b3e-42e8-a5c3-b8fa9e5b0c0e,José Villegas Batlle,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:58:28.039328,with_onion,5.7,5
+93,04eb9c70-8d70-49c9-a6d0-b9b61503f5c5,Toño Polo-Aguirre,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:17:57.979960,vegan,7.58,5
+93,a37cc24f-20f7-4650-878c-a255e6100684,Loreto de Mayoral,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:10:06.372625,without_onion,,5
+93,52df8396-94c2-433a-964e-f4d4bc40c064,Nicodemo Mayo Pedrero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:01:08.670959,without_onion,,4
+93,0232df26-c999-4a3a-a274-6ab2d53d671e,Tomasa Cánovas Marín,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:13:11.643918,vegan,9.76,3
+93,6c13fad2-8e92-486e-86d4-2fad0210224d,Josefina Guzmán-Alcázar,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:11:31.142007,classic,,1
+93,dfd0cec7-ae90-4367-ba72-dd4595abebe1,Nadia Carrasco,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:07:10.441666,without_onion,N/A,1
+93,2a892437-03a8-4dde-a6e8-380da9a6b287,Cirino Bru Chaparro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:53:15.370096,with_onion,N/A,2
+93,d3bf28e1-cc74-4741-8d5a-5272ec50401b,Sandra Gutiérrez Pomares,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:21:28.157048,vegan,,4
+93,9abee9eb-14da-475c-a923-bb4552c71cd7,Pablo Miranda Martin,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:32:40.878911,with_onion,14.11,5
+93,ee65e1fc-8cf8-4d64-8b9d-6845532eddda,Ángeles Bernarda Isern Gelabert,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:30:53.626083,with_onion,,4
+93,d77df338-6970-47dd-ab4c-76d1fef20194,Úrsula Gaya Casado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:45:28.864158,classic,,4
+93,61e7d89a-05c7-4919-a7e3-d84f9f223762,Mayte Parra Almansa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:06:56.526584,vegan,,4
+93,d1a4674b-cf6e-4b4e-858f-21f534b376aa,Anna Reyes Niño,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:23:07.652013,with_onion,,3
+93,d0aab958-7dd4-462a-8b31-20d9b5f1d63d,Eloy Bayo Bru,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:04:37.222799,without_onion,,5
+93,7dd303e7-0cbb-4e97-9a97-8c67f2fed5db,Albano Sacristán Cañas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:58:59.963025,with_onion,N/A,5
+93,8337b83c-7b1f-40ec-bbd6-edf5470bfc05,Estefanía Bellido Echeverría,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:13:35.276678,vegan,12.18,2
+93,1e88c0af-248a-48a7-af59-cd55a42a3bf8,Isaac Valenciano Hernández,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:11:39.936086,without_onion,N/A,3
+93,b8771e8d-3131-4703-92e8-0789266e0e57,Tecla Nicolau Cobos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:44:48.925520,vegan,9.47,4
+93,4f4fb0db-7e5c-4f61-8a2a-270c9112af36,Carmela Tirado Garrido,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:11:50.077448,without_onion,,4
+93,cae498b9-2d84-42b8-93dd-1d13785c310b,Primitiva Aragón Gabaldón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:08:40.089055,with_onion,13.08,3
+93,1b94b8bb-7d0d-49d0-a2da-fb1324daae76,Dominga Aitana Cano Canet,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:48:16.884842,classic,N/A,3
+93,68d812b3-bcd1-474b-b874-17acced4d2e1,Marita Amador,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:38:25.419202,vegan,,2
+93,362216ef-05fd-4729-95fc-514f689c6c31,Armando Maza Larrañaga,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:58:50.780953,vegan,6.19,1
+93,8f5a9ffc-dc77-4dd3-b408-a514dde35c2d,Roberto Maximiano Jover Peralta,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:52:22.614292,with_onion,12.71,5
+93,89da42b7-9bd4-4a6d-88c2-532a50f1faec,Clarisa del Castell,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:53:31.396988,with_onion,6.49,2
+93,853f641d-2623-43d5-a2cf-17fda6309f6d,Adoración Zaida Alvarado Silva,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:27:46.864288,with_onion,,3
+93,c25ffa4e-39eb-45e7-9f1e-faf45a885b84,Heraclio Sancho Terrón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:13:18.707930,with_onion,10.75,1
+93,02d81d8d-3a60-41ee-a3fa-6fc6c3a6b98e,Cruz Haro-Valenzuela,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:50:26.695890,vegan,13.08,1
+93,3f65e802-852e-4ee0-be01-03b7437221c1,Lucho Castrillo-Vega,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:30:48.460948,classic,,3
+93,22e073ed-f7b5-4aa4-b326-95f0924bb6c0,Agapito del Morata,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:15:56.848331,with_onion,9.32,1
+93,6dc3b49e-024f-49a9-ae3f-62e4ca3dfd79,Carmelo Marcio Lobo Llobet,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:24:03.245010,classic,N/A,1
+93,de2666f1-f4e9-4283-9c1a-e4c5e950aaa3,Anunciación Arévalo Pedrosa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:46:45.812187,vegan,,1
+93,a05ef02b-ae86-44dc-aa19-7cce1c7fc4a7,Gabriel Armas Gonzalez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:49:24.994632,classic,,3
+93,957d605f-95d5-43d8-a83d-92bb91630c77,Carmen Batlle-Villa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:32:01.709879,vegan,N/A,3
+93,b53e38e7-df93-48e6-9771-c2a8a3b482bb,Toribio Mendoza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:28:47.346038,without_onion,,1
+93,a96ee403-65fa-4a82-bd2c-05455c1b8a8e,Rosalía Giralt Almazán,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:07:46.154281,classic,10.14,2
+93,0934fe91-e4b1-4b86-9c3e-959c996a7e9a,Consuelo Tomás Antón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:02:52.844338,classic,6.06,4
+93,4c1544e0-d7be-44f2-bb57-8a1426209f1e,Damián Verdú Roig,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:55:47.610671,without_onion,7.45,2
+93,2a84e6e6-8469-431b-baf9-eae23ad956da,Sebastián Giralt,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:38:21.279177,classic,7.18,5
+93,40c93165-6900-4da3-882b-fae341466f78,Olimpia Mateu-Guzman,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:35:39.207045,without_onion,12.76,5
+93,a86103d0-f8a5-4321-8502-8d7a8750d2be,Hernán Sabas Álamo Criado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:30:04.754680,vegan,10.39,3
+93,39390f40-3d5a-43cd-8de9-39a7bf715cc4,Rosa Vilaplana Gilabert,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:02:34.419243,without_onion,,3
+93,ff7953fd-cf92-4695-9d2c-e731e3426486,Patricio Cal-Valverde,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:58:46.647973,vegan,,5
+93,fcb0cd3f-396f-44ed-ad73-0159edd02f25,Bernardita Constanza Olmo Sevilla,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:47:33.653437,with_onion,13.83,1
+93,16685f65-f62a-40ca-a953-e0d8f74aa3f6,Fabián Ponce Anaya,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:03:07.786610,without_onion,13.73,3
+93,009e2804-aa88-416b-a002-ce5dc29f9520,Ofelia Rey Barreda,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:12:51.567750,with_onion,12.78,5
+93,58356515-069e-4384-a45c-5b767aa233a1,Telmo Albero Sainz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:58:14.113797,vegan,N/A,5
+93,bac077d0-1a30-443c-9a38-d31827bbd9ca,Encarna Elorza Armas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:40:45.826369,without_onion,13.65,3
+93,85c2af99-fb40-41fd-b7ef-6bf1d6867f71,Isaías Morell-Caparrós,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:37:55.651655,classic,N/A,5
+93,9c8b1ed5-9dfb-41cf-a359-bb480398f7de,Lisandro Santana Sedano,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:46:01.782561,vegan,12.83,2
+93,3c25ad9d-9c5f-4eb1-8839-de939bb39287,Amaya Julián Sacristán,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:27:52.659604,with_onion,10.32,5
+93,63cfe6a8-ab25-405b-83a4-4380364cf411,Úrsula Figueroa Téllez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:52:19.116296,without_onion,14.97,2
+93,4d71c5ba-5ed8-4ae1-bcce-559f49b71c09,Coral Hernandez Pulido,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:06:40.639949,with_onion,,3
+93,a1321b30-138b-4162-a403-2cc1452cb610,Florentino Priego Cortes,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:05:36.487585,vegan,8.08,4
+93,9bc77ded-30e4-4c71-a14c-666876a5050f,Marcelo Andrade-Peralta,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:09:48.273412,vegan,8.11,5
+93,cd3b1db9-f138-4db5-b28b-74294775e2a6,Loreto Varela Valenzuela,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:53:05.624981,vegan,11.8,4
+93,a1920922-ae47-4c19-a905-1dd478b80b97,Tere Miralles Madrid,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:57:36.192877,with_onion,7.08,5
+93,5ed9ab1f-2915-4fdc-a1ab-53d9759cec66,Alba Valencia Vélez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:39:39.410627,classic,9.11,2
+93,aef1a839-bc46-4d0c-86a3-50aba4aae6c8,Cristian Vilanova Uriarte,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:47:04.089385,classic,N/A,2
+93,d9dddb42-f35f-4203-a38e-4588aa81d441,Angélica Castelló Valle,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:32:27.260297,with_onion,,5
+93,3bd1eff8-f10c-4398-977f-275491ea19be,Felicidad Ros Morell,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:16:22.262733,vegan,,3
+93,87c85396-4f5b-489c-9275-2994a5c80c2c,Ciriaco Carrillo Solís,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:47:06.896137,vegan,N/A,1
+93,d0a601c1-4f36-4fdd-b75f-5e3d87e4d232,Tomás de Villa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:26:59.485275,with_onion,N/A,5
+93,3f1b0f60-1040-4dc9-9516-2c2ac362e1fa,Buenaventura Bauzà,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:08:48.994373,classic,,4
+93,2670f91f-53d5-4ff7-ad1a-b81bf5bb23d4,Marco Ruiz Perales,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:49:34.223356,classic,N/A,2
+93,bd8aaf89-c6a9-46a9-99c2-8d2e3f41dd30,Nacio Ferrando Comas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:09:22.419529,without_onion,14.63,2
+93,f07d575c-b92a-4028-bdf4-6e52c1bee908,Andrea Belmonte Alfaro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:12:46.325365,without_onion,N/A,1
+93,501ceb4e-89b7-4317-8221-f21741cf291f,Desiderio Barrena Abril,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:45:40.379344,with_onion,N/A,2
+93,729bc102-e325-41d5-bbb9-ecc93b77cf45,Rómulo de Vallejo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:03:18.088568,classic,,2
+93,dd6471b7-a784-4173-9306-8cca5dd9afcf,Manu Juan Carbonell,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:30:43.639214,with_onion,N/A,3
+93,4c279534-6528-43f9-90e3-06d0354890cc,Edgardo de Tudela,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:17:40.618022,with_onion,12.28,1
+93,9949f2f6-115b-472c-ad39-defa4c376669,Ainoa Requena-Miralles,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:19:44.749842,classic,6.42,1
+93,5d1729f7-2d4d-43f6-8b74-b6e9a1f61166,Eugenia Arias-Heredia,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:05:58.200256,with_onion,11.05,3
+93,7b0c3279-f49d-46d7-94a8-bc7ed97dd61c,Marisol Vilma Jaume Alvarez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:11:33.096083,without_onion,,5
+93,8cad7252-1160-4716-bb2c-5ff890148d9b,José Llano Bilbao,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:24:08.264963,classic,5.09,4
+93,b57c34e9-c92a-4fc3-b24b-54e3019d7889,Eric Marco,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:59:21.362045,vegan,8.74,1
+93,b740f997-aad6-425a-9a12-f2d33057b9a1,Renato Oliva,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:27:49.768853,vegan,13.01,5
+93,5a597b16-2aab-4090-9d73-9b5c33f0e27d,Gabriela Tejero Nieto,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:24:09.864612,classic,N/A,3
+93,6b23e525-5b1c-40b7-b30b-bbfef2028adc,Sandra Barba Herrera,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:52:07.027412,classic,N/A,2
+93,f1395ee7-6e01-4d8e-9399-c0b3c2667611,Nidia Mas Guzman,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:09:42.997728,without_onion,,5
+93,c3b61761-deef-4e88-8441-e623865a1313,Chucho Vélez Calzada,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:29:11.381339,vegan,13.41,5
+93,1820c887-d3d1-4727-ab17-83835c7b7228,Leire Díez Cordero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:54:30.486751,classic,14.87,5
+93,8510cc3d-9fab-4c99-84b5-7bb834a1df2b,Isidoro Teruel Ángel,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:30:39.931278,with_onion,12.45,3
+93,d8e2fd18-0eb2-4ec7-a7e8-056c8bca5951,Dora Cobo-Fajardo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:36:54.144512,classic,,2
+93,93be5237-daba-4161-aaba-1f25ceadcf0e,Albina Ortiz Real,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:39:24.338675,with_onion,,3
+93,d790d630-9cda-4e6e-bb8f-06dd6852ca7f,Susana Luz Cobo Alemany,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:26:59.626887,without_onion,,4
+93,6f6451f7-d560-468b-a0d2-0cd773c7d361,Chita Mayol Cazorla,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:53:01.896168,vegan,,3
+93,91ad29b1-c189-495a-b792-e298a21f5e6f,Jacobo Mate Galvez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:36:46.872139,with_onion,14.28,4
+93,ad5c2a00-36e6-4211-a711-ed140d244d58,Primitivo Nicolau Pazos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:44:09.604731,with_onion,6.36,1
+93,ff7f6c9b-ff48-46c8-b6f9-b78632428955,Narcisa Pedraza-Lopez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:08:45.368817,with_onion,,4
+93,592ef9fb-1d71-4123-8f3c-fd177487da3f,Marcia Nadal Olmedo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:05:42.881298,vegan,N/A,3
+93,482a3a03-bc68-429e-b73b-0786c9801042,Rafa Ropero Villalonga,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:45:07.126430,with_onion,13.43,2
+93,8f9dfbfb-f20b-40ac-9144-4fc69704b459,María Teresa Teodora Alcolea Paz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:13:43.628550,vegan,,4
+93,77e0f320-1059-4f55-8198-1cb5fc0d0d2c,Lázaro Barroso Gallardo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:14:24.315157,vegan,N/A,2
+93,19a3bac2-ccff-4a3e-97bf-bb842b941c18,Haydée Barral-Miró,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:24:58.958480,with_onion,N/A,2
+93,2075b74b-bef8-4d95-acaf-3560576c2ce1,María Fernanda del Mayol,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:17:49.610429,without_onion,13.49,2
+93,9533f549-0387-4d0e-9407-79eca23e1cc2,Nicodemo Adán Cuenca,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:07:28.459072,classic,,4
+93,12d0f4a7-885c-4a17-8ecf-ab22ae196d96,Jose Manuel Cabañas Abril,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:22:03.153875,vegan,6.8,1
+93,a08a8abf-c6d1-4fdb-9aee-0db749259642,Ágata Barranco Alberola,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:21:49.168906,classic,7.74,1
+93,9d99f6db-5502-4f96-a2d0-4207add927ba,Felipe Aarón Jover Criado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:13:10.549014,without_onion,14.92,3
+93,61a1e8d4-bf51-402d-ae2a-42ed19eb3a85,María Fernanda Ferrera Mendizábal,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:49:01.775421,with_onion,,4
+93,5019c1c8-9001-46a7-8d26-9d1b23c58558,Onofre de Aroca,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:29:14.262789,classic,N/A,2
+93,9415a3cf-c9f7-4e01-9133-cc11f552e0f4,Natanael del Chacón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:42:40.912073,vegan,,5
+93,ee4cc1b0-9a71-4d3c-92d2-ab803d087e1b,Héctor Franch Diaz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:54:16.012896,with_onion,N/A,3
+93,103c3a67-fe5d-4286-9783-9528f40dd93f,Rosa María Juanita Solano Briones,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:52:05.485578,with_onion,6.13,2
+93,c5330754-41c6-4b96-8927-f26178baf7fc,Fernando Armengol Heredia,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:16:40.699268,vegan,,3
+93,08010f92-c119-4f27-a75d-b2b9f2372ffb,Camilo Marti-Meléndez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:57:24.550363,classic,,4
+93,465dcfc6-2ffc-4695-b3cf-2a954cfa1abc,Cruz del Ferreras,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:46:27.853112,vegan,13.41,1
+93,a8895c2e-6c69-4e3f-9a30-7b7591e05ce7,José María Menendez Goñi,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:19:05.898094,without_onion,N/A,5
+93,79b912ee-03ef-4a69-8dc1-478846ab31d6,Valeria Arnal Isern,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:51:22.514202,with_onion,11.52,1
+93,0f598bf6-c741-4b4c-9b13-36e21041cabd,Consuela Coello Alcalde,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:46:58.746522,vegan,,1
+93,f88658fd-f741-4872-ac18-42d84c2943bb,Vicente Alfaro Viñas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:30:45.305947,classic,13.43,3
+93,74d859c5-9d15-4900-8d5a-e9b4e403922b,Aránzazu Rivero Leon,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:01:12.724753,without_onion,9.91,4
+93,358eb617-c540-4cb6-b910-e7d6c1d39796,Mar Cáceres Carranza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:08:33.795623,vegan,,2
+93,ae42b810-1444-42a7-82de-7e71b313dfeb,Juan Luis Bonet Salvà,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:05:20.290499,vegan,,4
+93,7bdae699-568c-44fb-9284-2c2faca20a3e,Nilo Heriberto Peinado Francisco,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:47:31.543158,with_onion,7.94,4
+93,0f35b936-2979-41a6-a2b7-cc12427e3233,Clímaco Ruano,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:21:23.260896,vegan,N/A,5
+93,6d317927-31ff-4837-a154-d55253d91129,Zacarías Parejo Llabrés,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:52:10.840852,with_onion,N/A,2
+93,01015385-24a7-4a5d-95e6-61ae39a13229,Mohamed Carpio,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:01:41.519238,vegan,7.26,2
+93,ff3f066a-b148-4b98-86d8-846357219e1e,Eutropio Sebastián Yáñez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:53:58.112539,classic,,2
+93,ca26d4b2-fda7-4821-a7cf-020bb951c94a,Tecla Amparo Expósito Peña,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:06:19.272727,without_onion,N/A,3
+93,730cfcd5-442d-4f0f-b47f-329e1033783d,Isidro Exposito-Solé,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:02:18.988391,vegan,,4
+93,74bb4ca6-d792-45ee-a252-5911e3914e2e,Kike León Alcaraz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:13:58.013228,vegan,9.86,1
+93,b36c4b3d-5849-4f44-a9db-bacf25893d85,Maura Vidal Bernal,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:14:45.729376,vegan,N/A,3
+93,5fa0a424-ad2b-4fa1-a479-49305ea16fb2,Gertrudis Cózar-Moreno,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:48:15.162820,classic,N/A,1
+93,5254a1ad-48da-49e3-a063-44e3a29f184a,Leticia López Luque,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:17:45.904192,with_onion,11.24,3
+93,79c67a36-a361-4952-933a-acaa57a3c9f8,Mamen Villena Ródenas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:54:39.683813,with_onion,,4
+93,23cba331-5916-4a7f-898a-294fdda6ed62,Melania Garriga Camacho,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:15:35.611331,classic,,1
+93,38f5f11f-5b06-4175-b18a-fd06ca6baaa4,Leonor Gisbert Estevez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:54:52.232747,classic,N/A,3
+93,0cb2832a-dc11-43a2-acc2-0709578ea47a,Rufino José Antonio Exposito Villegas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:30:04.513988,without_onion,,4
+93,eb5c1f60-7a21-41ea-a8ac-83584f73a52a,Curro Verdú Julián,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:04:08.621829,vegan,6.13,4
+93,5f1fcafe-a177-4625-8e67-7c2f0dbaad25,Fulgencio Arnau Checa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:52:23.861387,with_onion,,5
+93,c5772d1c-c35f-4214-9607-96ebb72c9c59,Pepita Hurtado Cerezo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:36:48.324227,vegan,14.3,3
+93,2a0c8b42-db21-4f0b-ada1-a995972116ac,Custodio Ribes Rodriguez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:11:53.361649,classic,N/A,4
+93,3b48327a-958a-4544-95b8-ff150fdb5465,Javier Adolfo Vaquero Vilanova,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:03:27.153888,without_onion,,2
+93,143ac86f-763c-4ba4-9154-4e353d44cac5,Ximena Aranda Carrillo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:31:13.351085,with_onion,N/A,3
+93,a5f13cb6-57ad-481c-bc56-a1f9f5164d39,Rocío Elorza-Bello,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:31:40.116271,vegan,N/A,1
+93,89a08f03-5e69-4bbe-a752-a658f0347f31,Mauricio Vallés-Sarabia,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:41:52.918556,vegan,13.08,1
+93,4bae685b-f542-4025-9847-52ae5fc021c7,Lisandro Lerma Maza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:47:31.644046,without_onion,N/A,4
+93,0e4d692c-2db7-47c3-b6fc-66f204f4fcb2,Macarena Pedrosa,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:38:25.301643,classic,N/A,1
+93,dce16660-4318-4298-a6ca-c126d9302dcd,Leyre Florentina Sanz Solé,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:58:54.316494,classic,,2
+93,4999dd8a-9092-447c-bd96-14a4a9606da7,Jorge Canet Peiró,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:57:25.737898,vegan,N/A,4
+93,418da5a6-87bf-41b0-a91c-02993f90617e,Marcia Barral-Granados,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:23:35.811849,with_onion,14.16,1
+93,527996c6-1b3d-4953-8382-4abd4e1fd026,Rosalva del Nuñez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:42:16.871384,with_onion,7.48,2
+93,8a328953-0521-4088-8574-317fb9b19c7f,Celso Escrivá Busquets,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:57:19.332823,vegan,,4
+93,6535d836-225a-47de-bde8-8dbaf8e72f5e,Lucho Rebollo Zaragoza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:57:51.103013,without_onion,,3
+93,d3cb3748-ee47-4455-9c29-eb648538ab6d,Tristán Roldán Fortuny,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:26:49.825311,vegan,,3
+93,5ee60ff9-ee00-4a21-995e-4f69f59882bf,Javi Bosch Salamanca,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:23:52.374656,classic,,5
+93,f9a7fe3a-468c-40eb-a170-6f86360b3e27,Arcelia Lina Díez Coloma,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:49:06.194310,with_onion,,3
+93,0c3b85a7-80a5-4713-a033-04d521825fe8,Roberta Agudo Chaparro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:02:43.652688,with_onion,,5
+93,340f8595-c13b-400a-b214-1aa0dbb7f73e,Sandalio Cabrera Bermejo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:24:41.276806,classic,9.53,1
+93,b9e92e32-8fc1-41bb-8350-19e69b0de3e3,Liliana Garriga Burgos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:08:15.803585,with_onion,14.32,1
+93,84b3437c-914a-4d5c-805a-737f8c68c72e,Fernando Villalba-Noguera,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:50:31.548470,with_onion,14.22,5
+93,f012a81f-c30f-41cc-a891-a822603e98a4,Yéssica Luz Aznar,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:04:54.693146,vegan,,5
+93,788d4420-8af4-4930-8207-151b8be830f4,Débora Batlle,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:05:34.211662,with_onion,,3
+93,d79a9e14-4c79-4b95-8b06-d2e54c786380,Leonardo Pascual Revilla Pagès,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:02:34.261740,with_onion,7.08,5
+93,8b269e26-da02-4225-bb18-e7f25f0db46f,Sosimo Soriano,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:26:28.752159,without_onion,10.87,2
+93,0e8001d2-c62a-405d-b0b7-79f26836d271,Felix Bertrán Caro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:22:52.007695,classic,,1
+93,772c8b52-8700-43b7-8f09-16adde11da3e,Concha Juliana Solé Rubio,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:13:27.144654,with_onion,N/A,2
+93,99103312-824b-4ac1-9f0d-568f4dd8190d,Charo de Gallo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:46:46.693562,without_onion,,3
+93,2406b77e-d255-4b5c-b3c0-c2a75837c60d,Borja Ramis-Pablo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:04:28.134753,with_onion,,4
+93,94f708f1-15b5-4136-aabf-c7ab26f71436,Salvador Piñeiro Morillo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:38:44.855849,classic,,2
+93,0b0f686b-5431-4a1e-be2a-11b4ccee4d0b,Asdrubal Boada Alcázar,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:13:53.171953,without_onion,N/A,1
+93,02b8b29a-3e2e-448f-aa01-f54cbde3afa5,Ruperto de Villalobos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:06:55.679197,without_onion,,2
+93,dfdf562f-c126-436c-9b1f-47528733bd1a,Carlito Corominas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:51:07.353323,with_onion,8.58,4
+93,7555ebff-2251-4863-94ce-48192acf82f5,Malena Teresa Saavedra Pablo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:43:30.535508,classic,12.24,5
+93,3f49dd00-6eb6-464c-a635-6451a0d9c6ba,Alejandro Macias Robledo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:15:14.025103,vegan,,2
+93,c6b92a6a-3e14-427e-9c16-fce254b8c824,Ibán Serna,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:11:14.173448,without_onion,12.73,4
+93,e57f1587-328b-4ef2-82f7-42eb37cc4129,Chuy de Pedrero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:33:15.006236,with_onion,N/A,5
+93,aff32fef-05bc-44e2-81d7-82c147ebbca6,María José Sanjuan Mercader,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:10:54.805743,without_onion,,4
+93,855afbe0-7c6c-4460-8526-bd3102e0c393,Vilma Merino Plaza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:15:36.599770,classic,N/A,1
+93,b73fa05e-4473-40cb-a82f-e23871ed62f4,Concha Gracia,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:01:15.144886,vegan,13.37,1
+93,fbfd2a6b-5cdf-41d6-b7a0-f1ee1169a2e2,Celestino Juan Francisco Díaz Tapia,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:48:36.801954,classic,6.76,3
+93,4053714c-417f-456b-a2cc-884292393bc2,Wálter Moraleda Manjón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:53:21.464596,vegan,9.49,5
+93,e000ba10-2f26-4aef-8cec-de0edf66bddf,Clarisa Bermudez Barón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:58:21.772336,vegan,N/A,5
+93,24ca1e35-27f8-4d62-86aa-7ddb274fbd3f,Severiano Quintana Lobato,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:13:30.012775,classic,,2
+93,0a8a0c00-730d-43fb-8a24-6643e2c9e544,Trinidad Carbonell-Quero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:22:02.133658,classic,,2
+93,2288c0d0-3b4d-4fd1-ba38-49d9e98a192b,Eva María Cifuentes Sanz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:54:46.061072,without_onion,11.98,5
+93,3e790a78-c8c0-4c78-be17-ae3d5340d5b7,Asunción Encarnacion Morata Carpio,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:59:16.843908,without_onion,N/A,2
+93,3626d295-7749-4d11-8d1c-e53331076160,Ildefonso Martinez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:00:46.855040,without_onion,5.42,5
+93,c4ddaaf1-4802-4a40-8826-0d20c688acf9,Candelario Abella Aznar,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:48:01.102073,without_onion,,5
+93,b0e8d88f-d908-45f6-82c6-593f04c4a65b,Gervasio Donoso,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:09:06.402886,vegan,6.72,2
+93,471bc5ea-da00-4f50-acd2-d6ecedaf4fc3,Espiridión Alcázar Yáñez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:38:27.308528,vegan,N/A,2
+93,4ec54ee1-ce4c-4b1c-b675-7b5d02217295,Lino Figueroa Feijoo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:10:29.916054,without_onion,7.44,3
+93,973306e6-d358-4acd-ad8c-48de2987515c,Fulgencio Ugarte Montoya,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:17:25.167789,vegan,,1
+93,a43ec22b-cb72-4bde-a580-df90a8ddeb98,Trinidad José Piña Luque,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:30:42.837846,vegan,N/A,2
+93,436bdf7a-172c-431f-95aa-e353a4ffc5ab,María Revilla Casado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:23:48.241379,with_onion,7.73,1
+93,e33101fb-9218-4728-8bc0-57f5201364aa,Nacho Pineda Pedraza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:03:14.517677,classic,,5
+93,bcf85bc8-4935-49fa-a998-db083cbb7764,Juan Antonio Vilaplana Cózar,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:07:45.321440,vegan,11.21,4
+93,9a09e02f-488d-4e95-b754-26ffa28abb84,Olalla Paz Menendez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:06:47.422518,vegan,11.2,2
+93,3126e938-cba3-4df8-a801-dd0f6a431efe,Patricia Segarra Ordóñez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:56:12.976476,without_onion,8.28,5
+93,787c45d3-8985-40a3-8708-bbc2270a5885,Julia de Alegria,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:55:08.974718,vegan,,5
+93,e2f64e73-b152-4d16-9f71-8d6a3d5669f1,Conrado Arnaiz-Parejo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:12:48.032387,vegan,N/A,5
+93,e8f47f19-b8d6-429c-9a54-35d0f370471c,Édgar Gimenez Comas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:33:35.084722,classic,13.78,3
+93,cf6ac217-bd07-4c98-8e72-f2a16ed23f81,Pascuala Cerro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:02:29.020107,without_onion,7.41,2
+93,f5d16560-c5a0-4392-906a-ab4811dd1790,Faustino Torrecilla Morán,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:35:23.282879,with_onion,,2
+93,38c1ee0a-a971-4d4d-87a4-ba9b18e1aaaf,David Ortuño-Bolaños,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:10:03.778492,with_onion,12.85,1
+93,380d0955-f2aa-4ffa-9208-26408f9a84a9,Eli Posada Plana,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:47:01.307461,vegan,12.69,2
+93,f1292344-560c-4455-bffc-97216e42602e,Bernardo Portillo-Barragán,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:00:41.546291,with_onion,8.06,5
+93,37196b85-c4fb-432f-9f1f-d107577361ad,Edelmira Rosa Amores Macías,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:28:51.489927,vegan,9.29,2
+93,60070646-9491-43f3-a32f-16a4ffaa7722,Gisela Sanjuan Echeverría,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:05:49.682190,classic,N/A,1
+93,f4b02078-b7a2-4bf9-90f7-e4b751ab7843,Otilia Cornejo Gordillo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:26:20.808319,without_onion,N/A,1
+93,0749f095-db6b-4ca5-9f7e-6ffb8bb4dd0d,Angelina Clemente-Blanca,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:31:29.415673,vegan,9.61,4
+93,9d678edf-fd97-4d65-9ace-f7f7cb59826d,Emiliana Marqués Arce,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:12:49.636828,with_onion,,4
+93,4c039da7-b304-40b4-924d-803df7925b06,Dan Poza Mayo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:05:43.378921,without_onion,12.25,1
+93,6a4e3d1f-a1d7-423f-96f2-bad4364ee048,Jacinta Cases,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:52:53.481832,vegan,9.09,1
+93,0939dac1-2b82-491c-a26e-a3bab2dc5922,Renata Ribera-Villalonga,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:37:27.175173,with_onion,7.37,4
+93,99b39f81-84a9-4bb6-9385-4e8242f74c1e,Leyre Gámez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:08:23.538408,classic,,1
+93,81a35528-310c-4c58-927e-69e1facddbd1,Óscar de Perales,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:57:05.469225,classic,11.0,2
+93,04149ccf-a283-4f20-acbb-d9fe73445021,Anselmo Ocaña Piña,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:39:32.966102,without_onion,N/A,3
+93,bda28fe4-9705-45a6-894f-0477e0e7b35f,Édgar Llopis Roda,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:58:05.767038,without_onion,,5
+93,7f583e0b-b0ea-4195-a0c8-24d2128407ae,Maricela Roselló Donoso,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:59:25.038785,with_onion,N/A,1
+93,4aa3ad79-7e52-4c8f-89a3-e33ce50a2e0a,Sarita Gutiérrez Borrell,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:28:16.582507,vegan,N/A,2
+93,558dbcb4-f628-4cfd-af2c-a4d2afe1cb37,Lourdes Villanueva Carro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:48:49.711819,vegan,12.23,4
+93,ee239dad-8bb6-40bf-8a7f-9d3046089e25,Fabiana Calderón Ballesteros,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:44:48.312640,classic,7.48,1
+93,e8267c1a-d3a7-427a-a47f-4619fa126128,Adora Leal Jaume,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:15:56.647958,vegan,,5
+93,fc4305c1-4b1e-4efa-ad7b-902649c628ef,Juliana Quiroga Pons,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:08:01.296054,vegan,N/A,2
+93,c0fbcb76-72bf-4584-9681-d9e34e1c2791,Gregorio Revilla Cáceres,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:31:07.138081,without_onion,8.95,2
+93,ed6a2783-9893-4cec-9ea1-e59658da4491,Angelita Carolina Novoa Aramburu,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:02:41.651383,vegan,,5
+93,2a8bd0d1-842f-4b71-a305-ffa5074467f6,Estrella Emilia Prats Robledo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:53:26.116957,classic,,1
+93,e3e2828c-d9a5-4c0b-b207-e766026aa39a,Benita del Parejo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:59:29.808538,without_onion,12.71,2
+93,18c64e1e-78ef-4925-a3bd-58b3529bd7b6,Olivia Morell-Azorin,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:40:11.009862,without_onion,N/A,3
+93,18d23e07-7a09-407b-8848-41dc8e285008,Natanael Leoncio Manjón Silva,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:10:46.969395,without_onion,11.39,4
+93,8a07cf02-2e92-4390-8d7b-3f93c12571dd,Tristán Palomino Aguirre,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:10:20.492427,with_onion,N/A,5
+93,d38454fb-29b3-4902-aac1-6e8a4b1e8eff,Moreno Pelayo Bosch,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:13:12.621851,with_onion,,3
+93,501e1073-1503-452d-9f0e-aa0d77e4e031,Regina Rocamora Pla,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:30:09.287993,classic,8.1,5
+93,d715a2b5-fb52-4cf8-b551-6e53ae475ff5,Débora Peinado Segura,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:35:31.041446,classic,14.55,3
+93,6d7b125f-2b3a-4bd2-9d84-8c1312f0511b,Damián Nadal Peláez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:54:55.490280,without_onion,N/A,1
+93,2e45bb96-0c81-4114-9c9e-0803a646e88b,Ana Belén Tomás Montes,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:29:47.352148,vegan,N/A,1
+93,0ade3c38-3538-4c03-86dd-52ef6a80863e,Borja Vila Vilanova,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:29:26.841832,vegan,N/A,1
+93,a3bddef3-fc50-4f05-be19-0e0b933498a2,Lucas Otero Arce,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:41:03.275678,without_onion,,2
+93,f3fe09cb-a549-4c94-8608-53a7b1178c4e,Xiomara de Fuertes,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:33:35.051194,with_onion,6.88,1
+93,4370d222-ac0e-4084-89ff-ac46344bb9ba,Juan Manuel del Amo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:18:42.398881,vegan,,2
+93,e2fa2230-4a7e-4771-86c6-90a336cbe7eb,Olalla Hernando-Tomás,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:55:09.903128,vegan,,1
+93,4c2f9815-085c-41a0-972d-45e841e14d43,Goyo Juan Manuel Machado Berrocal,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:01:34.717164,with_onion,6.95,1
+93,d7473953-28ca-4111-a48b-140383151b33,Eduardo Barbero Mendoza,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:43:22.379493,without_onion,13.6,2
+93,e9fe1257-c9f2-4e81-9417-430034319ccd,Reinaldo Nogués Verdugo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:34:17.573496,vegan,N/A,4
+93,9be029de-5044-4040-9c9d-ff0b882541ec,Raúl de Casanova,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:09:07.438159,without_onion,,1
+93,88e18f58-3402-461c-bd56-af444f836c72,Anacleto Arco Mayoral,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:44:20.650673,without_onion,14.17,1
+93,eee37188-a8bb-48d0-aea8-6d6cfe4b6ab9,Gracia Vergara-Cerdán,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:00:43.590481,vegan,N/A,4
+93,9700b300-967e-4b22-99fb-63496362c76c,Bernabé Valenciano Tirado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:11:19.460875,classic,8.74,5
+93,ffa66ec9-5085-4909-ac28-e496981bfbc4,Victor de Madrigal,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:22:02.881769,with_onion,N/A,2
+93,a19271fe-df4e-4b11-b5d7-0ebb0600693c,Alonso del Morell,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:29:15.888325,vegan,N/A,2
+93,963b0a41-a473-48af-93f4-ccdb1b3dea0d,Feliciana Marco Artigas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:19:46.649648,classic,,1
+93,2c0cb8d2-90f8-4510-bc51-8647c3f08cab,Felicidad Hernandez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:32:57.079472,with_onion,,1
+93,302bc7e7-e94a-4e1d-b24b-92f09013b7d8,Samuel Barros-Duque,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:17:50.881548,classic,N/A,5
+93,b01f1ec5-abf7-46e8-b551-e978eb6b6166,Olga Peláez-Manjón,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:42:47.350600,without_onion,6.8,3
+93,6f1b68e5-d1b5-4470-b8fe-775ee6af09d5,Rosalina Quintanilla Tejada,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:39:10.398958,vegan,N/A,1
+93,6468ab47-40b5-4cec-89ba-5e836ca70720,Julio César Jáuregui Lamas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:26:17.323436,classic,10.71,1
+93,54d5a17e-0e1a-4e49-96f1-8512d40f50b7,Nazario de Torrent,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:25:33.026752,with_onion,N/A,4
+93,63d4dc69-0d40-4123-a5fc-7805f9fbb663,Pilar Beltran Domingo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 03:39:20.873920,without_onion,,1
+93,772cd54b-518f-46eb-bedb-a9906b79b819,Mónica Solé Baños,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:02:35.027089,classic,5.25,1
+93,3b6ae99e-395b-4a36-84ae-75ef5ac5d6af,Cristóbal Hoz Montenegro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:30:42.883991,vegan,12.34,4
+93,e70e0bfa-f0e0-481d-8c09-8f3c247ac46c,Chus Palomar Llabrés,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:40:38.702939,classic,,1
+93,6bb9f6c2-5a9d-4c7c-8d30-c73ac54ba75b,Amarilis María Luisa Arana Enríquez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:43:23.446059,without_onion,N/A,3
+93,1904b918-fa72-433a-a1cc-d3d14a1914af,Marianela Llabrés,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:44:08.762359,without_onion,N/A,4
+93,d98ab928-b6aa-451f-af41-d3b56131f219,Félix Alarcón Sarmiento,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:20:18.322047,classic,11.71,2
+93,bd3ec515-3d05-40b7-8cae-bb68a8af308f,Miguela Roura Gámez,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:49:38.797721,without_onion,14.43,2
+93,72f5c1bb-8400-48a4-abc3-fb8ccafd0579,Pilar Llabrés Escobar,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:56:41.184065,vegan,14.55,1
+93,263da7e0-bd65-439e-abf7-fa6118a3d950,Maricela Gutierrez-Alberola,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:46:42.129007,vegan,13.66,5
+93,cf7e6842-a975-492d-b16f-74626beaf700,Lupita Valcárcel-Sarmiento,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:45:23.101301,classic,N/A,3
+93,692cec5c-4e81-4d17-b4a0-e11f5b232d97,Isa Carlota Torrents Múgica,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:58:22.221635,without_onion,N/A,4
+93,ad5284f0-7990-4cec-9bd8-d0042f859707,Azeneth Miralles,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:58:39.452491,with_onion,6.62,1
+93,d764827f-ee38-424f-a7e8-b11a2e2543c0,Iván Santos Mur,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:38:22.448223,vegan,N/A,3
+93,d4a7e2c1-e24a-4917-8daf-35ab6ae1425e,Félix Villena Barros,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:04:00.233698,with_onion,6.12,3
+93,0ebb72ce-afd9-4f54-b679-1758b0926440,Francisca Belda Yuste,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 07:20:46.401088,without_onion,N/A,1
+93,1f62d1c3-6bae-46d7-b5ec-ba0ea59f28d3,Adán Caro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:29:21.456977,vegan,7.07,5
+93,31b4235c-2751-4180-8b86-510264b0bdac,Candelaria Prieto Montesinos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 06:08:43.651231,without_onion,12.62,2
+93,9eb3415c-481c-4516-9fcb-a29c66f12967,Paula Heras Casado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 16:10:08.866189,vegan,,3
+93,6976958d-7323-4994-aa1c-e61eff2350aa,Onofre Burgos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 20:43:56.466398,vegan,7.14,5
+93,25c70a79-a7f4-47d6-a4d1-a05ade2e9df6,Jimena Diego-Miranda,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:09:29.296107,with_onion,,5
+93,b4023df6-10a9-4e84-84b6-08f3ad1322f6,Juan Luis Ángel Alemán,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:54:58.857587,without_onion,,3
+93,78637545-8722-46da-9f32-a664631847b1,Faustino Arcos Izquierdo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 10:35:22.611789,classic,N/A,3
+93,80ebcca9-45c7-4f9b-afa8-2c1ad1ffbaeb,Aurora del Rico,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 11:31:00.362708,classic,8.62,5
+93,7b845616-28ee-4e44-8e0c-1e6f6a4b1eb1,Débora Fabregat-Noriega,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 01:57:34.082368,vegan,N/A,2
+93,382d5158-0d5c-4304-ac2c-35fd43b601cd,Mauricio Octavio Alberto Machado,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 18:55:55.288817,vegan,,4
+93,53a2e2e8-844e-46ac-b11d-2cae05486281,Alma Agullo Bayo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 14:15:33.657986,with_onion,N/A,1
+93,304a95f5-8421-4478-8cfc-b55e65af9b3b,Olegario Manuel Fiol,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:22:58.380472,without_onion,,5
+93,33c211c3-6d31-4872-8938-ffd7999a3f3c,Julián Quintero,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:19:52.699171,vegan,N/A,4
+93,d74d972d-83a4-4582-9388-bd0b040f9cb3,Severiano Bustamante Jordá,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:50:07.842940,with_onion,N/A,2
+93,9ef41e5f-bef0-433c-b71a-529632e3e97e,Nydia Miralles Cerro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 04:21:41.610249,classic,,1
+93,20481807-c5cf-4b53-88a5-81911e1370ff,Íñigo Noguera Mas,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:14:43.599771,with_onion,,5
+93,0568c5e1-d05d-47e4-bace-941e2b0feab1,Gloria Prieto,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 19:19:30.002784,without_onion,6.6,4
+93,41e9f27f-6452-4f51-a4e1-b17493c7c8fd,Nicolás Carbó Benavente,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:49:32.073688,classic,,3
+93,11f4a071-7d24-4d81-8126-a38c172d56b1,Florinda Sarmiento Andreu,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:15:41.171433,without_onion,N/A,4
+93,f7e64df2-af6a-49f5-9093-0b085e39e884,Sabina Gallardo Santos,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:39:46.517712,with_onion,N/A,5
+93,4f8b4906-e2b1-4795-9e2c-18f18409a876,Rosario Amorós Cano,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 13:47:47.515756,classic,N/A,1
+93,ce63c8f8-4dbf-4826-93c6-7b5cd3fc6d49,Adrián Ruano,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 17:37:21.143549,with_onion,,4
+93,fd3ccdb4-dc92-47d1-85f3-a1585b14e53b,María Luisa Olivares Blanch,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:07:23.154637,with_onion,9.25,4
+93,2a986f42-d3e4-4c9f-b180-e709f948bae3,Dorita Rocamora Estrada,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:18:28.503664,without_onion,N/A,1
+93,ef104f64-4b9c-4e09-b9ad-204e0cbbc479,Severiano Mancebo Teruel,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:17:32.623003,without_onion,N/A,1
+93,6fcab1be-7321-4b4e-a58e-af063df9074f,Bautista Ferrer García,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:19:39.661329,without_onion,N/A,2
+93,62b3eda7-5d79-48e6-89c6-e5fedac1194a,Eufemia Dafne Guillén Gual,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:16:10.619356,without_onion,7.24,5
+93,d09688b7-322f-4fe5-8d76-a9cf74f1cacd,Pacífica de Agullo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 00:04:58.475798,vegan,N/A,1
+93,9a5a0bae-85a6-45d3-a165-ce2a16e072ec,Montserrat Eufemia Jáuregui Bayo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 21:34:34.748444,with_onion,N/A,3
+93,7232f21d-31e2-4839-a99e-a4b546c8b2d8,Purificación María Malo Serna,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 15:16:37.621700,classic,,2
+93,5cbdf918-d162-470c-9f33-ad11b18a571a,Elvira Giralt Asenjo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 08:41:58.965645,vegan,11.61,4
+93,d363d6ca-c321-4d2a-8555-08fa2a24b387,Eva María Carbonell-Gallo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 09:49:35.971704,classic,N/A,4
+93,f6a7c2fa-4fb5-44e7-b997-4ceb281ddb5b,Salvador Casanova Camino,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 22:19:06.347162,classic,9.24,2
+93,d5337f8e-dd7f-454e-84d3-4b913d04aebb,Cesar Zorrilla Herranz,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 02:00:16.947548,vegan,7.83,1
+93,40c7e758-eb34-4a9a-8b1c-824b72152961,Obdulia del Araujo,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 23:18:24.957494,without_onion,,1
+93,21c00ba1-b56d-411c-b8a6-7c5eef8115c7,Perla Esperanza Sáenz Muro,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 12:45:03.813517,classic,5.76,2
+93,493ee513-e425-454c-a77a-380725e69ec7,Calixto Mena Cañete,Palma,"Via de María José Salvador 27 Apt. 17 , Navarra, 29223",2026-05-01 05:48:19.493393,without_onion,,5

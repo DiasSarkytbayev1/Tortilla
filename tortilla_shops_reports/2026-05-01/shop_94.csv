@@ -1,0 +1,489 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+94,c0fec834-c98a-4c6a-8079-546c37ad7ae8,Débora Tomás,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:31:24.611004,vegan,N/A,2
+94,e1cb6382-c574-44fc-99b8-37b008ffa823,Águeda Sevillano Cuervo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:10:46.712797,with_onion,,2
+94,af7604b0-a280-4795-a68a-9d831eac8e1b,Jenny Soler Espada,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:04:31.199504,classic,,4
+94,cbf8b904-8f0e-4661-a226-47745ccc9298,Haroldo Peral Heras,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:32:21.740385,without_onion,N/A,1
+94,f92cf772-6122-4af6-aa3a-de399bf4a5a5,Ramón Bermejo-Roura,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:31:58.444454,vegan,,2
+94,7987f825-f222-48f4-97ab-603bcd4118b2,María Carmen Múgica Quevedo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:40:27.657167,without_onion,14.23,4
+94,2fa688a1-3cd3-4b2c-8c8d-3a7c35fa3275,Úrsula Aragón Estévez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:07:42.602014,without_onion,5.92,3
+94,ec6d1a62-5211-43fd-9e73-ac24525dce56,José Manuel Cordero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:30:54.290895,vegan,N/A,5
+94,a050df86-7dca-430f-9d04-7218d36a1f6c,Gabino Vigil,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:01:19.871654,vegan,,5
+94,d12f8196-8fb4-41f0-83a3-127571000f9c,Osvaldo Vall,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:49:11.071407,with_onion,N/A,1
+94,27e91ee9-ee3d-4348-af9e-ea5638c10138,Leoncio Perez Terrón,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:11:47.254454,without_onion,N/A,2
+94,e3022d03-38c3-41cf-bcb8-f562f978a09b,Gala Céspedes Marqués,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:00:07.447108,classic,N/A,3
+94,4d1ceb2b-c43e-4c87-99c5-37c1c42bbc25,Juliana Quevedo Villena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:46:01.947211,classic,,2
+94,b8c8ac9e-84c2-4c85-a1e1-28064597f772,Mercedes de Catalá,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:00:58.077466,without_onion,N/A,5
+94,3a475a2a-30f4-4525-987f-d5915a276dc4,Natalio de Olivera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:55:45.238038,vegan,N/A,4
+94,77728377-56f7-4e62-b99f-1bce1b4c7935,Sigfrido Leiva,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:50:37.881666,with_onion,,2
+94,50606185-1e4d-4605-9fcd-04091ce9061c,Chus Juliana Salas Granados,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:14:06.788743,vegan,6.94,1
+94,aa2b79e7-69b0-4675-92e5-d9babe886ec8,Alejandra Juan Priego,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:27:57.804738,classic,,5
+94,cacb78f6-b1ef-4800-9946-bc488e3a2e0c,Azeneth Casal Portillo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:42:05.133167,without_onion,N/A,4
+94,21402ce1-c82b-4d89-8302-0f17954d362e,Noé del Huguet,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:04:54.557490,classic,N/A,3
+94,5cb829a6-735b-44e4-85a2-5dfe9bdc6cb3,Cayetano Bernal Escolano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:50:34.724274,with_onion,N/A,3
+94,98ce32b4-b38f-423a-9479-1b7db7e304b7,Manola Crespi Lobo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:56:00.502283,with_onion,N/A,1
+94,262a4dcc-92f4-4f84-8f3d-78dc7f7bf8d8,Ezequiel Goñi Vilanova,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:30:00.972454,vegan,N/A,1
+94,6a4183e0-68d2-4b97-9a1e-a362a57caa8f,Sergio Bayo Zaragoza,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:25:20.604938,with_onion,,1
+94,3ec90da1-f0e5-44cf-9e13-d971ef04a7eb,Asunción Malo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:05:18.332461,with_onion,N/A,2
+94,e0c88f82-fb9e-4c07-9b93-1d24ccdef827,María Cristina Campo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:40:10.846117,vegan,,4
+94,afef2079-7626-44f3-8616-70469f2f0b38,Maristela de Salcedo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:00:36.320766,classic,N/A,4
+94,07a2c1d4-4853-4d4a-9e6d-6081666cf0c1,Apolinar Arco Pinilla,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:22:01.886105,vegan,,2
+94,93e4865f-01aa-4219-9f2a-7a70d148edf8,Emigdio Sanmartín Álamo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:57:22.166269,with_onion,N/A,3
+94,cd8ca7e4-ce79-478b-85e0-9ac0ca8306c2,Rómulo Montserrat Codina,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:38:47.669191,classic,N/A,5
+94,5612b643-9cbf-4c46-a5d9-5959c45502b2,Maura Blanes-Baena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:07:52.312670,without_onion,,1
+94,a38a2fd8-da5d-4a42-ab91-ec8261b324d0,Leocadio Vallés Barón,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:08:54.207920,vegan,,3
+94,7a4afb08-39b3-4c17-9ee1-74b82e3e3384,Abraham Llorens-Revilla,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:39:40.375088,vegan,N/A,3
+94,27c288ca-e530-4d76-83bb-5943e70e57d6,Carlito Marquez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:54:51.105229,vegan,12.74,3
+94,ce6df3a4-9c50-4a7c-8e8e-ab310d309d1e,Macario Villar Lago,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:17:11.949453,classic,11.01,1
+94,7514f5af-f3d3-49fd-9937-67f52f005904,Eliana Falcó Boada,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:05:47.878661,without_onion,6.91,3
+94,44d20a52-1c19-488a-9028-754efce27000,Jovita Tello Varela,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:06:37.046482,vegan,13.69,1
+94,c831fbf5-6837-4b6e-9ebb-0177c595e3c6,Reyes Armas Quintero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:52:40.818546,with_onion,,4
+94,6e0a5601-6701-462e-add8-37da615567fa,Carolina Olalla Gomila Barberá,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:29:49.022518,with_onion,13.16,3
+94,54cc676d-b8b0-461a-9d68-1035bfc1accd,Joan de Hervia,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:48:07.903111,vegan,N/A,5
+94,2f9c59c2-4004-491c-a404-3a84d811df2f,Clementina Romero Expósito,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:08:32.887405,with_onion,N/A,3
+94,a8dde84d-6035-4558-9c2d-486edac5c1a7,Emilia Durán Mascaró,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:14:48.455483,without_onion,,1
+94,a4e5b50e-1314-4902-ac2e-f5e0904de9d4,Tania de Amo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:48:53.200756,without_onion,,4
+94,5c9c3493-6a6e-46b7-82a9-d7158327c24d,Fabián Lastra-Molins,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:26:42.270400,without_onion,6.26,4
+94,6a01d6fa-7537-4386-a140-1ebb018bb7e8,Félix Mercader-Castilla,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:45:29.473913,without_onion,10.71,2
+94,ce4be35d-efbc-4a9d-909b-eac122566437,Juan Antonio del Llamas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:43:00.182965,vegan,13.57,5
+94,0b61d61c-9b99-4868-bf29-1099361e16d8,Rómulo Cal Guitart,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:14:20.375387,classic,,5
+94,f16cb146-3d16-41ed-b557-655661371b39,Clarisa Larrañaga Escrivá,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:00:12.260572,without_onion,13.99,1
+94,ef3a12c5-d837-495e-b579-1b6a88e9727b,Visitación Priego Serra,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:30:46.423313,classic,12.23,3
+94,0f6b422e-5362-4cf2-b2d7-778ddd228a98,Olivia Ximena Gonzalo Castro,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:28:57.068078,classic,,3
+94,5b389146-708c-45d7-ad1d-403f653b195e,Vilma Martín,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:44:02.147783,without_onion,N/A,1
+94,5d8b2843-ef04-4977-a575-86626ba3972a,Jose Felipe Guillén Olivé,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:45:26.909693,vegan,,2
+94,fb0fdc71-a1ad-44d2-9976-1e5af4824bc4,Sarita Sancho Reyes,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:48:37.703274,without_onion,13.6,5
+94,4635b9b9-bcb3-408a-be08-708e96cbfdac,Venceslás Cobos-Esteve,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:52:31.842112,without_onion,11.95,5
+94,caee3b14-2b33-4d20-85e3-da4b7aa5d353,Damián Luján-Segura,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:19:12.399777,vegan,9.16,1
+94,004dcbdc-2bd2-4b30-9953-485c041f0835,Dora Casals Fortuny,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:09:24.333678,with_onion,,1
+94,7c7acbeb-8958-4805-812d-b082381bf19a,Rodrigo Benítez-Carbonell,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:58:43.823453,without_onion,N/A,1
+94,8533ce26-4e22-4b4f-9833-3b6e175a87af,Teodora Peral Serna,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:55:19.839569,without_onion,7.8,4
+94,47c69d70-f2dc-4758-9c68-1ba77d87f1f7,Eduardo Sanjuan Pou,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:29:14.045694,with_onion,6.64,3
+94,cba39d85-7115-49d7-876d-ff2cbd7feb7e,Gervasio Paz-Álvaro,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:46:45.650870,without_onion,9.98,2
+94,477b385d-8b47-432e-9e6f-c9821e7cd012,Gabriela Zoraida Pagès Robles,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:58:52.044689,without_onion,14.36,4
+94,561f7cc6-c8f9-4ac4-9fe9-2f4dbcb14611,Erasmo Palmer Gibert,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:31:39.217151,without_onion,,1
+94,5840f238-8f13-4363-a6b6-7b98cd318a5c,Benigna Carmela Castejón Aznar,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:55:55.271714,vegan,,3
+94,54b28dcd-b200-483f-926b-99abed19c8e1,Patricia Canales Mendizábal,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:33:39.543812,without_onion,N/A,4
+94,95768a87-e963-4db2-8efa-75c6fd7936b8,Primitivo Rovira-Gallo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:38:13.572398,classic,,5
+94,410dc51c-38fc-4160-a101-bd4790fc628a,Bautista Álvaro Manzanares,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:43:34.515877,with_onion,,1
+94,b7039209-2452-474e-b763-2359c2f0a4d4,Angélica Vendrell Hernando,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:06:02.286527,without_onion,,3
+94,a147a59c-f983-448f-99f9-5ddb0706fa91,Francisca Domínguez Barrena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:07:49.400892,with_onion,11.82,1
+94,8bf62bb0-b851-4452-9e59-8fc76aa52907,Estela Arce Plaza,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:44:18.960412,with_onion,N/A,4
+94,c04f5fcf-a867-42fe-98c4-0dca1ac577ba,Úrsula del Palau,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:50:05.041509,with_onion,,5
+94,6b319e7e-deb5-4b11-ab9e-7530b7f0c6a6,Perlita Jaume-Riera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:10:54.222722,vegan,N/A,5
+94,b7c49e68-1fad-4c85-9b81-aee303226e27,Rafaela Jordá Salamanca,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:52:37.606454,vegan,,1
+94,ceef1dd1-ba00-442d-913a-0efcdc5eeaae,Moisés Carbonell,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:10:37.580533,with_onion,11.0,5
+94,456ec293-c38a-44d2-8ad3-47e63e79cea7,Ximena Valle Macias,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:50:09.083022,with_onion,,4
+94,82ad8522-7230-4910-b531-14bf815cd55c,María Teresa Tenorio Larrea,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:29:05.239711,without_onion,N/A,1
+94,9faee2aa-1442-463b-98ad-42f97f2bab91,Tomasa Cañizares-Ros,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:41:52.152427,without_onion,7.56,3
+94,8bb80a99-9040-4469-897f-394350ca1b5c,Tristán Ribas Galan,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:16:57.453258,vegan,,2
+94,23de1505-c040-4b13-a730-d28fcf85dfae,Tiburcio Pinilla Peinado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:05:55.451909,with_onion,N/A,5
+94,2f44d9b7-01b1-4987-bb33-ee60290081c2,Mario Alcides Romeu Elorza,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:06:13.354044,vegan,,4
+94,eab179c3-bec5-4137-a7a8-5167b14c3f42,Azeneth Téllez Leon,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:20:36.947341,without_onion,,3
+94,a267e396-ac92-4b46-8c6e-771a62c7cdbf,Emelina Díaz Valverde,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:45:02.848952,classic,9.54,5
+94,5bda231f-7d10-44d7-9075-5e4a982eb75d,Samu de Cabo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:31:34.547403,with_onion,5.6,2
+94,d23104b1-b11d-4a80-b314-bda39551f086,Almudena Manzanares Comas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:15:30.558551,classic,N/A,4
+94,3e28d49e-92cc-42db-acf8-fd439c57304d,Socorro Alcalá Barrio,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:47:55.744060,classic,13.72,5
+94,910cd389-3c67-405b-b006-b6860da0b6db,Josué del Carranza,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:51:28.686901,with_onion,,2
+94,31c1d177-aa8a-46b7-9e01-636b85ae95be,Miguela Cano-Dominguez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:27:29.390166,classic,N/A,4
+94,f26cf060-a2bd-41c0-b58c-1ea683260421,Calisto Rivero Vara,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:24:40.661608,classic,8.95,5
+94,5789cc1a-7937-4d47-8aa4-63ba25ded0d5,Pastor Campo Agudo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:38:23.301944,classic,,2
+94,6af039a3-2091-47f7-8faa-9bbbf7aa8a24,Etelvina Escribano Zabala,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:46:11.253089,with_onion,,4
+94,c36755cb-0e3c-4c1f-99f2-ad8fe2d14f57,Rosenda Aguiló-Nogueira,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:52:39.824011,without_onion,,3
+94,bf076a4a-8a18-4609-9f1a-8534f7512a87,Vicenta Mercader Pinto,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:47:25.572840,without_onion,,2
+94,77ef43d2-fd41-4f7d-b499-7ce241ccb970,Virgilio Leal Baró,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:36:19.108072,vegan,7.44,1
+94,ca0cee1f-1aa0-440e-bacf-b9e5217834cd,Francisco Javier Hoz Aller,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:28:55.888776,without_onion,N/A,2
+94,a4d809a8-687b-4533-8f51-e265ad9b92f0,Ángel Hoyos Gomila,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:55:41.739409,with_onion,9.04,4
+94,46708940-2c22-47ad-9d3a-ea3a92a0e1da,Elena Sanjuan Huguet,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:04:34.265237,without_onion,,2
+94,b069cb77-784c-4d1e-84af-71617764d75e,Maxi Octavia Melero Roselló,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:34:22.462288,vegan,,3
+94,7ca68014-13eb-420e-ba73-4a5bd9473a43,Mamen Mateo-Sandoval,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:42:21.934916,without_onion,,2
+94,2ec23215-0eef-4991-b242-9e964be42b27,Ale Baltasar Borrego Meléndez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:27:55.943597,without_onion,,3
+94,00512b0a-f1a4-40b1-b02e-c024c454eb05,Galo Melero Vila,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:34:25.483177,without_onion,14.38,3
+94,62613947-49a8-42e6-8364-44c6080bc6ae,Loida del Barrio,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:25:31.383098,classic,,2
+94,feb4f602-2d9f-422d-8288-47f22f8174f0,Valerio Cortina Ortega,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:57:07.825430,without_onion,,2
+94,b8ad2768-1867-4d8a-bb2c-564886c77a47,Antonio Donaire Redondo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:11:43.506918,with_onion,,1
+94,c242cd6a-58ee-46e9-8bec-194bf75f97f2,Irene Cervera Costa,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:16:19.667086,without_onion,,3
+94,813ba073-1d7c-4cf5-b6cc-843126a76e83,Marcia Heredia Cruz,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:51:46.045095,vegan,,1
+94,311d233e-a3dc-482e-880a-a99d1de90328,Leonel Maldonado Vall,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:19:41.872925,classic,11.78,4
+94,6f06b750-f300-4d64-a19e-cd06bd33c208,Cristóbal Prats Valera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:31:49.520273,with_onion,N/A,4
+94,3284f21f-58a9-4063-be9a-0a75d9dfcfb3,Diego de Ferrer,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:42:50.356006,without_onion,,5
+94,5a05caed-8182-43c0-8213-33c7a84201ab,Carlito Elorza-Acevedo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:49:01.294332,classic,N/A,5
+94,862da5e4-50c2-464a-a872-90fc0129cae4,Apolonia Guzmán Aguiló,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:09:22.494726,without_onion,,4
+94,e8694fa5-14c6-4927-95a1-eb971c86c6c6,Aristides Recio,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:52:20.132742,vegan,,2
+94,ab8b2a76-af7d-4a04-baca-3f2dd494c635,Diana Novoa Royo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:50:23.905588,with_onion,,4
+94,8238b24c-9454-4b17-88a0-f6cd6ed2da36,Plinio Llabrés Priego,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:15:45.205326,without_onion,N/A,5
+94,2e117aa4-7053-4389-8129-0b12dbfb7d21,Alejo del Prat,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:19:48.282612,classic,14.58,2
+94,45546c83-55b9-4200-be7d-98393a29c5ac,Aurora Garcés-Milla,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:13:22.347313,classic,,5
+94,f48e883e-85e1-42c0-8a63-6c2e68aa1be3,Ariel Pedraza Solé,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:33:28.376652,vegan,N/A,5
+94,cc0ed434-8f0f-4241-b118-a80719fb5fde,Águeda Cortina Castellanos,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:22:10.198630,with_onion,N/A,4
+94,8bb7c433-2db7-4ec0-b385-c4fdb4179075,Andrés Rivas-Roman,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:04:15.022301,without_onion,N/A,4
+94,fcc0bdc1-3967-448b-a487-83e0d2b7b365,Maximino Pol Noriega,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:51:36.435294,without_onion,N/A,3
+94,67049597-ad86-455d-9879-e7a501775b01,Luciano Galiano Lara,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:28:48.156579,vegan,N/A,5
+94,9f1ecf1d-e68d-4877-bf37-0184d52be14c,René Balaguer Blazquez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:11:16.189258,with_onion,10.49,4
+94,4048517c-0022-4749-b658-2d5ede5e9a0f,Macarena Arjona Andreu,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:34:28.452017,vegan,N/A,5
+94,1b742ad7-30ec-429d-a737-6cd41adb8994,Berto Navas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:18:59.431327,without_onion,N/A,3
+94,38d5ccef-70f9-4520-af5d-63f3c172f961,Dan Carbonell Aguilera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:39:24.775472,without_onion,5.89,3
+94,42a306ad-0a2f-47ad-9490-a5e5dbdde456,Che Jiménez Vicens,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:27:26.788322,with_onion,N/A,1
+94,bf221cad-6d83-4257-acdb-11a98f065f42,Mónica Miguel-Ocaña,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:44:06.194774,classic,N/A,4
+94,4781cf8b-c90c-4fdc-892e-019c12c172a9,Cristina Alcaraz Colomer,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:02:39.181667,with_onion,N/A,3
+94,9384f0ed-0d1d-4b28-b5ae-ed11cdf9f764,Duilio Arnau,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:24:36.265022,classic,,3
+94,c3b2a299-1b7a-4ee4-ae13-15e3ac8beb7f,Víctor Soto Cordero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:49:20.772315,without_onion,N/A,1
+94,121a3e32-bd19-4238-8809-378ab4dcb8fb,Paz Zamorano-Alcalde,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:05:37.525356,vegan,,4
+94,2a3ed786-4037-4965-b439-ef3d0853e61a,Vito Marco-Acero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:39:03.964482,classic,6.66,4
+94,24666d94-5061-4d51-825b-afa36668e4d7,Esperanza Montesinos Puga,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:47:24.107679,classic,,2
+94,e5484965-cae4-42b3-be1b-71c923e6398a,Serafina del Rincón,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:24:52.231643,vegan,8.51,5
+94,e760baee-1eab-4b92-a9ae-2b9eaa9e3ac1,Marcos Blanco Acuña,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:48:25.505329,vegan,,5
+94,1baba4b3-ada2-4c8d-862b-6a18cbf0b664,Gabriel Santana Beltran,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:18:51.436172,classic,,5
+94,bfeded17-219a-40c1-a171-9045673421ca,Ascensión Sarabia Andrés,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:22:36.677477,without_onion,13.16,2
+94,944adeae-7876-4281-a0ef-173ce69b3e66,Eugenio Sáenz Morales,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:58:40.314141,without_onion,10.5,1
+94,ea6c015a-5eca-45c0-8123-154085a525b6,Cristina Roldán,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:54:57.072878,without_onion,,2
+94,0b299037-b098-415e-a350-915e8c58f130,Miguel Ángel Lumbreras,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:04:39.640989,classic,5.39,4
+94,180360b8-5496-4572-8eed-8c4e83f5bb68,Macarena Nicolás Calvet,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:18:51.411714,classic,,3
+94,47eb60d6-9172-4fec-a335-439d5338ee5a,Eric Gabriel Bernat Oliva,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:08:32.993700,with_onion,,3
+94,3818be2e-aba4-4e70-9f64-b2d19750388c,Abel del Izquierdo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:55:19.727384,with_onion,13.82,2
+94,6cdaf219-894d-4896-8686-d415f90b8372,Carmen Gonzalo Marquez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:17:36.586402,without_onion,,4
+94,2933475c-a30e-4890-a811-002453700eab,Maximino Marqués Nogués,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:33:09.638629,with_onion,9.77,3
+94,ca2ed5f9-d119-45a9-8326-90e384e65eb6,Catalina Valera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:18:29.558548,classic,7.45,2
+94,2afb7184-9567-462c-b4b5-f517f54bf608,Hilda Murcia-Díez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:56:08.955014,with_onion,N/A,5
+94,5ee7700f-340b-4472-a9a8-b03782b2e112,Guiomar Montenegro,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:28:10.436425,classic,,3
+94,77ca6df5-ccd2-4a9d-a088-b69484a0f191,Aura Amorós-Rivas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:35:12.399996,classic,,4
+94,def2c91d-4d0d-4e88-95af-23309accfef3,Bibiana Sainz Gordillo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:59:54.612317,classic,N/A,5
+94,7c07c91b-ab92-4e96-9177-24458eb910b8,Pastor Garcés Moreno,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:47:12.969321,with_onion,,5
+94,a864b5c9-6b33-4a15-a304-fd0121dd7a96,Milagros Sevilla Fonseca,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:21:06.472887,vegan,N/A,2
+94,5357b137-2424-4ae1-8072-7133ed69e3eb,Benigno Prieto Cortés,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:46:12.061761,without_onion,N/A,1
+94,ff0167e3-0ab1-44bf-b6ef-6142cab110b7,Azahara Borja,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:21:18.438212,without_onion,N/A,4
+94,a6c85442-1857-4df6-9ee8-c0613c9612ab,Heriberto Campillo Castellanos,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:29:32.230141,classic,N/A,1
+94,5eee5ab4-8ce7-4536-b651-75603a1b9ead,Ulises Arnau Aguirre,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:15:10.702031,with_onion,,1
+94,cdc54462-b6eb-4730-aee8-ca7ed5507c4e,Emiliana Teruel Gálvez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:05:24.683674,without_onion,11.7,3
+94,19e20a20-28cd-4fbb-85e7-eac24bb17997,Noemí Carnero Noriega,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:43:24.728951,classic,5.42,3
+94,d3696d76-78e3-44c9-a1c6-28a195f7962b,Juan Bautista del Menendez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:30:01.438128,without_onion,N/A,1
+94,103f40f1-d7a9-4caf-80d0-ce0a09547b6b,Adoración Máxima Osuna Gelabert,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:56:58.091571,vegan,,2
+94,b66aa674-56d8-45db-acad-3a4237f338bd,Liliana Castelló,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:49:27.554004,classic,N/A,4
+94,def0ae3d-d4de-4c11-8d9b-6bca76726b8e,Camilo Santana Arteaga,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:02:36.457790,vegan,,1
+94,9d12a471-7a9b-43d7-8abe-e50121636b93,Anselma Luciana Solís Cuenca,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:38:56.117156,vegan,N/A,2
+94,5dce56ca-aa78-4869-99ca-39c85aeeb1e8,Fabiana Antonia Gonzalo Cordero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:59:45.443151,with_onion,,5
+94,40d820d1-ad5b-4906-8219-ce8c9da2a276,Américo de Casado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:07:44.795628,classic,,5
+94,e429e33a-64b6-4a9e-ad1d-6dd36f147909,Ángel Aragonés Carrión,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:14:21.484135,without_onion,N/A,3
+94,eed89cac-4838-4ac6-8ab6-234436b4b88e,Cristian Pepito Angulo Meléndez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:49:46.308983,vegan,,5
+94,347cee94-5446-4310-bbba-cc5f7a4bb460,Teodoro Porfirio Castrillo Bermejo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:55:44.332201,vegan,N/A,1
+94,2b29e7f0-b6e4-4c17-986e-c8f9eb399d39,Marisol Contreras Lobato,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:28:08.436088,without_onion,6.75,3
+94,9b5c20d7-79bb-46c0-8323-0c2d00cf58d8,Albano Palomo Infante,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:00:46.823251,without_onion,,1
+94,0639ad61-4232-4e35-8be0-03a5e9b41ce2,Custodio Adán Borrell Pujol,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:28:30.537740,classic,10.74,5
+94,d59da4aa-5c4e-4239-9f15-4df8b0350365,Micaela Pulido Boix,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:47:00.432178,classic,,2
+94,2d92972f-9b99-439e-8fce-f4470e55bed1,Nuria Montesinos Fábregas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:25:05.314523,classic,N/A,4
+94,84c869ea-2a10-4ac8-bd87-0e29c12ab3ba,Victorino de Cifuentes,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:55:24.720292,classic,N/A,2
+94,f5bf204b-3958-4ef0-9c24-aea21a7cf2b4,Alicia Perez Rivera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:44:09.434820,classic,,2
+94,b24a2f8a-cb46-4f85-83c9-c5280d35ecad,Sandra Leon Coca,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:15:53.865928,vegan,11.6,3
+94,c92f05dd-0656-4825-843f-c1f07a48de6c,Mireia Sobrino Ferrández,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:49:41.265779,classic,,4
+94,1ba74dbd-30d1-414f-8fee-1cabdcdbc6bb,Pelayo Andreu Andrés,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:50:05.015285,classic,N/A,5
+94,4b70a0b3-8f6f-4bea-bcc8-f5b340945568,Esther Falcó Aguilar,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:30:46.070367,classic,N/A,3
+94,7bdb0d8a-63bd-4cf9-b16a-4df83f7ccbaf,Sebastian Melero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:12:42.774374,with_onion,N/A,3
+94,0429d34a-0d95-4dc3-9b32-9b209e34028e,Aitor del Pablo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:48:44.090955,vegan,6.71,5
+94,1bb1f95d-622a-4969-8180-17f0cece6d77,Zaira Espejo Rocha,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:00:34.839916,classic,,3
+94,388f29fd-d16a-490e-b3ff-510aab70b8d8,Poncio Aguilar,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:31:41.366911,vegan,5.17,5
+94,9fdd4cb6-9467-4605-8a89-8c106d06ad25,Jacinta Jover Juliá,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:48:00.973985,vegan,N/A,4
+94,c5c2fe74-b848-4a04-a251-847f7270e60b,Ángela Cañete,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:31:54.560241,vegan,,3
+94,7327a135-fd14-4bec-a2ae-f7d82cd12a5c,Narciso Valderrama Jaume,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:38:20.791724,vegan,,5
+94,94642237-eb6b-40f7-8a14-c26f35880e92,Apolinar Duque Miguel,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:35:45.870801,without_onion,N/A,4
+94,a6c9c11a-50b6-4114-a60c-0ed82590648c,Luciano Juan Antonio Acosta Reina,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:31:43.042403,with_onion,N/A,1
+94,6cb5391b-9586-476e-ab21-a7b8ed9a9e51,Paca Posada Vega,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:08:45.582773,classic,13.7,3
+94,e63c28b1-9b0b-4eed-a9a8-5e77efcee27c,Fabio Bernardo Riquelme Carrillo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:30:48.307467,without_onion,,2
+94,f885e118-dbf4-4ad0-8f36-ed0f0a51f0fd,Teobaldo del Rodrigo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:10:48.024103,without_onion,14.46,1
+94,519b61b2-37aa-4653-bd12-7461bb93f384,Omar de Pascual,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:52:51.849539,without_onion,N/A,3
+94,7b8e4a2c-7526-4f1b-86da-c879a9504245,Valentín Machado Escrivá,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:54:42.525766,vegan,14.36,5
+94,cc2f9a65-1b75-4f18-829c-4841a9fd69ec,Bárbara Cardona Serrano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:45:43.274997,vegan,12.83,4
+94,3bd8c48d-ce7f-4226-86f8-72f6fce9ded9,Cristian Iborra Pizarro,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:48:29.403925,vegan,N/A,5
+94,833bab30-9eaf-4749-8315-071b35a4d5e2,Leonel Gabriel Catalá Manzano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:23:50.098640,classic,,3
+94,e62c171f-c148-4b71-bf05-b5f0cdeed48f,Rufino Lara Valbuena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:59:33.061835,classic,8.17,4
+94,f648f8c0-82c1-48cc-ae3d-af2123bdc107,Dorotea Carmona Uriarte,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:15:22.335121,classic,6.07,2
+94,e5a705b1-7a77-4812-946d-d64851faeaae,Rosalva Cadenas Roca,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:30:11.785298,without_onion,10.9,2
+94,da2c5a38-e138-4f74-9123-a917ad46535f,Yago Pi Cózar,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:01:21.571591,with_onion,N/A,5
+94,3d53d1f5-01f2-412c-a4f4-bf00073e9ea5,Manu Angelino Cañas Carballo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:37:09.424104,with_onion,,4
+94,577ebfa4-ff9a-49f3-86f5-6e16e1615dcf,Teobaldo Pagès,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:50:47.489885,with_onion,N/A,3
+94,12474a5f-22d1-4632-914b-0b0839ed28fd,Valentín Menendez Torrents,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:30:31.282629,vegan,N/A,1
+94,0c7d4acf-d90c-4f21-9a4f-e9f31b2bff61,Silvestre Solé Arcos,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:59:54.815325,with_onion,N/A,3
+94,8ce8d8a4-e069-4d0f-aabd-2ba771114a27,Graciano Paco Cobo Checa,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:29:21.290757,vegan,N/A,5
+94,73fbf539-e36e-41f2-ad13-37db44571875,Carolina Riquelme Pedrero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:19:47.035148,with_onion,,1
+94,093e4637-539a-46cd-adfa-cd599086ec42,Delfina Flor Santana Miguel,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:05:02.340509,with_onion,,3
+94,364cd12c-1fe8-493b-ba8f-edceb8cc45cd,Olimpia Rueda Jover,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:17:52.521446,vegan,N/A,1
+94,042b07a9-13e7-4bf2-b624-b1945072fb2d,David Bauzà Olmedo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:55:57.516857,classic,,4
+94,a19de731-6d70-4910-8183-a5f1600a8de0,Plinio Lino Vigil Agudo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:57:17.504555,classic,N/A,1
+94,2343d346-4acd-4fa4-a2ea-d2dd56117e12,Poncio Cerdá Jerez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:49:20.950061,without_onion,12.65,1
+94,cf0df2fe-2d5b-4db8-8971-5783d32e26ac,Cesar del Llopis,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:40:06.450281,classic,11.42,1
+94,702800ee-f119-46fc-b776-6897063b7a7d,Ernesto Ibarra-Jordá,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:36:49.038034,without_onion,,2
+94,425518d7-77c7-4596-9544-f54f829da875,María Cristina Jaén Huertas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:46:39.519191,vegan,N/A,3
+94,5a60a0aa-e114-4b85-b258-3a4fc8a707a6,Ruben Cuadrado Zamora,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:46:53.130462,vegan,11.84,4
+94,d1f3b893-2482-4aa8-ba42-ea7882fa0399,Jessica del Llamas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:53:59.347313,with_onion,11.52,5
+94,18abe4bc-d9ce-4550-a126-47df1c5cfcba,Gilberto Fernández Otero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:41:41.996248,vegan,,5
+94,40f607ef-3bf7-4b12-89cf-4151468a6fd3,Elpidio Sanmartín Calderon,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:47:41.342654,without_onion,10.91,3
+94,4f7c7a48-4776-4c53-8696-2aa22c1b0ab9,Rosario Aramburu Bernat,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:49:15.020347,classic,N/A,3
+94,68390c7c-40b8-4c42-a6b9-4024c4fdd254,Valero Manolo Saura Colomer,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:49:30.500989,without_onion,N/A,5
+94,5478f563-e14f-4284-840e-240fb724a5d8,Miguel de Sanabria,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:26:08.289312,with_onion,8.56,1
+94,bce81b62-c1aa-44a8-8876-63d1807804ba,Jorge Morales Folch,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:08:30.429416,with_onion,,2
+94,20a9bdd8-e3b1-4fd0-b455-35870dc00b43,Armando Olmedo Juan,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:18:33.378911,with_onion,,4
+94,2ffd5793-8a61-4d32-843d-10f5fb788caf,Eusebio Marciano Quevedo Belda,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:09:04.211480,vegan,N/A,2
+94,0955c443-2389-4cc5-b284-b6458c9538f0,Silvia Juárez Rozas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:39:22.481197,without_onion,N/A,4
+94,dae87291-c8ea-4c42-b3aa-67ddb43c8fb7,Loida Maricruz Expósito Roca,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:45:50.203975,classic,14.43,5
+94,a56a47cf-9ee9-4dd2-8361-149addcc6b92,Lorenza del Alfonso,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:45:10.294361,with_onion,13.83,3
+94,b508b4e9-aca1-45ca-82c6-0202229d4f9f,Benito Gual-Sanchez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:51:39.416669,classic,,2
+94,3f579aaa-1bf0-4180-a331-9b2728e355ae,Toño Ferrán Busquets,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:23:02.399582,with_onion,,2
+94,1b9e5fa2-3df9-450e-bb62-38696f3d630c,Juan Manuel Giner Collado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:35:23.560979,classic,,5
+94,0900ae53-3b11-4351-880f-f1ac27b3a872,Ernesto Alcaraz Cadenas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:26:26.801568,without_onion,N/A,3
+94,154d2d0d-f1d0-4bfe-966d-d45883afbbda,Socorro Susanita Codina Aguilera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:57:07.615484,with_onion,,1
+94,730cfd12-bd3b-4d7f-8a3a-3dd61207b5aa,Fernando Barriga,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:09:13.559246,without_onion,N/A,1
+94,3852af17-e2bd-45c1-bd8b-a9582f423199,Juanito Garmendia Sarabia,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:12:52.928812,classic,N/A,2
+94,1d974644-289c-49f9-8aa1-83fd78ed2f54,Agapito Ballester Pol,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:31:09.608422,vegan,N/A,1
+94,e3976716-ede1-476a-a2c5-bf0306aa6560,María de Vilanova,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:19:48.169676,with_onion,7.28,1
+94,83c62d24-43be-48c9-ad9d-c0fb56aa5e27,Nando Peiró,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:06:47.559807,with_onion,,1
+94,d05b2805-1d4f-488d-85e3-35be1900753b,Jafet Sanmiguel,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:02:42.229185,with_onion,N/A,2
+94,ec777b40-04d2-4b05-b059-008aa0de5e08,Malena Anita Álvarez Goñi,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:19:38.657189,with_onion,,1
+94,1d21fb31-9357-4237-ba0c-0905584b8a53,Bernardo Anguita Quero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:53:23.954867,without_onion,7.21,2
+94,16c36dde-372c-4d98-abd2-497f9de419b4,Maricruz Sainz,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:24:29.532033,with_onion,5.85,3
+94,74251353-1df5-42da-b2e0-27f1cf452515,Javier Tenorio Tejera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:37:36.767128,with_onion,12.79,5
+94,807373b2-d30c-4fb3-b3b0-4d5b586b17bc,América Eva María Olivé Murillo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:22:43.200634,without_onion,N/A,1
+94,9a2e609d-d703-41cd-ace9-6b92617217ce,Eligia Burgos Ibañez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:19:53.440921,without_onion,14.5,1
+94,7b133764-6b7d-4393-91d7-82332d1723b3,Timoteo Mena Goicoechea,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:29:41.593282,vegan,5.2,2
+94,98eb1986-f761-40c9-8fd4-7a032d355543,Anastasia del Esteban,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:10:39.057695,with_onion,6.05,5
+94,a3bf7f44-ad62-4f34-a47f-647f9cf0798f,Carina Sosa-Torrens,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:33:49.846829,without_onion,,3
+94,897449f0-e909-40e8-b185-e0f188a45dd1,Marita Santos,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:25:03.974753,vegan,N/A,5
+94,8ab4636d-d452-4178-89e5-d3d461ffc0cf,Reynaldo Neira Patiño,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:41:57.669451,with_onion,N/A,2
+94,65214eb9-7095-43e4-bcf4-24c5b89cec8f,Rodrigo Agustín,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:08:29.124253,vegan,,5
+94,7b6ace78-b99f-44a3-b43c-464f6ea30994,Nicolás Aguiló Luís,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:29:45.323306,without_onion,N/A,4
+94,f57cb1f2-1522-48d1-abaa-baed3a76b2b5,Alex Ferrando Río,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:54:14.499226,without_onion,,3
+94,f36447fa-532e-48e3-85cb-0eb15769cd22,Ema Peláez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:14:00.745018,with_onion,N/A,1
+94,660a6b62-5f67-45d4-a6f4-7846da74874c,José María Barco Arcos,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:51:25.935328,vegan,7.01,5
+94,81ba6101-53f3-4f14-9ebf-ae7530773643,Amor Fonseca Cabanillas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:07:07.555346,classic,,2
+94,505c723d-beb8-4d10-838b-7e18b4ae93f7,Odalis de Barco,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:05:50.109348,classic,N/A,5
+94,fc4357bd-ebbe-4325-a8cd-e0a92c0d2930,Virgilio Fabra Pelayo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:11:55.071778,with_onion,7.49,5
+94,54317368-cded-44ff-b01d-074c9a31e2c2,Roldán Prieto-Cabezas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:12:42.433263,vegan,,1
+94,dfb90a46-2ab8-4fba-abe5-abd63d7f8a6d,Jonatan Girona Rebollo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:17:47.848794,vegan,,4
+94,bb3ce38a-459d-4ebb-85f9-406e31098ec6,José Pinto-Manjón,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:51:13.787531,without_onion,N/A,2
+94,e6bbf1f1-1576-4a0d-afc8-2a36cadfd387,Sandalio Escalona,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:10:41.157436,vegan,8.02,5
+94,9e110189-91fa-4a8e-84ce-dd9d6f556dff,Feliciana Aramburu-Tovar,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:59:07.296906,without_onion,,3
+94,322cad1b-aea3-4e8b-a8bf-77dee7903077,Severiano Llorens Araujo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:40:02.555972,classic,13.62,3
+94,b4c27c54-f902-4c8a-a8c9-5ede5d22891b,Cruz Villalobos Ayala,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:25:38.970412,without_onion,11.65,4
+94,89002871-3c43-4b24-9d6e-6a1a8638b57c,Ale Chamorro Cortina,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:33:08.729323,with_onion,,2
+94,06626d87-7ee3-4bc2-90da-7211aee17c2d,Feliciano Conde-Cobo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:12:43.671812,classic,,5
+94,ca1686a8-afc7-4cec-bbf1-2444d635a512,Mauricio de Rodríguez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:14:23.811429,vegan,N/A,3
+94,d2a561e0-ac03-48ca-bbdc-e4d4f98cc2a2,Reyna Aparicio Ortiz,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:32:00.983731,classic,9.97,4
+94,c9820386-7a0a-446c-9440-d5c3045db66e,Agustina Ribes Campo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:42:50.415492,classic,N/A,5
+94,59c6f6bf-01b5-4c25-97cb-5a261ec6ef58,Joaquina Aura Ferrando Ramón,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:57:52.325120,classic,9.21,4
+94,8958e5b1-d5aa-4662-9db8-2e119a63c330,Camila Varela Mateo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:05:33.939621,classic,,3
+94,a34d55ad-9533-44c5-b84a-9f4229adca08,Consuela Jimena Borrell Guillen,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:10:59.047821,without_onion,10.4,1
+94,36641353-a8ce-494c-8d1f-a176c5b717ac,Tere Pastor Cantón,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:54:49.297502,classic,,4
+94,e5a7177c-44e1-4973-a999-2380b67506c4,Adrián Fabricio Gimeno Galvez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:19:59.271043,classic,6.06,4
+94,2faef785-9bf0-4f61-a257-902eeb2e4161,Carmelo Salazar Aguilera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:13:42.921169,classic,10.44,5
+94,37714fcb-ef4b-44a5-a13e-b6c948f80753,Juanito Diez Raya,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:01:32.408575,vegan,,4
+94,666baa7f-4903-42d1-826b-7cbb4b8503cb,Palmira Montserrat Caparrós,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:56:53.061446,classic,,1
+94,0971932b-f439-4598-8e13-0c911183792f,Kike Gracia Madrigal,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:01:02.975339,without_onion,5.87,1
+94,66552d94-2eb2-4a01-8d07-409cb07cbae1,Ani Ballesteros Espejo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:41:55.887748,without_onion,N/A,4
+94,6271f653-6963-4e5a-a9b9-416d730884b9,Eric Barranco Pol,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:11:38.679335,without_onion,N/A,3
+94,a64df0f1-4b7a-4998-8b13-15dfe72b5584,Fausto Pina-Herranz,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:16:41.782313,vegan,,2
+94,cc63f1dc-052f-4f68-a104-e5c539e43ef2,Adelia de Barrena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:35:32.144058,classic,,4
+94,b2806096-ed4a-45d3-a2b7-6d524977bf51,Consuela Frutos Agustí,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:16:02.952089,with_onion,,1
+94,9399075f-87e6-407a-a76a-3daa25a014c1,Amílcar Barreda-Alcaraz,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:35:00.312273,without_onion,,4
+94,8b2a404f-2eae-461e-801e-0d250fdd49c7,Agapito Coloma Mendizábal,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:02:55.998402,with_onion,,2
+94,a95b9072-15e1-4dfb-9c29-249e041ad3a0,Rita de Goñi,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:41:00.084695,without_onion,N/A,3
+94,c074e7c5-faaf-430b-b59a-ea03ac6d09c7,Olga Pujol Galván,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:50:53.108279,vegan,10.13,5
+94,fc391f99-d4e8-489f-bf13-9128a2c26a77,Áurea Fanny Velasco Gámez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:55:43.131608,with_onion,,5
+94,b5e021b5-4795-4d6d-acec-1569c0c3f5d3,Marciano Prieto Torrijos,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:25:33.966438,with_onion,12.8,1
+94,48acc83a-3b71-40d3-95c7-2de6b7636cdb,Valero Mayoral Nebot,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:12:36.644395,without_onion,12.6,1
+94,d52abfa4-2deb-4bc2-9663-7ab2100a7ce4,Lina Prat,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:00:08.847704,without_onion,8.79,4
+94,132b2f97-5c86-425a-9c6b-c691815ce431,Hortensia Casanovas Cánovas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:50:56.139517,without_onion,N/A,1
+94,86fe31fc-909b-4908-9279-975a3a966216,Guillermo Morcillo Pérez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:43:09.795854,classic,10.08,3
+94,80cc1b85-1609-4d6e-9ed4-bf192dd864df,Adelardo Pareja Acedo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:07:20.231569,classic,N/A,5
+94,d861590f-ee66-4d09-bd2a-9a4acc13d17c,Eutropio Nacio Ferrán Escalona,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:51:25.216925,with_onion,N/A,5
+94,f4d5215b-07af-4c1d-81ba-f811c36a0c04,Eugenia del Varela,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:36:05.427826,vegan,N/A,2
+94,5ee45b2a-6e1c-47ba-acce-3d6de74ed520,Aureliano Pancho Heras Palma,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:42:43.101807,vegan,,5
+94,d71c5bdf-7d88-4398-8ea3-9d347f127812,Iker Gallo-Pallarès,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:49:24.537385,classic,12.54,5
+94,32edecd6-0254-4f99-b0ca-54b24728c76c,Édgar del Velasco,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:46:19.837476,vegan,,4
+94,cdc4a34a-6688-4cd5-a16c-3f9d1e7747cf,Elvira Escamilla,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:39:45.785487,with_onion,N/A,3
+94,36b2c855-129c-4f74-b4f9-be05da67276c,Tiburcio Oliver,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:33:28.861270,without_onion,12.87,2
+94,ab48d0f9-1acd-4b90-8390-7ba27bb78bf9,Dan Mora,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:29:31.028461,without_onion,8.85,3
+94,b2987caa-a2ea-4024-b22d-7040d09ec5e6,José Mari Rodriguez Neira,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:19:08.781563,vegan,5.83,1
+94,7c2106d7-3fc3-4ff9-88a4-40f8692f1067,Rodrigo Coca-Briones,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:59:05.291929,vegan,N/A,2
+94,60b1b79f-2c51-4504-972a-8f51ad42f1ae,Alicia Jordá Bilbao,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:33:25.715827,classic,N/A,3
+94,44548402-9615-4165-8beb-7a50bed1e914,Lupe Mancebo Bueno,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:17:34.746702,without_onion,7.68,2
+94,ebf957d3-eb5e-448d-b048-44b67c453f01,Modesto del Casado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:42:06.065297,classic,,5
+94,4a801c31-b730-4952-aa76-b439bf7ae774,Rafaela Llopis Baquero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:56:35.793499,classic,11.61,2
+94,3218fbf1-2e8c-4c87-97cf-31de94186ebc,Ignacia Cornejo Prats,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:07:06.876324,classic,N/A,5
+94,7b7221d3-9008-4ada-9710-09bc2c503982,Roberto Fuertes Oliveras,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:57:37.414398,vegan,8.15,2
+94,b7b3cee5-1759-4492-9473-7f3a31693531,Luisa Criado-Villena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:03:03.812412,with_onion,N/A,3
+94,9e7b8e36-4685-4aad-8cc1-b66d1241138d,Ema Pardo Grande,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:29:31.456854,with_onion,N/A,3
+94,4d9e6cdc-7013-477f-b074-74e30dfd3677,Encarna Robles Vives,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:35:33.700948,with_onion,N/A,1
+94,5b2ae970-816d-4785-81be-2a5a6af3f3b9,Amarilis Bou-Osorio,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:37:48.836752,classic,N/A,4
+94,c112080b-a930-44e0-8560-f71938f4d2d6,Micaela Rufina Villalonga Torrens,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:38:14.258242,classic,5.07,1
+94,33884f9d-0278-4dae-ab61-d776f0709d36,Abel de Sarmiento,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:22:09.997353,without_onion,9.35,2
+94,892ec8fb-24b5-46a8-b3cc-b18e5ebb4407,Javiera Villanueva Guijarro,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:18:23.282377,with_onion,10.84,2
+94,7d63e7c2-5fd3-4029-a42d-3e9387ee3989,Nicolás Querol,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:52:41.593974,classic,N/A,2
+94,3245f57f-111c-44ba-b6ee-15b57d5b4490,Catalina Urrutia Perales,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:42:11.873416,without_onion,,5
+94,b6bfa7ef-e06b-4228-b8ae-287b12f3d870,Florencio Niño,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:29:10.456264,classic,,2
+94,5697457a-c6b4-40ae-9f93-68c3242674f7,Alex Rueda,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:53:03.310755,with_onion,N/A,3
+94,c4bd2f6b-aa29-461a-b014-24ec87065251,Fabricio Morell Sosa,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:06:28.100520,classic,13.44,1
+94,c50c801b-b2a6-4129-bc5c-be6c1aaf49e9,Mauricio Blasco Cabañas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:54:23.666994,without_onion,10.51,2
+94,8564f2fe-500f-4aa3-aa0e-0f7ff3c57939,Martina Calderon Menendez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:53:27.386114,with_onion,,5
+94,90908a76-c8aa-44a5-8a96-2380eb83221f,Hernán Casado Ortiz,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:54:16.981483,classic,,2
+94,d8242a39-74dc-4206-b3c3-4ad8e1d64442,Marcos Barral,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:55:54.564919,without_onion,14.82,1
+94,7c507fa8-04a6-4e27-aaff-0a28d685551d,Rubén Andrés Campos Pina,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:37:39.307900,with_onion,N/A,3
+94,e1f57252-2adf-45f4-be7e-d469338b7f45,Cecilio Cuenca-Iñiguez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:19:53.038117,vegan,N/A,4
+94,479465cf-0d13-4bb6-8019-93d09d783939,Amaya Quintana Amigó,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:17:50.934503,without_onion,11.07,5
+94,44a41932-6d83-4cce-9acd-c5e29982c65f,Trini Corbacho Guardiola,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:35:28.174063,with_onion,,2
+94,2cc69a50-69a2-4c1e-b472-2511add195d4,Marianela Teruel-Cuervo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:45:46.690096,without_onion,N/A,5
+94,b9b8b676-c26d-4797-937e-463878b53a7d,Andrés del Roldan,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:50:37.819268,vegan,,2
+94,9fc6f112-a03b-4f37-927e-bd9ffae38768,Ainoa Cantero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:38:03.786232,without_onion,,5
+94,df0d9a5e-4e9a-4064-94fa-b0a9c6660eb5,Julia Nogueira-Sánchez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:35:27.377541,without_onion,14.8,3
+94,45b3101c-7510-40d1-a4dd-21d18677cc93,Hilda Pinto Enríquez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:04:59.070110,classic,,1
+94,89c74f61-1b79-4022-a5da-3b3dc80fb932,Ángeles Díaz Grau,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:09:40.523138,vegan,,4
+94,96ada502-02c9-45d0-b0cf-8432cc9cf55c,María Zurita Luz,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:40:26.792846,vegan,N/A,4
+94,23fef3d9-0483-4a0b-a3af-c36941a25871,Josefa Martorell Melero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:33:43.758476,vegan,,5
+94,d93ddfd1-0a95-4c6e-a099-2a3e9acde7d0,Heliodoro Mendoza Frutos,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:17:34.210973,vegan,,2
+94,52a7d961-d05a-49a8-8bba-9ed1a50d6ea6,Abril Milla Estévez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:31:21.249527,classic,,3
+94,974de9c4-4cd5-47ed-8216-e6b700ae5336,Eduardo de Vizcaíno,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:13:43.984625,vegan,N/A,3
+94,5dcfc983-c37e-4e63-aab6-eedcf0e2365b,Teobaldo Solsona Blanca,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:45:32.900642,vegan,N/A,3
+94,925fa1f6-c195-4b4c-9296-e994715c5dbb,Lázaro Talavera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:51:52.499719,without_onion,N/A,4
+94,d376255b-8e77-4757-887b-059524fc6fe7,Rosendo Cabañas-Valbuena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:18:11.196702,vegan,,5
+94,979583a8-49e2-45ce-9344-ca29d5588d58,Fortunata Burgos Checa,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:29:21.189939,without_onion,,3
+94,83cd5c4b-56a0-4b61-a44e-b73c1fbf0020,Chita Aramburu,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:03:24.569710,with_onion,5.64,4
+94,c4c4b2f3-00b9-4a6e-b940-fdb70a223fa2,Sosimo Conesa Baquero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:17:21.806348,vegan,7.28,2
+94,8410af8a-731e-4f9f-aebf-5f51cd230625,Eustaquio Bello Escribano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:27:02.637548,classic,10.66,2
+94,c98c5b19-4cf4-4d35-8be4-fed169496d71,Lorenzo Lobato López,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:21:58.928468,without_onion,8.62,1
+94,328e4051-d38d-4784-9fab-e327d0724661,Carmelo Carpio-Sevilla,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:07:20.729216,without_onion,N/A,4
+94,2d225ced-356c-4e8a-8451-bbcdee6ce6a3,Nacio del Rosado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:18:34.813755,without_onion,,5
+94,1466879b-6514-4f49-aa44-87b8a4538f99,Miguela Quintana Roda,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:57:35.237473,vegan,8.04,1
+94,c604aab9-0c43-4f17-a26f-e8c8f7dc5b03,Antonia del Coca,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:01:52.716343,with_onion,N/A,4
+94,ddbab6fe-fe5c-4746-ac5d-24790e3f4e4e,Eugenia Villalba Pomares,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:10:52.301849,without_onion,,5
+94,5f1b9d6e-76ed-4848-9427-7e7a1e005371,Adelia Moraleda Ros,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:04:45.648770,with_onion,14.85,5
+94,68c1647f-a1ba-4491-8fa8-0560fa97c0af,Heraclio Moliner Tenorio,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:14:37.687921,classic,N/A,5
+94,8169b48b-619a-4934-bcaf-8ac22d674636,Maximiano Cirino Sales Escribano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:37:32.693605,without_onion,11.74,1
+94,f3700239-b25d-454f-843b-d16403d3ab00,Maura Montoya,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:58:19.041652,vegan,11.89,2
+94,4adfe7b3-8a0e-458b-aec8-92b048c6379a,Ámbar Andrés Falcón,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:34:24.079399,without_onion,,3
+94,5a9792f3-f24e-4904-ae30-0c6e08a2e76c,Ignacia Molins Requena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:32:10.875139,with_onion,N/A,4
+94,4b90ea83-d603-4218-8fc3-f2e46de4d8a5,Fausto Jurado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:13:41.366118,without_onion,,2
+94,70390d52-0de3-4fca-9e43-9370f3504838,María Carmen Sanjuan Piquer,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:58:42.664849,vegan,,2
+94,48913736-24f9-4dce-ace7-999bbe100bda,Jose Francisco Cervantes Aller,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:24:23.848753,classic,,1
+94,ec3e8167-1439-4c81-8c24-963d274775b4,Mar del Serrano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:17:05.049800,with_onion,,1
+94,0243daa6-cf26-4959-b0b6-6733027f0089,Albina de Campo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:35:06.108874,vegan,12.58,4
+94,66163ee2-3beb-416a-bf45-18488489bb68,Cosme Melero Pla,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:45:07.893033,vegan,9.44,3
+94,1f6477d5-6580-4450-b473-40ff60b039be,María Del Carmen Muro Gómez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:35:09.958691,classic,13.78,2
+94,7aca4926-ffdf-4675-9fdc-7d453e7d8e6a,Sosimo Mulet-Alvarado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:18:27.672550,vegan,,2
+94,df8b25e3-5d79-4f90-acdf-45055a91a9ad,Ascensión Raya,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:59:12.476474,with_onion,13.77,4
+94,8397771b-a8c5-45b3-9469-baa8d5a21118,María Pascual-Comas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:08:29.044067,without_onion,,4
+94,829bbdf6-6a8c-4111-bbaf-02e3bb2bc7ea,Josep Casado Feliu,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:33:09.470274,vegan,N/A,4
+94,f3e1c978-670d-4771-8212-58660b7b929b,Borja Galan Olivera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:55:28.824132,without_onion,,4
+94,2f9b5fd7-eb8b-41fe-926a-351da0ad1ad5,Nélida del Bárcena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:37:48.373802,vegan,6.59,2
+94,e410b89c-7464-4d6f-a21c-bd82a44fcc42,Eduardo Torralba Feijoo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:48:49.816103,with_onion,,4
+94,bd46c2b6-d29b-4428-9f92-150fd58e7e70,Humberto Reig Sainz,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:58:40.586906,vegan,N/A,5
+94,ba6d1b58-ce0a-47e8-be4e-42b520a74374,Leocadio Carrillo Ramirez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:36:39.040884,classic,N/A,3
+94,200b1bfa-238c-4f53-acf7-9b08032db763,Leocadio Vara Sanchez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:44:34.851806,vegan,N/A,5
+94,57401ede-5e7c-4272-bc99-fe55e91d78ae,María Luisa Franco Cervera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:19:32.151161,vegan,,3
+94,d320e8ab-e801-401a-94fe-475f93beb13f,Poncio de Tena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:54:32.602075,vegan,,5
+94,8013cb9d-026b-447a-9c17-93a90aa37ee1,Quique Francisco Gallo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:03:07.710001,vegan,N/A,4
+94,efa5ded1-7925-43d9-9fdd-dc1ae457e69e,Severo Peralta Antón,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:04:58.555891,without_onion,,3
+94,265a0432-228c-4616-b01a-a6a782c11fbf,Marcelo del Rivas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:52:04.498387,without_onion,11.48,3
+94,7b5541f0-54f8-4a80-9542-6ab3ea032d64,Amaro Prats Fernandez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:30:04.664507,without_onion,,5
+94,719f94a3-f5e2-49f6-9cd4-35c13f5372fe,Úrsula Jaume Aguilera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:53:42.543059,classic,,5
+94,f9acbe82-e2ef-4d38-8baa-d9ef033a07bc,Leandra Losa,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:07:03.082444,vegan,N/A,2
+94,c2077466-c352-4948-9a4d-31cb59561217,Maricruz Barrio Bayona,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:02:46.985880,with_onion,N/A,2
+94,f725e56e-a5a5-4c54-9d16-c59199f7ed5a,Caridad Bonet Uriarte,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:49:49.422367,without_onion,,5
+94,cc66175d-bf78-4199-a252-fc4e15745f4d,Belen Verdejo Barbero,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:28:22.807697,classic,,2
+94,51c0f627-ea67-4ea9-a51d-df6fcda7f0bd,María Fernanda Coello Solera,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:30:48.396471,without_onion,,4
+94,3f0aa147-7462-4b16-bacd-90e51db15385,Herminia Calleja Barberá,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:01:25.087196,without_onion,,4
+94,14ebe399-a77b-463d-880c-22615b71b7e4,Agustín Franco Borrás,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:16:17.227595,classic,N/A,3
+94,4b518323-af6a-42c4-9c03-32159d802894,Américo Naranjo Gallo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:38:07.168679,without_onion,N/A,3
+94,936a1b08-ef37-4c01-be32-a220b1b6e7ca,Desiderio Fortuny Díaz,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:07:05.243414,classic,N/A,4
+94,5308ab97-f2ae-4eb8-8213-458c186d841b,Gilberto Pintor Cabañas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:35:57.084733,vegan,,2
+94,7f2c09b9-fea2-4492-9801-826c6ca8305c,Epifanio Zapata Asensio,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:41:24.886697,without_onion,,2
+94,f35270a7-2091-408f-9550-5d634d519717,José Manuel Garcés Escamilla,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:27:55.910982,with_onion,8.83,3
+94,63e7db4e-7a94-4e3e-812d-b036f2dd3519,José Mena Berenguer,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:01:51.301215,classic,13.68,2
+94,f0de38a6-dace-4abc-a704-ed2fd02efe31,Fernanda Quintana Blanch,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:23:05.260083,classic,,2
+94,36dd7444-e8a8-4f17-8902-ed82d10a8cf6,Evita Revilla Palmer,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:19:58.868857,with_onion,N/A,2
+94,925dfb72-d6fa-4c82-917b-8d87b14a6183,María Fernanda Mayo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:45:22.547942,with_onion,N/A,3
+94,14287ac1-5ee4-440e-9b80-30e56c305055,Bienvenida Rodríguez Urrutia,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:36:21.412112,without_onion,N/A,2
+94,bc0b141a-fa64-4dae-97ef-41f6f11d11fe,Apolinar Estevez Bermudez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:10:59.804903,without_onion,13.51,5
+94,7394cdea-be63-4e51-919c-b7d81addf344,Ana Sofía Valcárcel Mariño,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:53:38.583947,vegan,10.11,4
+94,72ac1e65-0fc5-498e-9119-ad951dd3700c,Rubén Sandoval Mateos,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:51:03.498734,vegan,,2
+94,6fc0a6f1-b221-417c-a14c-ed34d3ca287b,Paca Leire Cerezo Taboada,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:32:03.276116,without_onion,N/A,4
+94,aa1b45f5-b5e4-4b6a-bb2d-9f633ce2fc16,Morena Lobo Arregui,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:48:28.571159,without_onion,13.37,4
+94,1da1b20d-c296-42b2-81f2-fcd5a1f8ddb5,Olalla del Codina,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:57:53.346495,classic,,3
+94,7a0cea8d-45a6-4bdf-8fdf-2f3a2820fe0d,Norberto Barco Garmendia,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:43:57.728123,with_onion,N/A,1
+94,71b17975-496f-4429-8aba-ccb69249aa61,Amada Iñiguez Coronado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:17:47.315401,vegan,11.8,3
+94,167fe6ac-dd22-4496-9dbc-3b6be4b29479,Lucía Lorenza Peña Sans,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:21:14.373991,classic,N/A,3
+94,4230c621-a9d4-450a-b0ae-1ee6b2bcf07e,Horacio Tejero Vila,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:14:36.670227,vegan,N/A,4
+94,c642450c-27d8-4741-9b9f-9b2225963d14,Micaela Macías,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:07:20.476841,with_onion,5.0,3
+94,f8087bdb-d736-4022-91d5-e405311295f7,Carmen Iborra,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:24:00.687396,with_onion,14.97,3
+94,2421ad85-2e52-4729-8cac-d72d385092b1,Francisco Javier Donoso Andreu,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:26:06.789227,vegan,N/A,4
+94,60aa836a-e792-4669-8f61-670d397d0810,Edelmiro Gámez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:49:12.990073,vegan,N/A,5
+94,279188f4-59bf-414b-a0a5-083becce866f,Raquel Pedrero Benet,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:10:57.057237,vegan,14.46,3
+94,9ae12c14-4f0a-443b-b339-8a8c553a25a6,Sofía Rey Cardona,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:56:49.077550,vegan,,4
+94,ccae2575-29fe-4b14-b894-e2ee5ed791a7,Virgilio Pineda Bernal,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:24:22.354770,vegan,8.07,3
+94,d95db2ee-cd25-4951-ae27-fe21bd6d509f,Débora de Gomila,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:37:52.654209,with_onion,,4
+94,e8f06f23-cf29-41e4-bc2e-3f2d9c3a99a6,Consuelo Tejada Elorza,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:07:51.151524,with_onion,9.28,1
+94,016f9bfb-8908-4ccb-9ed0-1f246ed2e8e7,Narcisa Acedo Guzman,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 00:06:35.742593,vegan,,5
+94,4febc345-c72a-4e01-9c40-618fae164752,Nuria Moles Abad,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:56:50.098785,with_onion,N/A,2
+94,7dbd4650-1b2d-49f3-b51e-b68571c33e33,Mercedes Espejo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:10:35.854387,classic,10.33,4
+94,c4b97901-cedb-4128-a698-c25e6abaf65a,Natalio Vila Ponce,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:01:30.675437,with_onion,,5
+94,082e0707-e292-4873-b5e4-8fafb3ef6ccc,Emiliana Escamilla Daza,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:28:32.157334,with_onion,13.95,5
+94,94048734-378f-4039-b1d1-87df4cea20fd,Ernesto Iborra Lucena,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:28:52.132682,with_onion,11.21,5
+94,5c9b2499-ed35-4032-8bc4-4042d1cc6fac,Rosendo Joel Pizarro Planas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:30:30.105823,vegan,,1
+94,b3a5c997-ac50-4ad1-97e5-f7188d130f14,Toño Pont-Velasco,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 21:26:35.798664,classic,N/A,1
+94,c2efe4f8-9b85-4a90-a3ee-1a83409d6f4b,Gabriel Pelayo Ferrán,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:01:21.902503,with_onion,,1
+94,b73338cf-6ac6-4f48-b813-c82ec8fa2b70,Sosimo Morata-Sanmartín,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:12:01.415190,vegan,10.69,5
+94,4384604b-6729-4a29-8ec3-68ecf860e984,Francisco Jose Muñoz Amo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:51:52.219437,classic,N/A,3
+94,07e765cc-25d8-47a0-9fec-6cda32f37f6d,Marciano Albero Valle,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 16:29:49.576396,vegan,,1
+94,a2e59836-f63f-460d-ac1c-29d3ba6e34fb,José Manuel Lara Fuente,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:26:17.217074,without_onion,N/A,1
+94,74ee8ef7-9cc4-4738-b2be-d945a016c20c,Dani Pascual Sánchez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:26:14.174702,without_onion,,4
+94,d2de4c47-015a-425e-a5e0-82e4dd392236,Florinda Alexandra Sotelo González,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:10:13.766681,with_onion,N/A,5
+94,1c62c345-bf6e-4f14-a0b8-ccda32a8e61f,Calisto Jose Antonio Zabaleta Palomar,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:43:12.756914,vegan,6.83,2
+94,9979b6c3-c031-4b58-ba8b-84577d93c1a0,Lucila Martí Manzano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:12:13.501013,with_onion,6.53,3
+94,eb0173fd-c97f-41fe-9cd6-d4f4328d3a2d,Manu Marta Vallejo Grau,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:51:18.273115,with_onion,13.6,1
+94,39f249bf-0e52-499c-91c0-aa78e0fa052f,Marciano Clemente,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:40:16.614297,with_onion,,3
+94,cefc9746-db2c-49c2-93ef-e1dcf018936c,Josefa Baños Belda,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:41:08.943364,without_onion,,5
+94,57a48d94-f055-4a74-a6f3-07b504eb671a,Verónica Gual,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:39:20.487038,vegan,,1
+94,5cbc0771-5c2b-4133-8be1-2234ef07d055,Jose Cardona Bermudez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:44:27.170400,vegan,,2
+94,986940af-bbf9-4b51-a3f6-7185da307a38,Marisela Tirado Izquierdo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:15:01.141927,vegan,10.05,1
+94,90294749-f466-4d13-b628-2b1d895fffc6,Sofía Gaya Arjona,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:20:35.999718,vegan,6.25,3
+94,919a08b2-2e98-4ed4-b325-c839fd7716d2,Pedro de Calderon,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:34:02.881244,with_onion,10.64,5
+94,61915c91-8c72-46bc-bdec-2b61beb50418,Luciana del Guerra,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:19:00.104382,with_onion,N/A,1
+94,bd2b3bc1-89f1-4aaf-96d3-feafdf2327d0,Fabricio del Machado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:09:39.463007,classic,10.21,1
+94,eac2d20a-c7a5-4e65-8696-0c68741f5c69,Evaristo Quevedo Niño,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:46:19.696959,without_onion,5.78,5
+94,303ae2d7-a11b-46c6-961c-2138b343bb65,Remigio Valero Roig Ripoll,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:54:11.878682,without_onion,N/A,1
+94,c96dbf3a-9630-4ac3-8b66-2284c72fcbfa,Samanta Belmonte-Pintor,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:05:43.110989,with_onion,N/A,4
+94,9ce7ee14-6439-4d73-b491-2cc6766b879f,Patricio Ortiz-Baños,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:35:06.710737,without_onion,,3
+94,24c6d906-9bc3-41e7-be3c-2fc336292d12,Azahara Olivé Páez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:09:25.004961,without_onion,14.06,4
+94,c5d121da-de5a-4c15-aec2-5771d40fcb0e,Bienvenida Álvarez Rosado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:35:19.171780,classic,N/A,1
+94,65547a57-78ca-4f3f-8e0c-8e3df2856af3,Alfonso Gargallo Checa,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:07:45.672488,classic,7.75,3
+94,2a158912-3912-4ec1-86df-eef9afaa15a6,Sara Llano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:08:45.284086,with_onion,10.84,2
+94,a62b3943-7a1f-419e-8d57-2fae9dcec37d,Amor Milla Barragán,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 03:49:15.597779,vegan,,4
+94,ac698864-31d9-459c-864c-a1db9adbd997,Francisca Toro Correa,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:19:29.841730,with_onion,N/A,3
+94,ff33e1a8-9e0c-44bc-8760-d0e5d49076c4,Ramona Adela Calderón Paniagua,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:29:13.719441,with_onion,,4
+94,9cafceba-9157-4b9a-9841-eee2f5dae045,Carmelita Crespi Marti,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:45:24.911894,classic,7.41,2
+94,73810c42-4a03-4607-a842-7c4cb86d0ce0,Etelvina del Berrocal,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:25:45.829710,vegan,,5
+94,2035c925-432d-4913-b74f-5cc014a03dd7,Eli Morán Jordán,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:23:39.990253,classic,N/A,5
+94,41da50b8-8874-4c00-82dd-ee8ef567934b,Salomé del Palomo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 14:40:00.360054,classic,11.47,1
+94,5860bcaf-d5a7-4bb7-9ba9-caf2057203bf,Albino Giménez-Mayol,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 15:34:23.927052,vegan,9.76,1
+94,1d39db45-8be4-4509-bf40-5b12d2c281c6,Domingo Girón Galán,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:27:49.266525,with_onion,11.95,5
+94,16c7fe5b-8697-44fa-aa90-0fc29ca0b380,Julia Céspedes Valencia,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:02:07.013185,with_onion,8.49,5
+94,01680f23-1f78-4dab-9983-e25b9ad7c357,Merche de Cabello,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:53:38.131929,without_onion,N/A,2
+94,18affec0-012e-43bc-83d5-77c7d73e081f,Ximena Nieto Revilla,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 04:31:36.335127,with_onion,N/A,1
+94,86ff4e3c-fc5e-4e54-b17f-39121daaa44f,Casandra Juliá Ruano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:25:44.940509,with_onion,6.41,3
+94,d268c626-1c5c-481b-abcd-bafb9a9f6a9a,Fabián Noguera Andres,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:08:18.795385,with_onion,,4
+94,e3e402ea-7d2c-4999-8e87-16f8fae6a2b0,Cebrián Planas Huertas,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 06:05:48.771952,classic,6.54,4
+94,88b80e03-4207-4e9b-aad1-40dec7f90e01,Leoncio Ponce-Doménech,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 02:31:06.159973,without_onion,N/A,3
+94,36b6e985-20d4-40c5-b616-9f0f2e16486c,María Belén Cervantes Canales,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:29:11.606875,with_onion,7.28,5
+94,cd3f2f32-81fc-4d9d-bfa0-e1bbdb081c05,Amarilis del Rey,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 12:34:58.029214,vegan,9.41,4
+94,2d360a22-c7cb-4d6e-97ba-2eecd0da3027,Beatriz Ramírez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 10:24:55.602086,with_onion,N/A,4
+94,e1167fbe-c1da-4706-8970-b90dfe897276,Custodia Tecla Cerdán Lledó,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 13:13:41.286286,without_onion,N/A,4
+94,9ca77993-5669-40a6-b4f6-4a44d340c134,Bruno Infante Galvez,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:52:45.924355,classic,5.02,1
+94,b966b62d-449b-41dd-abc2-0a22a1c51a25,Zaida Manzano,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 05:28:03.276200,classic,,1
+94,aaaaa00e-bc5c-473c-aafa-b7110748f607,Alberto Ródenas Nadal,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 07:18:53.183090,vegan,,3
+94,ebdae1ca-efcf-498f-a64c-4cb494104fc9,Tecla Guillen Orozco,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 11:06:11.856733,without_onion,,2
+94,cdeddc2d-be70-4d23-8513-01760fe80c98,María Borrego Rios,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 01:43:40.448291,with_onion,N/A,5
+94,825f2452-0651-4b5a-87c1-aeb14321a076,Sabina Cañellas González,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 09:26:50.227828,with_onion,,5
+94,65880d90-9f38-44bd-90df-ad0b799b1852,Fabricio Palmer Nicolau,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 17:24:02.136102,without_onion,,4
+94,55bf7fa0-52d7-468c-bfd5-ee7b76a42ec9,Beatriz Gibert Hernando,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 20:57:46.809045,vegan,,5
+94,e57fa7c3-c73c-4356-831d-6485ec0fecce,Nazaret Ros Cuervo,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:31:12.612470,without_onion,6.53,2
+94,ea049285-3e6d-4471-96c4-61c5e9e5a559,Trinidad Ramón-Feliu,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:44:16.731763,with_onion,,5
+94,c450a098-3037-4993-85a1-e4aae95f96dc,Anabel Colomer Coronado,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 08:23:54.537390,classic,N/A,1
+94,ce925aec-1095-4d93-a475-8989b96d59b6,Adora Pagès Perelló,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 23:21:23.800832,vegan,N/A,3
+94,c3a7f904-0bb0-4ff1-a6c9-16d5711c4449,Anita Pizarro,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 22:17:29.705422,with_onion,,3
+94,9af1a270-2741-4b7b-9a6f-1ef5ac139558,Alba Escolano-Posada,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 19:05:05.229795,vegan,N/A,4
+94,892cea85-8bcc-410f-8155-077583b8b6d3,Trini del Aznar,Bilbao,"Camino María Del Carmen Posada 43, Málaga, 25514",2026-05-01 18:01:39.226851,with_onion,,2

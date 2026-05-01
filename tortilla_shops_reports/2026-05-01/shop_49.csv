@@ -1,0 +1,72 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+49,b68ff9c9-f284-498a-8aee-e0357024297b,Carlos Saavedra-Cañizares,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 13:24:51.836430,vegan,N/A,1
+49,dc3beab5-3074-4b5e-b644-b6bc97183de0,Cristóbal Pizarro Arteaga,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 06:57:35.234185,vegan,10.79,3
+49,3e7816bb-fdb9-4456-9560-edecf4231f3c,Efraín Torres Robles,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 13:21:12.857233,with_onion,N/A,3
+49,28d73a19-813b-47bc-93c1-b7ed5a1c8309,Lilia Guzmán Toledo,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 20:34:07.989594,classic,8.94,4
+49,6f950639-d0fa-4327-8de5-a9e811a18997,Heliodoro Pi-Meléndez,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 18:26:47.501282,classic,N/A,3
+49,addf51ef-e277-4d41-9d14-993d20812ab0,Fabiola Valenciano Pedrero,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 02:43:10.636885,without_onion,,1
+49,ba421158-629c-41ee-8532-9e49431d2170,Azahar Vigil Aragonés,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 16:55:31.633550,vegan,10.84,1
+49,e5933296-93d8-44a6-84f0-192a9ed7947d,Carmelita Molins Pagès,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 16:45:26.182299,without_onion,11.31,4
+49,9eb267bb-a3ee-481f-9604-d5a420ef412a,Lilia Talavera Berrocal,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 03:31:58.176286,classic,N/A,5
+49,68a0c92a-f9bc-4466-8e12-46749270ccb0,Cándido Gilabert Pablo,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 08:47:51.149612,with_onion,6.25,4
+49,b4924f73-4869-4ecf-bf77-d6fa9963c7ca,Marco Guardia-Narváez,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 05:26:37.193902,with_onion,N/A,4
+49,b3fb6ad8-942d-4c84-9b2f-bb7db42fcf4f,Loreto Hidalgo Cantón,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 13:12:14.608304,with_onion,N/A,2
+49,12ac9d13-7bcf-4f82-848c-325d87a985c8,Anabel Tatiana Alcázar Escudero,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 10:04:18.885786,classic,N/A,4
+49,81e76286-6e88-45d5-ba61-ddc00f5acbdc,Nazaret de Padilla,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 09:36:32.082902,without_onion,,4
+49,7564f6e9-e7b1-4a5a-b606-e3e69936bb6f,Lino Barrera Redondo,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 16:10:39.413358,vegan,,3
+49,1635b294-fc8f-4449-9627-f0777e7570d1,Águeda Orozco-Talavera,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 09:41:11.896891,vegan,12.94,4
+49,3acb196d-9eb4-4022-bcae-448321132edc,Édgar Salvador Gomila,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 20:38:49.651334,with_onion,14.52,3
+49,c89201f1-02e8-435b-9890-7ad427c78f2a,Martina de Carreño,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 13:45:11.623169,without_onion,,5
+49,79f76138-ad18-45ca-bcf3-24e6e0b2c9c5,Pastora Nevado Pla,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 01:18:35.937432,classic,,2
+49,f98b1041-8bca-43ec-9a24-56fbd31e217a,Leopoldo Trujillo Contreras,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 05:50:11.993853,classic,14.42,5
+49,9472fa06-8496-40b1-a2df-35742eab9a24,Ana Sofía Estévez Tejada,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 18:16:19.788915,without_onion,N/A,4
+49,4ad0ea7c-dd63-4359-a45d-d3b56c70c751,Desiderio Macario Clemente Gelabert,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 08:48:53.119483,with_onion,,3
+49,80bfd690-7f6e-4a52-9944-cd0afb44b09f,Reinaldo Alonso Pinto Dávila,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 02:03:21.214347,vegan,,2
+49,53de260d-d4bd-4e9d-b38c-2302ad625cd4,Graciela de Puig,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 21:46:27.786001,with_onion,,5
+49,96bcba4c-09d1-4232-89fd-7da26b157eae,Lorenzo Villalonga Artigas,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 16:08:29.595594,classic,,2
+49,e500bae4-0881-4ac4-b55d-0048040c2e3e,Iván Losada,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 11:33:23.206964,classic,,4
+49,25205c22-b48d-4095-8947-c63439cfde2b,Azahar del Aguilar,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 19:53:47.008940,without_onion,6.97,3
+49,441a3869-165d-4f62-b701-91466a30fe80,Domitila Ángela Hernández Uribe,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 16:25:49.055134,vegan,N/A,3
+49,960df756-3524-4838-bcf1-12ca9a8fdbb2,Emilio Juárez Ramirez,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 12:23:21.555289,vegan,,2
+49,8f574500-1089-45a3-a11c-9efbbe278d69,Adolfo Aznar-Solís,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 08:38:45.930891,vegan,N/A,5
+49,6acf4b46-2e27-4ecb-b221-8ec9ceff86cc,Raimundo Molins,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 16:01:10.934224,with_onion,N/A,2
+49,1527220d-0c36-49d5-b87b-9480da81c7bd,Simón Pinedo Colomer,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 09:30:41.393299,without_onion,,5
+49,8d4f0a46-1a45-4d3e-ab29-b3d2c6cd7859,Jose Antonio Morales Pino,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 09:37:08.362333,with_onion,,4
+49,263fb936-8ea8-4df0-b9ad-c3a631b4bfe3,Luis Miguel Gutierrez Nicolás,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 08:27:51.723361,vegan,N/A,1
+49,d3f30182-1cee-4c47-87f6-dfb8705aa95f,Ruy Escalona Nadal,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 22:24:57.812484,classic,N/A,3
+49,eeca2e4b-41f3-4782-a811-993d96148cb3,Bernarda Barriga Roda,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 03:17:56.424994,classic,9.55,1
+49,79122c6c-091a-4791-bb35-1d0b19d0e45d,Juan Carlos Alonso Saez,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 09:28:56.378796,without_onion,6.06,3
+49,4ef64875-ccf8-41da-94c5-9a08d83ed8d4,Camila Morales Alemán,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 20:27:55.329641,vegan,,4
+49,9df2da4b-38f7-4a59-80cc-9a50734b4b57,Celestina Meléndez-Múñiz,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 01:09:17.386782,without_onion,6.93,4
+49,a1a9da00-0da1-4fc0-ba4a-43e25724cd7d,Isidro Arroyo,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 11:00:02.670605,classic,,2
+49,36e86e98-ead2-4fec-9f93-cced4c29414f,Lidia Cazorla Ballesteros,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 12:49:03.077674,with_onion,8.59,5
+49,fed83a14-c1be-4df9-bb70-c833764d432b,Belén Sarabia Toledo,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 15:21:51.411257,without_onion,N/A,4
+49,6f254f8f-d11c-4bfc-ab56-4d048c88fad2,Jose Manuel Jáuregui,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 05:10:21.144477,without_onion,,4
+49,f702948b-0e00-47dc-a1f0-f1b8e19b3b23,Juan Carlos Mendez Peralta,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 08:56:09.024355,vegan,,5
+49,3098443a-c9e8-40e5-b86d-0a394edf2a06,Toni Cantón Llorente,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 22:34:59.196017,classic,N/A,4
+49,5fd4eacb-37ed-4982-8fb5-606041dcc6e7,Evangelina Gual-Corbacho,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 21:06:22.464833,classic,14.11,2
+49,04e89f5d-b8d3-414c-b016-b8a444fb2a82,Máximo del Lobo,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 21:54:26.235084,with_onion,5.1,3
+49,e3bd723c-a375-4f69-b89e-453e513c0717,Lucas Guitart,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 18:35:34.346206,with_onion,12.97,2
+49,b434ba8f-6db0-41f8-927b-892a396ee104,Rufino Hervia Macías,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 19:05:00.615333,with_onion,,5
+49,93fb5714-965a-4903-b5b4-6cc4059401cb,Lorena Barros-Rocha,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 20:48:17.647636,vegan,N/A,1
+49,c43710a1-a75e-4ac2-99ae-6fc004df8a5c,Carolina Martín Peñalver,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 05:12:35.718600,classic,N/A,1
+49,2e2a241d-a292-4716-91da-8e7ace37e182,Lucas Bertrán,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 13:27:07.975392,with_onion,,4
+49,d0ed4b9f-809e-477a-85e1-281b8894d4c2,Nerea Verdugo-Folch,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 11:56:45.451497,classic,N/A,4
+49,bf0f4e6e-36b0-4356-b9a9-f7b7e3e0b6b9,Luís Castellanos Marqués,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 16:19:17.147467,classic,,4
+49,c90356e5-67db-44de-928b-c8c02e60403a,Desiderio Colom-Riquelme,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 05:12:18.204717,without_onion,11.63,3
+49,84487e3a-ff23-417b-b844-fb6fc07b828b,Cintia Baeza Gutierrez,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 23:22:22.398603,with_onion,10.21,5
+49,5f2783b6-439f-48da-8be7-1b1b8eb267b5,Martirio Dolores Bustos Mínguez,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 01:31:42.929296,with_onion,,3
+49,a680c71c-ddb4-4ee3-943c-725b1bcc6efa,Andrea Ana Sofía Galvez Bermejo,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 02:14:05.244685,classic,,3
+49,18d1c82e-24f6-49d4-bb35-ffb1b945ccef,Raquel Hurtado Alberola,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 04:21:13.793138,vegan,N/A,3
+49,cb7950e7-9ded-4a55-8552-21bc603b3017,Ángeles Enríquez Ferrándiz,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 07:23:56.667703,with_onion,N/A,5
+49,3918caa3-2c22-4180-bbbf-ef0d37d7ad82,Elodia del Fonseca,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 00:09:47.183540,without_onion,N/A,4
+49,87eab37e-4f58-491c-88e2-732f0621e954,María Ángeles del Peña,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 08:34:21.645546,vegan,,4
+49,a0bfa9b9-df3b-43b3-be9d-dd3ea305d707,Zaira Garzón,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 13:17:49.529170,classic,N/A,2
+49,389cc7b3-372c-4d68-a4f9-77f7e84918a0,Margarita Salamanca Escamilla,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 01:52:01.701643,without_onion,N/A,3
+49,4d75263c-d2db-46a7-859b-e59d4cae89c1,Lucho Ferrán-Berrocal,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 13:19:02.956325,vegan,,3
+49,9fd4df41-8502-42d9-be6a-7f21b8d1100d,Nicolasa Nuñez Barrena,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 17:44:22.499046,with_onion,13.13,1
+49,558729c9-a8a2-4154-aaac-f097345742c3,Cruz Guzman Giménez,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 11:26:02.016292,classic,9.07,1
+49,df6ec37b-ca81-4263-b7cd-295eebf28b4e,Josefa Yuste Perea,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 07:55:46.178907,vegan,,1
+49,ff6e068a-07fc-4e6e-ab4d-30dc9ac62b3b,Isa Fuente Miró,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 05:47:55.602659,without_onion,,2
+49,b2e8c6a4-4388-45f6-bec1-6f0a4ca55da7,Noa Purificación Juan Santamaría,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 17:36:02.347524,vegan,,1
+49,f320843a-9005-4c7c-ad40-2b55ae68bc4c,Jeremías Benítez Hoz,Madrid,"Glorieta Candela Merino 45, Santa Cruz de Tenerife, 48067",2026-05-01 01:31:07.588839,without_onion,,2

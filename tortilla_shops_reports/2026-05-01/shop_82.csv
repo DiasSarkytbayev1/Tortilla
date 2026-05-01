@@ -1,0 +1,376 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+82,1ddb2de8-0339-4690-b21d-fd092c17c478,Samuel del Cervantes,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:26:49.664872,without_onion,6.72,5
+82,6f455207-23c9-408b-806b-ea79b323d139,Claudio Solsona Vilanova,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:42:35.502037,with_onion,5.67,4
+82,448e1146-28b4-4d27-95d2-98466b83819f,Pascual del Sola,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:02:38.253649,without_onion,,2
+82,0f90a8a9-4376-40ef-a3c6-b38302aac25b,Chita Isabel Goñi Verdú,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:31:31.979272,vegan,N/A,1
+82,ec251888-a718-48d7-b9ef-edda8ca90773,Carlos Benavides Real,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:51:10.071373,without_onion,13.98,5
+82,fcb9bb41-3001-41dd-93cf-583f0b2aeebf,Amílcar Cózar Ávila,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:35:13.573984,with_onion,14.28,1
+82,d6b069d5-f62b-479a-a2de-3ef21b918339,Carmelo Luis Miguel Angulo Cisneros,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:48:28.734454,vegan,7.67,5
+82,ebea67ec-a1f5-4310-b335-f287d55603ec,José Luis Jose Francisco Cases Garriga,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:17:33.780164,with_onion,,2
+82,515b2cb8-b8fc-4905-8dfe-af756c8a2687,Julieta Amaya Arnaiz,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:16:10.924713,vegan,N/A,4
+82,794cb273-34ec-4704-819f-51c7a6608679,Alfredo Rico Noriega Campoy,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:23:18.067655,with_onion,10.31,2
+82,dbfa4a86-404c-4502-85b1-e7aecb17637e,Macarena Oliver-Abella,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:34:31.818408,classic,,4
+82,616def60-e402-4f96-bfe5-50b3a3db9241,Julia Montoya Bayo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:54:58.637665,without_onion,10.04,5
+82,e2b677e7-6ea2-4531-b5aa-ec0d55d0d3be,Gema del Carmona,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:23:11.563473,without_onion,7.64,2
+82,abe1d33c-5a58-42d6-ae16-89acaa928b38,José María Morán Catalá,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:08:24.566047,classic,8.94,1
+82,036ed792-30d9-4f47-bdd1-b97ba5d4ea5d,Nicanor Díez Adán,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:05:32.218021,without_onion,7.33,4
+82,db6b6584-2f00-48a5-acc3-df6df90435dc,Rufina Vallejo Ripoll,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:05:07.790096,with_onion,14.73,5
+82,a98f6f04-fee7-4273-8554-be754afa19c4,Mateo Morera Marti,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:25:51.258336,classic,12.05,1
+82,10170d3b-c21d-4e97-ad90-ca915d6c3c9c,Úrsula Amada Herrero Valdés,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:20:31.608122,without_onion,N/A,3
+82,72600a3a-5987-41b2-aca8-65c109330816,Adrián Herrero Peiró,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:39:23.744836,vegan,,2
+82,e098783f-7c6b-42f2-86f2-3738d4599684,Jonatan Gonzalo Aguado,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:53:07.617262,classic,N/A,4
+82,c44eba7d-f47e-413f-b214-a78a66d1431f,Jacinta María Cañas Manjón,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:18:19.545572,without_onion,,5
+82,c62f3973-78af-45be-b751-c06b5209a908,Antonio Rolando Silva Galán,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:14:36.097457,vegan,14.17,2
+82,f7b86789-d008-4a70-813f-e4c3128693cb,Cloe de Nevado,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:04:14.327502,classic,,3
+82,d9692de5-9faf-4d57-9830-6e6d5ac755c9,Tania Perez Borja,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:41:10.172044,with_onion,N/A,4
+82,d5eacbd2-fec5-49c6-8eff-581560a8f64a,Jovita Merche Bárcena Girón,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:15:30.153982,without_onion,10.7,5
+82,3444eb25-58ca-45ac-9a1c-3639cfdb20d6,Begoña Duque Tolosa,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:45:59.812173,with_onion,7.88,4
+82,5ce4e73b-6979-4cd5-b3ce-3b201c4aeeaf,Águeda Prats Agustín,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:12:10.124836,with_onion,N/A,4
+82,be9ada1d-c9f6-4217-b4aa-082ef562b7ad,Loida Rivero Mas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:33:49.292391,vegan,,1
+82,ed3db201-5d8c-4a6c-8264-62f57090445c,Victoriano Beltrán Carreras,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:53:06.285396,with_onion,,2
+82,d078311e-be80-4aec-9140-329783e09f39,Susanita Tirado Rodríguez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:57:10.783475,with_onion,N/A,1
+82,a0bb1037-6a2b-4228-8927-8784bcbcba74,Damián Escobar Artigas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:30:52.613042,without_onion,N/A,4
+82,3b966815-7eff-4b68-8e54-a0fc312a250f,Graciana Conde Iborra,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:27:48.940705,vegan,,5
+82,f40dbb6f-47ee-4ca2-84d1-43f8792d12cc,Ruy Juanito Mulet Ortega,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:49:36.157972,with_onion,,4
+82,1b1f438a-6d9e-4c43-b9d6-d538278bf093,Verónica Cañas Zorrilla,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:36:31.072769,vegan,,3
+82,bafac007-b106-40e4-b005-34ccf621c61d,Octavio Padilla Lerma,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:02:42.707540,vegan,N/A,3
+82,cbef5d88-9832-4d70-9a54-527a45a31dd3,Andrés Felipe Perera Becerra,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:44:52.630211,with_onion,,3
+82,d7a42b72-b6ed-488e-88df-08ce4209863c,Pacífica Santamaría-Carreño,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:33:35.547663,vegan,6.13,5
+82,fda11edc-f38b-4864-bb52-8ef0d62c2d91,Marino Paniagua Villalobos,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:52:23.547330,with_onion,N/A,4
+82,0e86ea08-605a-4564-82ec-c1eee8d552dd,Porfirio Melero Lorenzo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:21:34.813761,with_onion,N/A,2
+82,e57878cc-c108-40b1-a1ef-72d65612cbff,Paz Gaya Matas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:15:44.948206,without_onion,7.48,1
+82,8906aa8e-7987-4259-8e5a-d202b63eada4,Dolores Bernal Acedo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:57:54.424730,with_onion,13.87,5
+82,9518bf27-1525-4389-9d28-0269a0310f67,Íngrid Atienza Benito,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:55:41.094367,with_onion,5.35,1
+82,dc954e18-49da-4b94-94c2-7e28f900c60a,Blas Quintanilla Rosselló,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:28:17.921613,without_onion,N/A,1
+82,6724819d-9b76-45ac-8096-578f34c6df5b,Nacio Tomás Casals,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:45:58.887136,vegan,N/A,2
+82,9a2be78c-9a22-4192-90e6-322e6d0829c1,Sancho Bonilla Guerrero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:48:32.095821,without_onion,,4
+82,50c57958-111c-4545-8ca2-0af50ccd5d7d,Evita Girón Mir,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:03:40.754443,without_onion,7.9,4
+82,0ff73e0d-6804-46da-97df-cdd927411864,Olga Roma Navas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:39:49.104685,vegan,N/A,1
+82,e79f6296-74f9-433f-95be-83150a5c5573,Rosalina Acuña Larrañaga,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:20:06.369610,classic,14.13,5
+82,6035aafd-24b6-4755-a46f-434eb49b324f,Sabina Murcia,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:28:23.153051,without_onion,N/A,1
+82,17495802-c2e2-447d-9033-66527df8cfc9,Kike Sanmartín Guardiola,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:43:32.371913,vegan,N/A,1
+82,8a99113a-7b9c-4efd-9920-edf68e398c4a,Roberto Sevillano Tomé,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:15:21.277729,without_onion,N/A,3
+82,0d09ea33-3677-4bc3-bfeb-2d90723ce55f,Itziar Giralt Acevedo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:04:07.172845,vegan,9.63,2
+82,a70dd0ea-3675-4501-ab55-81e50bec27e7,Ibán Ramiro Ramirez Escamilla,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:44:09.516343,without_onion,N/A,3
+82,c4146dce-aa6a-44fe-b19f-bb9a50e99d72,Atilio Albino Villa Barrera,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:48:29.025372,vegan,,5
+82,208f9a35-b1cf-4ce6-b7e8-7259240f4396,Jose Miguel Álamo Poza,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:23:47.688110,classic,,4
+82,9aed4018-0132-4f8a-8766-b240f2dc21d6,Renata de Donaire,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:25:18.965292,with_onion,11.08,5
+82,1e133f50-f2f3-4c2c-a7c4-e1ebd7dbdb28,Evita Navarro,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:38:39.974959,with_onion,N/A,1
+82,fb19d559-0c7a-447b-8ce8-c631d236181c,Estrella de Ramírez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:13:39.152007,without_onion,6.75,2
+82,4729dd42-ec23-44a3-817a-7ad9e08371c5,Berto Ferrández Gil,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:10:50.444362,without_onion,N/A,5
+82,7b1d35f8-9bcf-4361-9860-486f19ebdd36,Micaela Rocha Fabra,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:01:19.072028,vegan,,2
+82,75e9e7e7-dbad-4f17-9acc-73b341431234,Flavio Murillo Cal,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:39:38.783137,classic,N/A,5
+82,b28a01be-142b-4c1c-8f87-7ce03eb19cae,Maximiliano Amaya Molins,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:15:04.421253,vegan,,4
+82,ab86475f-6dd9-47df-8eef-65a7dfdcc845,Luz Enríquez-Villaverde,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:24:15.573428,classic,N/A,2
+82,39e5abb3-f3d1-4d38-9571-b6a5083568a1,Manola Arévalo Oliva,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:02:17.681352,classic,N/A,1
+82,ee562baa-7d25-403c-8fce-61ffd9c3c2b1,Óscar Anaya,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:25:08.101442,without_onion,N/A,1
+82,f47379f3-850e-449f-8389-8704fdc97d4f,Adelina Elba Dalmau Amor,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:57:41.182995,vegan,12.62,4
+82,4fecc93a-0e76-4fd1-8ebf-48c9426ff8ac,José María Niño Benet,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:12:50.042547,vegan,10.6,2
+82,1409f56d-5428-4353-856f-efbcc6ed8f5d,Griselda de Abril,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:23:15.579835,classic,,4
+82,fe1b49e0-0d6c-427c-9a1f-fae104ed1c0c,Melisa Ruiz Sotelo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:32:15.379295,without_onion,,5
+82,4547d475-7337-45ea-9e2b-dbc1101fcdec,Hipólito Fermín Zaragoza López,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:18:04.089285,without_onion,N/A,3
+82,be6b6044-ff51-4ec0-80a2-93b17eaa0513,Julio César Solé,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:08:48.396689,without_onion,7.06,2
+82,410d649f-ee31-40ab-80a4-34b2d96ba031,Eloísa Lara-Alfaro,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:17:03.216075,with_onion,,5
+82,d51e5f50-8b37-4c3e-8ca3-757fe7cd9197,Adora Salgado-Ayllón,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:23:43.511341,with_onion,10.45,5
+82,e0ebae07-84c1-478f-a543-1130ae7b69db,Bienvenida Paniagua,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:54:21.163078,vegan,N/A,2
+82,3a16364e-6f76-42d7-b9b8-115f12ade710,Américo Morán Vilar,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:51:03.634686,classic,,4
+82,a54954e3-4e41-4986-af1e-c5a667ffdd76,Sabina Landa Catalán,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:20:59.027139,with_onion,N/A,3
+82,e3528ed4-c657-4c8f-b1bf-d15f6ec2c1dd,Serafina Clara Calvet Merino,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:28:29.487289,vegan,,5
+82,287252aa-b112-4599-93e6-7d3a021dd6b6,Vicente Gómez Gabaldón,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:21:56.193801,vegan,,2
+82,4607c359-d6cf-426b-9747-19a459c528c2,Lope Villanueva Mate,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:59:00.078820,classic,6.47,3
+82,85c6260f-ad53-4533-abc0-09d9db8532bd,Maristela Herrera-Palomino,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:15:15.408662,vegan,N/A,3
+82,f1ab7bc6-93ff-4375-a377-c144752ad423,Camila Mendoza Figuerola,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:37:50.533880,without_onion,10.86,5
+82,d8dec844-074e-4369-b23c-a5137da3474c,Pili Ros Cerezo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:06:10.972018,classic,N/A,2
+82,868aae3b-1e56-4e98-9dac-924b265b2b3c,Yago del Caparrós,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:11:25.497568,classic,N/A,3
+82,07cf5f37-5340-4f35-a024-d6c3725c4876,Xiomara Marcos Pino,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:33:30.669535,classic,,3
+82,152e5e8e-4a07-40b2-b96a-a0a527ff6667,Edelmira Busquets,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:05:41.894844,without_onion,N/A,1
+82,789f59b9-9799-4c4a-a0ff-879a6c44b715,Leonardo Batlle Estevez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:25:40.932686,with_onion,,5
+82,9bc70a05-42b2-4a87-9519-35d318cf2011,Concha Castillo Fernández,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:31:13.712273,vegan,9.08,5
+82,a3fc1283-65ca-49bb-b474-f3f41bcc80b7,Cecilia Planas Diaz,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:48:03.455259,with_onion,11.36,1
+82,4cf74ac1-51c8-47e0-9371-2c617aab5d0c,Graciana Ibáñez Terrón,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:41:57.218014,classic,9.96,2
+82,1c770dfa-b12f-457a-b18f-28df3a4d0eaf,Ramiro de Villar,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:19:36.079981,without_onion,10.31,5
+82,ef7844eb-2e79-4f32-afaf-aaf3c1826fd7,Luisa Santos-Vidal,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:09:20.029247,with_onion,,3
+82,582d127a-3c6e-4d56-be6b-9b75eff0ab38,Luisa Lozano Almansa,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:20:19.561431,without_onion,9.93,2
+82,0d4585cb-9e61-4fea-9e7e-8e23d6684694,Odalis Segura Valencia,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:57:29.783285,without_onion,,5
+82,65f44cee-0973-4d93-8b51-1d5193931c90,Azahar Tovar Calleja,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:23:53.639969,vegan,8.79,1
+82,88f0d410-2c1d-4347-b63f-74a4f19f3c14,Pepe Lozano Leon,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:55:17.517956,vegan,,2
+82,40622e67-462c-4adb-8de6-4f7a961b00bc,Rosario Bayo-Chamorro,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:42:06.720667,classic,10.59,3
+82,a9cc5a20-c044-4813-84ce-dc6a4342a62f,Leonardo de Mata,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:00:08.378211,with_onion,N/A,1
+82,1d16ef1b-b787-4709-942e-b7f89d6bff13,Gisela Pareja Alcalde,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:21:34.625935,vegan,,2
+82,93346aa6-5d65-4f33-a4f6-04cbaa127e39,Prudencia Rivero-Aznar,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:14:29.057434,with_onion,N/A,2
+82,0dca8139-147e-4442-b2dc-b090fbcbf42a,Dafne Reguera Acuña,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:54:37.228346,with_onion,N/A,3
+82,3ca260b6-bf74-44a5-9ae3-b30b4d7eb4d7,Hortensia Castro Carretero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:46:00.087268,vegan,11.43,4
+82,b5c713e9-59c5-4aef-878c-ef6927e9b384,María Carmen Burgos,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:52:17.740946,classic,,1
+82,7de053df-2ce8-49c9-9669-9f978a1e3fc5,Cruz Becerra Palomar,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:29:05.019901,classic,9.18,4
+82,56c0e5d8-0045-491b-bd1e-e2cb77f228b2,Nazario Macías Palacio,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:22:19.022660,with_onion,,4
+82,3d4d455e-ce40-445a-b9af-aaeb89bf1351,Domingo Diez Gutierrez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:52:13.757641,with_onion,,5
+82,24332dca-5a45-4c80-b595-7fc649715418,Pastora de Berenguer,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:56:20.948130,vegan,,2
+82,65e08593-8c0e-4236-97be-238c37ccfe40,Mayte del Franco,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:18:07.282803,vegan,11.54,2
+82,16a8dee5-848b-43ee-b7d9-0fed09578352,José Antonio Jurado,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:38:55.374908,classic,N/A,5
+82,71931c8e-35c3-4a85-a9f3-f5a358423294,Tomasa Barco-Martin,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:54:38.566122,without_onion,N/A,3
+82,458d6e3f-b0af-4998-a4b4-85e87fa5ba81,Reina Zaida Manjón Cerezo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:12:07.424473,classic,,3
+82,6ee8e585-f8cd-42a1-8be1-52afebf8689b,Débora Zabala Gisbert,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:19:06.297109,vegan,,3
+82,2cf731d7-f134-440c-8638-665966d0ea41,Jose Francisco Luís Valdés,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:24:59.843237,without_onion,N/A,4
+82,57ef5d83-4d4e-41fe-9f1c-6e9224a6a0f9,Victoriano Gallardo Heredia,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:56:19.176847,classic,,3
+82,5bab13c1-04cd-47f5-a363-6616e346ce2d,Edelmiro Matas Ramos,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:45:29.136158,classic,N/A,5
+82,430b783c-9f3c-4b00-9def-aaf0884a10d7,Octavia Amelia Donaire Arenas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:13:11.195296,classic,,4
+82,6402cde7-ad68-454c-ab7a-6c2f110f2b3c,Pascuala Hervia Rovira,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:29:20.941667,with_onion,,5
+82,a1d27632-e092-4721-9a04-9cfdc6ec707a,Augusto Gordillo Vendrell,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:56:11.672886,classic,,1
+82,9db79771-03cd-4207-8fc7-03f01f9c0b46,Graciano Marcos Zamora Olmedo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:01:25.074804,with_onion,N/A,1
+82,634e50e2-1811-422e-9693-8908094eba03,Aurora Pelayo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:08:36.161400,classic,,2
+82,be60d500-9047-43b3-b153-f98a3b1748d4,Yolanda Franch Santamaria,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:36:40.415367,without_onion,14.91,4
+82,ce20c891-a7c8-45c6-b914-71e1f6a246ae,Odalis Tirado Aguilar,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:43:09.620488,classic,,5
+82,babc6085-59e2-45fe-b060-c028355d6030,Ángel Urrutia Flores,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:04:35.214101,vegan,,2
+82,3c59c999-8669-4948-a576-3977760ea516,Anselma Cabanillas-Hernandez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:48:33.584886,with_onion,,4
+82,1fffaddc-b529-4313-89c9-895e7e5a6e43,Javiera Gárate Solsona,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:56:39.625488,with_onion,N/A,4
+82,c4096c5d-acff-4e9c-8e2a-1d0d1b1a5132,Bautista Lledó Contreras,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:33:13.606645,with_onion,13.32,5
+82,7c5e7c60-db07-4d99-b2be-c89446037561,María Dolores Andrade Iniesta,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:54:44.197673,vegan,14.49,4
+82,d69e55c8-f8a0-4fd0-92e2-30a567a4f441,Casandra Vergara Sales,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:49:04.523416,vegan,N/A,5
+82,d035f04b-f784-4cf7-b12b-8d017720d1c4,Estefanía de Mas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:21:06.493175,classic,N/A,1
+82,6925cb7a-efa9-402f-aeb0-6a1457f92a2e,Lidia de Pablo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:19:44.300984,classic,N/A,1
+82,b9952252-a3ab-491e-ac25-3cab294e8a7c,Eloísa Espejo Gallo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:28:36.743311,classic,,5
+82,82c51bf1-0a52-40ee-a9a7-60a47fb07c4a,Yago Sureda Sedano,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:27:10.891328,classic,N/A,5
+82,691b3f97-def8-4246-af4a-a9f730f9c131,Bernardita Sastre Tirado,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:36:43.218665,with_onion,9.5,2
+82,7f9fb65c-a3a1-4688-b527-52c9e939d563,Rosalva Esteve Cerezo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:53:59.484784,with_onion,,4
+82,74040875-5eae-4d72-aa47-ddcd8ffd877a,Marcial Arcos Andreu,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:02:02.676179,vegan,13.4,1
+82,31c8fb2a-88c9-409d-b538-2ad7fff248a9,Elena Fabiola Ricart Raya,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:21:02.954445,with_onion,,2
+82,f1162b7f-2379-41b1-ae56-7e7d40ff3eae,Úrsula Vallejo Lobato,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:41:38.223442,without_onion,N/A,2
+82,7be04e3e-1665-4316-9227-8a7cfc3f0cdd,Estefanía Llano Mulet,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:48:38.090591,with_onion,N/A,3
+82,05201750-baa8-4e82-a169-7347ee73769b,Florinda Renata Barceló Córdoba,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:26:16.560694,classic,13.33,3
+82,8cfd5495-1ad6-41a3-8759-7261897f9cc0,Jenaro Bastida Valcárcel,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:14:01.606981,without_onion,7.4,1
+82,f37347a2-4017-424e-9638-b74042b342b6,René Donoso Páez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:36:31.396882,with_onion,,1
+82,aee3fa09-894f-42db-85f1-6818dcff55c9,Merche Soriano Morata,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:38:59.510227,without_onion,6.92,5
+82,54796008-9443-4490-a8b8-688f06c4ac4e,Arsenio Jaume,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:17:37.261859,without_onion,,3
+82,b5751f17-2138-4d33-8cc6-63eaf38643f2,Ainara Jara-Salcedo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:24:25.265512,with_onion,,2
+82,229c31ae-db31-416a-a6df-4403569b4754,Benjamín Salomón Salinas Varela,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:06:46.528111,with_onion,N/A,1
+82,9b045bac-043e-4327-b6f6-5863f2a68d6f,Jose Carlos Reina Pol,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:49:39.194651,with_onion,,2
+82,44e5cd8a-cf21-4398-9973-af2930514bcc,África Barranco Gómez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:31:13.265436,classic,10.26,5
+82,4b400437-0718-48b4-b5a2-0f17734a5bc7,Alejandra Ugarte Calvet,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:39:04.867026,without_onion,N/A,3
+82,2db8ae6c-c280-43bd-a51e-655285de828c,Blanca Mamen Espada Franch,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:11:14.874750,classic,,4
+82,1c8348af-aebd-4086-a77c-78c4f089e25a,Clemente Teófilo Perales Tur,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:24:20.499219,classic,8.77,2
+82,6c5016d3-0a89-49fc-9282-057f9f57d337,Ofelia Salas Serna,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:52:07.416023,classic,10.12,5
+82,75d74b5c-430d-411b-8355-ce99e87c7c5a,Azucena Morena Flores Cabrero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:41:22.898958,with_onion,7.09,1
+82,bd0b3651-f214-43b6-80f9-f3de41a0cbfd,Ruperta Luque Garcés,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:33:22.887563,without_onion,N/A,4
+82,9ba732c0-f7c1-4eb5-814e-0a40b21985c0,Judith Reig Fábregas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:55:33.227425,classic,N/A,4
+82,d0180f37-d109-4089-a273-b2501b497b57,Baldomero Valerio Oller Roselló,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:40:08.659088,vegan,,4
+82,76541df0-1873-4abb-99f0-8da57c367fd3,Joel Atienza,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:39:43.786894,classic,8.19,5
+82,55124998-dc5f-4f7b-90a8-325f44d9ba1f,Celso Collado García,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:58:31.889723,classic,9.59,5
+82,cd50b5e6-3aa9-4a34-9fb6-a183c3de931a,Fernanda Cabrera Tello,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:54:19.864331,with_onion,7.45,4
+82,6bf214b3-6b05-4838-bc52-49e7e92aded2,Santos Galan Fortuny,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:02:05.873457,with_onion,7.13,1
+82,f72ff022-7cb9-45f8-adf3-695e65225b7f,Francisco Jose Juan Carlos Mesa Soler,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:37:15.274307,with_onion,,1
+82,9b070639-3324-4b90-acb0-dd18b6bc8485,Tania Paredes Pino,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:31:56.848845,with_onion,5.18,3
+82,285b826d-0a56-4ae3-a068-60fefbda26e6,María Benet,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:47:54.315158,classic,10.91,3
+82,0fbc8df3-4ea7-41ba-946c-d06d52eb56cb,Bernardo Mármol,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:30:21.005426,with_onion,,4
+82,79e7d00e-3fe8-411c-a6cf-773835fb200a,Paca Torres Vall,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:44:17.602174,vegan,N/A,3
+82,3863ae11-d3ef-47b3-be29-f7e6c1c9dc01,Gregorio Mariño Vilalta,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:57:43.247231,classic,,2
+82,8a508ac8-7740-4935-9107-0981daaef49e,Severiano Campillo Abascal,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:46:05.113244,vegan,N/A,3
+82,2873b215-a778-4301-9ea0-3cb60b085431,Adelina Bibiana Mulet Pizarro,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:43:34.618654,without_onion,,4
+82,65b632b5-8103-42fb-a06e-bb7daa8b7b34,Adoración Vilar,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:48:45.210125,with_onion,,4
+82,2e4cae81-933a-4639-8219-30421c0578a6,Blas Mulet Álamo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:28:41.639780,with_onion,8.61,4
+82,dd92c33f-519f-4c1d-ad57-61ef3a8252d5,Maribel Nogueira Manzanares,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:43:05.642965,vegan,,3
+82,09df6d94-ad50-4e97-b267-4e3395a04743,Fernando Sánchez Ribes,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:25:39.715236,without_onion,,1
+82,efa49099-45fb-45b0-86ef-f6b90c4f4f00,Charo Iniesta Carretero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:26:36.259672,vegan,14.38,1
+82,4f05ef09-881d-4458-9aea-4fb302207b7c,Belen de Reyes,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:10:30.672236,without_onion,N/A,4
+82,fff399b2-8323-4c11-9df7-6c4668131ca4,Mateo Catalán Cuéllar,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:06:54.889039,vegan,N/A,5
+82,bf7dde58-a36e-4bad-b884-1e13e398d642,Remedios Clara Amores Portillo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:14:26.164020,vegan,,1
+82,a067fec7-33c6-4adf-bac9-f7136f548acb,Hugo Vidal Vara,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:43:31.779172,vegan,7.5,3
+82,9af453fd-3b55-49ad-8b54-141c7f52bf8f,Fernanda Barberá-Francisco,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:55:22.296131,with_onion,N/A,1
+82,153e0951-7bb6-450f-bb48-df9c83919c96,Loida Quevedo Salom,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:34:34.243593,with_onion,,4
+82,50fbd49d-531c-4f56-9047-f1f99fe7ca4f,Marita Miró Benavides,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:20:03.107140,classic,N/A,1
+82,b9ef04bb-8c57-451e-bde5-45836291e509,María Pilar Sastre Naranjo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:26:36.401846,with_onion,N/A,3
+82,eac13320-b2d2-468a-ac55-263032cdead5,Lorenzo Menéndez Dalmau,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:21:35.468028,without_onion,9.68,4
+82,0eb5c9bd-a5c4-440b-a6b2-a5763ed7121a,Felix Andrés Rico Nogueira,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:43:18.192328,without_onion,N/A,1
+82,1e745004-f741-48a5-9ab1-e1948e86624d,Zacarías Verdú Iglesia,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:10:18.168360,vegan,N/A,4
+82,ed8b3760-f4fd-4787-a4f4-89936e61f526,Custodia Juan Torre,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:11:47.871355,vegan,6.81,5
+82,33df2e5b-d1a3-4d28-93b6-5083ca4d49a9,Eva Muro Fajardo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:21:56.425367,classic,N/A,4
+82,7db3dd1e-6d1e-4c1f-959b-65b632cec1f8,Pablo Arranz Andres,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:05:18.922148,vegan,N/A,2
+82,57d34166-bf6d-47ba-896d-c230ea8bfc7e,Hector Contreras Guijarro,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:21:19.698627,with_onion,12.17,4
+82,4b4b548d-bcb9-4cab-bf2e-19806006e448,Sofía del Goñi,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:34:07.149995,classic,,4
+82,56a5e324-b962-449c-930c-bd12ca3f253d,Rodolfo Llopis Cuevas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:55:30.584009,classic,N/A,1
+82,79ab9590-7fb8-4f0c-957b-2c2bb530bbcc,Joaquín de Fonseca,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:50:47.236288,classic,12.05,1
+82,4d0319b3-7ddc-491e-911f-823c4b5da89a,Norberto Bejarano Mercader,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:49:28.912595,vegan,,2
+82,09de3920-6194-4c77-a6f2-c22a1ae0e0a7,Pepe Fajardo Luna,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:13:05.831544,classic,N/A,5
+82,9d20ed60-a025-464e-beed-9b179b49db73,Basilio Llano Otero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:35:20.030210,vegan,N/A,5
+82,1a3f5c60-e15d-4c98-bdfd-066de1591e41,Humberto Niño-Porcel,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:34:41.397004,vegan,,4
+82,f67d2c12-2e82-4fa1-a195-2a1eac9fc215,Maristela Hoz Arnal,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:28:29.561816,vegan,,1
+82,5bbc1cf3-0a45-4f7a-afbc-068e07c47722,Marianela Gallo-Amor,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:21:00.478454,with_onion,N/A,3
+82,0420b820-7623-4b8b-91a6-d3f317f3fa67,Vinicio Llabrés Verdugo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:40:51.258613,vegan,N/A,1
+82,4526548c-3513-4b47-bd70-bf12c76ee48b,Gil Alcázar Duarte,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:42:12.745049,vegan,,3
+82,e6058b85-8012-4c2c-a8cd-151954a69abc,Mónica Morera Belmonte,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:35:35.070615,classic,N/A,3
+82,f44e7eba-92de-4460-ba3c-12817ea82f9d,Vidal Aragón Vilalta,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:12:52.682692,classic,9.67,4
+82,bd221329-1d6f-4f89-bdd7-edd4531549b4,Epifanio Torrecilla,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:03:32.197204,with_onion,N/A,3
+82,3280b637-bfd0-419b-91db-b728d21194c7,Ruth de Contreras,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:07:26.255150,without_onion,6.03,5
+82,c4d5ac51-6edc-40fa-966b-399a2c42d711,Pía del Botella,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:54:09.894588,with_onion,,1
+82,f84368cb-d3fb-417a-bbd6-586f70c685e5,Edmundo Sala Verdejo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:48:54.704275,without_onion,,1
+82,acd490e1-03b8-4bb5-b942-ee33af92a5e0,Gertrudis Posada Ramirez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:36:42.329505,without_onion,,2
+82,dd074ec5-7bb1-4cb4-99e7-019b83e95e9b,Alexandra Galan,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:10:58.848582,classic,9.79,2
+82,8dc63650-0e8a-4fc2-83ca-ce74045c6109,Máximo Belmonte Iborra,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:04:19.772096,without_onion,N/A,1
+82,2c9722e6-1564-4c30-bc05-c4506d00da09,Miguel Ocaña Alvarez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:30:39.334251,classic,7.56,3
+82,144593b0-7939-4a17-97df-f4af9aab30ab,Florentina Cabello Dueñas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:43:46.172033,without_onion,,5
+82,7c34a697-d5fa-4abf-96eb-74c689d28c4e,Jacinto Oliver Sotelo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:03:33.639472,without_onion,9.24,5
+82,3fa95fa8-5c3b-4cd0-a46f-1fc5fa2c5519,Catalina Rosado-Cases,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:00:17.963301,classic,N/A,4
+82,5409ccd3-d558-46e1-8a8b-cfc2b05351e9,Jerónimo Páez-Fabregat,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:40:39.153773,with_onion,10.83,1
+82,e0e9339b-8c40-4e2f-80b8-8a109f12d668,Alondra Ferrer-Mendoza,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:37:17.832240,vegan,,3
+82,18995ee4-2fd5-444f-831f-7475292887d2,Ciro Cardona Herranz,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:54:44.611594,vegan,12.63,1
+82,a4192964-586e-4d0c-8d9f-fbfd9f532af2,Mohamed Godofredo Abascal Navarrete,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:21:32.979403,with_onion,12.23,4
+82,18252151-c933-4388-8eaf-dd30c930e86e,Jose Ignacio Díaz Priego,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:48:16.655262,classic,,3
+82,32e82c1d-1c09-4880-9b1f-cc74ac9ae114,Marisela Quevedo Gallart,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:59:13.550851,classic,10.19,3
+82,5b22b9dc-46f5-4f93-92a8-f602a215cc7e,Evelia África Arribas Casas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:16:53.792671,classic,11.47,4
+82,204a782c-7967-4bbc-9959-e8d941347664,María Peñalver Tomás,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:04:30.300580,with_onion,,3
+82,7aa2ecc9-42a6-4df3-9a97-65b0662c0ed0,Belén Solé Lladó,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:14:49.900574,with_onion,,3
+82,dad36384-a2a6-4d04-8cee-7e49732c336b,Benito Salgado,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:52:03.650395,without_onion,13.47,2
+82,f9a55917-014f-4f31-a956-9dd8a1e216ba,Bibiana Naranjo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:36:49.787962,with_onion,7.03,5
+82,2406830a-7dad-48a7-955e-2d8267c8ba9d,Clímaco Becerra,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:30:59.053085,classic,N/A,2
+82,2f05849b-923e-41bf-83cb-3bfd53e62e65,Lorenza Llopis Burgos,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:31:47.074674,without_onion,5.96,1
+82,50e56ca3-d621-4ea3-b290-bbb0f24637e0,Rosalinda Villalobos Farré,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:46:02.384283,without_onion,5.19,5
+82,379eedfe-c4f8-4f84-8dbb-ec5c47808830,Manu Martí-Nevado,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:17:57.734720,classic,N/A,4
+82,e58cac66-03af-42b6-a04a-3456a99eaa28,Plinio Bernal-Giménez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:49:47.871483,without_onion,N/A,4
+82,37b8fbbf-07e4-47c4-8e10-879119829e35,Brunilda Madrid Solsona,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:12:28.310900,without_onion,,1
+82,726cd1e4-6985-42d8-baed-7b8f47dd33bf,Amada Eligia Rodriguez Giralt,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:13:11.176307,vegan,,3
+82,090eed95-a8b3-4d4f-bf9d-fcfe52475ebc,Carlos Barragán Neira,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:55:10.850310,vegan,N/A,2
+82,1aef5912-a0e5-4614-8e29-8533295b71eb,Lorenza del Cervera,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:49:01.747813,vegan,N/A,1
+82,8041a4bc-af79-414b-84da-983ab4820270,Damián Sabater Villalonga,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:46:28.602903,vegan,5.09,5
+82,28dbdabe-3015-4ff9-9809-96a4933351ca,María Dolores Terrón-Díaz,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:30:03.846019,vegan,,5
+82,3cbf3f9c-071a-4d8a-b612-3f7c1d6a8bd7,Maricruz Luna Montes Corominas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:50:42.672155,vegan,,2
+82,5ed29737-45e7-4c52-b336-4f0adb88147c,Marcelino Saavedra Ramirez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:51:35.313045,vegan,8.09,4
+82,676e0186-cd4d-4819-8f87-87ebbb833a77,Cristian del Herranz,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:37:19.389012,classic,N/A,2
+82,8c24a177-9aed-4b6d-8e98-f8cec9db12ee,Mayte Medina,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:04:07.300325,vegan,N/A,2
+82,46b659c4-1e11-421d-a99f-3196b70caf41,Gil Baquero Busquets,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:50:50.507198,without_onion,N/A,2
+82,4c2748f6-762a-4ba8-b938-cbcb9c90e2e3,Estrella Noguera Milla,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:27:07.696484,without_onion,N/A,4
+82,88fd8c33-b344-4b6c-b176-3c17be169dae,Estefanía Salmerón Prieto,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:24:39.683740,classic,N/A,4
+82,5f8a84e4-e469-4eb2-a6a1-169ba5b53fed,Azeneth Marisela Alegria Sobrino,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:31:56.460838,with_onion,,3
+82,d7305009-4839-4b80-84a4-29881544ebb8,Cintia Caro Romeu,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:16:11.445116,without_onion,N/A,2
+82,75575258-6f21-4c88-b666-b7fca2e784b4,Anacleto Tormo Pons,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:30:06.736950,vegan,,2
+82,10433f2b-9322-4ca0-8e72-c8a8f0329dc1,Melisa del Arregui,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:17:35.153813,with_onion,9.35,3
+82,626626d6-3cfc-4fac-be06-88665853774f,Ema Zabala Pareja,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:33:50.842952,with_onion,8.04,2
+82,a12bd8d6-3ae8-48b3-80e8-e4359b258afa,Juan Manuel Estevez Marí,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:49:15.436838,without_onion,9.57,5
+82,3aba3040-d36f-4246-8d29-a55fa07756d0,Trinidad Villegas Ayala,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:19:53.982965,without_onion,13.54,3
+82,b674aa95-25b8-4261-be3a-499e871584ef,Mamen Blanco Moraleda,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:29:48.822947,without_onion,,5
+82,5e7c0f99-8da4-4e62-98a0-526aa3e836d8,Julia Pinilla-Alvarez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:16:20.905800,with_onion,,2
+82,477dff80-a4b1-4606-bd50-bcd074c0c2c1,Epifanio Rolando Hoz Valero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:36:30.042174,vegan,7.91,4
+82,69234d62-961b-43ba-a66f-b4241741e17e,Merche Eusebia Burgos Carrión,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:06:47.921682,without_onion,,4
+82,6f760fda-264a-4564-8e1b-a156cf9a7d40,Armando del Gibert,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:42:12.146337,vegan,,5
+82,70183a95-db48-498a-b25f-25d6b674e711,María Cristina Bermudez Duque,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:21:53.987364,without_onion,,1
+82,e682b66a-7e3a-40a4-9bbc-be2bf9b2a775,Eugenia Benavent Bastida,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:29:01.685410,with_onion,N/A,4
+82,2bc0b28b-1504-4252-9955-a73c14fdf1e7,Salvador del Morante,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:21:05.570985,vegan,N/A,4
+82,4e6de3b6-2196-4028-bd90-5530cf464ce3,Paco Ríos Lago,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:25:21.369988,classic,14.99,5
+82,2cf150f7-b151-4718-9abc-398475bb2d6b,Manu del Díaz,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:15:49.657349,with_onion,,5
+82,dcbe3b75-9f87-4b3c-8400-aeb79bc9cf36,Remigio Morán Doménech,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:55:34.828893,classic,8.19,1
+82,c32659c5-ee48-49b0-aa34-7455028cc9bf,Pascuala Nieto Castelló,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:25:10.141189,with_onion,,2
+82,4ced9a0a-fbb4-485d-bef1-2559ee854bcb,Gregorio Sevillano-Herranz,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:46:15.237709,classic,,5
+82,8e921fb7-e99a-4ab5-accd-eae86a67dec9,Sarita del Soria,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:11:43.126896,with_onion,N/A,5
+82,9839a4ff-8c81-461e-86f1-2d72d7c0116b,Virginia Yaiza Madrigal Pont,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:59:42.345280,with_onion,14.33,3
+82,3156f8ed-3a7e-4924-8229-9c83a8b0986e,Federico Abad Olivares,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:29:18.460467,with_onion,N/A,2
+82,971d6a2a-d882-4573-955a-d5cd5088d326,Cristóbal Caro-Ferrández,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:20:27.913919,vegan,N/A,3
+82,3080ed25-1033-47c9-98cf-24b51f11b5a9,Sol Solé Rueda,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:32:05.106762,without_onion,8.38,4
+82,d430c8b3-1d05-4bd7-a432-1a6ee9fa87c9,Yéssica Ramirez Montserrat,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:56:19.090399,without_onion,6.05,5
+82,b81c5579-4fda-4161-8048-f2c14ab06e92,Fernando de Vélez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:04:07.577550,without_onion,,5
+82,afd488f4-b33f-4094-872e-7922c3dd0798,Amarilis Lucena,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:19:48.306938,with_onion,N/A,4
+82,8e0e7910-0d4f-486c-9fb0-6bfd52603b31,Omar Macías Mayoral,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:37:26.965193,with_onion,,3
+82,abd56a0a-ea3e-450b-8da6-4105401d8c4e,Leyre Gonzalo Zaragoza,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:51:48.433404,vegan,,5
+82,a8be94c6-5cd4-4b77-802c-5c22a2216536,Leocadia Miralles Pou,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:28:18.129157,without_onion,5.49,1
+82,0e2fdf1f-a24d-4bf4-b223-bbed4a8f5ef4,Cristian Alsina-Losa,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:05:07.172864,without_onion,N/A,3
+82,60988a83-4d31-4a18-9c3b-b1e525dedd45,Evita Gallego Catalá,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:47:34.029036,vegan,N/A,4
+82,7b38f372-2172-4b06-8d0e-8bbd059b58fb,Borja de Pombo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:26:37.885372,with_onion,,3
+82,f1313902-3a18-400f-8b96-3a36fff3ce10,Amor Osorio Gámez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:34:42.319200,classic,,1
+82,12ac37e7-6937-4b09-b6af-49251f680016,Conrado Martínez Avilés,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:01:31.184264,classic,11.0,5
+82,a065eb99-76e8-49c1-a0ba-3028bd5f7267,Bienvenida Pardo Salvà,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:07:28.465655,without_onion,N/A,4
+82,f4545ce8-575f-42aa-8c97-c802e3b6352d,Amancio Gual-Montesinos,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:59:31.319865,with_onion,9.85,5
+82,ce79c23b-68e1-42af-97d3-64c66f91a9ef,Néstor Roig Bastida,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:41:15.123135,classic,14.86,5
+82,b391c668-b0c1-4bc5-9e7d-31a1c9bad202,Pastor de Jurado,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:00:25.611626,without_onion,N/A,2
+82,8a155f96-4089-4935-ab18-19729e38ca76,Armida del Múñiz,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:02:30.833511,without_onion,N/A,1
+82,965f9752-2d00-4460-94f5-42f84515c346,Tiburcio Guzmán Novoa,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:52:12.896518,without_onion,,5
+82,18f5266c-d02a-46d3-ac1c-b933c5431002,Gerardo Díez Luz,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:29:15.819097,vegan,,1
+82,23188861-9f63-442c-8b98-29d5e7ff3ba5,Hugo de Nogueira,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:46:42.119587,without_onion,,2
+82,3b09c4ac-9c93-4912-990d-c0bce9702110,Paca Muro Zapata,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:14:35.666313,classic,N/A,2
+82,06bc365b-f4e6-4337-90dd-a1adf7c447c0,Esmeralda Aragón Baños,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:10:17.572462,vegan,N/A,2
+82,86564399-8a3a-4125-b145-8beab391887c,Isaura Úrsula Guillén Gimeno,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:38:02.174028,without_onion,,3
+82,dc022cf1-2d93-43e6-9b03-f67d142981e6,Pilar Casanova Garriga,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:51:21.232929,vegan,,1
+82,77e37484-07d3-4f7d-a417-2075ab13c437,Salomón Chico-Figuerola,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:04:49.010802,without_onion,9.12,3
+82,df74f6c3-2294-4753-8b9f-6d24f3d4d054,Julio Montes Tenorio,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:31:22.031895,classic,,5
+82,1083d70c-a777-43bd-bef7-c7d72857ff11,Vicente Máximo Barceló Lobo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:37:37.188309,classic,,5
+82,f07fd43f-d7eb-4804-8209-d8bcf1f311e7,Nazaret de Chaves,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:42:51.467794,without_onion,13.67,4
+82,5280b2e4-9f7d-4564-a560-1a67940a690d,Federico Arjona,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:07:58.039202,with_onion,N/A,1
+82,fd2acbf6-09b6-4492-a3e8-9832b3f869a5,Conrado Piñeiro Morillo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:26:47.379571,with_onion,,4
+82,8e51ed5c-eff0-4e48-9e69-d434a5a4e7b1,Zaida Gálvez Feliu,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:33:21.670344,vegan,,2
+82,d21b03bf-685e-46c6-80d9-0a1e1ee0b48b,Isabel Novoa Cuervo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:59:36.308506,vegan,N/A,5
+82,71f18208-e6c7-452e-9470-0706a3584152,Encarnacion Paredes-Melero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:23:29.840868,with_onion,N/A,5
+82,7688246c-15ee-484b-8c8b-9920679602d8,Ramiro Martin-Fabregat,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:30:31.350673,with_onion,14.67,1
+82,0d80a371-6a65-4560-82ab-1b8f62514779,Santiago Benitez Tello,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:27:05.092752,without_onion,10.06,1
+82,cbb69877-5872-4024-82b8-5784970e90c3,José Antonio Ciríaco Balaguer Ramírez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:44:03.195307,without_onion,,4
+82,677729cb-8c5f-45df-8049-5515a252a230,Eusebio Girona Barbero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:56:16.040591,without_onion,N/A,4
+82,61cbde99-611e-4915-b083-d58faa2b8a32,Maximino Cañizares Acero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:59:09.843988,with_onion,,5
+82,e7b20d7c-8091-4da3-9e16-5814b2e2ba73,Manolo Ferrera Ocaña,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:46:54.789309,classic,N/A,5
+82,1d5a3f83-4c7b-4a73-9622-30f4d3df75e3,Dorotea Ferrera,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 22:04:52.376174,without_onion,N/A,2
+82,7f1a64fa-91d2-4272-9c46-a9c1defe1d38,Bautista Canals-Rodriguez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:32:30.340886,with_onion,,5
+82,a10d6b59-c895-498d-a373-2157e4ff43db,Juliana Vicenta Cabello Llamas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:08:43.907240,without_onion,N/A,4
+82,066b8b85-ab4e-4999-8270-0ac11edc80f8,Lorena Dueñas-Lumbreras,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:42:42.687115,classic,12.7,5
+82,9a759b67-5125-487b-9546-10ca65835354,Clara Viana-Artigas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:56:45.609233,without_onion,6.32,2
+82,6ef2d8ac-2607-4459-b0a3-7b88f86a62dc,Petrona Pol,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 15:16:19.334272,vegan,N/A,2
+82,3a7940d9-2214-4ad0-bf58-a6abc325b3a9,Maximino Sans Guzmán,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:35:21.704098,classic,,5
+82,994b6734-5f67-4754-a04f-00c96a9b435b,Cruz Nevado García,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:38:49.862234,vegan,N/A,5
+82,aef7c5a2-f35d-4582-b7a0-a32ec9663365,Piedad Nicolás Cantero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:27:46.999545,with_onion,,2
+82,aafc2701-ca5b-40b6-a57e-c501c3ec5ffb,Valerio Barbero,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:32:52.031669,classic,13.06,2
+82,0cc88905-30e1-44d7-9922-a29af5f1cd37,Amílcar Ferrera Novoa,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:04:25.808181,with_onion,5.65,5
+82,f382daf0-db59-4d2b-b528-8d10eba4dfd0,Baltasar Gaya Cano,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:53:29.661744,without_onion,14.01,1
+82,976f1d21-d38e-4e39-8f9e-ca1bdfa56581,Hector Abril Campos,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:13:30.748368,with_onion,10.83,1
+82,6a44631c-fd20-41a9-8119-8043c00a61c0,Aránzazu Peiró Piquer,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:04:50.327078,classic,,3
+82,0931fc84-d4e4-4682-9ec8-3bcca0ba05de,Maximiliano Montalbán Arroyo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:37:12.433286,without_onion,11.59,5
+82,3513bf38-41dc-480e-80cc-39be8b185501,Heliodoro Mascaró Fajardo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:34:04.527722,vegan,N/A,5
+82,15a8f822-6728-40e5-ac99-4f91eeeed635,Ángela Villena Riba,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 01:09:41.591848,vegan,N/A,2
+82,4fc70217-2fb3-4e99-9219-0d1af4aaf001,Pablo de Catalá,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:22:18.803950,classic,12.26,5
+82,e416d605-1bec-4755-b994-6d0ad313880e,Moisés Gordillo-Garcia,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:32:56.228908,with_onion,14.07,1
+82,892969cf-a0c8-45fc-80da-f60336df7cff,Marianela Acuña-Montenegro,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:06:14.239989,with_onion,,4
+82,441b7cd9-6b65-44a9-a8e8-dbae711902f1,Maximino Oliveras Lozano,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:28:46.242013,without_onion,,4
+82,b92db184-924a-477d-8aa8-131a6e89ad58,Priscila Gil Quintana,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:25:21.127498,vegan,9.72,4
+82,1335386a-5787-46ac-8d1d-6e3fd6b3db0c,Fermín de Vallejo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:21:37.902673,with_onion,N/A,1
+82,52530d46-6a9c-4078-8f69-d36b73ec2c58,Francisco Vergara Gomis,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:43:15.478629,vegan,7.57,5
+82,6eca3ae7-cfcd-41e8-a477-c4f3ae95fb52,Noa Ariadna Cabañas Herrera,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:30:51.693251,with_onion,14.64,5
+82,0e6ec553-b9dd-4d0b-a323-9722f9026c6f,Valentín Celestino Bermejo Mas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:39:50.961511,with_onion,,1
+82,699cbf41-0245-4136-b922-0c3b7316eae6,Herberto Castelló Mate,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:44:02.754626,with_onion,N/A,1
+82,7d6960cd-ba76-4b9c-a94c-323b6380eab1,Delfina de Marqués,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:28:34.301413,classic,N/A,4
+82,64145281-9cd3-4216-aa4d-3fb0e6e8d147,Román Cabañas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:16:42.056194,vegan,N/A,4
+82,62c4d29d-b2a9-45d2-b902-6352d9f423ab,Teresita Espinosa Galán,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 04:27:08.321338,without_onion,,4
+82,f86c8372-c0b8-455e-8d4f-cb431815814a,Elvira Arranz Manrique,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:33:22.171669,without_onion,,4
+82,4ca9ebee-7033-4917-ac13-338973653324,Che Anguita Gonzalo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:00:15.898916,without_onion,,2
+82,2ce8536b-5955-42cb-ade8-1d7985fb77a8,Toribio Larrañaga-Beltran,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:06:10.117202,with_onion,,1
+82,e4b8c845-3f53-47ec-b7a3-7f5e340df552,Román del Carballo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:13:28.189601,classic,,5
+82,4c441c61-3821-4023-bf28-6d575037e11c,Melisa del Aznar,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:31:23.997822,with_onion,,1
+82,c260c4c1-b10c-45df-b3f7-dabc8f9fdf5c,Elisabet Caro,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:10:03.547625,with_onion,N/A,5
+82,fd47a884-6536-42cb-af40-497a35a3102a,Marcos del Cánovas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:53:04.968787,without_onion,13.94,3
+82,b000e6c5-2ef4-403c-be9a-597e3424a6d4,Chuy Martínez Cáceres,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 20:55:02.101252,classic,14.65,3
+82,a133129b-dd93-47c2-b90c-b7130b77569b,Desiderio Jose Ignacio Herrero Nadal,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:01:17.630357,with_onion,,4
+82,eb87b908-0826-4a6d-9f56-e778c2560082,Paz Flavia Sedano Manso,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:36:38.140135,classic,,3
+82,10c0e478-45ca-45c0-a5c0-661b293b835c,Natividad Cañellas Sanmiguel,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:31:15.533123,vegan,N/A,3
+82,9fc1ef28-121b-48d8-86cc-7e51f72dfb32,Natividad Borrás Almagro,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:56:33.736375,without_onion,N/A,3
+82,b20388ba-de10-472a-a178-5efcefc88b35,Urbano Aparicio-Jove,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 09:59:17.051360,with_onion,7.45,5
+82,ea096175-59b5-484b-a67f-881136cdc4f1,Nicolasa Amaya Soler,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:38:27.951625,classic,9.82,1
+82,a4364e1f-b3ac-4bce-b0b0-47d4cfa02f20,Marita Herrero Carreras,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:43:58.349808,with_onion,N/A,1
+82,0e3c8e1d-b79f-4023-8d03-14f36645689c,Jose Miguel Lamas Cañete,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:13:23.845046,classic,8.06,2
+82,f5877c09-c9fa-40a6-954a-9b1bacd6ff7e,Amador Valenciano Sola,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:18:41.360354,classic,,2
+82,2f384dee-62bb-47c2-a162-bc6176b28203,Carina Español Merino,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 00:29:06.748219,classic,12.38,1
+82,5503c555-6331-46e4-8444-b266dd3d99b8,Chema Marin Cuadrado,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:54:45.547674,with_onion,,3
+82,d7e6f512-9668-4adf-b5b8-bdfe3ffbfd31,Anunciación Olmedo Cuenca,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 19:05:31.040803,without_onion,13.57,3
+82,0c224fe6-7241-4487-be2b-5c2f64c23218,Vinicio Durán Moles,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 17:57:25.254595,vegan,N/A,4
+82,6a40e8e3-236e-4bd8-b75f-4e94ff74fc94,Aurelia Campoy Roura,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 21:52:44.624844,with_onion,11.55,3
+82,03e047d6-bc8a-4051-bc1d-2a68b72ab005,Ciro Olivé Puerta,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:35:47.892203,vegan,N/A,4
+82,a2a3c961-ea95-46aa-9058-9e8b678672f9,Hipólito Falcón Porcel,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:07:25.356362,classic,N/A,4
+82,a7e4eb65-883d-444e-9783-c3f9da9daf38,Guadalupe Cáceres,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 13:22:25.245044,with_onion,,4
+82,34baf678-545b-4fe6-a752-9292a759ff04,Regina Blanes Gibert,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 11:42:46.969481,classic,6.85,2
+82,f787b25b-af7c-4b8f-a863-1583f08996d0,Quique Castañeda Iriarte,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 16:07:00.683340,vegan,8.95,3
+82,4b6739a4-1e78-4b52-9aef-7c423233b8a7,Víctor Romero Alvarado,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 12:55:43.061535,with_onion,N/A,2
+82,c88c1197-4873-43c7-bc65-ba8d223eeb46,Álvaro Valenzuela-Angulo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 10:23:08.928926,classic,,3
+82,570cd8e7-5e4e-4cb5-8343-bac27c1ea28c,Dimas Pont Páez,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:18:06.740314,vegan,N/A,3
+82,b9e21a28-78b6-4f35-9092-a9c6c4b3f9bd,Trini Marí Salinas,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:10:16.712576,with_onion,13.06,2
+82,32bf5432-c8b1-4c4b-952a-32f6e16674e9,Yésica Vilalta Revilla,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 07:16:14.319753,vegan,N/A,2
+82,f607c55a-d9c2-4963-b4bb-2dfa20701fc6,Eliana Blanch Santamaría,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:22:03.920777,vegan,N/A,4
+82,cb17cf6d-21cc-4d45-9826-8f7f29b3ced0,Demetrio Bustamante Company,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 03:41:29.377167,without_onion,12.31,5
+82,6349f838-1f79-4c6d-8440-6d6f53732301,Josep de Pombo,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:47:41.082549,classic,12.68,1
+82,6aaed439-fc9d-4a52-b0b2-9542e5649a89,Adrián Pinedo Pla,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:34:45.946047,without_onion,,4
+82,9c23a165-1618-454a-b1db-ffef592f7588,Clotilde Prada Taboada,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 14:31:01.053066,without_onion,,4
+82,12c21c9c-2c47-4be8-80e5-5f6b3f24ecee,Maricruz Figueroa Lastra,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 05:17:53.287045,vegan,N/A,1
+82,c02f8b82-1cf1-48d0-9947-dc693963b51d,Ángel Taboada,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 23:39:13.887701,with_onion,7.2,5
+82,1cef8793-c469-41cd-9109-228a453f1f54,Mónica Pina Jara,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 02:04:14.178435,vegan,,5
+82,fc1b7d77-710c-449b-92d9-edc1ccae75b4,Ciriaco Peñas Padilla,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 06:56:32.609442,classic,N/A,2
+82,b8625361-5a43-4c62-916a-276a066b3bb0,Nico Chucho Acedo Rubio,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 18:58:20.047242,with_onion,11.2,5
+82,87104b3f-4f02-4c72-b704-8b134e9da9c6,Gustavo Mauricio Martí Manrique,Bilbao,"Pasaje Jafet Casal 628, Ourense, 33169",2026-05-01 08:14:34.632248,classic,N/A,4

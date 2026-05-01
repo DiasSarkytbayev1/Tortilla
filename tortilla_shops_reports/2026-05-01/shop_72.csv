@@ -1,0 +1,173 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+72,979a6556-95fe-4b0a-90cd-aca34b9f9f65,Eligio Guzmán-Leon,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 19:40:53.731335,vegan,13.37,5
+72,ee175489-b355-485b-a3df-825b102bf040,Herminio Granados Calatayud,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:28:42.060903,with_onion,10.64,2
+72,5de3c488-a9a0-49a1-8cf2-152ff84f98d7,Lourdes Aramburu Heras,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 07:49:38.362836,classic,10.14,1
+72,68fdcceb-4173-4a24-8879-6ec90fbba548,Gaspar Abad Esteban,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 11:34:38.734351,classic,N/A,3
+72,d54fd138-295d-41cf-b002-3fad5b7c3f29,Bartolomé Cabezas Gómez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 06:44:49.276115,without_onion,N/A,5
+72,528b1215-f66a-4635-829f-122b1d61f2a4,Isabel Castelló Nuñez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 07:15:58.970041,with_onion,N/A,3
+72,9aa7f951-bbcf-4d7a-8838-78f519524e99,Fito Nogués Cuesta,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 00:29:11.404087,without_onion,10.19,2
+72,3210fca3-9536-4755-8c7d-8bf720f668f2,Alcides Alvarez Mayo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:28:23.315390,vegan,N/A,4
+72,f8609bcc-d40c-4c61-963c-b642b479729f,Guadalupe Nebot Abellán,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:03:14.830158,classic,14.73,5
+72,692d1fda-8317-47b7-b1d8-9ea6eca18a8e,Amparo Pérez Cabrera,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 12:08:45.265223,without_onion,,3
+72,faba6bf5-ccd7-481e-b5af-b4284234d511,Azahara Cantero-Collado,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 23:53:08.413670,without_onion,N/A,4
+72,f76ac6d3-1115-4a84-9ff6-fbd7f9cd4133,Valero Gallart,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 06:46:51.309908,vegan,N/A,4
+72,0aaa5b36-a7e5-409f-aea2-6d9c51dce069,Diana de Pinedo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:50:40.549293,vegan,,3
+72,17a07a05-7621-48a7-8a6a-b1f6dcfa935c,Pascual Cabezas Bautista,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 08:38:39.324319,classic,N/A,3
+72,2c40f886-89f2-42da-a29d-1e3ca2e1a2a7,Federico Bilbao Palacio,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 23:34:25.005581,with_onion,,5
+72,5c805bd7-9d58-49f0-badc-e53f99ca47b0,Óscar Vaquero Arnaiz,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 19:12:11.824865,without_onion,10.82,4
+72,48293bb8-a90a-495e-a5eb-b19fe9b72602,Quique Tomé Mayo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 23:11:35.199721,without_onion,N/A,4
+72,15c6071c-bd1b-4b14-b00e-44b0814b48fd,Aristides Jose Miguel Narváez Olivares,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 04:59:24.391887,vegan,,5
+72,d0dc53b8-a6b5-4315-bd61-045931ffacec,Trinidad Alcázar Ochoa,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 16:57:31.433614,with_onion,13.42,5
+72,7a7881fe-4cdc-4569-8113-e2a74487a28e,Flavia Romero Águila,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:20:26.661908,classic,11.65,5
+72,efb056f3-396b-46a9-9324-29f38e786e4e,Victor Jover Tolosa,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 08:40:30.962199,with_onion,10.7,4
+72,2053bf92-4698-4bc1-a4cb-7ae9dcc0b4cc,Anna Noguera,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:44:43.849486,classic,N/A,5
+72,34d69534-b79f-4378-97cc-b11bccc03c1c,Alejo Gárate Poza,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 23:21:47.887401,with_onion,N/A,3
+72,eb8f4f54-d61c-4638-87b4-45f251bbbd75,Lourdes Pujadas Niño,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 22:04:52.192205,with_onion,,3
+72,70dd6cf9-f931-445e-8ec2-0002594b9254,Rómulo Barco Ruano,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:48:00.744283,without_onion,13.29,5
+72,05dafe9d-3138-4217-943a-5dfb9986f33d,Adelina del Santana,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:24:57.513622,without_onion,8.42,1
+72,2ba0aa35-d1db-4119-a065-d4a7dfe6ec32,Pedro Salgado Saavedra,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 11:22:46.304642,without_onion,N/A,5
+72,e8aee3a6-4ff9-41f2-b489-8efa45be8b6a,Américo Angulo Montserrat,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 01:07:56.535144,without_onion,,3
+72,fd8bb401-0459-4d84-93c9-c74cd9b45308,Pilar Mate,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 17:07:16.328933,without_onion,N/A,2
+72,02e5a5a0-d4a0-4ca2-bf61-5b211edbed6e,Belen Villaverde,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 21:55:16.157578,without_onion,N/A,5
+72,78435aff-c035-440d-9116-4f6cacafdf85,Brígida Modesta Maza Menendez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 16:54:29.248282,vegan,N/A,5
+72,497ddb5e-a18b-4e37-aeeb-e84f2e9414b4,Jordana Solé Mercader,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 16:07:29.981810,with_onion,12.68,5
+72,bc31b378-d34c-48d9-94fd-630b16058c49,Lilia Gomez Arregui,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 22:49:27.910111,classic,6.76,3
+72,e7c36baf-4d06-48f6-8e39-4e5edec04416,Gertrudis Riera Oliva,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 17:06:13.389028,without_onion,N/A,5
+72,5c7af052-4236-4733-8cd7-5368c2846516,Camilo María Gárate Losa,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:15:56.062614,with_onion,9.72,2
+72,072bc618-86c0-4bb1-a2ec-a5dea3fb0b98,Martirio Manuelita Rosell Guitart,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 01:11:47.242037,without_onion,10.65,4
+72,0a1ed35b-393f-468e-b928-bf06e9c6cf67,Cebrián Alegria,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 21:48:34.826021,with_onion,5.04,1
+72,1e8240c9-d4d7-4f7d-82bc-b51b3ab0d7c6,Jeremías Gimenez Azcona,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 17:14:00.787677,without_onion,N/A,1
+72,1b5d72ee-6a04-4208-aff8-38b5f816894a,Ainoa Ferrer Bas,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:15:19.044947,classic,N/A,2
+72,ad65b514-6503-45d9-a48c-ece5253f1351,Maximiano Botella Mariscal,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 10:36:37.232464,without_onion,N/A,2
+72,184c9ad8-c5fd-4934-b123-3ee94750dc1a,Germán Villanueva-Aparicio,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:38:38.318261,classic,,2
+72,e6e6a9d8-2080-4ab8-aba9-849cdc0a5296,Celestina Angulo Jove,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 19:59:45.518991,with_onion,,2
+72,8bf2792f-4675-4223-8074-77ebdd9e158b,Priscila del Valero,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:20:37.457234,without_onion,7.41,4
+72,a542820f-792f-4e2d-8418-c76aac062e80,Cosme Carpio Badía,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 10:09:33.026153,classic,,2
+72,4f66446f-d6cd-4c8b-b00a-4c0cc8a99ab3,Alcides Sanabria,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 12:24:36.100815,classic,,2
+72,4c5b1f9f-bb66-46cb-9e7a-3a36271f313c,Guiomar Castells Barba,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 17:31:48.732565,classic,N/A,1
+72,558790d1-a634-4a0b-a50a-850e6f1766f8,Isabel Lasa,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 12:47:40.768648,without_onion,,4
+72,23c045d4-c187-4e92-a631-eaff6b419b3c,Yésica Noguera Soria,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:37:32.367466,with_onion,N/A,1
+72,938319a5-742a-4096-a94f-88e6c0282cfc,Juana Gámez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 10:04:59.835309,without_onion,N/A,5
+72,6e36a1f5-cfad-4d39-9b09-10592da30f97,Amando Domínguez Jurado,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:00:08.807177,vegan,,2
+72,f93090e1-51e1-4126-a669-bbd60d6e9d5d,Fernando Noguera Llopis,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 10:46:51.368972,classic,N/A,5
+72,11bbb99f-e0bc-4207-943a-d87a83a5d6c9,Remedios Pinedo-Echevarría,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 17:55:41.324926,vegan,13.72,5
+72,d0cbb5dd-6ed4-46ae-a77e-3af9cd6c50fd,Nicodemo Pombo-Hurtado,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 04:17:30.960084,vegan,7.34,1
+72,c9f47cec-b991-4776-b3e7-c78d9c09d0f4,Hortensia Cintia Márquez Cerdán,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:33:24.155385,classic,N/A,4
+72,fabd343e-f280-4c10-b8c6-83f511d9ece4,Margarita Rojas-Calatayud,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 09:04:44.572857,with_onion,9.26,3
+72,7f3c4e2a-48ab-4d35-a4b7-a3d76af85e60,Lalo Carreño Sancho,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 21:56:02.733334,classic,6.84,2
+72,c63e78d6-4781-49cf-98ea-bc1761db979b,Teodora Tirado Moreno,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 11:51:47.701064,with_onion,,2
+72,9975d9e4-febf-4bac-b56d-d70782c35c35,Luis Miguel Sanmartín Vall,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 00:26:16.185828,classic,N/A,4
+72,c1a37a5c-842c-48bb-99ac-6f1fc092bb11,Pastora Rueda-Pedrosa,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:49:55.802164,without_onion,,2
+72,f7bfc3fc-5de8-419a-89dc-97f05269e91c,Amanda Requena Sanmiguel,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:06:52.356457,with_onion,,5
+72,9c423c94-07d2-475b-b0c1-397fc77a8a76,Domingo Ávila,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:27:01.910438,vegan,N/A,3
+72,dccd731a-9ebe-4d40-9ea8-3cd23aa6ca0c,José María Vergara Sevillano,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 06:58:13.315470,with_onion,6.43,1
+72,2fda18be-64f6-4658-8441-811681e6bccc,Cristian Angulo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:17:56.461693,with_onion,,1
+72,bd3ee7ad-5b42-4b9a-ba62-8e0dd3235be8,María Jesús del Bru,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 17:26:17.831908,without_onion,,5
+72,aa060984-2d90-43fb-8201-e4dd3227248e,Yago Martín-Ocaña,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 10:03:33.093160,vegan,N/A,1
+72,ce8a3d5c-7588-432d-9272-b81b1eae3549,Celia Rosa Navarrete,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 09:29:31.980045,with_onion,N/A,5
+72,775d94c0-e1c3-4450-980e-97aca91c24ed,Margarita Palacio Corominas,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 01:50:46.100081,without_onion,,5
+72,ba004757-695e-4bd0-b708-96ebaf0fb1dc,Ana Madrid Pastor,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:00:08.500026,vegan,N/A,2
+72,3fb7d964-5aaa-447d-aed1-229e6928d165,Charo Cid Perelló,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 19:00:52.829956,classic,N/A,1
+72,d587e53d-7edd-4e8e-8d47-301178e1527d,Rufina Sáez Garrido,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:29:47.436293,without_onion,N/A,1
+72,70bc1876-97d7-44cc-970a-35b73f41d668,Luís Alarcón Cabo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 21:25:22.331254,vegan,N/A,5
+72,aa3342c3-e7d3-4474-8ae6-0bd2d8c66c46,Herberto Torres Collado,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 04:12:26.881016,classic,,5
+72,6415ae18-01a4-40dc-9a91-8d6a36dddd3b,Mohamed Apolinar Espinosa Abril,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 10:06:50.564531,without_onion,11.88,2
+72,cb130e59-d4e9-461b-9d55-77d22e9dd647,Rubén Valera Iborra,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:11:23.087248,classic,N/A,4
+72,0a6dfea8-21c9-422c-8277-c65c38934031,Mario Ponce,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 10:37:11.627491,without_onion,7.56,1
+72,1ff2f987-3faa-4d3d-a52e-bebfe5c49da7,Nacio Costa Cepeda,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 16:35:32.420760,without_onion,,1
+72,766df339-bf7a-44cf-ae13-45c2beac990b,Griselda Velasco Verdejo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 19:44:47.083242,classic,14.1,1
+72,d9976543-5b35-48ac-af22-93e1c09f15f0,Jose Manuel Berenguer-Garay,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 09:10:53.880604,classic,6.9,3
+72,bffba125-a0d4-45d6-8228-8e22313bd2d9,Isaac Peralta Canals,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 12:43:44.302131,without_onion,N/A,1
+72,130fa511-427d-409e-832e-f9a8424c490c,Macaria Bas-Pedro,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:01:09.472225,vegan,N/A,2
+72,75e9b2dc-0757-4368-903d-3274cefdcc8d,Gema de Méndez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:57:11.342785,with_onion,N/A,2
+72,43982124-cfcd-415b-b632-a08c9df46341,Asunción Carreras Oller,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 02:26:30.841040,without_onion,10.74,5
+72,c1ca8239-1965-4e81-acf8-98d8f8272ab7,Máxima Sobrino Roldan,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:45:37.990239,vegan,N/A,2
+72,32b30913-1fa9-43d2-b0c5-8aa499dc4dd9,Ciro Fuster Guardia,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:21:09.067605,without_onion,,1
+72,34dda36b-6143-42ac-8e93-f8b967c148f6,Gabriela Sanabria Amigó,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:58:00.635926,without_onion,N/A,1
+72,cffbf00c-2ef9-4189-96d8-0e444caf5ad8,Edu del Posada,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:11:55.572608,classic,N/A,2
+72,545684b2-d40b-4e91-ab46-7586c003efb0,María Dolores Bertrán-Aguirre,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:48:27.072477,vegan,,2
+72,8488c2e7-156e-4d1f-a279-63b261e6e3c5,Rufina Maldonado,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:18:31.022995,classic,,4
+72,c8b6310c-329c-48f0-9806-57d935b9bc01,Estela Iglesia Isern,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 08:29:05.459147,with_onion,N/A,5
+72,e4579917-465c-4692-8a43-3fe93c382860,Perla Piñeiro-Hernández,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 07:29:08.533879,vegan,N/A,3
+72,5ebc24c1-6792-4623-b24d-a5d3e1e031e9,Yéssica del Morante,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 21:01:15.557560,vegan,,1
+72,d7259ae6-9c54-476f-bc32-7362865f7806,Florina Blanca Pera,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:52:41.061411,with_onion,N/A,2
+72,4825a5c6-d715-49e8-ac00-3ff14dfb56ba,Matilde de Baños,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:42:59.835336,without_onion,,3
+72,2af0ea08-5e39-4eb3-92d9-df1c51c7176d,Édgar Porcel Barral,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:47:06.831399,without_onion,7.04,1
+72,a24d6d91-d273-4d46-9d0a-2adac3b1c9e2,Juan Pina Pedraza,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 10:47:44.629450,without_onion,14.11,5
+72,92b4c337-8c4e-4357-9555-b78b9159b09c,Lisandro Puerta Ibarra,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 09:56:39.479268,without_onion,8.46,3
+72,9e4922f0-8e21-4106-98e3-cd89c623edf8,Vidal Iriarte-Ribas,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 19:13:05.280266,vegan,,5
+72,551d78ff-9019-46c3-9b93-ab5bc6b912cd,Pastora Milla,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:25:29.566867,without_onion,,1
+72,66508dfc-7639-440e-bf05-c8f54acfd071,Marita Casandra Salamanca Sans,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:24:58.184726,vegan,N/A,3
+72,d143ea0d-e1ea-4548-83da-b19a8dd406cd,Jose Miguel de Diéguez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 08:58:43.983745,without_onion,N/A,3
+72,12577ad5-1f35-490f-a4e5-bc8b86bc4b9a,Severo Blanca Gallo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 00:38:56.564037,classic,,4
+72,c69a6e4b-bf56-4f5a-919d-054269a8b3c5,María Rivas Anglada,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:54:43.458671,without_onion,9.01,5
+72,ff196426-b2dc-477f-a767-22ce94536b48,Álvaro Tovar Blanca,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:58:30.745585,with_onion,13.8,4
+72,c9d06931-26cb-4e5f-8880-0cca5f68846a,Brígida Rueda,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 00:36:25.382658,without_onion,N/A,3
+72,b46cab96-712b-4f34-9366-a7ac7ffe1370,Bernardita Griselda Palma Barrios,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:26:17.763524,without_onion,N/A,3
+72,d8450a2b-199e-46a6-a3d4-e639b5d3dc91,Rosalina Segura-Miró,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 16:30:36.123908,vegan,N/A,1
+72,1723741e-4dbb-4d64-8a19-b59f65ed425e,Felicidad Mosquera-Mate,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:33:39.037204,vegan,,4
+72,06ae73fc-caf9-40b2-836f-caffa2748757,Ignacia Alcázar Barral,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 02:25:38.997014,classic,,4
+72,be5409f4-9838-4256-af30-78193c26eaa4,Telmo del Tormo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:11:01.970224,vegan,,5
+72,20529d02-0a74-4440-b2c0-4dc8f79db4c8,Luz Pareja Pons,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 07:26:31.956023,with_onion,,4
+72,27d48bbe-535c-4c1d-9fa6-239acc0df7c1,Carlota Ropero Sales,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:21:00.115465,with_onion,6.54,3
+72,79a46f2e-861e-48bf-8e52-3ccf86b2dbd9,Gala Montero Fabra,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:13:14.914726,without_onion,,5
+72,69abbb51-9f9f-4c5b-a8bb-2ef61f6c86ca,Cruz Pera Tamayo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 03:21:06.382576,without_onion,8.78,2
+72,2b6e0150-d14f-4c29-828a-862b4e0f7748,Ana Belén Navas,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 19:15:35.062338,without_onion,6.37,2
+72,7c0302e3-9589-4a51-b890-319b0afe6266,Miguel Ángel Santos Abril Cámara,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 17:50:40.692425,with_onion,14.48,4
+72,924092a8-3478-4ffe-84fa-4952eff3e61c,Roque Jaume Ríos,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 21:18:00.965636,without_onion,N/A,5
+72,81484f74-ffe8-481e-9023-6e38d4fbb187,Blas Calzada-Tolosa,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 23:03:44.001461,with_onion,,5
+72,194ddb05-40d8-4cd2-832f-858ccf4769a8,Pedro de Cabo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:26:59.412480,classic,,3
+72,2a6ae4fd-34bb-4405-9617-9c14cfd779a1,Regina Santana Iborra,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:32:14.911895,without_onion,,4
+72,fc7140bc-b531-4f64-8239-8582787da779,Saturnina Castelló Lladó,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:14:19.478039,classic,N/A,5
+72,e37c4891-bd0c-41a8-a23e-8f915cf51323,Pilar Isern Canals,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 22:48:03.969682,with_onion,,1
+72,df4a9df5-9c71-4ed8-ba33-25f9c324ccaf,Elpidio Vila Anglada,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:06:36.849548,without_onion,N/A,2
+72,2d409488-d67b-411f-8699-97530f415a91,Néstor Amores Pazos,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 23:58:53.188463,classic,,5
+72,17c71705-5ee9-4832-ad34-1e599d97cb1b,Vito del Juan,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:42:54.357828,vegan,8.79,1
+72,5709e0ff-4b53-4c9b-831b-6a2d6f96bbd1,Susana Gaya Chaves,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 22:49:55.414430,without_onion,N/A,5
+72,019c25fe-ff94-4b13-99c6-de4692e02490,Clímaco Teo Carbonell Echeverría,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:19:07.417649,with_onion,9.22,5
+72,7ff88759-0495-44c2-beb8-19a10b6a9b35,Paco de Torre,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:08:39.010181,vegan,8.25,2
+72,e5672cab-e10d-4704-a57c-dbc438381ae6,Evita Berenguer-Guardia,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 09:40:12.400213,vegan,N/A,5
+72,e3053ad4-3ac6-4735-bfaa-3f36a0184b20,Urbano Barriga Barba,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:31:50.026261,without_onion,,5
+72,9704188d-4e99-4b37-a337-8547f5752da9,Laura Vera Águila,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 22:34:14.080544,with_onion,N/A,5
+72,7283b849-9726-4490-b9d5-9ab92c39dc4f,Octavio Bejarano-Marti,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:45:55.236863,classic,N/A,4
+72,c75deb8a-031f-46c3-8c8c-6901f532a1c9,Pastor Mate Oliveras,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 16:29:46.498872,without_onion,7.97,4
+72,afa73d30-914f-4192-a6ed-a2c3fbf03c38,Borja Gordillo Pelayo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:54:27.140037,with_onion,10.3,1
+72,ca5f381b-6c58-475d-ac7d-0cc7979cfabd,Marcio Ayuso Belda,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 11:03:53.536959,classic,N/A,4
+72,7f0d33f8-95f2-452a-9613-5610cfa62575,Leocadia Díaz Casals,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 04:41:30.076993,without_onion,,1
+72,6fd00717-1039-49a7-827a-beeee83829db,Jose Miguel Boix Sainz,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:24:22.765383,classic,,2
+72,4113811f-9a06-4244-a848-204ff772c304,Benito Agustín Villa Gomis,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 09:12:45.957006,classic,10.05,4
+72,fd282cae-12fc-4bb9-b351-1292d3252d8d,Aroa Calatayud-Ayuso,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 19:53:15.567503,vegan,6.94,1
+72,f39fa151-27d6-443d-8bdd-7c7708031b1e,Laura Oliva Pedro,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 01:29:29.688556,with_onion,12.79,4
+72,d7d13399-1c86-4d46-8987-d328c2f29f21,Yaiza Estrada Clavero,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:36:55.666634,without_onion,,1
+72,9cad8640-a962-47b8-998e-15382ac30754,Ramón Luis Valentín Almansa,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 10:30:55.146342,classic,5.5,3
+72,3c447faf-1878-4d4c-90f7-42440b0a2499,Plinio Manzano Saura,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 17:52:52.497890,vegan,8.25,1
+72,524e49da-be4e-4edb-b061-842a3fd517fb,Noé Anselmo Sebastián Palma,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 07:59:45.657413,with_onion,N/A,1
+72,379f78c6-4967-400d-8800-a95215914539,Ramona Chaves Antón,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 01:57:09.861287,with_onion,10.26,5
+72,4c41a218-6590-48a0-bb83-0922c98b0d89,Sofía Ortiz Sarabia,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:17:22.690311,vegan,,4
+72,f0c42b88-a029-4230-b1cf-9fb135f75aca,Marcelino del Silva,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:34:45.104851,with_onion,7.13,4
+72,5c6f7379-1da1-4622-a201-01a1dbdd57db,Sandra María Del Carmen Vázquez Toro,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:16:57.596937,without_onion,,1
+72,d1bc4dec-38d1-4e00-a678-19061ad4130d,Coral Angelina Barrena Rico,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 01:12:15.397085,vegan,,3
+72,44b32e81-5999-471e-8c74-05c5030e4313,Artemio Corral-Milla,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:35:28.162204,with_onion,N/A,2
+72,3f38cd90-9e00-49ef-aa0e-73067eb49b6d,Estefanía del España,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 14:40:04.859341,classic,N/A,2
+72,892bcefb-0f6f-4d79-89d7-8f2307475965,Benita Arana Ropero,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:58:17.209056,without_onion,7.63,5
+72,253d3064-b7c1-43a9-9e6b-bfb3a8d04322,Nidia Sancho Andres,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:53:41.250018,vegan,,2
+72,9125b30e-9eb1-4454-bf8f-4da3bff7f7de,Dionisio Bilbao Pardo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 13:57:16.835282,without_onion,8.8,3
+72,cdcb437a-b825-4b6d-8226-6e6e30239121,Felicia Alvarado Bosch,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 02:12:52.506754,with_onion,14.09,1
+72,9b4c2bda-3859-43ed-aa76-c7f778a9ec71,Alejandro Echeverría Lladó,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 06:17:59.351836,with_onion,13.03,1
+72,141abf0c-9292-444d-b1d2-39647ccdf192,Modesta Burgos Vizcaíno,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 00:36:32.652517,classic,N/A,3
+72,433c2a6e-7b5f-4967-9ec8-035ce4bed781,Carmina Cárdenas,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:49:08.453653,without_onion,,5
+72,a9deb9f0-aa30-4dd2-9451-d00e6bf1bc22,Antonia Grande Robledo,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 05:25:54.923360,classic,N/A,4
+72,f278ec4e-4137-453d-a339-72dbcec78b0d,Tiburcio Manu Belmonte Guitart,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 21:10:19.091425,without_onion,,1
+72,c06cf1bb-0ffb-4d01-93d1-73388db2a425,Delfina Cabañas-Cid,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 03:30:58.512439,classic,,1
+72,319b0004-79ca-4ea6-adde-6ef2d1de244f,Yaiza de Luna,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 03:31:31.790512,with_onion,12.51,2
+72,79cc7663-cb55-4923-9f38-3728a4342bb5,Amor Vila-Roman,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:22:59.206365,without_onion,7.59,2
+72,cd7152f8-b961-40f8-b432-ae97ac81f2a2,Paz Canet Piquer,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:57:02.248143,without_onion,,1
+72,e8401593-307a-4474-9259-ded24f83dd8a,Eliana Lucila Alvarado Cid,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 00:53:21.885027,with_onion,,4
+72,867f06a0-58fa-4107-9a5b-95d887a04cd7,Obdulia Campillo Abella,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 15:17:33.300426,vegan,,1
+72,f1609c1a-a28f-42da-9c60-10d1dea3aceb,Manuel Vallejo Bermudez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 23:38:52.584795,without_onion,,2
+72,49bda4c2-a8f0-4b16-9ff2-99e9ba615713,Germán del Roman,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 18:40:42.518023,with_onion,13.63,3
+72,e2116a42-ba36-458e-ac99-f73d45a75d64,Teo de Juárez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 20:25:42.985193,without_onion,N/A,1
+72,ff883bea-fcfc-43a2-a704-da87348cc8b4,Benigna Toro Pinto,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 19:10:24.496453,without_onion,,2
+72,e9ea5b07-1c87-4b35-84ad-937ed2a7b303,Emelina Palmer Domínguez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 09:51:34.908286,classic,,5
+72,d5237dcf-e86e-4263-b9a8-15f38710c2c0,Leoncio Cardona Alarcón,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 22:00:44.868905,without_onion,,5
+72,5eac6a0d-f6df-45a4-b929-92fa67fcd400,Bienvenida Aguiló Vélez,Zaragoza,"Pasaje Alfredo Lledó 569 Piso 1 , Melilla, 25470",2026-05-01 12:42:55.320044,classic,,5

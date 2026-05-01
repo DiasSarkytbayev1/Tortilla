@@ -1,0 +1,58 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+31,8e06f246-3104-4e6a-8ac6-bf8cc39ce9d1,Encarnación Andrade Sáenz,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 13:59:00.359336,without_onion,12.03,3
+31,76c3e768-062e-410e-a081-3dc2889659f9,Cleto Maldonado-Ugarte,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 09:14:28.814130,classic,,3
+31,581be798-634f-4c85-998e-759bd6dd9034,Isaura Marí Amaya,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 00:52:34.620302,without_onion,,2
+31,f773d995-9c5f-46c9-85e0-eab327f05bac,María Carmen Varela Juárez,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 03:55:35.421959,vegan,N/A,4
+31,792d1313-8f04-4535-b34f-c715234379d1,Maricruz Cabello Pozuelo,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 18:24:51.507928,without_onion,N/A,5
+31,a2e848a0-e331-4556-b5de-a86344d07a0b,Benjamín Miranda Olmedo,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 09:33:17.950099,with_onion,,2
+31,743d3022-8024-4eb8-b827-76700571f40e,Nicolasa Marquez Falcón,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 14:44:54.427766,classic,9.53,3
+31,d74d0f42-62d9-4b8f-999e-1cb32171bd60,Araceli Juan,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 04:19:47.123736,classic,13.19,3
+31,fc8a21b9-e5a7-45aa-8dc9-273d4cfe07af,Sabina Rozas Carnero,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 16:50:00.559254,with_onion,N/A,2
+31,1beeddb4-261e-41e6-83b8-d1147c7181ef,Isidora Estrada Valero,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 01:12:53.030680,with_onion,6.5,2
+31,07c7b046-fdf4-422f-90aa-6f4a923d5ea7,Estrella Vendrell Solana,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 10:00:52.104026,classic,N/A,3
+31,a743cc4e-584e-460c-b4bb-869cf503e082,Evaristo Azcona,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 01:00:55.417511,vegan,,4
+31,9006e1d9-6a16-4150-8f7a-59b9b2d76cb4,Clementina Flor Izaguirre,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 08:52:34.765914,vegan,,2
+31,789dbad6-df0d-4fd2-85e9-63f406bbae5f,Fernanda Barros-Martorell,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 12:01:13.243003,classic,N/A,3
+31,e2766a03-2b20-4353-b876-67e78613d000,Jenny del Mayoral,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 10:32:05.823011,classic,8.65,2
+31,bcdad335-d8ce-4b25-9175-e7b712d2af6e,Roldán Benavides Cantero,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 14:10:47.259677,classic,13.62,1
+31,4b303449-7478-4f95-af9e-5845f9e27a0d,Fermín Castro,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 09:28:35.660310,classic,12.18,4
+31,3094ba1d-37d3-431f-b335-fcc4f46c8f7c,Ascensión Sarabia Salcedo,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 18:56:48.701169,classic,N/A,5
+31,98f62e35-e8fa-42e2-9f66-221eb46f57c4,Rodolfo Campoy Páez,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 06:16:24.680507,without_onion,,5
+31,c2a5dce6-4355-4d7f-a86e-0468084f131a,Amanda Cantón Alemán,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 03:05:12.146501,classic,N/A,2
+31,ae860ee3-162d-45b2-87f3-4312e59606d8,Mamen Solera,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 07:24:27.771785,without_onion,,2
+31,33caf5fe-5521-4e9e-b337-2d27a357b040,Yago Pardo Pagès,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 23:44:47.978380,vegan,13.31,2
+31,499a3e33-1302-40e9-85b1-2d191b629210,Micaela Olivé Chico,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 02:17:48.948870,without_onion,N/A,5
+31,93f6c48c-d99c-45cc-a5fc-16a088bc873b,Darío Pinedo,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 19:04:31.790649,vegan,,4
+31,2662a6a5-1669-47c4-985e-871892574630,Gracia Teruel,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 00:24:58.283880,classic,,4
+31,6b4a55d8-ce4e-4ff9-99b9-9e97b68a2aba,Asdrubal Catalán Castejón,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 06:26:07.378541,without_onion,N/A,1
+31,da7519fe-90e7-40d6-b284-3607deb78b75,Inés Jara-Bosch,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 14:29:30.459799,without_onion,,5
+31,5ac58b98-44d5-474f-bdbb-7e027f191fa5,Arturo García Alvarez,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 18:24:42.900116,vegan,,5
+31,998e97ca-f48a-4a34-be56-7e49559b59a7,Sebastian Pinto Bosch,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 07:35:28.039221,classic,,1
+31,e31146ad-ce86-4c0f-aa55-25354fb5531c,Ambrosio Avilés Torres,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 00:13:19.426303,vegan,N/A,3
+31,c63b964a-143c-4203-8925-3c1c19a79e18,Morena Peña Morera,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 03:04:57.042239,with_onion,12.18,2
+31,9f4740c7-1d7b-4a07-8ad4-58020cef8628,Melania Diez,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 01:00:55.261875,vegan,N/A,3
+31,62e0da54-172c-418a-8fb6-2f58ecd18408,María Teresa Solís Jaume,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 08:48:34.146259,vegan,,5
+31,c6c2ca90-8d23-4ccb-8614-2af50bf0262c,Carolina Otero Caparrós,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 01:04:08.755610,with_onion,,4
+31,563f6969-ab2c-46ab-bd15-3f104b940195,Teodora Pacheco Duran,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 20:44:44.374409,with_onion,,4
+31,5f5463d5-1c8d-43d9-90fd-db476d885498,José Manuel Cadenas Colomer,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 18:38:09.829621,without_onion,,4
+31,6e1b73d7-78ce-4b77-b043-b6ed68d13a19,Félix Pavón,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 04:04:21.622871,vegan,,3
+31,d5c33d08-52b9-4ebd-a1b6-db9d99b50cc8,Úrsula Arenas Téllez,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 04:46:26.204948,vegan,8.54,2
+31,0b9c1289-4e87-4a7e-b7ee-0e6ddacaf623,Teófila Llanos Valera,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 02:43:31.144199,vegan,,1
+31,45738bd0-cb6c-4af5-8e13-50c87570b188,Emma Xiomara Cañellas Jerez,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 17:52:53.521528,vegan,N/A,1
+31,5e884e4f-5b55-4f59-989f-f62ad59bd004,Leonardo de Nebot,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 12:40:43.467729,with_onion,12.85,5
+31,e2ce0098-f3d3-45c5-adec-4f3fc3243f43,Ana Sofía Montesinos Colom,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 04:28:27.861091,vegan,,1
+31,b4656f98-5a20-4dfe-a8b3-162433633b8e,Felix Jover Sotelo,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 00:36:18.573163,without_onion,,1
+31,95e54329-1a35-4d1b-a0bf-3a86bc970c50,Gastón Ruiz,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 10:29:28.054567,vegan,,5
+31,543780f4-20a6-4b40-988c-3394dd1854f3,Martín Jara Pomares,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 16:27:23.453376,with_onion,13.57,2
+31,c8748ce4-8353-4d2f-a442-1b9553d254cc,Irma del Perez,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 08:12:23.501283,without_onion,,1
+31,1bb3572a-5b03-4c42-b41c-b6cdd64a9115,Enrique Zamorano Armas,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 21:00:07.779202,with_onion,N/A,5
+31,baa5f6e9-b3ce-4d31-832e-1f71a034bc04,Jesusa Jordán Castillo,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 21:19:27.598570,vegan,N/A,4
+31,cd659f4c-9552-482f-b3bc-33a423cc3719,Eugenia España Antón,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 15:13:27.718275,with_onion,6.95,3
+31,9ba89da7-c089-4cae-b095-79aa35c19a0a,Eleuterio Sánchez Grau,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 19:41:46.684683,with_onion,9.56,2
+31,a5a4ac15-c9b9-4ea2-be93-6cb9643dda4d,Elodia Galván Cal,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 05:33:54.088809,without_onion,12.03,4
+31,edf53e36-9d99-42b4-a232-f1aaf2185caf,Victoriano Parejo Tejero,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 23:45:18.976278,without_onion,,3
+31,d489d92d-c7f8-4b9c-9c44-0fa11cc0d87b,Úrsula Nicolau Tomas,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 21:06:58.593303,with_onion,N/A,3
+31,b384deb1-996c-4247-b26e-43a9c8d63bc9,Anna de Valverde,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 14:35:40.678021,classic,N/A,3
+31,eadf9b9f-7ce4-4bb8-8667-d3e6cc9b0ad5,Evelia Huerta Botella,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 18:04:28.715054,classic,14.48,2
+31,c3c17904-a40e-4808-aaf2-17123579ef7a,Emiliano Viana Porta,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 11:38:13.921823,without_onion,10.68,2
+31,9a7c013b-fb5c-4a64-9813-27709b01261b,Rubén Méndez-Anglada,Valencia,"Alameda de Celestina Rivera 69 Apt. 37 , Murcia, 04989",2026-05-01 19:57:48.251444,vegan,11.9,5

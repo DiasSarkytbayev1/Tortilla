@@ -1,0 +1,457 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+79,12e6754b-1593-4e57-af54-8020a3e26c6e,Ibán Gracia Vila,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:10:25.913846,without_onion,N/A,1
+79,3eaf8efe-db9e-4b81-9621-7d5456791427,Otilia del Múñiz,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:26:53.923008,vegan,11.58,4
+79,df529b1c-51ce-4c29-a58c-fd0f6518564d,Saturnino Chaparro Castells,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:09:53.383560,with_onion,,4
+79,c7a27f27-3b06-4442-8928-dcd543514d5f,Reynaldo Estevez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:00:33.022317,without_onion,10.91,1
+79,26fb043e-7ea4-495b-b076-fa1edd8be585,José Abril Lluch,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:41:29.341721,vegan,,1
+79,c1d308ff-6b7a-400e-90d6-988023252489,Yéssica Morillo Rius,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:26:01.031176,vegan,,2
+79,4c31b508-af5d-4cd0-b457-0290fc21ed46,Javier Rafa León Roura,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:03:52.519955,without_onion,6.11,5
+79,a56500db-3d9b-466f-8253-d5656919c615,Humberto Calderon Bonet,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:18:50.942459,with_onion,11.02,1
+79,d99654e0-06c6-4f42-b301-9cc1a40abb23,Débora Sofía Estrada Plaza,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:37:48.965868,vegan,7.09,3
+79,6d84a80a-042c-4643-87f7-c5121422262e,Pedro Herrera Sierra,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:22:46.940493,vegan,,5
+79,0fc62958-2ba4-4692-b7d9-08a15f531f2a,Anunciación Cobos Santamaría,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:53:12.339585,with_onion,,2
+79,ef6eb875-6060-4585-8dab-454e739b7513,Cruz Peinado Quero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:46:17.295687,with_onion,,5
+79,5792166a-3552-483a-94bc-3a88e7e48075,Calixto del Iriarte,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:19:30.466511,without_onion,N/A,3
+79,96ad3d12-ab83-448f-af44-f192d40f6061,Josep Clavero Ballesteros,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:16:07.296582,without_onion,N/A,2
+79,82988da5-ca56-4375-8d7f-61b731824407,Visitación Ramirez-Alemán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:37:33.282830,with_onion,14.47,3
+79,cba35449-731c-4f1a-8945-bb72c51d90b0,Julio Clemente Barceló,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:17:02.486886,classic,N/A,4
+79,33b0afa7-4a73-4e49-89a4-42560da2f2fe,Bernabé Aristides Becerra Pelayo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:58:56.201544,without_onion,,3
+79,84e8420d-df3d-4c93-97a1-857b545c203a,Miguel Ángel Iglesia Francisco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:13:59.682224,with_onion,N/A,4
+79,56249bdc-97b3-4144-9703-1c62a6857fce,Juan Pablo Marín Iriarte,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:14:49.214497,with_onion,,4
+79,a3fe4e90-ebfc-47ec-86fe-c1a213050350,Feliciano Ojeda Manjón,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:08:16.828154,classic,9.03,1
+79,c28a5f94-fb0a-41cb-97dc-9abad60e611d,César Echevarría Alcalá,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:00:19.305694,without_onion,11.14,5
+79,2a81a734-b985-4a78-a55a-25e94d05838f,Teresa Goicoechea Prada,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:09:13.138133,vegan,13.81,4
+79,bb744fcf-5134-4d66-b969-5de9dbb00dd8,Ambrosio de Figueras,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:08:28.809414,vegan,N/A,2
+79,4359420c-233b-4889-ae61-5cf5fa524ffb,Sonia del Barrena,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:58:58.179457,without_onion,N/A,1
+79,41e1c1d6-ed9b-48f4-a754-596aa82fb058,María Pilar Muñoz,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:18:35.806232,classic,,1
+79,92751fc0-366c-4015-9e26-8797affc0f3c,Juan Manuel Roca,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:49:29.359740,classic,,1
+79,c1d48c98-990d-4a66-b02d-38a0a28eea75,Duilio Mayo Sanchez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:26:41.465909,without_onion,13.9,1
+79,89d91860-8255-499b-8aba-8ceeba02bb43,Vicenta Cárdenas Chamorro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:23:18.014368,vegan,,2
+79,df185964-b671-4fee-98c8-f37fad7ae68a,María Fiol Pallarès,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:57:49.654822,without_onion,,3
+79,28721d3d-0960-4ded-b60b-6e07b1588b0a,Jafet Marquez Espejo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:29:48.793705,vegan,,1
+79,4ab141c3-ca49-4a0f-b406-aaf78ac22634,Mercedes Sobrino-Escalona,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:41:48.353557,with_onion,N/A,1
+79,3382bb92-e8cd-492a-ad1d-604f66624bb0,Carmelo Guiomar Cerdán Calderon,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:18:40.542122,with_onion,12.35,3
+79,6fbaae4e-64f7-4090-86c9-6261c09d29e2,Hernando Sotelo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:22:38.361306,classic,,5
+79,10c8df8c-6d26-4eea-a715-d2f641c47a2a,Isaura Guzman Pedraza,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:44:45.371508,without_onion,N/A,3
+79,bbc1a8d5-8471-4330-a357-e560dbf12d06,Paulino Quero Rovira,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:19:53.708332,vegan,,5
+79,1c94d978-b46e-43a2-82ef-a47200a1f6b2,Edgardo Higueras-Torrens,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:05:43.383619,vegan,N/A,1
+79,870ddb5a-491d-45f3-bec2-8f484a719eb1,Bernardo Vara Guardiola,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:07:09.218952,with_onion,N/A,5
+79,705d5bc3-6280-4296-891c-a98054001691,Paco Egea-Ribera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:51:44.926498,vegan,,2
+79,f9c5dfe0-0a4e-4075-97df-c7f23861c93d,Paz de Vilar,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:11:22.362973,classic,,5
+79,db04990e-e400-458c-9563-c960a93bdffb,Soraya del Valenzuela,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:52:05.357087,classic,,4
+79,99bb377c-bbe6-498f-ae0d-9e2d27694008,Lucía Garzón,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:38:57.544456,without_onion,,5
+79,927533b4-0f34-49c6-a3a4-b45b689fb87d,Damián Aníbal Aramburu Cazorla,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:03:25.565257,classic,N/A,4
+79,9254162d-4cdb-432d-b926-1a225bf9cbb2,Olimpia Rosado,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:19:57.375980,without_onion,,3
+79,7874a0db-6988-48db-8fb3-aba78b333ee4,Miguela de Villalba,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:31:39.473288,with_onion,8.69,2
+79,9d643b07-f944-4f41-af5a-475d6f0502c1,Celestina Santana Galván,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:18:43.593907,without_onion,N/A,2
+79,62979e0a-2656-4edd-aa08-578be56b7e62,Fabiola Pombo Izaguirre,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:51:32.581858,classic,9.19,4
+79,e8f394b3-245e-4ba0-b445-3c0908d8e119,Eric Álvaro Cabañas,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:25:50.852660,without_onion,N/A,1
+79,e0483de5-d2b2-415d-911a-c78b80428ece,Luciana Borrás Cabello,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:20:02.247943,classic,N/A,3
+79,559408e8-a3b5-44c2-af5f-25308d6fee68,Rosalina Porras Sandoval,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:56:42.622465,without_onion,,1
+79,cc697002-5dc4-417d-a367-dbea7a0fe368,Flavia Bou Tirado,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:09:29.507306,without_onion,N/A,5
+79,df401ed4-a08b-4d5c-9846-7bc7f2d86fcb,María Fernanda Vera Doménech,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:08:57.366125,vegan,,4
+79,ed73a8e1-0bba-4f21-a4dd-71acf9e952b1,Marianela del Cervantes,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:50:39.517037,with_onion,12.32,4
+79,de558093-1b59-406d-b410-c07b2517123f,Cruz de Ballesteros,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:28:32.502191,without_onion,14.7,4
+79,f8a63a48-0292-4155-8bd5-89e35a0906ca,Manu Arce-Rueda,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:50:39.002727,vegan,10.85,4
+79,63ab2173-18f6-49fd-8ca8-8743a75a7af4,Darío Perera-Trillo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:26:12.465945,vegan,N/A,1
+79,9d0b596c-8c6f-4c1f-933d-9374904efdd8,Camila Anaya Hernández,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:47:12.102702,with_onion,14.46,5
+79,d76e845c-359b-4fd4-9a91-b9c09d3b1dde,Severo del Gonzalo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:55:00.581893,vegan,11.7,2
+79,10aae804-d99b-4909-96d3-71991794815f,Ámbar Salas Roma,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:24:12.543327,vegan,13.41,1
+79,34ae4211-efdd-4bc1-a7a2-351dd7ea017d,Quirino Mendez Abella,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:17:16.082877,without_onion,,5
+79,286e10ee-2d16-4ca5-a0c8-f21fae17045e,Telmo Arnaiz Somoza,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:50:42.510306,vegan,8.6,4
+79,4a2fe0cf-90a6-4be7-a5f9-3aa2a99539fb,Nayara Alcalde-Jordá,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:55:00.065746,without_onion,11.52,3
+79,aff483bc-5e1c-4b6b-9200-5cce5765b19a,Dani Cipriano Vara Oliva,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:28:27.442698,without_onion,6.93,4
+79,c6ca31e5-2820-4960-9ad1-80ac5c829b5b,Begoña Ariel Escobar Farré,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:10:56.119114,without_onion,N/A,2
+79,8bab64e5-27f5-41dd-9d63-4cf0e1686161,Luis Pagès Ropero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:58:10.522925,vegan,6.69,4
+79,f0c7a6e4-0390-44d4-a040-4b85204b115b,Cleto Gallego,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:57:12.242028,classic,9.88,5
+79,c151f05a-fd89-4243-a309-37c83f88e583,Ciriaco Ugarte Maza,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:02:12.669682,without_onion,6.34,5
+79,271aeb94-40d6-498d-b9c1-9b98e1a50d72,Yéssica Avilés Esteban,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:39:51.470485,with_onion,,1
+79,5a203e46-e972-4d47-abd0-ff8df35a40da,Ciríaco Robledo Canales,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:57:30.537400,vegan,N/A,1
+79,c5bdbc65-d199-4587-91ea-93648f6b59f4,Pablo Tudela Anaya,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:46:43.694575,vegan,N/A,3
+79,f03155e4-dfc8-46a1-b7d8-c99b15326b5b,Jesús Pera Cid,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:19:23.618540,without_onion,,5
+79,85a86795-69a3-491f-8470-9c099ce8b1f4,Ariel López Pizarro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:56:12.835089,vegan,7.41,1
+79,e05a88cd-b120-4c7c-801e-ae011528099b,Amancio Velasco Jordá,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:54:29.738324,without_onion,5.04,5
+79,8f8a66d5-a4cb-458f-904d-517bb8293076,Ascensión Martina Alberdi Maestre,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:37:31.432946,classic,N/A,1
+79,6ad0e7e8-bfa4-467b-a253-71d51023de4a,Eliseo Garcés Bou,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:50:10.168959,vegan,N/A,5
+79,60af0863-9856-4650-9921-108fc8c2b0b9,Pascuala de Santiago,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:03:32.895216,classic,8.2,4
+79,10b951ff-44c5-4066-b627-906c312396e4,Jose Francisco del Jaume,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:03:37.053273,classic,,5
+79,6d4d163d-4075-41b5-96ae-7bd44941429d,Blanca Cárdenas-Querol,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:06:10.537785,without_onion,10.05,2
+79,763ff684-f51d-4866-8d0d-e2f561769180,Bruno Baltasar Ballesteros Baños,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:55:50.245674,vegan,14.29,3
+79,0c43c794-6599-4d4c-ad05-ceb28e9f5484,Cesar Jover Amador,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:03:54.350483,with_onion,N/A,4
+79,46508097-4cb9-4a49-8696-ace217860fd4,Febe de Mínguez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:21:07.647402,with_onion,7.43,3
+79,0142d9f2-e191-439d-966d-cc4096eaa6da,Primitivo Rey Dávila,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:12:27.196736,vegan,6.25,4
+79,da589f2e-a45b-4cc2-9b1c-13c40de6b9f3,Eric Segura Ureña,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:12:52.137173,classic,N/A,5
+79,9bd69dda-6ac8-44ea-a2fd-3aad054bc05d,Jesús Ariza Arnal,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:55:50.998069,without_onion,9.55,4
+79,419deb89-2185-4b3d-a3d2-6c68241f7c70,Gregorio Valero Arroyo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:14:50.862343,vegan,13.03,5
+79,58fa7d73-8c62-48aa-a0c1-91634fe1d9b0,Jonatan Carmona Aparicio,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:30:45.567248,classic,N/A,1
+79,0db88a17-cf34-43c0-a426-4483ae35f86f,Juan José Valdés Carbajo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:41:13.041747,classic,,3
+79,9e970b5a-c4b5-4fa3-bcac-abd55526fa90,Carlito Cervera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:36:44.748197,without_onion,,3
+79,f82ca349-f263-4d32-acf3-ec1f43bb916c,Moisés Arroyo Lledó,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:48:56.502833,classic,13.0,2
+79,da04c053-2129-40b7-9a27-e0ac281926c1,Ana Belén del Godoy,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:04:17.226276,without_onion,10.49,2
+79,83954b33-6a7a-4d73-b163-1c3e13df19d0,Pastor José Mari Valdés Méndez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:14:10.739466,with_onion,,3
+79,3e6c4594-e4e4-4b73-9cd1-ade8e501f98f,Anastasio José Ángel Montero Sierra,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:15:43.648462,vegan,N/A,5
+79,3d24e7f0-da43-4b6c-a849-38e7d09fd766,Renata Barbero Arjona,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:51:51.358297,with_onion,N/A,5
+79,fad7eeba-160d-4e6e-a36d-d6f347ac711d,Ricardo Ramos Sanmartín,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:44:23.746461,vegan,N/A,4
+79,51106f85-1f8a-475f-8328-1fcce5b82c0e,Benjamín Borrell Varela,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:10:20.173148,with_onion,N/A,5
+79,84348bad-25c8-4c5a-abc7-680df3febe00,Aurelia de Lloret,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:10:09.451404,classic,,4
+79,e17d0e75-74af-49cb-978d-39b8b66d021d,Omar Doménech Tejada,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:28:30.029802,with_onion,,5
+79,71e3bd5a-e63c-4acd-9602-e83275a10f56,José María Rosell,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:55:37.214792,with_onion,N/A,1
+79,1ac0ce34-d26b-49bc-8d54-374e5dcafd83,Leonor Valverde Rey,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:15:35.809507,without_onion,,5
+79,5ef3f784-3d1a-4837-a33c-a3c8fd929fc5,Elodia Esteban Trujillo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:01:13.226850,classic,,1
+79,620c2342-685d-4787-b61f-3cceb345f481,Anastasia Alonso Gomis,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:46:33.333306,vegan,N/A,4
+79,32bbc248-f0ec-4c5c-9a47-61ca83990ba2,Eugenio Pareja Villaverde,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:08:40.603118,without_onion,N/A,1
+79,b4e5eca2-4338-47a7-ac05-afccdda5b47a,Nilda Sandoval Doménech,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:02:14.320317,vegan,N/A,2
+79,fafd5e0e-3c6c-458f-8e8e-fb10991256d9,César Boada Rosa,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:31:20.448361,with_onion,,1
+79,379118da-aa12-4764-9eac-fda41fa4e189,Paula Frías Ferrero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:49:29.299053,without_onion,5.27,4
+79,de2e6db7-7be4-4c4f-b616-2e4bf890af49,Néstor Correa Osorio,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:12:22.738687,vegan,N/A,5
+79,c9eb1fa6-f6ae-464d-a980-719c301e2b89,Gala Cayetana Vendrell Galiano,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:45:46.352651,without_onion,,5
+79,0dcf9c46-4e35-41f3-acda-30b5fd46aaf8,Herminio Peiró Cabanillas,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:13:30.928108,classic,,2
+79,ff0b4bf0-36ce-4f16-87c5-1f158eb8946b,Ale de Amorós,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:45:18.927637,with_onion,N/A,5
+79,aed8ecde-0344-47c9-892a-d1bb234a0587,Salomón Naranjo Falcón,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:49:09.040116,with_onion,9.59,5
+79,2e3353a7-5712-451b-b4ac-f190b3ee1c77,Leticia Catalina Guardia Ramirez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:41:22.541029,classic,5.14,3
+79,ffec514c-a58a-4345-9008-66954fcbc872,Esperanza Angelita Hidalgo Llopis,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:45:34.484423,classic,,3
+79,f8cc15c4-d7a1-4e0e-81a1-5c8c6d4153a8,Yago Mendizábal-Hervia,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:49:55.619282,vegan,5.78,1
+79,02ca962b-f0da-4c1f-a203-7017045ae0f6,Francisco Llamas,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:01:56.543849,vegan,,4
+79,381b5bc5-034a-401c-a00e-e175657c8246,Jose Nicolás Rojas,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:04:43.632264,classic,,5
+79,5f840583-6f1a-4ba0-b2b3-cbff9b5fc40b,Ibán del Galvez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:24:53.578239,with_onion,N/A,1
+79,6291f7de-061b-443e-b69e-854ce151952f,Salvador del Velasco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:35:57.333379,with_onion,6.5,5
+79,29cad05f-5de6-4de0-8b52-47d2a1626094,Gerónimo del Paredes,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:51:42.185058,classic,,4
+79,9e94367e-2c3f-4fd5-9e11-dd66f4b59bb4,Ciriaco del Arrieta,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:17:56.438969,vegan,,1
+79,cc68ddca-2002-4efd-949c-ef4c8931a23a,Amando Mayol Carro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:31:56.703472,with_onion,N/A,2
+79,9d4bfb77-f1c5-4443-a55b-1e4b88309d36,Marciano Ciriaco Mármol Enríquez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:17:23.289022,without_onion,N/A,5
+79,53259191-cef6-4cfc-8a1c-21cb268ebfc6,Prudencio del Muro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:33:33.965422,vegan,11.26,4
+79,7d6ed438-0dde-467e-993c-243a808eaff6,Gertrudis Alvarado Ramírez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:29:04.718624,classic,,5
+79,77648d8a-906d-45ea-8ffa-a704978b28d6,Fátima Segovia Larrañaga,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:51:08.974039,classic,13.04,4
+79,e8674a41-1110-4a80-8ff9-79459ae9d26f,María Pilar Bueno Otero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:41:40.331160,with_onion,,1
+79,33656b79-db25-41a9-beef-f06fab050f51,Chus del Leon,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:37:23.872095,without_onion,11.49,1
+79,9d29c802-c45d-46f9-bcf8-42ec1c2d2d95,Moreno del Carro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:19:04.566686,vegan,,1
+79,45d6e1bd-1dfd-4ecd-be49-195fa6098b38,Eulalia Acero-Piña,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:59:22.524117,with_onion,N/A,2
+79,30dd7886-06d2-40c6-ab74-62f49feef36e,Isaías Vaquero-Llabrés,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:41:12.243543,classic,N/A,1
+79,1be5e722-d9f4-4ac9-8ce2-6cbd28ce9089,Liliana del Salvador,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:22:55.162762,vegan,12.84,2
+79,9817fd82-01d8-488b-b88f-52b4a3717606,Natividad Granados Cueto,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:46:31.245284,classic,10.49,3
+79,9ecbd05f-30bb-401d-bfc1-5e8622d78035,Samu Corral Duque,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:26:33.175753,classic,11.81,1
+79,523231fb-99fb-465b-a061-b7cd5c02ecd1,Mauricio Carpio,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:51:16.609288,vegan,14.36,3
+79,54391298-652e-44e2-b923-5392be8c0a43,Venceslás Cuervo Hernandez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:33:15.295402,classic,,3
+79,7bcffdfd-074d-4b79-96cd-862257685664,Nazaret Lerma,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:22:26.537601,with_onion,N/A,1
+79,aa88eb8a-bbb4-4588-9f88-b4989e4312ba,Carlito Jenaro Ibañez Solana,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:17:13.185276,with_onion,N/A,4
+79,33e7dd1a-853c-431b-a0db-062e34dbd9ad,Simón Torrijos Díez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:30:21.769641,without_onion,,1
+79,7209a689-8368-4215-8669-4c52ab57ba49,Eric Trillo-Ariza,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:48:07.929000,classic,,5
+79,f14a359e-f3a5-4e47-906d-3fd710b2ab1a,Loida Carvajal Vega,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:37:31.555825,vegan,6.86,4
+79,63da7a1b-9372-4e45-a636-424516e8e276,Blanca España Talavera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:41:54.904115,classic,,3
+79,f0e319e9-5938-4b87-b5ab-5dd1df64c209,Anastasia García Gallart,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:58:55.644313,classic,,1
+79,ce9908e3-9a85-4696-afad-6cf7da7180f5,Xiomara Polo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:48:30.864237,vegan,10.59,2
+79,93ede876-05e0-4e17-afc2-4210acf27071,Emma Frías Niño,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:29:15.679282,vegan,10.73,5
+79,fb49f501-1997-41f9-9b3b-eaeeabaf179f,Ramona Araceli Juan Ramirez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:18:12.632415,with_onion,6.7,4
+79,8903beb0-690c-4e15-8741-94038e094d49,Narciso Eutimio Alcaraz Escribano,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:30:46.856521,classic,,4
+79,5aa0a12e-a5f4-4388-8b59-6d73a9f93494,Ruy Prats Valbuena,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:29:07.112346,with_onion,5.41,4
+79,1a429429-bc1e-4eee-b712-003b6121a1f8,Gabriela Anastasia Palmer Montesinos,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:36:07.468815,with_onion,6.06,4
+79,a1e7db65-9b26-4057-84d5-b6fb563d1ab4,Augusto Gallo-Pujol,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:49:03.553821,with_onion,N/A,4
+79,bb03300f-2cd9-41c4-8213-31b9119fbd9b,Seve Raimundo Ibarra Francisco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:57:03.531531,classic,,5
+79,9206d584-e04e-4476-8092-d982b9ec8cc3,Gabriel Ariza Rodríguez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:21:27.256694,classic,7.32,5
+79,fdcf5c4a-61d4-41c1-b63d-a164b565d14a,Domingo del Valencia,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:41:22.018290,vegan,N/A,2
+79,1a635d74-d763-4a56-aad3-4f2c67743ff1,Iván Frutos Gual,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:05:53.398909,with_onion,9.79,3
+79,5267bdb6-d0f3-404d-b4d5-207e0d59fd46,Ainara del Barbero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:15:22.164798,with_onion,12.11,3
+79,c1e76212-ad51-4e57-a8bf-57ff53b8273c,Oriana Pacheco Adán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:20:36.983835,without_onion,6.9,3
+79,43411c95-a023-48c2-99e3-3bad4c9e87e9,Caridad del Vives,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:28:48.616089,with_onion,,5
+79,5fe85f5a-dcfc-407b-807c-d138440f9b81,Isabela Ríos,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:44:58.281054,vegan,13.44,3
+79,ae554539-db4a-4983-9b3f-b4f911bb9539,Flavio Flor,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:06:21.532915,with_onion,N/A,2
+79,e009b7ee-d714-45e0-88d4-50751fd04b56,Joaquín Timoteo Marqués Macías,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:01:51.637663,without_onion,N/A,3
+79,471a5dba-9878-4724-8eb6-3937ca9c8a7c,Heriberto Montaña Bertrán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:07:42.319361,with_onion,,4
+79,c61b6e32-09ec-4c33-a721-e31779af214e,Amelia Silva-Higueras,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:23:48.633295,vegan,N/A,2
+79,d422c5aa-5f41-4d38-898d-0b5ecc1e4940,Calisto Donoso-Ródenas,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:17:58.944884,without_onion,N/A,1
+79,3389d40b-e2a0-42ec-93e6-07993744b1cf,Ileana Valenzuela Pulido,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:59:09.434864,with_onion,,1
+79,b5893528-583a-4a50-8cb4-dddc6f49faf8,Mirta Díez Sala,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:43:37.880112,classic,,4
+79,beae8831-15bf-419a-9294-8a637a907f25,Mercedes Artigas Chacón,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:46:13.366318,with_onion,N/A,5
+79,cfb420bb-5d28-4599-a1b7-89bb3897c271,Rodolfo Coca,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:12:55.995022,without_onion,,1
+79,5c0c5846-7e75-4665-8415-bae7fb560051,Adelardo Bou Aguilar,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:58:09.671545,classic,,1
+79,59ecc275-756d-4e03-8da1-ccec580ef355,Jesusa Checa Hoz,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:57:02.234747,classic,N/A,2
+79,ba2b370f-5937-4b61-8ae4-ab251aa89286,Amaro Guijarro Cantero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:26:12.944352,classic,,1
+79,865665e2-0f4c-40f3-a49d-a155509fa8c8,Luisa Jaume-Ferreras,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:00:26.045825,classic,N/A,1
+79,bd130b64-8477-4daf-8e5c-6d539674968f,Fabio Calderón-Zabala,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:02:07.705115,classic,,1
+79,164d524e-090b-47d4-87dc-004f5fed4f98,Perlita Diéguez Teruel,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:15:49.679316,classic,,3
+79,bc673425-856a-45e5-a36d-c33d4bb470e0,Fabiana Daza Grau,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:43:41.058655,without_onion,,3
+79,374802de-05f9-48c8-9b31-4ef5a13ad5e2,Emigdio Puerta Hierro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:37:42.713979,without_onion,,5
+79,753e98ad-90e1-4fb9-b0d2-cc47762138d2,Rosalía Baeza Batalla,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:07:19.319159,vegan,11.22,1
+79,edbe7e2a-13e6-4a49-86bc-ae51f2fb5dc4,Galo Cañizares,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:50:57.467021,classic,7.26,4
+79,09f29198-e8b7-4b30-b5e2-d44253d941b8,Clara Cabrero Diego,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:50:55.016031,with_onion,N/A,1
+79,a793553a-aaaf-4883-8093-4174beffe9e2,Marcio Bas Cañete,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:12:55.073660,without_onion,N/A,3
+79,2559da9b-dde8-4305-838e-754827530b66,Manolo Garcia,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:36:39.682270,without_onion,,1
+79,67155a78-7425-4b52-a309-a0e9b5e809b2,Glauco Sanabria Serra,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:04:40.470843,vegan,13.9,4
+79,65ad79db-4a45-4c47-94e0-114df36b6970,Martirio Castells Cortés,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:02:00.037834,vegan,13.6,2
+79,b2409e76-54a4-4196-8935-61d97ff52179,Eufemia Carbó Bermejo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:41:29.098360,without_onion,,5
+79,f0f4159e-2786-4db5-9a75-4812f15cca61,Mohamed Santamaría,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:03:32.937132,vegan,,1
+79,b1b2b16f-adb2-4d82-a276-c581e899a5c8,Chucho Pareja Sotelo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:03:20.347621,without_onion,,4
+79,34e8acd8-378b-4f32-b9fa-7587bd02ac34,Natividad Bustos Bosch,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:20:56.550540,with_onion,12.79,3
+79,91e8e0f2-2797-488d-a80a-1b55e94cb032,Ruperto Chema Ayllón Sevilla,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:53:53.667386,vegan,8.84,1
+79,a7cc8c9c-0f6c-4b3d-b1c8-f3cb2c183d7a,Alberto Melero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:29:17.368693,with_onion,N/A,2
+79,45aafccf-bf20-43c5-8adc-e470b8bfc945,Donato Yuste Pozuelo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:50:25.238508,without_onion,,3
+79,e2c41ed0-b68e-4cfc-9560-3236f36d50d7,Silvio Casemiro Luna Sala,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:28:23.692582,vegan,N/A,4
+79,0f8e1d7a-bafb-41ab-a7df-e0c08dca8a8b,Pepito Catalá Crespo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:18:56.133092,without_onion,N/A,4
+79,7fdc1754-ffd1-4e72-b973-90ea97880929,Ariel Ramis Robles,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:01:23.861375,vegan,5.03,4
+79,31942e90-606a-4fae-9480-1afb9067a644,Ricardo Jose Luis Caro Múñiz,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:56:37.185439,classic,N/A,2
+79,84598cb8-633d-4d01-8e52-7910a6fe1ddc,Rosalina del Oliveras,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:03:33.196598,with_onion,,1
+79,739aaf69-b923-489c-9565-cf70ead967a0,Ruben Diéguez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:31:23.031572,vegan,,2
+79,fa851ba0-a503-4907-9597-621cfc6aa553,Valeria Mateos Sales,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:50:00.371437,vegan,,1
+79,9060499a-97be-49e1-a663-43f363468a85,Sancho Morales Valencia,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:44:32.017366,without_onion,,5
+79,aa2568dd-5aa8-4314-9124-8b76669fd15f,Ale Manzanares Cal,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:32:38.436147,vegan,N/A,5
+79,2e13d7db-6dc3-440d-971e-854a623ee5cf,Narcisa Rios,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:03:45.999338,without_onion,N/A,1
+79,45952a67-ed95-4183-859b-dbb7e1cc48ea,Chus Morera Botella,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:01:24.363794,without_onion,N/A,5
+79,de96048c-558f-416c-b60b-89e7e2498582,Jose Francisco Iniesta Piña,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:33:43.290770,without_onion,,3
+79,7e789a85-1c7a-497c-a6d7-db92d5bae3f0,Sonia Amaya Valenciano,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:17:12.231899,classic,N/A,4
+79,ebf79a78-ffbc-4f1c-a433-287b401f4a89,Mirta Español,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:29:34.415437,classic,N/A,1
+79,6cf93338-74d1-4364-96f9-3bb3c57f59d3,Áurea de Peñas,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:47:55.977142,vegan,,4
+79,91753541-8584-4c1e-b50e-2c6681e75328,Inés Casanova-Nicolás,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:07:50.187644,vegan,N/A,5
+79,a58ac447-8fd5-45c6-92a4-f4d38bd9ee39,Loreto del Alba,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:22:21.849856,with_onion,N/A,3
+79,ae1d4738-af9a-4cd7-8a6a-f0d3ffb067d7,Sebastian del Figueroa,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:57:36.654842,vegan,12.14,2
+79,6c9cbb8f-c619-45d4-ac79-d30ac77cc89d,José Ángel Fuertes Cerezo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:07:29.607779,with_onion,13.03,1
+79,c19730bf-f61a-4188-b23d-d041f9498ed4,Eduardo Isern Patiño,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:38:45.356471,vegan,N/A,4
+79,df205a22-ffdf-4fcb-acaf-be5f95d433e8,Manu Mosquera Araujo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:07:23.471330,without_onion,9.45,4
+79,4b5bd87e-fc66-49e7-bb49-fc05bc231f85,Visitación Tejera-Bartolomé,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:49:22.458948,without_onion,,4
+79,3166493c-0fb0-4432-913b-3b4477557be9,Alondra Escobar Calvo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:40:07.607700,with_onion,N/A,4
+79,75288e36-34c0-401a-b2d4-8522fc79314b,Lázaro Torrijos Ibáñez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:21:00.477755,without_onion,11.34,4
+79,3c9ac13b-a666-43ae-b3f6-6b3e45224e8a,Heliodoro Morata Niño,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:43:00.525717,vegan,N/A,3
+79,0568ddd8-f4fa-4f8c-af7b-8e7198e79347,Loreto Colom Pallarès,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:11:18.794262,classic,N/A,1
+79,69722b00-a58a-4679-8861-3a3dc9dac9ea,Antonia Rosalía Rozas Canales,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:15:52.609662,with_onion,,4
+79,1fbaf944-4bd5-4228-ac06-feb157d02e42,Edelmira Teresita Carnero Capdevila,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:03:48.142432,vegan,,2
+79,3a8ecca4-b0d2-48cc-8e25-99d7671dac53,Susana Crespi Bayo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:07:24.512225,classic,N/A,4
+79,11f74a47-951b-4b15-b480-5462a69cf195,Milagros Felisa Verdú Bello,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:11:44.693457,without_onion,N/A,3
+79,dc8e25e3-978f-4bc5-ba53-7a475175771c,Carolina Dalmau Serra,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:06:59.440002,vegan,,4
+79,8c8455a3-f4d8-4729-b78c-3c4dcffeb62f,Rosalva Guardia Téllez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:25:30.050530,with_onion,,5
+79,6bea1f39-388a-4d9f-a3c0-d3f762ee1c43,Noelia Salmerón,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:18:36.789013,classic,N/A,4
+79,7e9c1626-490c-4f86-a076-6245190c0b5d,Eleuterio Pellicer Cifuentes,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:39:06.911442,without_onion,11.78,3
+79,3708e9f5-c8f5-4ff0-b872-dbc1ae1ddb2b,Bernardita Alfaro Cortina,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:16:17.141623,without_onion,N/A,1
+79,665f8468-edbf-447e-9a91-e4146103c7bf,Martirio Torrent Cortes,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:05:38.155391,without_onion,,1
+79,a60aad39-29cd-4055-9998-294bdc3dd869,Isidro Juárez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:12:53.116027,with_onion,11.7,2
+79,d557865b-d145-4828-9cec-9e29f3589557,Custodia Zamorano-Alcalá,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:07:59.042882,with_onion,8.54,2
+79,d86b12c5-4cfe-4024-b493-96e21aa5a01a,Mirta Delgado-Marcos,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:33:26.873688,with_onion,,1
+79,dfbe33df-5a30-439f-918c-00fe93f9d5ac,Ovidio Esteve Leal,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:04:40.596424,with_onion,12.56,1
+79,114947ea-bd22-40eb-8f64-10722107baec,Bibiana Arregui,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:26:37.009491,vegan,,3
+79,fa8420c7-743c-41b8-a9aa-4cbc1e8ed9ca,Jaime Palmer Arévalo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:44:04.267047,vegan,,5
+79,839a96f7-4bb3-4eed-a89e-da1a9d7a5e51,Olegario del Torrijos,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:26:51.635474,with_onion,8.87,2
+79,6b5f5433-9506-494c-8a83-aa039cc055ec,Elisa Peinado Pou,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:13:47.684920,without_onion,N/A,3
+79,f5bcc71e-fa75-4ca4-aef0-265876b01fcc,Jose Francisco Pol Leal,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:23:27.756822,without_onion,N/A,5
+79,8f96a766-efa5-4f82-aaac-7390cc722227,Luna Eloísa Valero Sanjuan,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:27:26.350414,vegan,6.5,1
+79,4fc1bf41-2ec2-4861-bebc-f031fe01d9b5,Nicolás Borja,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:43:01.895881,classic,9.54,5
+79,a66a22e5-9bf5-4a3b-8883-c53120ffe31f,Aurora Requena,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:50:45.125529,classic,N/A,2
+79,e302570c-68e4-407c-af76-3ee862002f07,Timoteo Osorio Olivares,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:22:55.910829,vegan,5.69,1
+79,cc6ddf41-4dda-4493-bae8-c4b56316c07c,Graciano Aller Rocha,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:10:27.373082,classic,,3
+79,99ff4a4f-36ec-4dc2-bbc7-97c783066b17,Jose Angel Garriga Lledó,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:41:53.599069,with_onion,N/A,1
+79,27b741ae-c439-42b2-8d29-65f727a3bbcf,Severino Fonseca,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:14:55.533313,classic,N/A,1
+79,9c5f4f73-6471-43ef-a797-6f52a4d07cad,Benito Estevez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:45:48.083526,with_onion,12.99,2
+79,b858920d-a8c1-43fb-aba0-a1ff0983e781,Vicente Moraleda,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:30:22.315316,with_onion,N/A,5
+79,2db0649f-23b6-472f-a006-faa6480524a8,Atilio Garcés Torrents,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:31:43.576390,with_onion,,4
+79,518b3f87-2a86-4622-84d8-b899754b3fa3,Remedios Luna Corral Blanco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:14:16.076031,with_onion,,5
+79,163acb80-b20c-4d69-96a2-47a7dd5118f6,Calixta Blanca,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:52:18.283419,with_onion,8.11,2
+79,b3ab2597-d07f-4a65-9f43-a5d4698658d6,Sandalio Duarte Planas,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:50:45.275508,classic,12.81,5
+79,af03073f-05f3-4680-9e38-19f6c143451c,Fortunato Escudero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:49:36.873034,vegan,,1
+79,9ccb6140-b220-440c-859f-24c797f8135d,Benjamín Malo Lago,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:06:51.420415,with_onion,N/A,4
+79,e57dfd80-edfb-46e9-8e34-9238a5c7b2e6,Leandra Antúnez Llorente,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:10:52.383259,vegan,,4
+79,4d1dc1ce-a6fe-4653-bf2d-1aa02d13b872,Fortunata Eliana Jiménez Criado,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:57:43.357385,with_onion,,3
+79,035c9844-dee3-4652-80de-f52b536661f9,Darío Mármol Tejedor,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:39:33.499202,with_onion,,4
+79,e7ad17a7-3c1e-4587-8212-c5c6eb6fe574,Azeneth Dominguez-Villena,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:07:03.458260,classic,11.22,2
+79,ba2e7a4d-cb88-42ff-9a77-95f14efadcfb,Martina Camps-Alcántara,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:03:53.442651,with_onion,,2
+79,7be01786-51d2-48dc-8e86-d381ee1b9a06,Telmo Goñi Priego,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:43:29.186084,vegan,,5
+79,38f7e4c7-5c72-49e4-afa2-070f278f1899,Trinidad Pardo Diaz,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:59:39.069143,classic,,2
+79,5b9542a7-b978-4372-8160-e3ba4a437f01,Cándido Fortuny Ocaña,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:19:14.201589,classic,,5
+79,b3424aaf-a7ae-4a86-ac25-7df4c66953e5,Leonel Geraldo Maza Vicens,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:34:11.043380,with_onion,9.56,2
+79,9fea64b9-144c-4bcf-9cfa-79e2790d0982,Amando Cabo Carmona,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:02:17.170543,with_onion,,4
+79,6f9a53c5-f6f5-46d8-84f5-dd029b781c97,Nicolasa Farré Ferrero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:04:58.245742,without_onion,,5
+79,5b2bdf8b-cc53-4d8c-9ec3-e1951ad01556,Berto Torrents,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:27:59.790175,with_onion,,3
+79,ab55a0d2-a9be-4861-a7ac-ce067c64767f,Cruz Iris Montaña Moliner,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:44:59.522882,with_onion,11.52,5
+79,33b97686-a03e-43bd-b5a4-fd4422ddb8e4,Iker del Samper,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:56:15.323501,with_onion,8.64,3
+79,d6cacb54-6404-4150-bb67-5c07a0e86900,Pepe Barón-Ballester,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:57:01.845113,classic,,1
+79,fb730c5b-28c6-4c0e-91cc-cb432cc45062,Nicolasa Gallo Hoyos,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:07:31.402782,without_onion,9.67,2
+79,33cccbfb-8eca-4987-88b9-9cb18cbfc779,Hilda Laguna,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:56:30.160272,vegan,N/A,4
+79,e11610e5-d8a5-41cd-8622-263a1416d3f5,Marisol Fuentes Ruano,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:07:04.368597,classic,N/A,2
+79,5fbe38ef-2fd2-447d-b304-95da10c034e4,Baudelio Garzón-Baquero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:23:56.205720,vegan,6.45,2
+79,4425a46b-106e-4eec-a629-d5d65bf560ba,Teodora Olivares,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:01:21.993793,with_onion,10.24,1
+79,27a8e40e-f4d0-47e1-8463-735d115585ca,Ainara Cuervo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:29:39.392537,vegan,7.93,3
+79,7a13fbb9-a843-4e81-956a-24f977b17c42,Eustaquio Gual,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:41:20.234148,with_onion,9.2,2
+79,e619f060-5e9f-4bed-8004-48825c4352c5,Florentino del Ayllón,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:45:08.608259,without_onion,13.31,5
+79,b9ce4a12-a529-4dbc-8545-a27a98c37111,Natalia Giménez Perera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:38:25.757688,with_onion,8.58,1
+79,261f1c86-c877-459f-8da5-a91496b5f0bc,Charo Franco Mariscal,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:00:32.822860,with_onion,N/A,5
+79,ca9fbdfe-e0f9-4b22-af66-b60087360c97,Rosario Ibáñez Llabrés,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:08:59.241748,without_onion,,2
+79,efc5055f-c7c1-4369-b106-2193187df799,Ainoa Barros Cortes,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:00:20.552977,with_onion,N/A,2
+79,be3036cc-e9b6-42ed-baf7-7016c4a2ede7,Sebastian Catalán Vaquero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:08:13.112606,without_onion,N/A,4
+79,28bf59e7-c826-4665-9e69-a72d8f393f5e,Miriam Manzano Reyes,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:03:02.856147,with_onion,N/A,4
+79,20ed21ac-23cb-4ebe-9119-15c02aed0f99,Nico Cañas Cuesta,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:08:50.570068,without_onion,N/A,2
+79,4cc4c5a1-c9c9-4d05-9642-84fbc888db84,Berta Requena-Marquez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:45:40.735324,vegan,7.03,2
+79,4f34c9f7-0058-440c-8dda-00f87f51e745,Juan Francisco Guitart-Céspedes,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:45:06.789634,with_onion,,5
+79,53ab6e93-8f1f-4420-b890-4cba0112fd73,Manu Ariza-Taboada,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:33:37.592581,vegan,N/A,5
+79,3d5bcd6c-bc5f-4494-92a6-86aea1d749cc,Amador Asenjo Carrera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:23:22.082702,vegan,N/A,2
+79,27baa588-2dc8-4110-b850-9087af4bc065,Lupe Parejo Rebollo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:32:33.731481,vegan,13.69,3
+79,f06f8c08-6f4a-4c4f-8d23-f1c8255d0758,Jimena Calvo Montalbán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:58:43.568693,classic,10.26,5
+79,1ceccc0b-f02a-4755-86c0-9cd95c469efb,Agustina Sobrino Alemán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:27:20.198889,with_onion,,2
+79,ca2c2895-21d3-42c5-b1cb-137ccbdf585c,Vasco Lastra Corbacho,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:13:24.003820,vegan,N/A,5
+79,16cf8384-8aa7-417e-91b0-a03f552e7977,Chucho Galán Miró,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:42:14.014222,vegan,10.27,1
+79,ee527451-d702-4d69-b45b-91ea90a7f3db,Octavia Aramburu Gómez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:25:28.565677,vegan,,5
+79,b9043182-4a97-42cb-92fe-bf869452d3c2,Constanza Sofía Miralles Castro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:20:57.397412,classic,14.69,3
+79,22e974f3-5564-47f9-ad90-db16a4b15f6c,Carla Flora Reig Gonzalez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:00:25.638071,classic,12.01,3
+79,c4f75559-a187-4427-a46a-a57a16293acb,Yago Girona Gallo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:48:36.431929,with_onion,6.14,3
+79,600323cb-3e26-4077-aef4-1246ed55a3dc,Hernán Manrique Roldán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:39:44.607351,classic,7.07,4
+79,a3f6ac1a-6eeb-4067-a331-a46790a0f35e,Ruy Pombo Barranco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:45:17.508787,with_onion,6.4,1
+79,4cf1dc25-4d2d-4c28-b5b4-8d5fcf07edc3,René Reig,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:29:41.311002,without_onion,,3
+79,c448be61-4344-4f0a-b78e-e383e9598292,Casandra de Mármol,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:03:20.676542,vegan,N/A,3
+79,c46c3f82-bf25-4bed-8d62-af56bbbda65d,Calixta Pallarès Valdés,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:23:46.400777,with_onion,10.05,3
+79,23ea3698-176d-4191-9f93-baf88927e8a0,Irene Valenciano-Pintor,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:42:57.358893,with_onion,N/A,4
+79,dc080dad-0073-48f0-8dcc-50cd7f0328ec,Alba Dora Aranda Bolaños,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:56:51.764777,with_onion,10.0,4
+79,1e0892e5-477b-456b-a866-0f866f73c973,Ciro Pla-Tejada,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:58:24.288358,without_onion,14.07,5
+79,9427f4e4-4eb2-4b23-81cb-c884d4d4485d,Victor Llanos Morata,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:02:40.578150,with_onion,,1
+79,d0bf73a6-038c-45a5-995c-c4779fd06365,Lupe Agudo Arnal,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:59:38.269706,with_onion,8.92,1
+79,5619ca37-62b2-47aa-b250-ca99ade3a367,Lidia Sedano,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:50:03.071275,with_onion,14.91,2
+79,48217bd7-99c7-4da9-9e7d-e0b3c6f92d84,Virgilio Cantero Blanca,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:23:04.250815,vegan,,4
+79,8ea9b0b0-92b3-4dc7-aa47-76ef98d0ee4e,María Pilar Domitila Jove Tejera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:12:55.249614,vegan,N/A,5
+79,36d2da47-2e30-4d9e-a8d6-579720f7fd7a,Lope Agullo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:37:05.719491,vegan,,4
+79,d9307ce8-7b91-4830-853d-2b7978e6d9a0,Agustina Angelina Marín Morales,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:38:08.710906,without_onion,,4
+79,460eb44b-16f5-4e9d-a176-ff1bf16a907a,Guiomar Purificación Orozco Palomo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:56:54.729687,vegan,,5
+79,a0e2be25-f6ea-4f66-badb-f27601a5a0e2,Sofía Huerta Somoza,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:52:39.765767,with_onion,N/A,5
+79,320c16bd-14ac-4a28-8350-d6a4114d2d2a,Leocadia Noelia Cabrero Ferreras,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:40:19.625261,vegan,N/A,1
+79,336829f8-e112-4ee6-b471-99ed608443a9,Ruperta de Pastor,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:32:52.514336,without_onion,,5
+79,87e581b1-07d0-4115-8c24-68a4211e90e5,Rafaela Lillo Verdugo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:38:51.688325,with_onion,N/A,5
+79,ea4f3b5e-fa26-415f-b745-2cfdfed3b1c4,Esteban Casal Daza,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:45:51.271706,vegan,N/A,3
+79,cc9b515e-1ef8-4dc9-9f81-2dfdb38e363c,Loreto Yuste Lerma,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:22:21.293245,classic,N/A,2
+79,6a5a5f84-4f85-466b-a813-70c0296643f2,Anacleto Ferrán Calderon,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:17:07.831911,with_onion,,4
+79,6f1e5a4e-2b4d-42c8-969d-b412b918bc88,Silvestre Torres Tello,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:10:07.877684,with_onion,8.94,2
+79,09eff53b-a385-4971-a857-f77a540b1297,Simón Buenaventura Busquets Carbajo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:09:55.852164,classic,12.04,2
+79,2973a167-f268-4c6e-b054-00725b1fc987,Bárbara del Amorós,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:56:14.953930,vegan,,2
+79,5ff3d0a2-a123-4961-a8b2-2eb49e685ee6,Lidia del Albero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:00:23.173894,without_onion,N/A,1
+79,4e630a9e-fb69-4670-87f8-7bd243f848cc,Ulises Pedrosa Urrutia,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:57:08.414935,without_onion,,5
+79,9e229924-0686-41cb-9e4b-deb9359b1b34,Iker Gelabert Rocamora,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:51:49.517304,with_onion,14.75,5
+79,21e0d09f-4d95-46d4-af81-ac4a3cb3b68b,Chus García Baeza,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:53:57.534269,without_onion,N/A,4
+79,18070e1b-877a-45a0-91bf-6a08948b07b7,Alejo Guardiola-Calvo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:16:49.627095,vegan,N/A,1
+79,d5522f12-cf88-4be9-b1e1-9adb611cdd44,Eloy Garzón Fortuny,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:09:10.131770,with_onion,,3
+79,a120f545-4fa9-433e-8555-d8fb33fe9b77,Jordana Miralles Calleja,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:59:47.624504,with_onion,N/A,4
+79,dc4ec6c2-43aa-45c9-ac25-5878d54c085b,José Ángel Peralta Chico,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:02:20.066533,vegan,N/A,1
+79,e71d7f1c-c6f8-4e1a-90a2-df31825bf0d7,Diana Hervia Figueras,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:18:12.261525,without_onion,10.95,1
+79,b9f52a7c-8bba-4b8f-8506-06845283bb9e,Feliciana de Perea,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:26:17.510471,with_onion,12.02,1
+79,38fe27fc-d6d0-4506-8bef-01ab21c2e937,Iván Blasco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:32:28.324899,with_onion,,5
+79,4ea49f06-ac38-4887-923a-2b9e1ec1fb77,Baltasar Raúl Campillo Dalmau,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:03:00.481457,without_onion,14.81,2
+79,9f6f317e-5834-414f-b361-b626efe5651e,Rosalva Soto,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:40:13.717755,without_onion,,5
+79,b6452c6b-51d1-4e9f-b2ed-cbdb2469e1c0,Celso Gárate Manso,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:27:31.109088,vegan,5.6,1
+79,c10f18e4-d1e1-484b-b1bc-c8264374c5eb,Felisa Pagès Salvador,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:14:02.693700,with_onion,8.36,1
+79,ec333e34-60bb-45d3-9ab9-eb5eefdf086a,Gala Fuster Ferrer,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:16:03.082399,with_onion,14.77,4
+79,3f3b56e5-4468-4317-bec5-dec1caf82c7a,Noa Tapia Tovar,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:08:26.878938,vegan,N/A,1
+79,d52cdf99-f67a-4ada-a329-77bb394412e1,Abraham Bayona Bejarano,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:50:43.682804,vegan,13.37,5
+79,7b9f7be3-95d2-4cac-be48-f19c9a742395,Priscila Clemente Arcos,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:33:04.808840,with_onion,6.32,3
+79,a16567af-b3f1-4951-b9f1-2dce8a628f77,Gabriel Saura Salamanca,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:57:27.888218,without_onion,N/A,2
+79,8f339244-0212-46d0-9cad-11ede3969709,Isidora Tello-Donoso,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:12:21.673630,with_onion,,2
+79,4f7c1f93-68ad-4e56-b927-1a8f2147d4da,Amaya Morell Gargallo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:19:26.112266,without_onion,N/A,5
+79,e91f8f4f-efb3-47f0-bfba-7da824c8b2fd,Paulino Quintanilla Paz,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:26:21.231927,without_onion,8.78,3
+79,79e15c1d-e639-4a23-acc5-de138af14760,Gustavo Aragón Cases,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:40:02.749008,vegan,N/A,1
+79,93569a85-45ed-4bab-8c5e-d94b6298ad92,Amanda Castell-Calzada,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:25:28.384228,vegan,7.18,2
+79,967cd500-28f7-4c1a-9866-61016f24384c,Sabas Julián Piñol,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:55:06.040849,classic,N/A,1
+79,2717f1a1-3be8-4386-856d-9a1d5239f869,Ángeles Paniagua,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:44:52.632427,with_onion,5.31,2
+79,c5d2c35c-8c62-4eaf-9b96-1a5756be4912,Marciano Almagro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:24:38.445397,without_onion,N/A,5
+79,3a05b3c4-ab9d-4b36-a19c-0108d2051780,Eladio Gonzalez-Ferrando,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:54:35.220621,vegan,6.61,3
+79,c8779585-6aa8-4646-b6b7-ced4778ffb76,Virgilio Alarcón Salvador,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:58:54.451646,vegan,,1
+79,35f2abc8-9f42-48cc-9c64-5b9fb858cf45,Hermenegildo Piñol Mateo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:55:55.200858,classic,,3
+79,0d56e692-2d5a-4d8d-9ec4-db09d5c06b31,Pío Mendizábal Borrell,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:21:54.572166,without_onion,,5
+79,63eb0bc8-ac65-47f0-ba40-a4654e736723,Paula Manu Guardia Ramón,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:17:53.818034,vegan,,3
+79,2711ac95-a7bf-453b-90a0-2041fe7c83c8,Calixto Cañizares Pereira,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:13:02.657947,with_onion,5.33,3
+79,3214a85e-e031-4c41-bf8b-5541379e2e6a,Lina Vall Cervantes,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:39:05.977516,with_onion,,4
+79,72f12383-393f-4114-912e-b6fa85e7f2b6,Coral Asenjo Laguna,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:45:58.383917,vegan,N/A,4
+79,de412c70-6ca6-4f64-bd48-f2831a42f243,Irene Galván-Agudo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:17:03.908483,vegan,,2
+79,e5832665-e79b-4856-a69c-6ca9f756999d,Buenaventura Giménez Manuel,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:42:32.974518,without_onion,N/A,1
+79,a52b3db7-afee-42f0-a25d-55a9b966ee50,Luisina Gálvez Muro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:19:09.288151,classic,9.05,1
+79,7a1e61d4-13f0-46c0-ac5e-a52655da8254,Porfirio Arnal Donaire,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:02:33.388707,without_onion,N/A,5
+79,b50db107-0e64-4e7c-b5e1-fba8fd99ab26,Ana Sofía Olivera Alemany,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:50:10.800826,with_onion,N/A,5
+79,ed91e659-0f93-4d15-b70c-035f375bf61c,Hilda Iñiguez Bonet,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:00:43.212426,classic,N/A,5
+79,d515dbc0-0a33-4ed4-aff2-fb35d7410c53,Venceslás Balaguer Vilar,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:32:04.998047,classic,N/A,4
+79,9b54ae81-93c6-4dbf-b969-915c9aacd890,Octavio Peñas Cervera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:47:23.448223,with_onion,7.91,4
+79,77e5551a-70e7-4ee9-834a-56f2312ac320,Micaela Verdú Quero,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:12:03.116949,without_onion,14.37,3
+79,caef2fda-6d26-4716-ac81-b8ed4f4c29d1,Matilde Almansa Blazquez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:26:45.606085,classic,14.22,2
+79,77e2e578-76de-4108-9564-dfd048c4d7f9,Eufemia Elías Pascual,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:07:03.416325,with_onion,7.7,4
+79,c49f1ef0-5da9-42ec-8aa0-9bcd94dc029b,Josep Lobato Godoy,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:15:52.847341,without_onion,N/A,3
+79,4438daba-588e-42c2-bb71-341afbd918e1,Caridad Aliaga Recio,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:20:17.836634,without_onion,N/A,4
+79,ac40e802-f933-4689-8da6-f090bd4e378f,Úrsula Asunción Ropero Lopez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:32:29.320822,with_onion,,4
+79,668a00ae-b9f4-4a74-8498-f3ce7f85d891,Felisa Cárdenas Ponce,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:27:33.842783,vegan,N/A,3
+79,6a101557-7f61-4f28-ae2e-9bd3be5940a4,Gerardo Alemán Roldán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 18:36:20.198506,without_onion,11.31,2
+79,0fad2dfa-197e-496b-8835-2905765f6e6a,América de Higueras,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:01:01.838082,vegan,7.41,1
+79,7ffa5950-6c98-4d06-a5bc-a740f136b58d,Cristian Llobet,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:57:08.000452,vegan,,2
+79,defc065e-3dfc-451f-bcd9-aca37b2696b2,Renata Vilar Rueda,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:58:42.673923,with_onion,,3
+79,453baaa0-8588-4a30-9333-3c45b3f8ac5c,Augusto Berrocal Luna,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:22:03.334160,without_onion,5.4,4
+79,97a0a4f5-b8fe-4ee9-bd91-df5e044bcdef,Nacho Heliodoro Tello Alfonso,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:07:08.866189,with_onion,,2
+79,149a8e9d-4f69-4078-8c7b-c241b87237cb,Noa Ordóñez Mata,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:05:42.021372,without_onion,12.11,3
+79,23566e0f-9671-4513-9b4f-1396d3e57ad5,Xiomara Cifuentes Sánchez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:04:07.411737,classic,,4
+79,c6e2f066-9f76-4fa6-ac4e-59a6154b2548,Artemio Bernardo Baró Salvador,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:52:22.136319,with_onion,N/A,2
+79,8aa05c13-43b7-40fb-afa6-d1c8ea83ce25,Lucila Chacón Jaume,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 16:20:58.681655,vegan,10.39,5
+79,fc6c4bc6-6b57-46ae-a758-5b10a4c02198,Catalina Quiroga Alsina,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:11:49.198158,classic,N/A,5
+79,e37086a9-d5f1-40f6-b7cf-5dd51182caf4,María Luisa Carbajo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:32:08.837981,without_onion,N/A,3
+79,2b9be3a8-a4a3-4aaf-a99e-dc61f3e28431,Roldán Seve Izquierdo Uribe,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:43:52.505202,vegan,,5
+79,bb7167eb-5727-4b89-a36b-65d115ca659d,Nicodemo Palomar,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:48:23.575491,classic,N/A,1
+79,a02d0f66-aab9-497a-9387-49a3457e118f,Anastasio Silvestre Mora Vallés,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:16:17.842442,with_onion,,3
+79,c03865cb-2ab9-4f8c-b6d4-0156ee69d87e,Carmelita Godoy-Blanco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:03:38.620027,vegan,N/A,1
+79,d1511932-9648-40cf-8035-ad05c64ef513,Ciriaco Palomino Tamayo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:05:29.567997,without_onion,,2
+79,0cdcdaa3-cfe9-4967-a6b2-4506a60f0f84,Duilio Solana-Guitart,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:48:00.512111,with_onion,N/A,3
+79,1a6e5f45-d996-42a1-ab0e-caf329ce7e26,Pacífica Crespi Peiró,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:43:57.693031,vegan,,1
+79,a82a4a70-2e73-4c15-871b-a2628e091b34,Jose Antonio Moraleda Guitart,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:50:37.445430,with_onion,,4
+79,18cacf67-9cc5-43d8-9912-079b86750cba,Fernando Real-Roda,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:02:44.902087,vegan,N/A,4
+79,8190f297-559d-4f45-a01f-059ea5a924ae,Joaquina Amador,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:25:46.009151,classic,,4
+79,00e6c175-4ac0-4e46-9ca1-d66187efc35e,Luna Cardona,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:38:53.939949,classic,9.2,3
+79,a8f65cce-e504-4c97-9ae2-ca0463c5fbac,Conrado del Morante,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:11:30.762351,vegan,12.17,1
+79,5922126d-d3dc-41cd-afa2-fc7dd2450b00,Dalila Iglesia Calderon,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:41:25.620085,vegan,N/A,4
+79,75cc2936-f621-4d3b-817b-e7697290784d,Valentina Gilabert Francisco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:44:29.499719,classic,7.8,3
+79,10a0c868-2d22-4892-82f4-2c99eee52b4b,Milagros Dominguez Ferrera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:23:13.883456,with_onion,5.86,4
+79,ecfb258a-b27b-4603-ba72-acad201177e4,Sosimo de Quiroga,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:13:55.594382,without_onion,10.06,1
+79,ab3ea7bc-8ffc-4b78-9ba7-cf9dd4c3b26d,Olga Goñi-Morillo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:52:21.384885,classic,N/A,4
+79,74a06db5-4feb-48fa-8d05-3936cbb3521f,Nilo Cámara Espinosa,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:21:28.637314,classic,N/A,1
+79,9d2e41c6-eb79-4d3e-b87e-1925b59b5e0c,Agapito Carbó Borja,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:50:44.943613,with_onion,,2
+79,1c4a51ae-a8df-4e93-b1a7-d9e2b54485ab,Iker Cáceres Santana,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:00:24.545254,vegan,,1
+79,16ef0134-9605-453b-bfca-c1dd39f80e5d,Octavia Martí,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:23:12.147052,with_onion,6.6,4
+79,cda4ccc2-d6d0-4f65-8dfa-d746897a40f2,Mariano Bautista Sanabria,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:58:34.477206,vegan,N/A,3
+79,faabb68f-2f34-4eb7-8ebb-f17f3ca009a8,Melchor Ballesteros,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:53:51.807393,vegan,N/A,4
+79,f9624f8b-402b-4e9b-85b0-46cb2e9a81d0,Esteban Gaya Pavón,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:56:53.622047,vegan,8.22,2
+79,f038acdf-43a6-4e71-a874-b7e50541e2a2,Renato Jorge Antúnez Sevillano,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:09:10.699396,vegan,,3
+79,b938b373-bf6d-4ad5-8127-37df47e77418,Ulises de Lluch,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:16:32.660868,with_onion,13.95,5
+79,6bb5d66a-da9c-4315-9cc9-41d495e17254,Perlita Porta Robledo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:39:01.565281,without_onion,,2
+79,23d9a55b-2d79-41e1-b6c7-6c1111dba581,Jessica Marqués Monreal,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 05:59:18.476832,classic,,3
+79,d44894b9-c5b6-44b3-8546-cc0081d54ba9,Valentín Lucio Oller Prieto,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:44:04.647372,with_onion,9.82,5
+79,4f47bdfd-1ed4-4ea3-ae8d-26502997379b,Lisandro Batalla-Calderon,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:09:24.666444,with_onion,,1
+79,7b84e6f0-f88e-496e-a24d-d1ef63acdede,Chema Almagro Malo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 14:11:19.236961,with_onion,,5
+79,40265ff8-0a8c-4f8c-b654-d3919e440861,Melchor Mora Clemente,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:23:26.009007,classic,N/A,5
+79,5a10a34c-93a6-47f2-8748-293d0317e1d7,José Mari Marcos Esparza,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:21:26.289161,classic,N/A,2
+79,deefe11f-898a-4e60-90c3-e90b71447a16,Eusebia Montalbán Agullo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:52:53.013239,without_onion,10.3,4
+79,60338dd9-b075-42b0-ad35-aa32c78da5c9,Lucila Prat Alcaraz,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:12:24.803588,without_onion,,3
+79,0932652a-7547-4628-affd-237835b56ae0,Felicidad Cerdán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:00:40.038308,with_onion,N/A,3
+79,6c75c630-550b-44f5-ada7-705f61d0918f,Clemente Cuevas-Jurado,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:12:17.295943,without_onion,N/A,3
+79,7e85f09a-32f6-4c0b-b8ce-6c4fef02ee75,Melisa Casandra Arregui Sáenz,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:25:30.273945,vegan,N/A,2
+79,1c8746e1-895c-4c30-92f5-b41854e9a9ff,Paloma Alcántara Morillo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:49:34.429484,vegan,N/A,1
+79,d27da427-6f74-484d-b391-97ff2399634f,Matilde Ferrando Requena,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:30:24.453614,without_onion,N/A,3
+79,7b617748-2442-40ea-bf46-63a6fec638ba,Arcelia Villar Mate,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:22:23.803250,vegan,13.48,1
+79,3aa4f36d-9437-492b-8e86-331f2e529f12,Aroa Montserrat Escribano,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:32:29.748451,without_onion,N/A,3
+79,07463a8f-eb1c-492b-8975-2275d568dd1c,Lucio Lopez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:15:12.469222,classic,,3
+79,1c8e8a98-5a46-418e-818f-ab1245cb439a,Josefa Cervera Corbacho,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 06:23:15.916910,vegan,N/A,2
+79,be592891-6ba3-427f-b45f-473570d17b0e,Pío Cerdán-Lledó,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:41:26.430437,with_onion,N/A,5
+79,5e2780e9-bbe5-4cc2-abad-87667db2e75a,Isidro Juárez-Gutierrez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:20:36.490860,with_onion,13.43,1
+79,31a355c8-8983-4f73-8c98-ece90ecf95c4,Balduino Checa-Millán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 11:49:29.568449,vegan,9.54,5
+79,a496a878-8dae-4ee6-99e3-28f543b198b4,María José Moliner Gracia,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:57:10.516166,classic,,3
+79,85243aa1-e57e-4598-8b19-7f1f388e4d79,Nazario de Gracia,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 03:34:32.482322,with_onion,,3
+79,fd6e4747-a5a1-41ef-b64a-0b5824a8f239,Salomón Galvez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 20:39:12.938053,with_onion,N/A,4
+79,bf587d6c-7e83-4862-905a-2170ba4c4347,Eva Ana Belén Talavera Uriarte,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 23:33:11.401235,without_onion,,4
+79,f66a49e9-c43f-443a-a771-7b1a0b338d45,Susanita Enríquez-Querol,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 21:57:56.823671,without_onion,9.14,2
+79,784596c7-2090-4b10-92ba-4a9d3d8f4d76,Carmina de Catalán,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:35:22.672077,vegan,N/A,1
+79,da559a1a-aabb-42f1-b904-90cec68d8b65,Pacífica Barranco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:50:05.306164,with_onion,8.92,5
+79,d54f252a-3fe1-4b9b-babe-03499192c558,Vito Higueras Solera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 02:47:15.833375,classic,10.96,1
+79,c3deb610-b661-4f61-a6d9-3198ca553bd0,Amando Riquelme Castelló,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:01:53.140734,vegan,10.33,1
+79,1f916466-a664-46d7-b480-26d787573965,Paloma Ignacia Escamilla Vera,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:56:40.996348,with_onion,,5
+79,7196dea4-d754-4daa-a1a5-2c1b21bc3a96,Dominga Feliu,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:05:00.152048,classic,,1
+79,851faac2-85fd-43c2-9dbb-c5810ec32fca,Caridad Hierro Pardo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:20:52.754340,without_onion,,5
+79,ecd14e3a-c2f4-44d9-b82d-be82a0ef5b28,Albert Palomino Priego,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:55:38.665762,without_onion,,1
+79,c871c499-b0c3-48cc-856d-2bbaa39ebe0d,Zoraida Lucas-Padilla,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:03:53.608553,vegan,6.8,1
+79,550b4a89-43bf-4a7a-8ef2-e683d7f27543,Marcela Contreras Castilla,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 08:03:41.986431,vegan,7.66,1
+79,07743483-6200-4c29-b968-fb1a031950eb,Francisca Ayuso Frías,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 00:50:13.124199,classic,,1
+79,49e996a8-7128-457b-a8e1-2202276c2a7f,Telmo Robles Yáñez,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 22:04:52.221905,with_onion,9.77,4
+79,7244536b-638b-45dc-8f75-38eadccb10cb,Manolo Canales,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 07:04:55.320138,with_onion,,3
+79,e26c1ae5-8436-4a0a-a378-263c89507114,Elisabet Aramburu Espejo,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 12:39:44.573526,classic,N/A,3
+79,847085f9-4425-4a51-ae66-43abe72b97f2,Verónica Bello,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 15:49:12.672125,vegan,N/A,4
+79,90f4c418-12fb-46c9-80a0-bd2dbea70bda,Azahara Conde-Manso,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 10:42:32.843867,without_onion,,1
+79,1ba521c1-5437-41ce-a119-a4ac18748c8e,Eliseo del Cruz,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:22:14.733689,classic,N/A,5
+79,4059c65e-3861-4b28-97c7-4ec795e695e2,Porfirio Rovira Castilla,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:23:39.592076,with_onion,,2
+79,2721ca21-591b-4dc4-9a12-2f2d0c28966a,Filomena Diéguez Roselló,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:49:06.360350,without_onion,,2
+79,48035c61-a1a7-43d9-885b-2dd47242ff84,Teodoro del Sabater,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:06:04.918657,without_onion,N/A,5
+79,67c6a977-5580-4c1d-b993-f1cf4e78abef,Abigaíl del Barco,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 13:26:15.224219,vegan,,5
+79,e0c1f4a6-a19f-484d-9562-53b3cdde32af,Fortunata Sebastián-Escobar,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 17:38:43.654419,vegan,N/A,3
+79,81671abb-94ab-4934-a6cb-4c0516e2e5fe,Elisabet Mariscal-Castells,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 04:35:33.280492,without_onion,,5
+79,9017b861-fa1b-48ac-b09f-6fa98e2adcc3,Esther Lerma Chamorro,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 09:29:52.816371,with_onion,N/A,4
+79,a7222d6b-493b-4ee4-a200-e765beed3c2b,Malena Santamaría Garriga,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 01:10:29.725446,vegan,N/A,5
+79,7e040852-a134-4375-962c-0d9568443525,Úrsula Gomila Jaén,Palma,"Rambla Jose Ramón Bellido 7, León, 43204",2026-05-01 19:52:28.013901,with_onion,,2

@@ -1,0 +1,474 @@
+shop_id,transaction_id,customer_name,city,address,timestamp,tortilla_type,price,quantity
+83,23a2d51a-0f91-4d29-b233-2a89b36ab1bd,Clarisa Fuente-Batlle,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:52:51.797974,without_onion,N/A,3
+83,ea52a5ae-52b0-4d7b-b1a8-a9e75e62c1e0,Ciriaco Cazorla-Acevedo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:47:26.649409,with_onion,N/A,3
+83,67bec5ad-bbe3-4255-8fc4-6f41e497d47c,Ruperto Cornejo Tenorio,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:44:34.805299,classic,14.01,5
+83,179687b9-7eb7-4ef2-af2a-951c91f77bc5,Marisa Conde-Gálvez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:33:20.267301,classic,12.42,3
+83,142af417-3e95-41b4-9d68-46139b5df1a8,Reyes Agudo Perelló,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:22:51.375617,classic,6.06,1
+83,472dbe0b-a271-4674-b972-de1d42e14258,Lilia Gomez Alfaro,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:42:47.563665,vegan,N/A,3
+83,15eb740d-b09f-46b1-93b6-ff95707d7e6b,Toni Molina,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:42:56.165983,vegan,N/A,5
+83,fc68e846-7783-4547-af3a-e1a2ac4faba3,Rosalía Fabra Lucena,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:42:59.668594,without_onion,N/A,1
+83,db5dcd11-c438-4618-9ff8-7398f41f524b,Mario Mur Chamorro,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:18:59.294405,without_onion,10.71,3
+83,872b3392-7461-4489-bc8c-bcc9353ff99c,Carlito Palomar Zorrilla,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:15:45.252433,classic,7.71,3
+83,3be1fc94-b2b0-4965-bfee-d3fb2dda7c11,Santiago Cabezas-Moraleda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:36:14.437342,vegan,,1
+83,a40152b4-2160-4a15-817d-8b49495a1113,Tadeo Sainz Téllez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:17:45.740061,with_onion,10.49,1
+83,80d8076a-e1de-4988-8998-8d8c2bbfe9ac,Baldomero Cepeda Carrillo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:56:45.224378,with_onion,,1
+83,e93f7f78-754e-4ef9-916b-1c841aa89519,Ciríaco Caballero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:22:41.760315,with_onion,N/A,3
+83,efdec450-d7ca-4998-8acc-460a78619b7f,Julia Sancho-Tello,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:58:24.251709,vegan,,1
+83,59f93c37-66ac-4abe-895d-9ca06a17a2e8,Raimundo Cid Hurtado,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:33:56.803370,with_onion,,1
+83,08b79b76-7410-4496-b3ac-65e847923713,Jose Angel Cañas-Tenorio,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:27:44.477796,classic,,1
+83,2e86e53b-ded4-48c1-a031-b2a4e1862e0d,Damián Duque Girón,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:06:42.530421,with_onion,N/A,5
+83,9831a35d-f67e-4a00-8504-835866875cd9,Ariel de Pereira,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:52:35.261626,with_onion,,3
+83,0a111ceb-7518-4386-9fd3-4ec1313b89c4,Amado Fernandez Carro,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:14:19.695757,without_onion,,4
+83,3ba3b49b-7a93-4074-99d4-3cc866032469,Lilia Borrás-Madrid,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:09:30.321600,vegan,N/A,1
+83,6b62dcb3-e95c-4d16-9c95-a593f2e7658a,Adalberto Martinez Núñez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:31:15.407290,classic,N/A,3
+83,f7e0de4c-e79a-488a-a192-82a846e17bb1,Juan José Toro Gárate,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:16:07.791080,without_onion,8.79,5
+83,40c3e246-be34-4a27-b7de-0649885820d6,Loreto Aragonés Bernad,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:04:22.350431,vegan,,3
+83,17701ec6-9ecf-4cba-93d3-a91c07a293c6,Cristian Yuste-Cuevas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:09:56.913910,vegan,12.66,5
+83,d236af5d-bdf5-44dd-8b27-639671e84403,Lope Carbó Merino,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:54:15.735609,with_onion,N/A,5
+83,ddcf9574-c66d-4d28-9758-e029fa54c3db,Benigna Roura Villegas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:27:55.418488,with_onion,,3
+83,c62b9067-2562-40a8-804b-a956cefd53a8,Epifanio Matas Tejera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:49:30.075329,without_onion,N/A,2
+83,a6e27195-5b80-433d-a8e7-c456fd29e242,Chelo María Ángeles Luján Lladó,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:41:35.357268,without_onion,N/A,1
+83,f30580db-7489-4c61-8562-60f28b810cec,Fidel de Figueras,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:32:07.934645,without_onion,,5
+83,1ccef51e-39f8-439e-9426-960ca4843e2d,Eva Garzón Oliveras,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:28:34.421273,without_onion,N/A,4
+83,a3e1a94a-8db1-4d0f-b385-bef3d78561c5,Isaac Seco Juárez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:23:22.731004,classic,,1
+83,85f63cba-221b-4813-aaa2-9cde0caf966f,Alcides Cobo Novoa,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:31:28.097011,vegan,14.45,2
+83,bdda4080-23bc-48e6-929e-271128e47231,Jorge Aznar Torre,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:21:28.404398,without_onion,,2
+83,95e202e6-02f5-4675-b4e2-19d2dabeff0d,Celia Zabala Múgica,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:46:08.596215,classic,N/A,2
+83,6187e676-4dd6-4f66-9b56-e18578c14e1f,Almudena Exposito-Atienza,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:24:49.966679,without_onion,N/A,4
+83,1b3d01d9-1172-429c-8983-1291b3a8b2fc,Baldomero de Ramírez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:09:07.099220,without_onion,14.04,5
+83,b9dc580a-d23c-4e88-91e5-1e4ed24db326,Olga Sarabia Casanova,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:54:15.626975,without_onion,9.14,4
+83,5df785ec-f7f7-4340-bd12-a42677dd9938,Nazario Acedo Puga,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:01:33.476617,with_onion,N/A,3
+83,56f05870-a3f1-4479-a9b3-51a3f2095b27,Trini Sara Amaya Barón,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:56:15.425122,with_onion,,4
+83,4d53e7c9-9c00-4b68-9e3f-7de7eceaa29d,Cecilio Nicolau,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:05:45.289008,with_onion,N/A,1
+83,baa05ad4-4287-45f6-96c1-de9e66c182cf,María Luisa Exposito Taboada,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:25:53.296009,vegan,N/A,2
+83,c9cf0356-0219-413c-a855-e48ac4df0b81,Emelina Ripoll Royo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:33:58.312380,vegan,,3
+83,778ccc95-228a-4120-8273-3125bab2bfef,Violeta Felisa Gómez Cámara,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:05:08.139336,with_onion,,2
+83,02d16f19-0363-49ae-af7a-3bf54cf9bbd8,Guiomar Tapia Palomino,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:00:15.774988,without_onion,8.4,2
+83,add3048e-b32c-4c8b-b103-cf246ab5cf47,Graciano Fabricio Ayala Viña,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:39:53.735647,vegan,,5
+83,a691b528-5e8d-4247-a7dd-cd30f358d1e5,Fabián Zabala Quintero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:13:33.405486,with_onion,,5
+83,c6a7fed7-d011-4b0e-9834-b106a08d6d15,Aníbal Borrás Ramis,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:20:57.035734,vegan,,2
+83,151535b9-8502-46e0-b577-015e25c7f89a,Lázaro del Luís,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:33:25.427806,vegan,N/A,4
+83,d25f3a2d-1ffd-4b7d-8f4d-54c572821031,Bartolomé Aliaga-Alcázar,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:41:01.395752,without_onion,,5
+83,5614c47c-bdd9-4075-af64-78e79f93e042,Isabela Nadal-Adadia,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:18:12.775429,with_onion,7.65,4
+83,87166b69-01d3-4e45-9381-87e9fbdb72cb,Teodora Rocha Verdejo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:18:24.470738,vegan,,1
+83,a01cf346-9e86-4cc6-af77-3e0147fd6353,Victor Manuel Celso Mármol Oliver,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:48:27.927383,without_onion,8.24,3
+83,55263844-4d60-449d-8dc1-eb5144a75724,Encarnación Castejón Julián,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:36:33.088378,with_onion,8.17,3
+83,cc39c062-6ff8-4821-b938-95d5be07c6f6,Germán Mateos Verdugo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:44:29.708896,vegan,,4
+83,b899323c-0969-4c2f-b6dd-24b0f7fe414d,África Expósito Montero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:08:53.002042,with_onion,8.74,2
+83,a3c04c28-53f9-4dbb-9911-96412bc4f13f,Leopoldo Reyes Aguiló Frías,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:27:27.456463,with_onion,8.12,3
+83,d9643634-db8f-4fb1-9523-f45e3e21982c,Sara Murcia-Llopis,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:57:33.569405,classic,6.89,2
+83,2366e461-6124-419e-967a-b6875465152a,Emma Andrade Franch,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:10:20.210858,without_onion,,1
+83,24df4d8a-cd00-490e-926d-049bea6c2695,Javier de Iriarte,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:09:43.205362,vegan,,1
+83,673d7502-c36b-4ee2-98c2-941890960a9b,Luna Caro Serna,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:24:28.502966,vegan,9.83,2
+83,f0c5e82a-816f-4707-a216-f3e2ab3c3449,Baldomero Mercader Aparicio,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:09:33.054588,vegan,,4
+83,9357c4ad-4cb6-455c-a053-759a496580be,Emilio Núñez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:11:37.510292,with_onion,13.87,3
+83,330efd3c-783d-4faa-9c2d-95fbaa0b11c0,Ángela Angulo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:49:50.503970,classic,6.01,2
+83,9633bae5-8faf-4e60-8819-8e49cfe90135,Leticia Cañellas Ropero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:40:49.894805,vegan,N/A,5
+83,4b3e4ba9-63b8-4f28-bf6a-c35ad5ae1969,Cipriano Campos,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:59:24.375902,classic,9.18,2
+83,2b29d2a9-2a34-4bf1-a468-83c4f8106df6,Aránzazu Peiró,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:46:33.562145,classic,,3
+83,11f51c53-0bed-49d0-a80c-06a13800720c,Trinidad del Valenzuela,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:30:00.080869,without_onion,,1
+83,a92a81bf-4085-40b0-80b3-f4a24f4f104f,Amando del Mur,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:42:50.331406,with_onion,,3
+83,d9f7453e-7cea-4fa2-b768-2c800c1b22ce,Luís Sabas Escolano Lago,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:14:45.894073,with_onion,,2
+83,3a27a780-d502-4a8e-95dc-6f4220cef862,Sigfrido Izquierdo Arnaiz,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:24:52.835832,without_onion,,1
+83,125481fa-680c-411e-83b4-4657a851277c,Américo Ayala-Pera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:52:06.506431,with_onion,N/A,5
+83,26b7e84e-2afa-4bbc-baac-498c31b3fb4c,Atilio Badía-Mosquera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:55:11.722747,with_onion,10.62,4
+83,89101d07-86fc-464f-adcb-ac60cfe3a9a1,Julie Vergara Echeverría,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:11:31.639154,without_onion,10.81,3
+83,dfa19689-99cc-4529-bc1e-3b245fc6f5ad,Carlota Porta Pulido,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:07:53.010130,with_onion,,3
+83,0e0fe9cb-8238-4ba5-9ff5-476105abef05,Leire Campos Naranjo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:06:52.452108,without_onion,,3
+83,041fe2ab-d648-4843-a0e7-322a60d7bfa2,Eva Bernal Raya,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:32:53.242597,with_onion,,2
+83,33a87757-ddf4-469b-ba7d-3715d55c3db4,Nadia Alemany Flor,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:56:48.026551,classic,N/A,5
+83,da31a19f-1cfc-4689-9898-fcf4ad00f0d7,Camilo Nacho Puente Recio,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:59:18.861360,without_onion,,4
+83,f4528c2c-2638-4c16-9870-71fdc1afe8af,Maristela Cuéllar Palacio,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:35:26.849224,without_onion,5.23,4
+83,ee3a2f5d-b4b8-4b40-9855-81854e51162d,Cecilio Torrents Delgado,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:12:59.974983,without_onion,N/A,3
+83,5cae6685-33ed-4569-8f46-1acf7bd38bfe,Nazaret Marí Andreu,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:40:58.056809,vegan,N/A,2
+83,569ece39-98cc-4ceb-954e-d293b91e474e,Albano Valero-Perera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:53:23.930158,without_onion,,1
+83,f3c3308b-e9b3-49fc-bbf6-78723b93db69,Otilia Moya Pizarro,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:22:23.745595,vegan,8.29,2
+83,955a19a7-3e3d-4c07-82e1-fa07152f169f,Gabriel Paredes Viñas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:58:18.962693,with_onion,7.21,5
+83,f7ddb43d-e3e3-47ca-ac1f-c9faf73cfc87,Elías Manzanares Corbacho,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:38:20.611650,vegan,N/A,5
+83,eb528f00-f9f2-4933-81c2-68ce7604b2db,Vicenta Oliver Cases,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:09:11.502305,without_onion,12.03,1
+83,353dc47e-47a0-4921-96d2-0fa0443e2bc6,Luisina Bayo Pedro,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:41:26.221612,without_onion,8.33,5
+83,7215894c-cfe2-4c57-b186-89ed7d240b6c,María José Julie Barceló Diéguez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:31:09.184005,vegan,8.24,3
+83,4555defc-20a6-483a-9a79-ed55ce261e18,Andrés Felipe de Godoy,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:48:54.766904,vegan,N/A,3
+83,4d99ae8d-e08c-48cd-9da0-6e0562b85a6f,Delfina Mena Torrecilla,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:45:53.585480,classic,,5
+83,1069c78a-768c-4c3f-a75f-516a764ffb28,María Fernanda Noriega Quero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:38:29.054424,vegan,N/A,1
+83,f7866187-1255-4dd1-8335-bf60a5595453,César del Fernandez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:05:15.988423,without_onion,5.58,5
+83,a176b410-c76b-4403-bd16-ec080374e809,Raimundo Menendez Gámez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:48:01.296580,classic,14.02,2
+83,c22bf682-02fa-4ff5-bb8f-32f292d98b9c,Pepe Tejedor Asensio,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:27:40.243269,classic,N/A,1
+83,8ddb05e0-d699-430b-b59c-4782cc906029,Régulo Asenjo Valderrama,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:45:25.992295,classic,,5
+83,969b97a3-0bf5-4dd6-8feb-78c02b2c7c93,Pancho Gregorio Prat Vilanova,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:09:35.153219,classic,N/A,3
+83,c1c200c2-1cd2-462a-b34c-9a393e6877ae,Camila del Quintero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:05:34.535556,vegan,5.45,5
+83,7b0b249e-ad2c-417d-811e-6f5105a7488a,Trinidad Gimenez Morcillo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:40:37.263127,with_onion,13.53,5
+83,c0ba830b-9392-4ae6-9959-9280a29da988,Edu Perea,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:00:09.532706,vegan,N/A,3
+83,7763de2e-7627-407b-8462-ea645570f5f5,Marc de Mariño,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:30:34.831854,with_onion,,3
+83,afc62c4d-0aa2-442c-a324-e7ffcf2a5400,Claudia Malo Oliveras,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:15:45.027757,vegan,,4
+83,e2ac50d0-fad3-4a0e-91d4-da7e317388d2,Ricarda Girón Feliu,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:00:23.827172,without_onion,N/A,4
+83,734a430f-9cb3-4ff4-862b-fd6bfe078fa1,Nacho Barba Llorens,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:29:30.315846,without_onion,,4
+83,8fe39f8c-6fa0-48d9-a3de-8eea84bb10f4,Vidal Cordero-Peñalver,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:04:34.387721,without_onion,10.81,2
+83,75b08b57-cabe-4e40-8bb6-8d6cc0017f43,Yolanda Figueras Mas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:50:11.953191,with_onion,6.09,3
+83,2318cd9f-9cf0-4879-a977-3edf4340bcad,Dorotea Ribes Gibert,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:57:06.385302,with_onion,,3
+83,7896f695-adf7-4c01-8d8f-d6ea9d10e93b,Abigaíl Melero Piñol,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:51:06.177800,with_onion,,4
+83,d07f3d47-7150-4fc7-ac99-8588d2919743,Pilar Manrique Azorin,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:42:07.885468,vegan,7.5,3
+83,7c6189f3-cffb-4723-9fac-96d05e8df1a7,Eugenio Lluch Ponce,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:34:04.942310,without_onion,,3
+83,ef43e63f-72e9-4e48-ae00-dafe93cb992f,Reyes Sanchez Zabaleta,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:21:46.366067,classic,,3
+83,db0280d3-5464-4a89-9d23-e2e2aec7d3bd,Pastor de Bartolomé,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:16:24.238980,vegan,,5
+83,b074103a-a46f-45d7-b845-d061cf04fe2e,Toribio Crespo-Menéndez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:13:12.373892,without_onion,N/A,2
+83,0b4ccf6b-3b4d-482a-91b8-b7e3a508991f,Salvador Samper Borrás,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:01:08.841835,vegan,,4
+83,cb1b0091-8875-48c5-8d58-5e7d1726ac54,Elisabet Coello-Linares,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:46:06.833037,with_onion,N/A,2
+83,ea5de79c-db08-4832-a267-3816828b1380,Ciro de Luque,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:24:24.593370,with_onion,6.89,1
+83,89570b0d-3358-405f-a2e8-731c7c73ffaa,Damián del Galvez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:32:34.178283,classic,14.02,4
+83,3116471f-6368-4bde-b64b-4f7282b31f9b,Diego Barral Montero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:04:28.531942,classic,8.18,3
+83,f1c72f64-ff51-47a0-b38a-eef21970a508,Rosendo Nicolás,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:10:35.241877,vegan,9.81,3
+83,8f275ef4-a2ac-4b8e-993f-fb77c62e7826,Roldán Cuervo Mayoral,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:01:48.482294,classic,N/A,1
+83,b0376b19-598b-45e5-9aa4-69e0035e6f60,José Luis Agustí Ayuso,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:20:41.509566,without_onion,6.33,4
+83,c8d2fd0c-d04c-4bde-b251-fda12d13ee8b,Elpidio Cruz Armengol,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:48:18.880485,with_onion,13.84,5
+83,187cd0cb-525e-4ca9-a5c8-a39a409fbf22,María Teresa Parra Rincón,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:06:18.976352,without_onion,6.68,4
+83,35150bd2-f447-437f-86d5-8d9943672217,Ramiro Bautista Amo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:16:19.180834,classic,10.69,2
+83,7678fdb1-ec67-4634-8630-f6bd59c1f553,Cruz Rojas-Abella,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:24:00.979587,classic,,1
+83,cb562f16-cdc8-4919-b069-d3c7787a6a38,Gema Anna Benito Tomé,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:53:19.094432,with_onion,N/A,5
+83,7c17a5e2-46d3-4a9d-88d5-0a258518c4d8,Dionisia Mascaró Osuna,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:18:54.239861,without_onion,N/A,4
+83,a60ab3ac-93a6-4825-9d56-4348db287f9d,Rolando Lorenzo Abril Parra,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:33:11.708568,with_onion,,4
+83,d0dfaebe-91db-40c7-909b-fdb535d9b9cf,Juana Valero-Yuste,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:27:38.464415,with_onion,7.8,5
+83,e6bed470-e583-4597-8ed9-53ff5950172b,Fabián Blanes,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:34:13.735322,without_onion,,4
+83,fa39ebb4-1f75-43de-b3dd-f12dd0a7a0f6,Jose Ramón Montalbán,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:07:09.922246,vegan,N/A,2
+83,5d33f17c-ef87-4b9f-96de-585f67a532d4,Felipa Raya Palomino,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:22:31.542568,without_onion,N/A,3
+83,5c97f63e-0d5d-4f47-a7d0-157d8cf03e02,Eleuterio de Paniagua,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:03:04.422255,without_onion,9.97,2
+83,7b7c97c8-6043-4a3c-a510-6859681afa49,Omar del Expósito,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:21:11.971081,with_onion,12.47,2
+83,96c8a156-5b4f-42e8-bf39-fc59a3f33a22,Diego Castilla,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:41:57.632920,vegan,,2
+83,a3b00ce1-f163-4c1e-a085-86d251854f70,Manuelita Dueñas Llanos,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:35:50.180765,with_onion,,1
+83,1d320454-340e-4f3e-b5e0-b49054d079df,Flavio Carrasco Alberola,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:31:52.604008,without_onion,N/A,1
+83,d5659a59-4507-49d3-bc02-8d9e0ddddf77,Eugenia Herminia Conesa Cabeza,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:36:16.805421,without_onion,N/A,1
+83,f12913b7-a558-469f-afdd-20446b307e41,Clotilde Bonet Sastre,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:22:57.747429,without_onion,,4
+83,fd723ef6-5cb4-4c0a-8df6-b68f437ce644,Gala del Donoso,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:18:08.254525,with_onion,,5
+83,01701817-6c75-4180-9798-75785f12e53f,Quique Vall Alba,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:52:50.947818,classic,13.49,3
+83,12dcf8ae-eeef-49ee-91cf-8455b2a97ec9,Jose Camilo Botella Bartolomé,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:27:03.625208,without_onion,,5
+83,5a506330-50d8-4ac3-a769-4e71da7bca27,Modesto Chaves Lobato,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:26:20.325063,with_onion,,3
+83,25656e8c-3807-43b2-9de5-1ef01c2a3683,Modesto Rodriguez Cáceres,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:38:55.628124,vegan,N/A,5
+83,3cb74076-f454-42b7-8b83-6e49a0531367,Guillermo Camino Doménech,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:26:31.973068,with_onion,,5
+83,13472c27-ae14-4fce-ac37-a2cafad0eddd,Baldomero Verdejo Coello,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:31:49.026209,vegan,,3
+83,a5a0f761-27cc-4ec5-95cc-800e13f89e1c,Victorino Gonzalo-Alcalá,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:30:14.232253,without_onion,,4
+83,69bc3f69-3ce5-4445-bb26-78947fd4c76f,Francisca Monreal Dalmau,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:40:24.021743,classic,,5
+83,5826c68d-a28b-4eec-bef1-0280c7c957d7,Nacio Guardia Salinas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:42:37.145605,classic,,3
+83,83c74dc3-7d7c-4b1f-9034-0c68f8472f9b,Jacobo Juárez Coronado,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:54:19.091050,vegan,N/A,1
+83,de129701-d63b-4b4c-8e44-6574e06c726e,Quirino Vizcaíno,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:36:51.659753,without_onion,,3
+83,c8bae281-7b92-4e5b-b4e1-5587f3f1c7e3,Demetrio Ribas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:27:02.684658,vegan,,3
+83,f04be186-7a7e-4fa2-9771-0b418ce91df3,Cebrián Llorente Sancho,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:27:19.271615,without_onion,5.33,5
+83,b13920dc-d9bc-4d1c-b633-081e0cc05109,Emilia Solera Julián,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:59:42.361593,with_onion,,2
+83,85518600-99b5-478b-a2fa-8c0f1f565176,Teodoro Cánovas Ariño,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:44:51.790472,vegan,7.0,2
+83,9426f2de-a1a2-415a-b6d0-4da6606050e1,Concepción del Alonso,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:19:11.828087,vegan,N/A,4
+83,8a9be6f1-9ca2-42b7-b499-6492ac000b89,Leonardo Pelayo Prat Grau,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:04:10.367513,classic,5.45,3
+83,418cb449-f356-4bf6-96b9-2f154b6b509c,Iván Madrid,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:28:17.941313,vegan,5.73,2
+83,7bc5591c-e902-4816-852e-c5c4584c3ceb,Ildefonso Calzada Montserrat,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:16:27.491361,classic,10.9,4
+83,baff35c1-01ee-4141-90cd-4a9a35be4aeb,Ariel Trujillo Juárez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:39:59.361943,without_onion,N/A,3
+83,77505bf7-6137-4e92-b4bc-4fb59f2655d2,Buenaventura Jordán Saez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:13:36.966581,with_onion,N/A,2
+83,9905051d-05a7-4780-8275-65c064cc667c,Nereida Seco-Cuéllar,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:02:31.231328,classic,N/A,5
+83,cf263a18-dfa0-4e81-8eb6-d3d69a7577bf,Xiomara Carpio Cabañas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:03:26.501614,without_onion,N/A,2
+83,232248e4-1941-46c8-bd96-e05b0d9ca22a,Fausto Borja Bellido,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:59:34.619689,vegan,10.31,4
+83,718272a6-86fa-41d1-a9d0-afd28b52fb6a,Alondra Milla Rey,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:27:38.274883,vegan,14.18,3
+83,5e8d6e9b-7301-4922-9fd7-f6fcff9aafb4,Guiomar Teófila Téllez Echeverría,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:27:14.511838,classic,14.92,4
+83,d6f0dedf-4ad9-4c41-a023-fabd6d0551da,Isabela Tomas Luján,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:13:52.274338,with_onion,N/A,5
+83,013290e9-7df7-4e2c-b54b-8c8822bc9af3,Lupe Lobato Atienza,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:09:24.962307,vegan,,1
+83,adbc5299-b34b-4484-8253-246fe425d825,Paulina Galán-Llano,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:21:31.676575,without_onion,10.26,5
+83,52042506-0d78-472a-9a11-2acd20ff9d9d,Josué Tena Rius,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:39:31.896079,classic,10.52,3
+83,0d29dc17-7f0e-4ec8-8379-19e990a25446,Dimas Cervera-Bravo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:34:11.797756,vegan,,1
+83,965a7f3b-bce0-4210-9265-6948ada84e5c,Gil Maldonado-Roselló,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:10:30.102559,vegan,,4
+83,912016c0-3d1a-4f7d-af13-4621258d9697,Manolo Aliaga Guerrero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:15:57.435648,vegan,,1
+83,2ab98cbf-0861-43ff-805a-7666b7fafec7,Almudena Salas Torrents,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:15:36.047949,vegan,6.8,4
+83,efa94cfe-08c5-458d-80b7-71ac5031d7c3,Olimpia Duarte Bolaños,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:07:06.688429,without_onion,N/A,5
+83,640fa576-f06b-4880-b406-56aa64ce604b,Hilda Sierra Enríquez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:53:11.032385,vegan,13.5,4
+83,2082a84a-9ac5-469a-bbaa-57b250fe4a11,Juan Carlos Blázquez-Hernando,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:01:34.514020,with_onion,11.73,5
+83,fc5764e5-3e23-4212-93ec-ce99060a31b9,Florina Zorrilla Miralles,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:44:11.150854,vegan,,1
+83,74c0dec5-e6a9-4112-ac84-86bfb737fcac,Rosalinda Acero Plaza,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:34:54.809359,vegan,,2
+83,39b60a96-9134-4fd6-a019-c0a88ef4deef,Victoria Carolina Padilla Heredia,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:44:44.921919,with_onion,,1
+83,40a3ac54-7c48-4260-8b73-8c03fe41f81d,Oriana del Grande,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:13:58.801285,without_onion,5.34,1
+83,0f5be11a-f858-49e3-953f-eb85dd6d53ea,Eugenio Gimenez Palacio,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:01:14.339669,without_onion,9.64,3
+83,7b0e49ec-ed66-4337-b8a2-a5a7228cc82b,Salomé Solsona-Teruel,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:06:26.455960,classic,13.7,5
+83,887501c8-265e-42ea-bc60-42abd451ab51,Paulino Ibarra Huertas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:52:29.811869,vegan,10.24,5
+83,ec5c9bc1-c809-478a-83e1-1aac2a5d8aec,Wilfredo Blanco Dominguez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:56:33.755804,vegan,N/A,5
+83,20d81c0b-3519-4ede-b1ff-8d9cbed9d6ed,Jose Carlos Sanchez-Ángel,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:15:18.846587,without_onion,14.06,1
+83,846431c3-eac5-414e-9b6c-e714b12eb2f0,Xavier Barroso Giner,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:02:03.621049,vegan,11.64,2
+83,861ea323-a787-4ff6-9091-bb3e0381c178,Arsenio del Carballo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:43:57.545321,classic,,1
+83,f7500642-4c95-4d75-9ef3-699d21e72f96,Eligio Ruiz Francisco,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:44:12.333668,classic,14.08,5
+83,5bc8f3f1-11e9-45b4-b4ac-8d98efcce412,Violeta Boix Rivas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:08:33.954076,without_onion,N/A,2
+83,77be74b6-105c-44d8-abc0-d38455fc2151,Chucho Giménez Gomez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:01:53.647190,with_onion,N/A,1
+83,1b8cfe25-7a64-47c4-9eab-510463d9bde7,Plinio Rocamora Vega,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:07:16.472588,classic,8.33,2
+83,a0d010d2-8657-4d76-abf9-63049882d884,Norberto Almeida-Bayona,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:31:34.744920,without_onion,,2
+83,a665302b-cdd7-4cfa-a133-332f1dca50d7,Humberto Campoy,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:45:58.505275,with_onion,,2
+83,169ae2f0-5b38-4471-9c03-4830ce9c41f1,Pepe de Jódar,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:44:57.725094,classic,N/A,1
+83,5f30f521-7d69-4841-b6f9-5212d030899a,Jessica Custodia Benavent Coloma,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:47:05.429522,without_onion,,5
+83,84fdda95-1503-4f1f-b667-3859ec0b59e3,Pastor Bertrán Oliver,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:04:06.003972,with_onion,10.11,2
+83,23139aef-5e24-4624-a07b-cc84170fb401,Felipe Narváez Torrents,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:44:17.109349,classic,6.81,2
+83,f2270f87-8332-4339-b4fb-06bbf0746a11,Nadia Arévalo Capdevila,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:59:54.338864,vegan,,3
+83,092d0c09-bcd2-44ab-a3c0-ebece87524a3,Merche Abigaíl Barral Reina,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:31:14.474968,vegan,N/A,2
+83,c798b34c-3186-4653-b21c-7d09339be87e,Ibán Arnal Fábregas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:39:50.086059,with_onion,,2
+83,c3475cbf-0e6e-40d2-b549-af6559242ee9,Consuela Nuñez Almeida,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:40:04.111297,vegan,,4
+83,1e01ab1d-01a5-4f78-922c-2f0685b8696a,Espiridión Rebollo Pedrero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:16:03.704258,with_onion,9.77,4
+83,8b1fe23e-22e9-4677-b427-fe62e7391ed5,Joel Roldán Estevez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:28:31.541622,vegan,13.1,5
+83,67bab182-a4ce-46eb-b2f4-d543cf952398,Marc Aragón Galán,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:00:53.670010,vegan,5.94,4
+83,4a408c27-841f-4bdd-87dd-053bb30c6aa4,Juanita Mariño Arellano,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:26:51.143247,vegan,N/A,4
+83,41dc95fa-8cae-493c-b3fd-fb26beca8323,Jesusa de Mata,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:47:58.463103,without_onion,N/A,1
+83,d428ad1c-bcff-4bdf-93b1-e83c180b3dc1,Petrona Cintia Pina Aguirre,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:29:11.786516,classic,9.09,4
+83,4d997c10-8bbd-422f-b589-251e6110f3b7,Rosalinda Vera Corral,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:11:44.515683,with_onion,,2
+83,38f6568c-abaf-46fc-800e-29dec2519a7d,Ciríaco Expósito,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:41:42.233639,with_onion,,4
+83,8bb31714-e085-49cc-bf1f-0d25156d23ee,Martirio Calleja Luna,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:37:58.354069,without_onion,N/A,3
+83,040d5852-b7d5-4813-b598-0b577cabf2c6,Ema Amor Bello Salinas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:56:31.603431,without_onion,,1
+83,0009df71-79a1-444e-99cf-902e978c2e1a,Luís Cazorla Gual,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:17:25.138351,with_onion,,4
+83,ef14e23e-5592-4d02-93ca-06a648fed9f9,Salomón Nicolás Alberola,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:23:40.331204,without_onion,,4
+83,188c6ee4-889e-4a24-a19d-f97dc2ae0fa0,Rosalina Ángeles Miranda Escolano,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:33:03.367783,without_onion,N/A,3
+83,68999e86-1740-421d-a25a-6d1224a602a2,Horacio Llopis-Malo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:57:58.382400,with_onion,,4
+83,8b9d0f3c-1b3d-4dc5-bb6f-5312caed6cf8,Carlota Gutierrez Carnero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:51:36.116031,without_onion,N/A,1
+83,9b4c5eba-67e1-4f10-bda0-762673a12c7b,Abril Aparicio Santamaría,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:13:40.085667,classic,12.61,4
+83,8945bff0-020a-4026-bf11-3e96ec7cf431,Carmelo Llorente Navarrete,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:04:02.801446,classic,5.96,1
+83,1ca2fd36-904b-4fa8-aac0-cde8a1bf1edc,Eutimio Alvarez Iniesta,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:20:59.466196,vegan,7.9,4
+83,0e88fab3-652a-40d8-87df-0345c2bbe233,Santiago Codina,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:51:16.002439,vegan,8.23,1
+83,c7acf32d-4a45-40b4-b9a2-bce8d91c1671,Camilo Castell Rovira,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:31:38.949221,vegan,,1
+83,a6c15dc4-9d8b-45a3-b83c-1d783f319a7f,Cayetano Ávila Amo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:45:08.339584,with_onion,9.51,5
+83,d455f0e3-60d8-477c-a7dd-57c893d8ffa8,Haroldo Trujillo Tamarit,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:35:39.609330,without_onion,N/A,1
+83,18788e90-10a1-4392-8b53-6bd746518c21,Carla Niño Gisbert,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:12:24.849163,with_onion,,1
+83,90029d28-1f72-48af-af29-d13920c039b8,Remigio Coca Verdú,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:28:21.018087,with_onion,,2
+83,1e58d833-5f40-41e2-bca4-9f88ec7f2156,Nuria Tudela Gilabert,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:33:50.179132,vegan,N/A,5
+83,7a0cfec6-9dae-434d-b2f4-7d5e7fd661ba,Marisol Chico Santiago,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:53:31.272026,classic,,4
+83,36ade84a-4d88-45f4-bf5f-b778e6dbafff,Gervasio de Diez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:40:52.124615,vegan,13.66,4
+83,88caa166-ce8b-4142-b89d-2876e77a1e18,Marina Huguet Abad,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:12:53.964997,without_onion,N/A,4
+83,84ba972d-2a0a-4196-8990-a9b2a6a406b5,Nicanor de Guitart,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:02:17.266012,classic,,2
+83,f25cfda9-769b-4590-a1f9-e1debf907e38,Virgilio Zorrilla-Ibañez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:14:09.862127,without_onion,,2
+83,b1c0283e-1adb-49cc-858e-70fc227a3b6c,Alma Raquel Amigó Jurado,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:40:49.366006,without_onion,8.32,1
+83,2c26307c-aff2-40ac-ad13-2ad8a1bed42f,Seve Mesa Fuster,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:44:02.992250,without_onion,N/A,1
+83,b0b7760a-9406-4dd6-bff3-9adbf3e7148e,Eugenio Lucho Enríquez Paredes,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:12:29.306452,with_onion,,5
+83,c47a40b9-c663-4942-a7b3-619f7c3bb205,Primitiva Lluch Moreno,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:25:16.825858,classic,,5
+83,a4e8ee09-5415-4e24-9b3f-3679b6af6464,Narciso Piña Cano,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:04:22.841219,without_onion,11.42,3
+83,a5c48c89-614d-436d-b98d-33d2ea85bc32,Obdulia Puerta Flores,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:45:56.640508,vegan,N/A,2
+83,647fe469-9f30-4f8a-8058-7b16b7fc00a7,Aitana Ojeda Salamanca,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:28:50.649624,with_onion,,2
+83,9b09b2e7-a026-4dd8-b05e-646d65147974,Sara Garzón Jiménez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:56:51.459494,vegan,12.78,3
+83,b931d933-2d1f-4527-8caa-c781a02489c7,Flor Agustín Luna,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:29:44.443947,classic,7.33,1
+83,d8d4b2d8-357b-424d-9791-b06346751bb0,Alexandra Peñas Báez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:14:08.356231,with_onion,8.74,2
+83,d833201b-6f5c-4370-850c-e379db6c9efa,Luisina Sacristán Montoya,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:26:04.311974,without_onion,,3
+83,b421c964-70df-4b1a-bff6-ba550b5d307d,Abril Lidia Isern Redondo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:38:03.571934,vegan,,1
+83,61131bb6-1e91-476f-acae-83cd225e1154,Eduardo Echevarría Naranjo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:07:57.760430,classic,,4
+83,38dde942-a6a5-43f8-a416-448f797b97d8,África Cuéllar Font,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:33:45.795264,without_onion,5.44,3
+83,0210397a-1308-4c44-ac4e-12c17e0ab489,Nicanor Blazquez Solé,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:56:51.465909,without_onion,N/A,1
+83,b11de339-b593-4444-9e7f-0fe6cc80afaa,José del Roldan,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:44:40.617984,vegan,11.09,5
+83,345a6fbd-3158-4b47-84a1-22a12f9ac40a,María Castilla Luís,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:40:37.907172,without_onion,,1
+83,507f82a9-7b62-4f66-9bc5-307a24b6326f,Leonardo Pastor Camps,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:07:04.314907,vegan,N/A,3
+83,3294bb1d-6a47-44fc-8143-f135a0b3472a,Felix Boada Garriga,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:33:59.954924,with_onion,,4
+83,9a706a73-b4cb-4d0f-940e-4e6d1d905c4d,Gervasio Colomer Arenas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:10:23.423842,with_onion,,4
+83,1495b3c7-6366-4197-824a-d6e22dac7129,Prudencio Peñalver Pineda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:30:36.228155,with_onion,N/A,4
+83,24b41389-bc21-43fd-b7d4-6b81b4aa2062,Luciano Pizarro Lobo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:41:39.088601,classic,6.91,5
+83,1bad8f96-efcf-4455-ac26-6ffb59ca03ab,Serafina Gonzalez Ropero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:42:59.520983,vegan,,2
+83,7a141a12-c20d-4fe6-b94b-22877dc592bb,Reina del Gallego,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:04:25.708750,vegan,,2
+83,88f90646-31a7-446c-9934-166d337d4b95,Juliana Torrent Giménez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:16:32.656387,vegan,6.4,3
+83,324cd3d1-2f7d-4f08-843c-be8a6655e9dc,Félix Merino-Román,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:59:06.077889,classic,,4
+83,ec16fb92-2c2a-422b-b090-8c426579f721,Trinidad de Cabanillas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:25:54.102351,without_onion,,2
+83,86af031d-2634-407b-8b93-5adf17ce572a,Chelo Dominguez Talavera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:08:33.807377,vegan,,4
+83,cfc484db-1444-44c7-9e45-ef86ca0becf8,Primitiva Alvarez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:56:47.585253,classic,,2
+83,20cea57f-fe5a-4dcd-9c9f-36234b09b05e,Ema Mendez-Belda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:48:03.979685,without_onion,N/A,4
+83,e5a984c0-18d2-4196-8cfe-1ea8faaaf0a1,Ana Cañas-Melero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:18:23.831937,without_onion,10.86,2
+83,dc6cefd4-9349-41dc-a8a8-b5ac3f539c31,Carolina Reig Carreño,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:20:11.367371,vegan,N/A,5
+83,39066981-3783-49de-99d9-52d8917cc17d,Gracia Tere Jódar Alemany,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:01:57.849677,classic,N/A,4
+83,d2d4a4ff-4d9b-4fc1-bbf0-1999a7bcef9a,Ignacio Quero Ibarra,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:21:55.861076,with_onion,N/A,2
+83,d83f566e-cc65-47c5-9487-1f324455d115,Ulises Azcona Heras,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:58:33.246551,with_onion,N/A,5
+83,b9668ed7-be2d-47e1-9273-47954272b782,Remedios Pablo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:26:31.371165,without_onion,5.24,1
+83,b318d8d3-7c73-4ed5-a21c-53e95b45cbd8,Amanda Mendoza Font,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:07:27.644604,vegan,,3
+83,a3a68dcc-861d-469c-bea0-42bec9799226,Curro Ureña,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:03:36.372394,classic,N/A,3
+83,511dc771-163f-47c5-a5d5-50eedaebd9fa,Espiridión Higueras Miguel,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:11:41.411256,without_onion,14.97,5
+83,69cb368c-190f-4ab1-8eb6-45f416e10029,Sandra Rosa Murcia,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:05:45.293166,vegan,,3
+83,779e4df4-c7ee-44e2-b6eb-018c65c24f89,Rodrigo Parejo Palomar,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:14:03.826020,with_onion,N/A,1
+83,068562d2-cfbe-4734-8ab1-aa959fe786f9,Toribio Valero Olivé,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:20:16.253221,without_onion,,1
+83,ea688754-af0e-46d0-93fb-7082fff5845d,Casemiro Cánovas Oliva,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:10:59.252040,vegan,13.12,3
+83,0a200e5c-e4fe-4a9d-ae7f-7501083b9607,Gaspar del Carbonell,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:46:41.713352,with_onion,11.91,3
+83,c1001a99-fa30-4cbe-baea-cc01b19d3ef9,Amílcar Lerma Huertas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:42:57.837509,classic,11.43,5
+83,b5eb08d1-296a-417c-8adb-2d178dc15f0f,Alba Pacheco Manso,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:29:11.936899,with_onion,14.85,1
+83,8ed4d5cd-2b6d-442f-b7e2-959ba46b0536,Nazaret Luís Coll,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:08:43.085967,without_onion,N/A,3
+83,5941db1f-c8e6-4ef4-bf7f-47046684b0ea,Fortunata Manjón Arco,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:21:43.473456,without_onion,N/A,2
+83,507ccc40-bf79-46b6-b083-219f83b9229f,Domitila Carmen Gimenez Moraleda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:39:44.983543,classic,,3
+83,ec586eb6-2013-452f-a1d5-0091b2e99cd1,Ramón Lillo Azorin,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:09:39.132796,without_onion,,1
+83,e8c22b0b-dea6-4bda-b907-21d0d24680f1,Belen Candela Mínguez Tudela,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:40:17.031162,without_onion,N/A,1
+83,6d79b568-9652-4622-bbed-a39ba7e357ff,Áurea Ochoa-Villanueva,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:49:01.130905,classic,N/A,2
+83,fa762995-a22b-494c-b1ec-803f80559a6a,Fernanda Roselló Prado,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:35:32.543070,with_onion,8.62,1
+83,4354dc74-2a4f-47a8-a475-465d7dd5728a,Carmelo Diaz,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:46:32.889989,with_onion,,3
+83,3b080951-2c87-43c5-8996-a69bf1e3db17,José Rios,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:44:11.000416,classic,,2
+83,f158b5c1-ad54-48cb-affe-93733258710a,Clemente Girona Morera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:21:57.177715,vegan,N/A,2
+83,2bb406d1-0861-4234-8690-9c6718d516c2,Jorge Taboada Valls,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:15:30.859502,without_onion,N/A,4
+83,bf29224b-107c-4386-8636-937426b84710,Judith Macarena Lobato Goicoechea,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:45:50.474254,vegan,11.12,1
+83,875593f5-4503-4579-bbeb-cdba71ff2a40,Felicidad Solera Marí,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:38:07.516842,vegan,N/A,1
+83,a9a7eb55-b979-41ac-a58d-52ea725fcb5f,Leocadio Rodrigo Donaire,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:11:13.922407,classic,10.5,2
+83,b85d734c-d661-4b86-8f2b-8f1232743e9f,Mirta Muro Anglada,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:33:28.824107,vegan,,4
+83,dbdf1126-90e0-4941-a0e7-cbf280d583a2,Jacobo Miralles Olivera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:38:39.548436,with_onion,6.94,3
+83,62119eee-8779-4a52-8f45-645b3057903d,Matilde Tejada Julián,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:55:03.893174,with_onion,11.68,2
+83,4f7018f2-75a7-4a0b-9da4-464053139c99,Serafina Valverde,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:12:38.215297,classic,7.65,2
+83,e46c9fe5-6afe-4f9d-8a86-966b6019412c,Amando del Lobato,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:49:55.642286,classic,,1
+83,a7876369-824c-4afd-ab67-418b8cf891cc,Florinda Somoza Sanz,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:46:36.275997,with_onion,,5
+83,8b31142d-968a-4632-ac91-00c10520d6a3,Mamen Ascensión Suárez Sarmiento,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:27:44.896307,without_onion,,1
+83,33a8dcf9-e172-4647-b5da-2ee3fed65cf0,Baudelio Fortuny Quevedo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:06:58.831443,classic,,2
+83,52d6f95f-4a33-4fdf-b7b7-689556666746,Seve del Alcázar,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:07:45.605137,classic,10.25,5
+83,bd4e1dd4-2e61-44c9-a4c0-7f7c0258f544,Felisa Sanmiguel-Giménez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:42:38.976079,classic,9.41,3
+83,57f5296b-f6d7-4e97-a286-a563b46a2d6b,Ámbar Carretero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:05:23.404562,without_onion,14.73,5
+83,0c77e3db-39b5-4ba0-89df-f247953c0165,Rosendo Cabo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:21:26.339125,with_onion,14.48,1
+83,8c1a08d5-c184-4e30-b3a5-2bf5ef961333,Olegario Quiroga Garay,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:51:44.035523,without_onion,6.33,5
+83,5a98fed5-73a3-4f54-8870-352e2ea8488f,Nicolasa Pi Acuña,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:36:49.818338,classic,N/A,4
+83,538fec6d-e889-48e9-a865-26ff601ba107,Amancio Ceferino Infante Mateo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:47:39.560125,without_onion,N/A,3
+83,31b22907-5e36-44ae-bf20-0727bd03369e,Prudencio Sureda Matas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:57:26.070790,vegan,7.83,2
+83,c08fa147-d1b5-471f-979e-a91c7bfa7099,Zaida de Acero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:48:24.301759,vegan,5.45,4
+83,eda83d29-dd29-4d57-b9fc-e36af1275cba,Liliana Mendez Ojeda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:57:02.266465,classic,8.2,4
+83,f79e578d-2c62-492e-93ac-562c4b7d0958,Abraham Cabezas Pou,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:35:30.462624,vegan,,4
+83,527289a0-964d-4638-9e66-e261a39773fd,Silvestre Carretero Palacio,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:23:07.993506,classic,,2
+83,dd11d3c5-6bcd-4297-86e5-22be09117f25,América Maza Sanmiguel,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:38:13.317902,classic,,3
+83,f95696fd-ae56-40ec-93d7-a9676b3e20d2,Ezequiel Bueno Rocamora,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:52:50.205794,with_onion,N/A,4
+83,18ee8f02-9aa6-42b0-902c-7dc0d3addcae,Rosaura Fábregas Soto,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:27:16.073649,vegan,6.4,3
+83,d9cd0b3e-5fba-4113-a0c4-741bce0d5b4b,Teobaldo Bayo Galán,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:50:35.335021,vegan,N/A,4
+83,4129dcc3-aef7-4e5a-bcb8-f19062a23457,Vinicio Gaya Arribas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:15:48.043421,classic,N/A,4
+83,cfde1db1-9833-4578-a247-bfed2ab2ece4,Reina Silva Vendrell,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:05:42.936489,without_onion,N/A,1
+83,acd2cd8f-5297-47d5-aded-fb53497edf4a,Urbano Vilar Lucena,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:42:45.160354,vegan,N/A,2
+83,53d6627b-befa-4cd7-b30f-ca9d23f3949c,Josep Lloret,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:10:44.618509,with_onion,,5
+83,1b7eeb11-bf0b-478b-91b6-6209d0364927,Bernarda Fajardo-Lamas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:14:18.617280,with_onion,5.53,3
+83,268287a2-9b27-48ba-b9d1-1b6efc4263b9,Etelvina Anabel Plaza Font,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:48:20.437266,without_onion,13.5,4
+83,9a25c24a-0eda-4b69-aa98-bdb8b36cf36f,Pastor Ledesma Cortes,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:08:12.521575,without_onion,N/A,4
+83,4dce56d4-eac6-4f1a-bd31-824dffceb100,Alcides Ferreras Ferrero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:56:00.947822,without_onion,,4
+83,34068771-c79f-444d-9d43-eabfc1b35477,Irma Lledó Serra,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:39:26.920889,with_onion,,3
+83,16e42a25-cb1a-442c-a9ab-43553530b399,Adelaida del Alba,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:11:47.102741,with_onion,,2
+83,16668d21-1cf5-4310-8ef2-8a080170121c,Rosalinda Somoza Cáceres,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:40:04.505102,without_onion,N/A,1
+83,cbb19119-8d76-4a2c-860a-408b8a6c4e4a,Rubén Plinio Heredia Tomé,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:03:16.854861,with_onion,,2
+83,72fb8ab1-ff83-472e-a103-0b9abb75ac16,Ema del Jerez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:52:19.331429,vegan,10.79,3
+83,66007240-eb27-4d78-b493-0c33781dc20e,Florencia Toledo Casas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:23:06.197249,vegan,N/A,2
+83,0dac7cae-28d3-4eb7-983a-96f7f7478de1,Julieta Carbó Montaña,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:29:09.468522,classic,N/A,2
+83,95fa179a-d85a-4454-b02b-eae5a0cf0991,Edmundo Peral Zabala,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:29:08.909192,with_onion,,3
+83,5219729f-21ff-4323-b36d-a439371886a2,Gertrudis Nicolau-Patiño,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:56:27.152371,without_onion,7.08,2
+83,c0a51a46-cd7b-4ff4-93e2-2cd61fe8d41e,Gema Losa Castañeda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:07:06.293670,without_onion,N/A,4
+83,bb122dc3-5085-4982-8436-5a3cb4288c86,Dorita Duque Espejo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:58:03.116351,without_onion,N/A,2
+83,58e98281-1391-474a-9b81-13ffac597232,Carina Amigó Ferrández,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:53:17.081127,without_onion,,5
+83,700a314b-2ca2-4dae-8ba4-e0dcee4d6ef1,Rafa Molins Llorente,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:19:40.091800,classic,N/A,1
+83,989b16a0-4019-4e8a-a26e-b220eae85264,Jimena Gallart Luján,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:18:43.164201,vegan,N/A,1
+83,aab9cd84-e444-4645-bba7-4a133365cfd3,Lucila Crescencia Fonseca Cabañas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:40:10.513781,with_onion,14.18,5
+83,942975e4-54d1-467f-a3e1-28259a409a6d,Lázaro de Pinto,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:02:45.467523,with_onion,N/A,3
+83,c9b5eaf2-25e7-4260-a499-3d029d6e4f5b,Santos Oliveras Yuste,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:19:03.515711,vegan,,5
+83,ad638d82-540c-4148-8c3c-0fb8da88b43f,Aurelia Baró Pelayo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:37:21.851670,classic,N/A,5
+83,3f3bef1e-c9d2-4c6c-b6f6-9a7b51024e86,Teobaldo Bru Velázquez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:26:41.551239,with_onion,8.45,2
+83,0ff9e175-3863-4632-bbe7-f396ab53dfdb,Leocadio del Arteaga,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:10:25.705244,classic,7.89,5
+83,aeca7624-7fed-4a96-a9eb-089187ce95ee,Encarnación Gallo Almansa,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:12:32.113487,vegan,6.2,3
+83,873c017d-1d17-4653-a1ab-87f40ec7fb4a,Mario Donaire Carbajo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:26:13.755292,classic,,2
+83,2c3371b5-94b7-4cc2-81a9-d38733347542,Aroa de Prieto,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:42:01.612923,without_onion,,4
+83,6ba0a940-2eb7-4618-b8b0-072de05b8e19,Elba Rosario Gelabert Badía,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:07:21.877763,without_onion,N/A,2
+83,987370bd-fe16-461f-9c5a-613908c3484d,Vanesa Palmer Badía,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:15:39.522299,classic,N/A,4
+83,43fe273b-cabf-4050-9c20-43ec32ae7041,Federico de Coloma,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:37:06.850327,classic,13.15,1
+83,1795b0ba-c61b-461b-9e6b-db41c46481e4,Tadeo Expósito,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:17:04.038195,with_onion,N/A,1
+83,d43d7c37-9329-4f04-80d4-d2405275fa2e,Remigio Calisto Salvà Delgado,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:21:45.248043,with_onion,,3
+83,0ec7a5bd-769b-4e25-bd90-1ccd796b1b9b,Graciela Lago,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:29:07.249038,without_onion,9.74,4
+83,ccd61b46-0d2d-4e1c-b32d-02fe55d4d815,Gertrudis Salamanca Barba,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:11:29.639236,without_onion,,2
+83,f8f672cd-c2b2-4e6f-aae9-b432882f198a,Carlota Perea Barroso,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:26:07.658723,vegan,8.03,1
+83,eb2b23b8-a33f-466a-999a-cec0cbeb1ac5,Herminio Vallés Bauzà,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:45:16.161806,vegan,12.35,3
+83,e94d62f6-225e-44b9-bcc3-97e1e044a607,Dorita Roldán Gargallo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:24:01.171061,without_onion,N/A,3
+83,11d684d1-713b-43d7-81e9-0018aa055e51,Darío Cortés Pereira,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:22:24.353290,without_onion,N/A,4
+83,e84ba4ba-f065-4035-a0f1-439c77b38139,José Samanta Peñalver Borrell,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:03:58.980837,vegan,13.31,5
+83,b1779f64-fb98-4c57-94d9-3a1831d634b5,Marisela Vilar Álvaro,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:29:33.093901,vegan,N/A,1
+83,f464b61e-46a3-4b93-aaf9-95eabe8272f7,Tomasa Gracia Camacho Ferrera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:57:25.478158,without_onion,,5
+83,2b2f7bc7-0bed-4349-ba6e-47a5406dcb99,Valero Tolosa Ordóñez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:37:33.015332,with_onion,10.09,1
+83,8a9c8b44-5f8f-49d1-9979-c9c854f3f7f6,Pili Estrada Santamaría,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:20:20.021771,vegan,5.53,2
+83,21d6b6b2-f2c1-4982-abd9-e677ecaf2777,Verónica Blanca Echeverría,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:55:22.318233,classic,8.67,5
+83,3c0c6b81-7655-437c-9942-5b5759b2f5a5,Coral Pinto-Garcia,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:04:18.029120,with_onion,5.95,5
+83,25b6503d-3081-4406-9bde-c104ca4824fc,Tania del Rey,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:59:11.119119,without_onion,5.26,3
+83,dd58c6eb-be7b-45cf-8187-e69230a260cb,Cruz Lucena Torrijos,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:07:01.982857,vegan,14.51,2
+83,9502d77c-6c06-49f4-8666-4fc5de1b6de2,Felicia Montaña Falcón,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:52:52.969518,with_onion,,3
+83,9d344281-7075-4b53-a738-0e2baa9390ec,Ainoa Arcos Mercader,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:19:02.562020,classic,6.76,3
+83,4b36dc93-ee50-4eb5-8e6a-262065b8b5ad,Amado Nazaret Rico Farré,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:13:50.190885,vegan,5.07,1
+83,671de657-27d4-42d2-aff8-4d120f159afc,Aitor Emiliano Gómez Navarrete,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:33:40.522245,vegan,11.47,1
+83,4bf18842-4ee5-4958-bb20-8d66b98148ae,Modesto Beltran Garcia,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:52:31.490337,vegan,5.16,3
+83,2c3fd150-3c13-40d7-8837-9cf5018d5a12,Rogelio Rosales,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:10:28.491761,with_onion,10.99,2
+83,d5e17ef9-7d96-4373-9b05-568806939223,Mohamed Gaya Sureda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:57:06.795255,vegan,N/A,1
+83,03ffd09f-3201-48a8-b63a-4f7760875655,Clemente Suarez Redondo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:44:23.233611,with_onion,6.56,2
+83,6d29eb21-a558-4e6e-976d-23a117fff37a,Augusto Álamo Marcos,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:18:51.674827,without_onion,N/A,4
+83,dc1f5771-c68b-46da-af22-23db5fcd6454,Flor Varela,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:09:28.652731,vegan,5.08,2
+83,f317dc76-4a28-4db6-9f51-34e76d0880d6,Marco Malo Acedo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:56:27.885568,classic,,4
+83,629bf66b-265e-4b77-ab9c-a7745434e956,Herberto Monreal Colomer,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:36:03.335110,with_onion,,3
+83,e41aa088-28ac-4a9a-80ff-924848194195,Marianela Luna Roura,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:54:42.311034,classic,,2
+83,3ce5a2df-b89b-4d1f-89ed-735e4ac386a3,Guiomar Ramírez Campo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:13:43.250568,vegan,N/A,2
+83,d17e169f-16cf-4283-a6b3-6459390052b8,Evita Álvaro Arenas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:37:25.289356,classic,7.41,1
+83,ae996c63-f369-4753-82a6-dfff3ac9805c,Nazaret Pont Guzman,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:31:33.729316,without_onion,N/A,1
+83,533831b8-3cc1-418b-bc1c-ac268ff0cce4,Lina Cabañas Ortega,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:12:22.106338,without_onion,N/A,3
+83,e1b46549-d940-4607-b503-5646f455f7f5,Carla Tello Iglesia,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:05:47.511030,classic,N/A,3
+83,b77a90a9-4275-408c-9672-671c73fe564a,José Ángel Requena Sureda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:15:47.627612,with_onion,,1
+83,e9c08632-6bb3-4d5a-9875-9d8c9e18fe99,Soraya Bárcena Gibert,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:22:58.229166,classic,N/A,5
+83,b67771c2-ffad-4c85-9100-38e0adffa64a,Fito Cabeza Escudero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:18:58.024150,classic,N/A,5
+83,7c672194-bc97-4f8f-869f-60866e772779,Isaura Parra,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:03:33.939375,classic,N/A,1
+83,7207344e-98d6-4c33-ab20-c2288acef0a8,Gerardo Jara,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:52:42.873337,classic,,1
+83,81f79108-24a8-4a4d-aa5b-50ddec367cb4,Aureliano Ceferino Morcillo Arteaga,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:54:54.670524,without_onion,N/A,4
+83,79ba1a44-e2a4-4034-9f70-5e7893123be8,Hector Guillén,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:03:45.591740,classic,12.98,4
+83,cd4ebcd6-d534-4325-9c1d-23cec68d10fb,Desiderio Ugarte Cantero,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:14:59.261626,with_onion,,5
+83,cf179b21-26a2-4e7e-83f2-6898c326ebf3,Anita de León,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:03:10.721408,vegan,N/A,3
+83,b6b37848-a6e6-41d7-bea1-16218dc0f5d8,Eugenia Lucena Almansa,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:31:16.979722,classic,13.51,1
+83,9eba80c2-42be-46b5-9e67-a40af028cd11,Tamara Osuna Marquez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:39:45.164190,without_onion,N/A,2
+83,2046cc75-8bef-4f9b-8715-7a854b68e971,Vera Esparza-Robledo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:53:05.550883,classic,N/A,5
+83,321fc561-920e-4696-8b3f-4bb3fee0c1e5,Emperatriz Llanos Alonso,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:44:32.890357,without_onion,N/A,5
+83,b2db5510-8814-4533-a928-debecef69d7e,Salvador del Gallardo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:04:50.330697,classic,N/A,4
+83,6105917f-c0a9-4a88-991c-c3b71d327a15,Yolanda Vera Pizarro,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:06:38.313880,vegan,,4
+83,e5bbb44f-be9d-4544-88d3-cb2cb2d4fb72,Jesusa Serra Pera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:08:01.526844,vegan,,3
+83,7981cc6b-39ac-480e-b3d1-3275d411fd5f,Diego Seco Arroyo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:49:38.193171,classic,N/A,5
+83,eec7e2bf-9705-4732-aeca-1dc70d5df16e,José Manuel Valera,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:27:56.209315,without_onion,N/A,2
+83,6b6fdeb9-ac90-4286-8847-95949bf9a924,Evelia Escribano Carro,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:36:12.948720,vegan,9.55,1
+83,3db0d250-e8cd-496b-ba4d-b30df3f3fa13,Ezequiel Jódar Carbó,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:09:39.322252,vegan,N/A,5
+83,29a95af4-2b16-438c-838f-1cfb4156aedd,Elodia Villena Losa,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:04:05.036472,classic,,2
+83,31706930-3ee9-493b-a87f-9bc281cc7caf,Toribio Sabater Canales,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:27:45.450502,with_onion,14.8,2
+83,91e9a645-116b-4de5-90e1-055c27bc20b0,Daniel Badía Alemany,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:25:44.405026,without_onion,N/A,5
+83,e6c3ba14-687a-487c-80ed-ae45783b0c58,Jordán Pío Barrena Quiroga,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:30:19.780381,without_onion,N/A,3
+83,2aead2ab-fa8f-411e-9ccd-feee9e147b16,Fabiola Diéguez Anguita,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:17:42.781650,vegan,13.3,5
+83,eacb4297-93bf-4fe8-bad7-fcdfd9949340,Ofelia Roca-Mir,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:51:27.371598,classic,10.87,3
+83,6130e9f0-963e-49c5-b963-d5862f25ed06,Aitana Cerezo Esparza,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:10:43.504768,without_onion,N/A,5
+83,b5ebb158-0d32-4e25-8f0e-6ec7b1838ad8,Guiomar Cobo Plana,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:22:11.462204,with_onion,13.31,5
+83,bb84757b-7b90-4207-8f31-7e1c57955452,Gala Montalbán Goicoechea,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:17:32.452518,vegan,,2
+83,61ae2571-a427-44d2-aa5e-2071a2bd3270,Camilo Nogueira Sanz,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:12:36.491845,with_onion,11.17,3
+83,b1d0d315-1cd5-450f-a19e-ce9745cfe24c,Evita Camacho Pinilla,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:09:26.080131,classic,7.78,3
+83,c29d5345-74de-4585-b08d-aecd6f3d0b0e,Isaac Gárate,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:23:25.271477,with_onion,N/A,5
+83,12220171-5fd4-42d6-ae85-1568346c703a,David Amílcar Puig Muro,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:47:09.448563,without_onion,N/A,1
+83,aa5ae93b-4230-4f7d-b6c8-a68efa49a7d7,Etelvina Pino-Palomino,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:27:32.517540,vegan,,4
+83,6f77e1a7-5adb-48d1-9597-b60517b6c117,Abraham Escudero Alberdi,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:56:19.610421,with_onion,13.16,1
+83,1505d233-16c9-4017-8c1b-3e99f8d2c5d9,Lupe Alsina Villar,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:29:06.433337,classic,5.12,4
+83,b80a2953-6298-4a83-8113-7e9e528d9324,Gaspar Manuel-Robledo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:44:49.543606,without_onion,,5
+83,0bf25a58-0510-471c-a7f3-9b145a2a0540,Chelo Pol,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:51:12.096459,vegan,,1
+83,5d2b9a93-8cea-4426-9d21-fca42e9ea37d,Micaela Águila,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:08:19.596309,with_onion,,1
+83,a8b45048-1f5e-4168-9de7-4a2cdce73903,Lara Esteban-Córdoba,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:03:09.991670,classic,N/A,1
+83,577e7dbf-aef0-4167-9c64-1c1d782fe09f,Celso Conesa Lasa,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:21:34.323738,without_onion,10.63,1
+83,7472436b-e150-45cb-a54b-b6efab3be60c,Nicolás Amo Cabello,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:49:35.061865,vegan,,5
+83,360e419e-1ce4-40b5-bddf-d09171a28459,Zaira Torres,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:08:15.604941,without_onion,5.32,3
+83,e7d28222-f855-4832-811d-555c76f526fa,Ale Delgado Bermudez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:56:25.897898,with_onion,N/A,5
+83,27b9955b-e421-4327-85b2-8fbca96184a7,Lucila Olmedo Villena,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 12:11:23.254680,with_onion,N/A,1
+83,bbca8525-b431-47f7-9624-2a3efd018c59,Marcio de Canals,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:19:29.897406,classic,5.56,3
+83,1c6680a4-dce7-4642-94d4-d6e47ca5c947,Gilberto Batlle-Mercader,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:57:19.122744,without_onion,N/A,4
+83,67088a45-2c0f-410d-9ff5-e73487e6b69d,Clímaco Fábregas-Colom,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:46:41.381929,classic,,5
+83,3c04c4b8-df66-4cfb-a903-9c65d8ddf6e1,Demetrio Ramírez Duran,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:11:10.615022,without_onion,N/A,3
+83,7b5c9e46-e5a2-4ec0-9e12-3f3a7b9972b5,Reyes de Antúnez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:59:39.875879,with_onion,N/A,3
+83,2917fa1a-bb87-42df-9538-b9a500aac2dd,Luis Suarez Mercader,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:55:28.048014,classic,,1
+83,811a3a4d-0a43-4ede-96c7-ec172831b807,Faustino Bermudez Alarcón,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:43:27.035396,without_onion,N/A,5
+83,d9b9d9dc-dd46-4f7e-9b06-dcd66da0b934,Casemiro Palomares Mendizábal,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 17:44:41.447008,without_onion,N/A,4
+83,eb924f4a-d449-4f3e-8aac-b0a03c6c95a4,Esperanza Martin Girón,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 19:21:22.893949,classic,N/A,5
+83,361c9daf-a461-4371-afeb-8720898626ba,Angelino Bilbao Quirós,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 09:18:03.602868,vegan,,1
+83,5b7ca60c-55d9-4dd2-a6a0-42fd7128e1ca,Patricia Blazquez Peñalver,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:58:13.842147,with_onion,,4
+83,3366fc43-8906-4ec8-887d-fe0445051769,Febe Gutierrez Lozano,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:39:57.288204,without_onion,N/A,1
+83,fae9f799-b092-4194-963f-2dcb5c171e7d,Hilario Aguilar Carrión,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:39:32.803545,without_onion,,1
+83,35abe6a2-4b56-437c-b35c-1b972089c97e,Olga Cisneros,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:47:53.427196,with_onion,N/A,2
+83,2bdc4c80-cb64-472b-beb7-8ae23e45038d,Lázaro Espejo Castañeda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:57:45.542002,without_onion,5.76,4
+83,e1763f27-6db0-4b8f-9e89-14a69ff70158,Josefina de Garcés,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 23:16:53.487413,vegan,,4
+83,682cdbef-8645-4353-bf1b-a8b7c279b493,Leticia de Donaire,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 02:02:32.383041,classic,,3
+83,9b512973-0796-46dd-8d6e-915144b72013,Martín Torrecilla Vidal,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 22:37:59.393481,classic,N/A,4
+83,b732af9d-8364-4d8c-a4a7-cab26194f918,Cayetana Dalmau Tomás,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:36:21.835114,classic,,2
+83,fbbc0550-fbc5-4d41-b632-48d635850cb1,Celso Olmedo Duque,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:03:50.423269,with_onion,N/A,1
+83,2acc580e-a560-47b4-b52d-cbc017ba3f69,Elpidio Nilo Cabañas Noriega,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:04:35.731465,without_onion,N/A,1
+83,4a25d03d-962f-4884-85f6-926cf2c2a319,Ainara Antón,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:08:14.618018,without_onion,N/A,3
+83,7a436925-92ab-471d-ba4b-78a823a81e91,Galo Josep Pedraza Sarmiento,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 21:46:40.734708,classic,N/A,3
+83,159f3ebc-1259-4ad2-ad76-419251cc3e2a,Gervasio Uriarte Quirós,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 10:54:03.745820,without_onion,N/A,1
+83,9395470d-122e-434f-9361-7adadc6c3ee3,Jordán Ribera Abellán,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:56:13.268350,without_onion,N/A,1
+83,6c11dda2-aafc-4803-b9b0-eb75dd6894f1,Ildefonso Chico Parra,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 11:08:27.921036,vegan,,5
+83,547d76ca-6d00-4d97-9f67-1739cdef8061,Hilario Rodríguez Blasco,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:07:12.737217,vegan,13.02,3
+83,4ba7a489-e200-4e8d-80e2-818aafd69e38,Nico de Borja,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 16:17:37.002462,classic,14.54,2
+83,500549b2-259a-40bb-bdb5-aa9d1d17189f,Emiliano de Pol,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:25:13.968781,vegan,N/A,5
+83,4fc29449-8f33-4caf-b33c-8315ce218577,Adrián Pelayo Iñiguez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 08:32:03.460331,without_onion,,2
+83,8b11243d-b158-46f8-a427-a3c8bc3b529a,Eva María Vanesa Pi Zabaleta,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 03:08:07.225956,classic,8.43,2
+83,466f1b51-ef63-43df-9f58-1c94eaa85622,América Amores Campo,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 01:37:42.612933,without_onion,N/A,2
+83,f7ee02d0-ddbb-4d6e-aa9b-972bd774a882,Tatiana Bernad Barba,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 04:03:42.014450,with_onion,,1
+83,e0e08070-fdf4-465e-8ebd-9a83a6fb8575,César Carrasco Suárez,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:05:24.451569,without_onion,9.3,5
+83,8db9801b-39ec-492c-b571-93831d9b7e91,Soledad del Galiano,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 07:40:56.852575,with_onion,12.78,3
+83,26b05487-21fa-4bc7-b5d8-392921980540,Caridad Cabrero-López,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 00:31:11.551630,vegan,9.99,2
+83,ca58d276-5444-4ec6-a5d0-9de81cb6bac3,Lucila Ocaña-Jáuregui,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 18:00:21.369350,with_onion,,3
+83,b6ef94b7-6c02-40f3-a40a-01b777c5cde3,Araceli Gonzalo Padilla,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 14:47:40.030200,with_onion,N/A,5
+83,b356d621-7e8f-4b42-b79c-9cbafc8d201a,Gabriela Concepción Jaume Cañellas,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 20:09:24.089871,without_onion,,1
+83,d1cb73f3-60b0-43a7-87f1-7eee146e527a,Javiera Tolosa Zaragoza,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 13:16:33.605643,vegan,,3
+83,e2c9874d-85a7-46ae-871d-7c8983ab1732,Beatriz del Pineda,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 15:46:30.068639,without_onion,,1
+83,7e3c7de5-87f6-41ae-a92c-b4dde5f18e81,Concepción Ramirez Pomares,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 06:46:53.470133,without_onion,5.83,2
+83,808ea1d6-ba2a-4138-b481-339e55ff0449,Coral Abril-Bustamante,Murcia,"Camino Georgina Lastra 508 Apt. 86 , Castellón, 24316",2026-05-01 05:10:54.484085,with_onion,,3
