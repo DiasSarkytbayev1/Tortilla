@@ -1,0 +1,477 @@
+restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
+3,Tortillería Valencia,Valencia,BILL-0181ACDBEABA,2026-05-04T08:19:35+00:00,cash,31.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-0181ACDBEABA,2026-05-04T08:19:35+00:00,cash,31.9,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+3,Tortillería Valencia,Valencia,BILL-C1D260CCA0DA,2026-05-04T12:11:52+00:00,cash,38.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-C1D260CCA0DA,2026-05-04T12:11:52+00:00,cash,38.7,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-C1D260CCA0DA,2026-05-04T12:11:52+00:00,cash,38.7,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-0582A6FE6665,2026-05-04T12:33:13+00:00,contactless,61.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-0582A6FE6665,2026-05-04T12:33:13+00:00,contactless,61.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-0582A6FE6665,2026-05-04T12:33:13+00:00,contactless,61.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-206C1C3D579A,2026-05-04T20:39:26+00:00,cash,66.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-206C1C3D579A,2026-05-04T20:39:26+00:00,cash,66.3,BEER,Cerveza Caña,drinks,3,2.8,8.4
+3,Tortillería Valencia,Valencia,BILL-206C1C3D579A,2026-05-04T20:39:26+00:00,cash,66.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-206C1C3D579A,2026-05-04T20:39:26+00:00,cash,66.3,COFFEE,Café con Leche,drinks,3,1.8,5.4
+3,Tortillería Valencia,Valencia,BILL-04566A5830DF,2026-05-04T21:05:00+00:00,cash,48.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-04566A5830DF,2026-05-04T21:05:00+00:00,cash,48.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-BD17BF5CD3C7,2026-05-04T13:13:46+00:00,contactless,30.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-BD17BF5CD3C7,2026-05-04T13:13:46+00:00,contactless,30.3,WATER,Agua Mineral,drinks,1,1.2,1.2
+3,Tortillería Valencia,Valencia,BILL-BD17BF5CD3C7,2026-05-04T13:13:46+00:00,contactless,30.3,WATER,Agua Mineral,drinks,3,1.2,3.6
+3,Tortillería Valencia,Valencia,BILL-D75967360D65,2026-05-04T10:59:29+00:00,card,32.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-D75967360D65,2026-05-04T10:59:29+00:00,card,32.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+3,Tortillería Valencia,Valencia,BILL-19BEE583EF43,2026-05-04T20:18:04+00:00,contactless,47.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-19BEE583EF43,2026-05-04T20:18:04+00:00,contactless,47.6,WATER,Agua Mineral,drinks,1,1.2,1.2
+3,Tortillería Valencia,Valencia,BILL-19BEE583EF43,2026-05-04T20:18:04+00:00,contactless,47.6,WATER,Agua Mineral,drinks,2,1.2,2.4
+3,Tortillería Valencia,Valencia,BILL-19BEE583EF43,2026-05-04T20:18:04+00:00,contactless,47.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-88056229EE61,2026-05-04T17:55:20+00:00,contactless,37.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-88056229EE61,2026-05-04T17:55:20+00:00,contactless,37.0,BREAD,Pan Tostado,sides,3,2.0,6.0
+3,Tortillería Valencia,Valencia,BILL-88056229EE61,2026-05-04T17:55:20+00:00,contactless,37.0,BREAD,Pan Tostado,sides,2,2.0,4.0
+3,Tortillería Valencia,Valencia,BILL-6CAA0F75BCBD,2026-05-04T19:52:43+00:00,contactless,60.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-6CAA0F75BCBD,2026-05-04T19:52:43+00:00,contactless,60.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-6CAA0F75BCBD,2026-05-04T19:52:43+00:00,contactless,60.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-D6817EC16921,2026-05-04T20:07:36+00:00,card,47.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-D6817EC16921,2026-05-04T20:07:36+00:00,card,47.0,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+3,Tortillería Valencia,Valencia,BILL-D6817EC16921,2026-05-04T20:07:36+00:00,card,47.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-D6817EC16921,2026-05-04T20:07:36+00:00,card,47.0,BREAD,Pan Tostado,sides,2,2.0,4.0
+3,Tortillería Valencia,Valencia,BILL-9C92B5407120,2026-05-04T23:47:41+00:00,cash,27.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-9C92B5407120,2026-05-04T23:47:41+00:00,cash,27.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-BAA7B7F9B4EB,2026-05-04T21:35:24+00:00,card,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-199502D67822,2026-05-04T13:31:56+00:00,card,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-CB5ACED17616,2026-05-04T18:56:29+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-71AF12B07A9B,2026-05-04T12:36:00+00:00,card,102.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-71AF12B07A9B,2026-05-04T12:36:00+00:00,card,102.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-71AF12B07A9B,2026-05-04T12:36:00+00:00,card,102.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-71AF12B07A9B,2026-05-04T12:36:00+00:00,card,102.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-71AF12B07A9B,2026-05-04T12:36:00+00:00,card,102.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-CC825350DB68,2026-05-04T13:12:57+00:00,card,31.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-CC825350DB68,2026-05-04T13:12:57+00:00,card,31.1,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+3,Tortillería Valencia,Valencia,BILL-CC825350DB68,2026-05-04T13:12:57+00:00,card,31.1,WATER,Agua Mineral,drinks,2,1.2,2.4
+3,Tortillería Valencia,Valencia,BILL-8E484218D86B,2026-05-04T11:13:34+00:00,card,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-8E484218D86B,2026-05-04T11:13:34+00:00,card,34.0,BREAD,Pan Tostado,sides,3,2.0,6.0
+3,Tortillería Valencia,Valencia,BILL-8E484218D86B,2026-05-04T11:13:34+00:00,card,34.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+3,Tortillería Valencia,Valencia,BILL-8E484218D86B,2026-05-04T11:13:34+00:00,card,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-BC6439C768ED,2026-05-04T22:01:30+00:00,cash,17.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-BC6439C768ED,2026-05-04T22:01:30+00:00,cash,17.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+3,Tortillería Valencia,Valencia,BILL-BC6439C768ED,2026-05-04T22:01:30+00:00,cash,17.8,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+3,Tortillería Valencia,Valencia,BILL-19FBD6E1C104,2026-05-04T21:56:37+00:00,contactless,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-8603E477CF16,2026-05-04T17:17:45+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-DE307F8D53AF,2026-05-04T14:59:34+00:00,cash,37.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-DE307F8D53AF,2026-05-04T14:59:34+00:00,cash,37.3,BREAD,Pan Tostado,sides,3,2.0,6.0
+3,Tortillería Valencia,Valencia,BILL-DE307F8D53AF,2026-05-04T14:59:34+00:00,cash,37.3,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-DE307F8D53AF,2026-05-04T14:59:34+00:00,cash,37.3,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+3,Tortillería Valencia,Valencia,BILL-29917619D61B,2026-05-04T14:40:52+00:00,contactless,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-87BE015AD332,2026-05-04T12:13:30+00:00,contactless,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-87BE015AD332,2026-05-04T12:13:30+00:00,contactless,51.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+3,Tortillería Valencia,Valencia,BILL-87BE015AD332,2026-05-04T12:13:30+00:00,contactless,51.0,BREAD,Pan Tostado,sides,3,2.0,6.0
+3,Tortillería Valencia,Valencia,BILL-87BE015AD332,2026-05-04T12:13:30+00:00,contactless,51.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-87BE015AD332,2026-05-04T12:13:30+00:00,contactless,51.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-943647E3A69F,2026-05-04T14:48:56+00:00,cash,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-BE5226BDC372,2026-05-04T19:54:37+00:00,cash,58.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-BE5226BDC372,2026-05-04T19:54:37+00:00,cash,58.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-BE5226BDC372,2026-05-04T19:54:37+00:00,cash,58.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-EFE3CB3DF756,2026-05-04T23:44:02+00:00,contactless,79.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-EFE3CB3DF756,2026-05-04T23:44:02+00:00,contactless,79.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-EFE3CB3DF756,2026-05-04T23:44:02+00:00,contactless,79.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-EFE3CB3DF756,2026-05-04T23:44:02+00:00,contactless,79.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-EFE3CB3DF756,2026-05-04T23:44:02+00:00,contactless,79.9,WATER,Agua Mineral,drinks,2,1.2,2.4
+3,Tortillería Valencia,Valencia,BILL-7350C723F083,2026-05-04T15:13:09+00:00,contactless,34.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-7350C723F083,2026-05-04T15:13:09+00:00,contactless,34.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+3,Tortillería Valencia,Valencia,BILL-7350C723F083,2026-05-04T15:13:09+00:00,contactless,34.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-9103988705C4,2026-05-04T19:31:33+00:00,cash,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-726C84C6080F,2026-05-04T13:53:01+00:00,contactless,40.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-726C84C6080F,2026-05-04T13:53:01+00:00,contactless,40.5,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+3,Tortillería Valencia,Valencia,BILL-726C84C6080F,2026-05-04T13:53:01+00:00,contactless,40.5,BEER,Cerveza Caña,drinks,1,2.8,2.8
+3,Tortillería Valencia,Valencia,BILL-726C84C6080F,2026-05-04T13:53:01+00:00,contactless,40.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-C3C384206B85,2026-05-04T20:43:36+00:00,card,43.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-C3C384206B85,2026-05-04T20:43:36+00:00,card,43.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-C3C384206B85,2026-05-04T20:43:36+00:00,card,43.0,BREAD,Pan Tostado,sides,1,2.0,2.0
+3,Tortillería Valencia,Valencia,BILL-C3C384206B85,2026-05-04T20:43:36+00:00,card,43.0,BREAD,Pan Tostado,sides,3,2.0,6.0
+3,Tortillería Valencia,Valencia,BILL-DFA70BBC85F0,2026-05-04T10:35:09+00:00,card,21.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-DFA70BBC85F0,2026-05-04T10:35:09+00:00,card,21.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-65B689923E40,2026-05-04T20:57:38+00:00,card,40.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-65B689923E40,2026-05-04T20:57:38+00:00,card,40.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-65B689923E40,2026-05-04T20:57:38+00:00,card,40.4,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+3,Tortillería Valencia,Valencia,BILL-F00C95F6575C,2026-05-04T18:31:58+00:00,card,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-E9795784F6A0,2026-05-04T13:13:17+00:00,card,76.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-E9795784F6A0,2026-05-04T13:13:17+00:00,card,76.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-E9795784F6A0,2026-05-04T13:13:17+00:00,card,76.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-E9795784F6A0,2026-05-04T13:13:17+00:00,card,76.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-A0B7589CB37F,2026-05-04T11:22:31+00:00,cash,52.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-A0B7589CB37F,2026-05-04T11:22:31+00:00,cash,52.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-A0B7589CB37F,2026-05-04T11:22:31+00:00,cash,52.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-DB5304FDA77A,2026-05-04T15:49:19+00:00,cash,63.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-DB5304FDA77A,2026-05-04T15:49:19+00:00,cash,63.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-DB5304FDA77A,2026-05-04T15:49:19+00:00,cash,63.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-DB5304FDA77A,2026-05-04T15:49:19+00:00,cash,63.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-A9AB21486A0F,2026-05-04T20:44:32+00:00,contactless,71.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-A9AB21486A0F,2026-05-04T20:44:32+00:00,contactless,71.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-A9AB21486A0F,2026-05-04T20:44:32+00:00,contactless,71.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+3,Tortillería Valencia,Valencia,BILL-A9AB21486A0F,2026-05-04T20:44:32+00:00,contactless,71.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-E494146C1AB4,2026-05-04T22:05:00+00:00,cash,50.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-E494146C1AB4,2026-05-04T22:05:00+00:00,cash,50.5,COFFEE,Café con Leche,drinks,3,1.8,5.4
+3,Tortillería Valencia,Valencia,BILL-E494146C1AB4,2026-05-04T22:05:00+00:00,cash,50.5,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-E494146C1AB4,2026-05-04T22:05:00+00:00,cash,50.5,BREAD,Pan Tostado,sides,3,2.0,6.0
+3,Tortillería Valencia,Valencia,BILL-E494146C1AB4,2026-05-04T22:05:00+00:00,cash,50.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-16B17E0BC5AF,2026-05-04T13:43:37+00:00,card,38.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-16B17E0BC5AF,2026-05-04T13:43:37+00:00,card,38.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-C88DBEAA923E,2026-05-04T14:54:37+00:00,card,29.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-C88DBEAA923E,2026-05-04T14:54:37+00:00,card,29.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-D73AEC83ED18,2026-05-04T12:47:55+00:00,card,23.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-D73AEC83ED18,2026-05-04T12:47:55+00:00,card,23.6,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+3,Tortillería Valencia,Valencia,BILL-8B5EF2E67EFF,2026-05-04T14:54:49+00:00,cash,35.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-8B5EF2E67EFF,2026-05-04T14:54:49+00:00,cash,35.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-8B5EF2E67EFF,2026-05-04T14:54:49+00:00,cash,35.5,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+3,Tortillería Valencia,Valencia,BILL-8B5EF2E67EFF,2026-05-04T14:54:49+00:00,cash,35.5,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-B80A23B01F33,2026-05-04T09:29:48+00:00,cash,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-76CA7AFA5D9A,2026-05-04T10:44:35+00:00,contactless,72.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-76CA7AFA5D9A,2026-05-04T10:44:35+00:00,contactless,72.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-76CA7AFA5D9A,2026-05-04T10:44:35+00:00,contactless,72.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-76CA7AFA5D9A,2026-05-04T10:44:35+00:00,contactless,72.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+3,Tortillería Valencia,Valencia,BILL-76CA7AFA5D9A,2026-05-04T10:44:35+00:00,contactless,72.0,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+3,Tortillería Valencia,Valencia,BILL-B1F7C626FA3F,2026-05-04T13:47:59+00:00,card,63.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-B1F7C626FA3F,2026-05-04T13:47:59+00:00,card,63.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-B1F7C626FA3F,2026-05-04T13:47:59+00:00,card,63.7,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-B1F7C626FA3F,2026-05-04T13:47:59+00:00,card,63.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+3,Tortillería Valencia,Valencia,BILL-B1F7C626FA3F,2026-05-04T13:47:59+00:00,card,63.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-7A1AB57EC622,2026-05-04T21:24:33+00:00,contactless,41.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-7A1AB57EC622,2026-05-04T21:24:33+00:00,contactless,41.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-7A1AB57EC622,2026-05-04T21:24:33+00:00,contactless,41.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+3,Tortillería Valencia,Valencia,BILL-CF9DE44FAA04,2026-05-04T17:03:11+00:00,card,47.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-CF9DE44FAA04,2026-05-04T17:03:11+00:00,card,47.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-CF9DE44FAA04,2026-05-04T17:03:11+00:00,card,47.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-CF9DE44FAA04,2026-05-04T17:03:11+00:00,card,47.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-7B342363D32B,2026-05-04T13:46:13+00:00,contactless,60.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-7B342363D32B,2026-05-04T13:46:13+00:00,contactless,60.5,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+3,Tortillería Valencia,Valencia,BILL-7B342363D32B,2026-05-04T13:46:13+00:00,contactless,60.5,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-7B342363D32B,2026-05-04T13:46:13+00:00,contactless,60.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-7B342363D32B,2026-05-04T13:46:13+00:00,contactless,60.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-2B898988C67E,2026-05-04T21:45:02+00:00,card,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-2B898988C67E,2026-05-04T21:45:02+00:00,card,42.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-2B898988C67E,2026-05-04T21:45:02+00:00,card,42.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-9CA8F040B14C,2026-05-04T22:21:20+00:00,contactless,53.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-9CA8F040B14C,2026-05-04T22:21:20+00:00,contactless,53.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-9CA8F040B14C,2026-05-04T22:21:20+00:00,contactless,53.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-9CA8F040B14C,2026-05-04T22:21:20+00:00,contactless,53.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+3,Tortillería Valencia,Valencia,BILL-2EF12367B3C5,2026-05-04T08:32:12+00:00,card,22.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-2EF12367B3C5,2026-05-04T08:32:12+00:00,card,22.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-B385C7A8C4C3,2026-05-04T18:00:47+00:00,card,27.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-B385C7A8C4C3,2026-05-04T18:00:47+00:00,card,27.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-6158E327948D,2026-05-04T10:29:31+00:00,contactless,18.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-6158E327948D,2026-05-04T10:29:31+00:00,contactless,18.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-4A72FF97277D,2026-05-04T17:04:29+00:00,cash,50.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-4A72FF97277D,2026-05-04T17:04:29+00:00,cash,50.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+3,Tortillería Valencia,Valencia,BILL-4A72FF97277D,2026-05-04T17:04:29+00:00,cash,50.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-4A72FF97277D,2026-05-04T17:04:29+00:00,cash,50.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-4A72FF97277D,2026-05-04T17:04:29+00:00,cash,50.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-D19C7106C922,2026-05-04T22:30:27+00:00,contactless,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-124E8CB7198B,2026-05-04T20:40:16+00:00,contactless,43.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-124E8CB7198B,2026-05-04T20:40:16+00:00,contactless,43.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-124E8CB7198B,2026-05-04T20:40:16+00:00,contactless,43.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-56FC0F57C1C1,2026-05-04T12:14:50+00:00,card,80.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-56FC0F57C1C1,2026-05-04T12:14:50+00:00,card,80.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-56FC0F57C1C1,2026-05-04T12:14:50+00:00,card,80.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-56FC0F57C1C1,2026-05-04T12:14:50+00:00,card,80.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-56FC0F57C1C1,2026-05-04T12:14:50+00:00,card,80.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-D6D9D78174F0,2026-05-04T21:08:44+00:00,cash,38.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-D6D9D78174F0,2026-05-04T21:08:44+00:00,cash,38.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-D6D9D78174F0,2026-05-04T21:08:44+00:00,cash,38.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-D6D9D78174F0,2026-05-04T21:08:44+00:00,cash,38.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-6EC86D34FB48,2026-05-04T13:27:16+00:00,card,86.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-6EC86D34FB48,2026-05-04T13:27:16+00:00,card,86.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-6EC86D34FB48,2026-05-04T13:27:16+00:00,card,86.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-6EC86D34FB48,2026-05-04T13:27:16+00:00,card,86.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-7D99A32CFE41,2026-05-04T23:29:03+00:00,card,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-C4AF8F54FFC0,2026-05-04T20:00:41+00:00,cash,69.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-C4AF8F54FFC0,2026-05-04T20:00:41+00:00,cash,69.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-C4AF8F54FFC0,2026-05-04T20:00:41+00:00,cash,69.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-BB1B5355AB28,2026-05-04T09:37:20+00:00,card,55.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-BB1B5355AB28,2026-05-04T09:37:20+00:00,card,55.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-BB1B5355AB28,2026-05-04T09:37:20+00:00,card,55.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-BB1B5355AB28,2026-05-04T09:37:20+00:00,card,55.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-7DDEC5E6D04E,2026-05-04T16:50:47+00:00,card,33.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-7DDEC5E6D04E,2026-05-04T16:50:47+00:00,card,33.0,WATER,Agua Mineral,drinks,1,1.2,1.2
+3,Tortillería Valencia,Valencia,BILL-7DDEC5E6D04E,2026-05-04T16:50:47+00:00,card,33.0,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-7DDEC5E6D04E,2026-05-04T16:50:47+00:00,card,33.0,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+3,Tortillería Valencia,Valencia,BILL-6C359FE891BD,2026-05-04T14:56:55+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-80C789EDFD37,2026-05-04T17:42:04+00:00,contactless,69.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-80C789EDFD37,2026-05-04T17:42:04+00:00,contactless,69.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-80C789EDFD37,2026-05-04T17:42:04+00:00,contactless,69.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-DEFE05D78743,2026-05-04T15:06:49+00:00,contactless,21.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-DEFE05D78743,2026-05-04T15:06:49+00:00,contactless,21.4,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+3,Tortillería Valencia,Valencia,BILL-BCD8AF8EBC8D,2026-05-04T17:56:26+00:00,cash,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-DC3EA8CEEC15,2026-05-04T18:00:43+00:00,cash,45.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-DC3EA8CEEC15,2026-05-04T18:00:43+00:00,cash,45.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-DC3EA8CEEC15,2026-05-04T18:00:43+00:00,cash,45.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+3,Tortillería Valencia,Valencia,BILL-DC3EA8CEEC15,2026-05-04T18:00:43+00:00,cash,45.9,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+3,Tortillería Valencia,Valencia,BILL-A1A22DDD8DBB,2026-05-04T13:19:19+00:00,contactless,41.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-A1A22DDD8DBB,2026-05-04T13:19:19+00:00,contactless,41.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-A1A22DDD8DBB,2026-05-04T13:19:19+00:00,contactless,41.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-ABEC2C7E5E4C,2026-05-04T21:36:01+00:00,card,52.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-ABEC2C7E5E4C,2026-05-04T21:36:01+00:00,card,52.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-3ED3583345E9,2026-05-04T21:04:18+00:00,cash,39.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-3ED3583345E9,2026-05-04T21:04:18+00:00,cash,39.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-3ED3583345E9,2026-05-04T21:04:18+00:00,cash,39.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+3,Tortillería Valencia,Valencia,BILL-3ED3583345E9,2026-05-04T21:04:18+00:00,cash,39.1,BREAD,Pan Tostado,sides,3,2.0,6.0
+3,Tortillería Valencia,Valencia,BILL-C0AF4B6BF3C1,2026-05-04T14:53:10+00:00,cash,36.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-C0AF4B6BF3C1,2026-05-04T14:53:10+00:00,cash,36.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-6BB57AFF5D34,2026-05-04T12:04:01+00:00,contactless,12.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-6BB57AFF5D34,2026-05-04T12:04:01+00:00,contactless,12.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+3,Tortillería Valencia,Valencia,BILL-644D412DECC6,2026-05-04T15:43:08+00:00,contactless,35.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-644D412DECC6,2026-05-04T15:43:08+00:00,contactless,35.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-F7C9300A1A9F,2026-05-04T12:19:38+00:00,cash,48.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-F7C9300A1A9F,2026-05-04T12:19:38+00:00,cash,48.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-F7C9300A1A9F,2026-05-04T12:19:38+00:00,cash,48.5,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+3,Tortillería Valencia,Valencia,BILL-A79D57470D59,2026-05-04T14:17:50+00:00,contactless,41.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-A79D57470D59,2026-05-04T14:17:50+00:00,contactless,41.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-A79D57470D59,2026-05-04T14:17:50+00:00,contactless,41.5,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+3,Tortillería Valencia,Valencia,BILL-A79D57470D59,2026-05-04T14:17:50+00:00,contactless,41.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-DFC4D044BBE6,2026-05-04T14:35:14+00:00,contactless,39.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-DFC4D044BBE6,2026-05-04T14:35:14+00:00,contactless,39.2,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+3,Tortillería Valencia,Valencia,BILL-DFC4D044BBE6,2026-05-04T14:35:14+00:00,contactless,39.2,BEER,Cerveza Caña,drinks,2,2.8,5.6
+3,Tortillería Valencia,Valencia,BILL-DFC4D044BBE6,2026-05-04T14:35:14+00:00,contactless,39.2,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+3,Tortillería Valencia,Valencia,BILL-E8B36C5D5AEC,2026-05-04T09:42:36+00:00,cash,59.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-E8B36C5D5AEC,2026-05-04T09:42:36+00:00,cash,59.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-E8B36C5D5AEC,2026-05-04T09:42:36+00:00,cash,59.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-CDBDF7984F94,2026-05-04T19:19:58+00:00,card,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-87F38F050B78,2026-05-04T21:05:27+00:00,cash,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-A2C52818BE67,2026-05-04T17:57:14+00:00,card,28.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-A2C52818BE67,2026-05-04T17:57:14+00:00,card,28.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-A81DCF7F9E98,2026-05-04T12:39:51+00:00,contactless,30.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-A81DCF7F9E98,2026-05-04T12:39:51+00:00,contactless,30.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+3,Tortillería Valencia,Valencia,BILL-F649ECA70147,2026-05-04T15:47:53+00:00,card,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-F649ECA70147,2026-05-04T15:47:53+00:00,card,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-81339513E089,2026-05-04T23:07:56+00:00,card,39.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-81339513E089,2026-05-04T23:07:56+00:00,card,39.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-81339513E089,2026-05-04T23:07:56+00:00,card,39.5,BREAD,Pan Tostado,sides,2,2.0,4.0
+3,Tortillería Valencia,Valencia,BILL-3A95F0AB1C2E,2026-05-04T21:08:23+00:00,cash,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-21675A272CE3,2026-05-04T13:04:37+00:00,contactless,45.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-21675A272CE3,2026-05-04T13:04:37+00:00,contactless,45.4,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-21675A272CE3,2026-05-04T13:04:37+00:00,contactless,45.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-21675A272CE3,2026-05-04T13:04:37+00:00,contactless,45.4,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-D9C1E6B15151,2026-05-04T20:09:53+00:00,cash,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-D9C1E6B15151,2026-05-04T20:09:53+00:00,cash,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-AF7B447BBA16,2026-05-04T20:59:52+00:00,cash,22.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-AF7B447BBA16,2026-05-04T20:59:52+00:00,cash,22.3,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+3,Tortillería Valencia,Valencia,BILL-AF7B447BBA16,2026-05-04T20:59:52+00:00,cash,22.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-075AA02A02A0,2026-05-04T17:37:57+00:00,contactless,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-075AA02A02A0,2026-05-04T17:37:57+00:00,contactless,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-075AA02A02A0,2026-05-04T17:37:57+00:00,contactless,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-FF272BB6D016,2026-05-04T13:22:15+00:00,contactless,68.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-FF272BB6D016,2026-05-04T13:22:15+00:00,contactless,68.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-FF272BB6D016,2026-05-04T13:22:15+00:00,contactless,68.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-FF272BB6D016,2026-05-04T13:22:15+00:00,contactless,68.0,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+3,Tortillería Valencia,Valencia,BILL-D7068E27FD97,2026-05-04T18:19:10+00:00,card,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-85501CC44274,2026-05-04T12:08:26+00:00,cash,34.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-85501CC44274,2026-05-04T12:08:26+00:00,cash,34.5,BREAD,Pan Tostado,sides,3,2.0,6.0
+3,Tortillería Valencia,Valencia,BILL-85501CC44274,2026-05-04T12:08:26+00:00,cash,34.5,BREAD,Pan Tostado,sides,1,2.0,2.0
+3,Tortillería Valencia,Valencia,BILL-85501CC44274,2026-05-04T12:08:26+00:00,cash,34.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-B343BF70A4E9,2026-05-04T20:48:19+00:00,cash,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-BD63C71DA4D5,2026-05-04T14:13:22+00:00,cash,78.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-BD63C71DA4D5,2026-05-04T14:13:22+00:00,cash,78.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
+3,Tortillería Valencia,Valencia,BILL-BD63C71DA4D5,2026-05-04T14:13:22+00:00,cash,78.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-BD63C71DA4D5,2026-05-04T14:13:22+00:00,cash,78.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-BD63C71DA4D5,2026-05-04T14:13:22+00:00,cash,78.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-BDF076C8C010,2026-05-04T12:43:31+00:00,card,63.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-BDF076C8C010,2026-05-04T12:43:31+00:00,card,63.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-BDF076C8C010,2026-05-04T12:43:31+00:00,card,63.0,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+3,Tortillería Valencia,Valencia,BILL-BDF076C8C010,2026-05-04T12:43:31+00:00,card,63.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-F1F6BE77CC34,2026-05-04T14:02:38+00:00,contactless,69.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-F1F6BE77CC34,2026-05-04T14:02:38+00:00,contactless,69.0,COFFEE,Café con Leche,drinks,3,1.8,5.4
+3,Tortillería Valencia,Valencia,BILL-F1F6BE77CC34,2026-05-04T14:02:38+00:00,contactless,69.0,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-F1F6BE77CC34,2026-05-04T14:02:38+00:00,contactless,69.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-F1F6BE77CC34,2026-05-04T14:02:38+00:00,contactless,69.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-494EA78DFD8E,2026-05-04T22:12:51+00:00,card,12.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-494EA78DFD8E,2026-05-04T22:12:51+00:00,card,12.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-94E75024AD5B,2026-05-04T11:44:19+00:00,contactless,19.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-94E75024AD5B,2026-05-04T11:44:19+00:00,contactless,19.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-448EDD117664,2026-05-04T22:36:56+00:00,contactless,48.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-448EDD117664,2026-05-04T22:36:56+00:00,contactless,48.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-7F6056EFF51C,2026-05-04T22:33:29+00:00,contactless,30.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-7F6056EFF51C,2026-05-04T22:33:29+00:00,contactless,30.0,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+3,Tortillería Valencia,Valencia,BILL-7F6056EFF51C,2026-05-04T22:33:29+00:00,contactless,30.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-14D7A3D44ABE,2026-05-04T13:05:35+00:00,contactless,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-38FC433ABBF7,2026-05-04T13:17:09+00:00,contactless,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-38FC433ABBF7,2026-05-04T13:17:09+00:00,contactless,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-5E25EBC721B2,2026-05-04T19:30:53+00:00,card,77.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-5E25EBC721B2,2026-05-04T19:30:53+00:00,card,77.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-5E25EBC721B2,2026-05-04T19:30:53+00:00,card,77.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-5E25EBC721B2,2026-05-04T19:30:53+00:00,card,77.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-62883B23AE10,2026-05-04T11:10:41+00:00,card,26.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-62883B23AE10,2026-05-04T11:10:41+00:00,card,26.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+3,Tortillería Valencia,Valencia,BILL-2CD23E5EB6E3,2026-05-04T21:02:47+00:00,contactless,21.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-2CD23E5EB6E3,2026-05-04T21:02:47+00:00,contactless,21.0,BREAD,Pan Tostado,sides,2,2.0,4.0
+3,Tortillería Valencia,Valencia,BILL-7193FBB2D64B,2026-05-04T13:12:31+00:00,card,94.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-7193FBB2D64B,2026-05-04T13:12:31+00:00,card,94.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-7193FBB2D64B,2026-05-04T13:12:31+00:00,card,94.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-7193FBB2D64B,2026-05-04T13:12:31+00:00,card,94.0,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+3,Tortillería Valencia,Valencia,BILL-7193FBB2D64B,2026-05-04T13:12:31+00:00,card,94.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-BA376EDADC99,2026-05-04T14:07:19+00:00,cash,35.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-BA376EDADC99,2026-05-04T14:07:19+00:00,cash,35.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-BA376EDADC99,2026-05-04T14:07:19+00:00,cash,35.1,BREAD,Pan Tostado,sides,3,2.0,6.0
+3,Tortillería Valencia,Valencia,BILL-A9BE728C928F,2026-05-04T20:19:00+00:00,cash,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-A9BE728C928F,2026-05-04T20:19:00+00:00,cash,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-7A82EF26D773,2026-05-04T10:48:00+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-596D68A4D771,2026-05-04T13:51:56+00:00,cash,39.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-596D68A4D771,2026-05-04T13:51:56+00:00,cash,39.4,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+3,Tortillería Valencia,Valencia,BILL-596D68A4D771,2026-05-04T13:51:56+00:00,cash,39.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
+3,Tortillería Valencia,Valencia,BILL-596D68A4D771,2026-05-04T13:51:56+00:00,cash,39.4,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+3,Tortillería Valencia,Valencia,BILL-2A33DBE11C05,2026-05-04T13:12:07+00:00,card,41.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-2A33DBE11C05,2026-05-04T13:12:07+00:00,card,41.4,WATER,Agua Mineral,drinks,2,1.2,2.4
+3,Tortillería Valencia,Valencia,BILL-2A33DBE11C05,2026-05-04T13:12:07+00:00,card,41.4,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+3,Tortillería Valencia,Valencia,BILL-2A33DBE11C05,2026-05-04T13:12:07+00:00,card,41.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-EDF535CFF267,2026-05-04T15:51:22+00:00,card,66.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-EDF535CFF267,2026-05-04T15:51:22+00:00,card,66.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-EDF535CFF267,2026-05-04T15:51:22+00:00,card,66.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-D052908658C6,2026-05-04T12:12:28+00:00,contactless,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-D052908658C6,2026-05-04T12:12:28+00:00,contactless,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-A630B5CA3A35,2026-05-04T13:31:44+00:00,contactless,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-5423B3E9CC12,2026-05-04T09:45:03+00:00,card,48.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-5423B3E9CC12,2026-05-04T09:45:03+00:00,card,48.5,WATER,Agua Mineral,drinks,3,1.2,3.6
+3,Tortillería Valencia,Valencia,BILL-5423B3E9CC12,2026-05-04T09:45:03+00:00,card,48.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-5423B3E9CC12,2026-05-04T09:45:03+00:00,card,48.5,WATER,Agua Mineral,drinks,2,1.2,2.4
+3,Tortillería Valencia,Valencia,BILL-5423B3E9CC12,2026-05-04T09:45:03+00:00,card,48.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-AF719C16B97C,2026-05-04T15:33:35+00:00,cash,28.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-AF719C16B97C,2026-05-04T15:33:35+00:00,cash,28.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+3,Tortillería Valencia,Valencia,BILL-AF719C16B97C,2026-05-04T15:33:35+00:00,cash,28.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-C125A0B11134,2026-05-04T23:36:02+00:00,contactless,41.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-C125A0B11134,2026-05-04T23:36:02+00:00,contactless,41.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+3,Tortillería Valencia,Valencia,BILL-C125A0B11134,2026-05-04T23:36:02+00:00,contactless,41.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-C125A0B11134,2026-05-04T23:36:02+00:00,contactless,41.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-05DD1DF41ECA,2026-05-04T23:54:25+00:00,card,55.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-05DD1DF41ECA,2026-05-04T23:54:25+00:00,card,55.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-05DD1DF41ECA,2026-05-04T23:54:25+00:00,card,55.2,BEER,Cerveza Caña,drinks,1,2.8,2.8
+3,Tortillería Valencia,Valencia,BILL-05DD1DF41ECA,2026-05-04T23:54:25+00:00,card,55.2,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+3,Tortillería Valencia,Valencia,BILL-1FFD1BEAB3BD,2026-05-04T16:54:16+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-7B70154E85A6,2026-05-04T12:39:01+00:00,card,41.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-7B70154E85A6,2026-05-04T12:39:01+00:00,card,41.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-7B70154E85A6,2026-05-04T12:39:01+00:00,card,41.6,WATER,Agua Mineral,drinks,1,1.2,1.2
+3,Tortillería Valencia,Valencia,BILL-7B70154E85A6,2026-05-04T12:39:01+00:00,card,41.6,WATER,Agua Mineral,drinks,2,1.2,2.4
+3,Tortillería Valencia,Valencia,BILL-558C5BC8EBC2,2026-05-04T12:03:43+00:00,contactless,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-3B4FCA2A0479,2026-05-04T15:52:53+00:00,card,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-9DA9A8A2E45E,2026-05-04T20:23:50+00:00,cash,54.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-9DA9A8A2E45E,2026-05-04T20:23:50+00:00,cash,54.5,WATER,Agua Mineral,drinks,1,1.2,1.2
+3,Tortillería Valencia,Valencia,BILL-9DA9A8A2E45E,2026-05-04T20:23:50+00:00,cash,54.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-9DA9A8A2E45E,2026-05-04T20:23:50+00:00,cash,54.5,BREAD,Pan Tostado,sides,2,2.0,4.0
+3,Tortillería Valencia,Valencia,BILL-9DA9A8A2E45E,2026-05-04T20:23:50+00:00,cash,54.5,BEER,Cerveza Caña,drinks,1,2.8,2.8
+3,Tortillería Valencia,Valencia,BILL-A80C0E8A42FF,2026-05-04T22:36:07+00:00,contactless,78.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-A80C0E8A42FF,2026-05-04T22:36:07+00:00,contactless,78.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-A80C0E8A42FF,2026-05-04T22:36:07+00:00,contactless,78.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-01C5B85A2EB9,2026-05-04T12:23:59+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-91B484160577,2026-05-04T13:49:07+00:00,card,69.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-91B484160577,2026-05-04T13:49:07+00:00,card,69.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-91B484160577,2026-05-04T13:49:07+00:00,card,69.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-91B484160577,2026-05-04T13:49:07+00:00,card,69.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-91B484160577,2026-05-04T13:49:07+00:00,card,69.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
+3,Tortillería Valencia,Valencia,BILL-C72F41EC430B,2026-05-04T12:05:26+00:00,contactless,39.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-C72F41EC430B,2026-05-04T12:05:26+00:00,contactless,39.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-C72F41EC430B,2026-05-04T12:05:26+00:00,contactless,39.8,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+3,Tortillería Valencia,Valencia,BILL-C72F41EC430B,2026-05-04T12:05:26+00:00,contactless,39.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+3,Tortillería Valencia,Valencia,BILL-04509F76669F,2026-05-04T17:05:56+00:00,card,73.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-04509F76669F,2026-05-04T17:05:56+00:00,card,73.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-04509F76669F,2026-05-04T17:05:56+00:00,card,73.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-04509F76669F,2026-05-04T17:05:56+00:00,card,73.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+3,Tortillería Valencia,Valencia,BILL-04509F76669F,2026-05-04T17:05:56+00:00,card,73.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-DFCD05031D04,2026-05-04T12:11:46+00:00,contactless,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-4BE7942DC734,2026-05-04T12:58:42+00:00,contactless,30.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-4BE7942DC734,2026-05-04T12:58:42+00:00,contactless,30.0,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+3,Tortillería Valencia,Valencia,BILL-49BCA503435C,2026-05-04T22:36:04+00:00,card,29.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-49BCA503435C,2026-05-04T22:36:04+00:00,card,29.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-1E24A7817C76,2026-05-04T13:25:14+00:00,card,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-1743BFE75532,2026-05-04T12:23:47+00:00,card,19.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-1743BFE75532,2026-05-04T12:23:47+00:00,card,19.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-1743BFE75532,2026-05-04T12:23:47+00:00,card,19.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+3,Tortillería Valencia,Valencia,BILL-447185E6EFFC,2026-05-04T21:58:18+00:00,card,38.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-447185E6EFFC,2026-05-04T21:58:18+00:00,card,38.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-241D178CC37A,2026-05-04T13:37:25+00:00,card,72.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-241D178CC37A,2026-05-04T13:37:25+00:00,card,72.1,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+3,Tortillería Valencia,Valencia,BILL-241D178CC37A,2026-05-04T13:37:25+00:00,card,72.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-241D178CC37A,2026-05-04T13:37:25+00:00,card,72.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-241D178CC37A,2026-05-04T13:37:25+00:00,card,72.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-41C703EFE7C0,2026-05-04T12:28:40+00:00,cash,90.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-41C703EFE7C0,2026-05-04T12:28:40+00:00,cash,90.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-41C703EFE7C0,2026-05-04T12:28:40+00:00,cash,90.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-41C703EFE7C0,2026-05-04T12:28:40+00:00,cash,90.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-41C703EFE7C0,2026-05-04T12:28:40+00:00,cash,90.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-60F5D3A5B7CF,2026-05-04T14:05:18+00:00,contactless,75.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+3,Tortillería Valencia,Valencia,BILL-60F5D3A5B7CF,2026-05-04T14:05:18+00:00,contactless,75.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-60F5D3A5B7CF,2026-05-04T14:05:18+00:00,contactless,75.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
+3,Tortillería Valencia,Valencia,BILL-60F5D3A5B7CF,2026-05-04T14:05:18+00:00,contactless,75.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-0FB0ABA88824,2026-05-04T11:45:42+00:00,cash,21.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-0FB0ABA88824,2026-05-04T11:45:42+00:00,cash,21.4,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+3,Tortillería Valencia,Valencia,BILL-CD0D837714A0,2026-05-04T12:15:29+00:00,cash,99.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-CD0D837714A0,2026-05-04T12:15:29+00:00,cash,99.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-CD0D837714A0,2026-05-04T12:15:29+00:00,cash,99.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-CD0D837714A0,2026-05-04T12:15:29+00:00,cash,99.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-CD0D837714A0,2026-05-04T12:15:29+00:00,cash,99.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-F6E904BFD696,2026-05-04T21:14:17+00:00,cash,31.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-F6E904BFD696,2026-05-04T21:14:17+00:00,cash,31.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-F6E904BFD696,2026-05-04T21:14:17+00:00,cash,31.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+3,Tortillería Valencia,Valencia,BILL-E5B2B72B936A,2026-05-04T13:11:18+00:00,cash,50.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-E5B2B72B936A,2026-05-04T13:11:18+00:00,cash,50.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-E5B2B72B936A,2026-05-04T13:11:18+00:00,cash,50.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+3,Tortillería Valencia,Valencia,BILL-E5B2B72B936A,2026-05-04T13:11:18+00:00,cash,50.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-D5F89F527385,2026-05-04T22:02:33+00:00,cash,36.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-D5F89F527385,2026-05-04T22:02:33+00:00,cash,36.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-D5F89F527385,2026-05-04T22:02:33+00:00,cash,36.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+3,Tortillería Valencia,Valencia,BILL-4CA88DF472AA,2026-05-04T13:30:33+00:00,cash,39.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-4CA88DF472AA,2026-05-04T13:30:33+00:00,cash,39.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-4CA88DF472AA,2026-05-04T13:30:33+00:00,cash,39.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-4CA88DF472AA,2026-05-04T13:30:33+00:00,cash,39.0,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+3,Tortillería Valencia,Valencia,BILL-F7D19EA2479D,2026-05-04T23:33:12+00:00,card,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-5BE41B9789C7,2026-05-04T12:59:44+00:00,cash,75.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-5BE41B9789C7,2026-05-04T12:59:44+00:00,cash,75.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+3,Tortillería Valencia,Valencia,BILL-5BE41B9789C7,2026-05-04T12:59:44+00:00,cash,75.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-5BE41B9789C7,2026-05-04T12:59:44+00:00,cash,75.9,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+3,Tortillería Valencia,Valencia,BILL-2D135E1088B2,2026-05-04T20:12:35+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-85C01C300154,2026-05-04T19:34:26+00:00,contactless,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+3,Tortillería Valencia,Valencia,BILL-0092044B0235,2026-05-04T18:07:39+00:00,card,14.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-0092044B0235,2026-05-04T18:07:39+00:00,card,14.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
+3,Tortillería Valencia,Valencia,BILL-02E2BC1374E1,2026-05-04T12:51:43+00:00,cash,29.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-02E2BC1374E1,2026-05-04T12:51:43+00:00,cash,29.1,WATER,Agua Mineral,drinks,3,1.2,3.6
+3,Tortillería Valencia,Valencia,BILL-382BCC1B80ED,2026-05-04T13:01:09+00:00,cash,51.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-382BCC1B80ED,2026-05-04T13:01:09+00:00,cash,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-CE5D474ED817,2026-05-04T23:50:46+00:00,cash,35.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-CE5D474ED817,2026-05-04T23:50:46+00:00,cash,35.9,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+3,Tortillería Valencia,Valencia,BILL-CE5D474ED817,2026-05-04T23:50:46+00:00,cash,35.9,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-CE5D474ED817,2026-05-04T23:50:46+00:00,cash,35.9,WATER,Agua Mineral,drinks,3,1.2,3.6
+3,Tortillería Valencia,Valencia,BILL-CE5D474ED817,2026-05-04T23:50:46+00:00,cash,35.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-1E56714D3A43,2026-05-04T21:38:56+00:00,cash,33.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-1E56714D3A43,2026-05-04T21:38:56+00:00,cash,33.9,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-1E56714D3A43,2026-05-04T21:38:56+00:00,cash,33.9,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+3,Tortillería Valencia,Valencia,BILL-849A744DF6BC,2026-05-04T12:52:29+00:00,contactless,86.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-849A744DF6BC,2026-05-04T12:52:29+00:00,contactless,86.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-849A744DF6BC,2026-05-04T12:52:29+00:00,contactless,86.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-849A744DF6BC,2026-05-04T12:52:29+00:00,contactless,86.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+3,Tortillería Valencia,Valencia,BILL-849A744DF6BC,2026-05-04T12:52:29+00:00,contactless,86.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+3,Tortillería Valencia,Valencia,BILL-85F33557D00A,2026-05-04T18:39:17+00:00,cash,64.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-85F33557D00A,2026-05-04T18:39:17+00:00,cash,64.0,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+3,Tortillería Valencia,Valencia,BILL-85F33557D00A,2026-05-04T18:39:17+00:00,cash,64.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-85F33557D00A,2026-05-04T18:39:17+00:00,cash,64.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-85F33557D00A,2026-05-04T18:39:17+00:00,cash,64.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-31C2BE418D9D,2026-05-04T17:56:10+00:00,card,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-265151163689,2026-05-04T14:12:51+00:00,cash,24.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-265151163689,2026-05-04T14:12:51+00:00,cash,24.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+3,Tortillería Valencia,Valencia,BILL-ABA54FF17C77,2026-05-04T21:11:31+00:00,card,75.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-ABA54FF17C77,2026-05-04T21:11:31+00:00,card,75.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+3,Tortillería Valencia,Valencia,BILL-ABA54FF17C77,2026-05-04T21:11:31+00:00,card,75.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-ABA54FF17C77,2026-05-04T21:11:31+00:00,card,75.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-DB06B3AA071E,2026-05-04T21:02:35+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-38450BECE287,2026-05-04T14:45:55+00:00,contactless,31.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-38450BECE287,2026-05-04T14:45:55+00:00,contactless,31.5,WATER,Agua Mineral,drinks,2,1.2,2.4
+3,Tortillería Valencia,Valencia,BILL-38450BECE287,2026-05-04T14:45:55+00:00,contactless,31.5,COFFEE,Café con Leche,drinks,2,1.8,3.6
+3,Tortillería Valencia,Valencia,BILL-7BD357399C58,2026-05-04T10:52:33+00:00,card,91.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-7BD357399C58,2026-05-04T10:52:33+00:00,card,91.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-7BD357399C58,2026-05-04T10:52:33+00:00,card,91.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-7BD357399C58,2026-05-04T10:52:33+00:00,card,91.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+3,Tortillería Valencia,Valencia,BILL-7BD357399C58,2026-05-04T10:52:33+00:00,card,91.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-D1D0C3D1155F,2026-05-04T11:28:22+00:00,cash,60.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+3,Tortillería Valencia,Valencia,BILL-D1D0C3D1155F,2026-05-04T11:28:22+00:00,cash,60.5,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+3,Tortillería Valencia,Valencia,BILL-D1D0C3D1155F,2026-05-04T11:28:22+00:00,cash,60.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-D1D0C3D1155F,2026-05-04T11:28:22+00:00,cash,60.5,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+3,Tortillería Valencia,Valencia,BILL-D1D0C3D1155F,2026-05-04T11:28:22+00:00,cash,60.5,COFFEE,Café con Leche,drinks,3,1.8,5.4
+3,Tortillería Valencia,Valencia,BILL-E5C32520B3DD,2026-05-04T19:06:55+00:00,card,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+3,Tortillería Valencia,Valencia,BILL-434E23EA4529,2026-05-04T20:27:49+00:00,cash,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-15D92C64F298,2026-05-04T14:09:46+00:00,card,94.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+3,Tortillería Valencia,Valencia,BILL-15D92C64F298,2026-05-04T14:09:46+00:00,card,94.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-15D92C64F298,2026-05-04T14:09:46+00:00,card,94.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+3,Tortillería Valencia,Valencia,BILL-15D92C64F298,2026-05-04T14:09:46+00:00,card,94.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+3,Tortillería Valencia,Valencia,BILL-15D92C64F298,2026-05-04T14:09:46+00:00,card,94.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
