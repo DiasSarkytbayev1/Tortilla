@@ -1,0 +1,66 @@
+# Tortilla Restaurant Chain Analytics — local dev stack.
+#
+# Usage:
+#   cp .env.example .env          # then edit DB_PASSWORD if you want
+#   docker compose up --build     # bring up Postgres + backend
+#   curl http://localhost:8000/health
+#
+# Run a CLI command in the backend image (one-off, container removed after):
+#   docker compose run --rm backend python -m app.cli generate 2026-05-04
+#   docker compose run --rm backend python -m app.cli etl 2026-05-04
+#   docker compose run --rm backend python -m app.cli analytics best_sellers 2026-05-01 2026-05-31
+#
+# Reset the database (destructive — wipes all bills, restaurants, etc.):
+#   docker compose down -v
+#
+# Note: db/init/01_init.sql is auto-applied ONLY on first volume creation.
+# To re-apply schema changes you must `down -v` first.
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${DB_USER:-tortilla_user}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-tortilla_pass}
+      POSTGRES_DB: ${DB_NAME:-tortilla_db}
+    volumes:
+      - tortilla_pgdata:/var/lib/postgresql/data
+      # Auto-runs every *.sql in alphabetical order on first boot.
+      - ./db/init:/docker-entrypoint-initdb.d:ro
+    ports:
+      # If you already have Postgres running on host 5432, change the LEFT
+      # side to e.g. "5433:5432" and update DB_PORT in .env accordingly.
+      - "${DB_PORT:-5432}:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-tortilla_user} -d ${DB_NAME:-tortilla_db}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 5s
+
+  backend:
+    build:
+      context: ./backend
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_NAME: ${DB_NAME:-tortilla_db}
+      DB_USER: ${DB_USER:-tortilla_user}
+      DB_PASSWORD: ${DB_PASSWORD:-tortilla_pass}
+      CURRENCY_SYMBOL: ${CURRENCY_SYMBOL:-€}
+      CHAIN_TZ: ${CHAIN_TZ:-Europe/Madrid}
+      POS_EXPORTS_DIR: /app/data/pos_exports
+    volumes:
+      # Host ./data/pos_exports is mounted in so generate/etl read and write
+      # files visible to the host (and gitignored — see .gitignore).
+      - ./data:/app/data
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+
+volumes:
+  tortilla_pgdata:

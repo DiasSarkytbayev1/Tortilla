@@ -1,0 +1,24 @@
+# Top-level files compose.yaml does not need.
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+
+# Frontend / docs are not built into the backend image.
+frontend
+docs
+
+# Generated POS data — mounted at runtime via compose volume.
+data
+
+# Editors / OS
+.DS_Store
+.idea
+.vscode
+
+# Python caches.
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/.venv
