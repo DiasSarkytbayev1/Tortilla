@@ -1,0 +1,159 @@
+restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
+10,Tortillería Levante,Alicante,BILL-C4E3EB336E0A,2026-05-03T14:19:09+00:00,cash,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-C4E3EB336E0A,2026-05-03T14:19:09+00:00,cash,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-C4E3EB336E0A,2026-05-03T14:19:09+00:00,cash,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-2C015DAFFFDD,2026-05-03T12:33:24+00:00,contactless,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-6D4AB2F23C0C,2026-05-03T18:01:33+00:00,cash,26.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+10,Tortillería Levante,Alicante,BILL-6D4AB2F23C0C,2026-05-03T18:01:33+00:00,cash,26.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-6D4AB2F23C0C,2026-05-03T18:01:33+00:00,cash,26.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-A11E9BECC22D,2026-05-03T14:09:17+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-8F280F51646F,2026-05-03T13:22:18+00:00,cash,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+10,Tortillería Levante,Alicante,BILL-3D140DCE939D,2026-05-03T21:37:31+00:00,card,22.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-3D140DCE939D,2026-05-03T21:37:31+00:00,card,22.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+10,Tortillería Levante,Alicante,BILL-3D140DCE939D,2026-05-03T21:37:31+00:00,card,22.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-F31A34B47F57,2026-05-03T14:39:46+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-3B139A8D6686,2026-05-03T20:05:31+00:00,contactless,40.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-3B139A8D6686,2026-05-03T20:05:31+00:00,contactless,40.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
+10,Tortillería Levante,Alicante,BILL-3B139A8D6686,2026-05-03T20:05:31+00:00,contactless,40.1,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+10,Tortillería Levante,Alicante,BILL-D168DCBAED67,2026-05-03T21:12:52+00:00,card,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-EAAF84451593,2026-05-03T18:14:35+00:00,contactless,58.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-EAAF84451593,2026-05-03T18:14:35+00:00,contactless,58.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-EAAF84451593,2026-05-03T18:14:35+00:00,contactless,58.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-EAAF84451593,2026-05-03T18:14:35+00:00,contactless,58.5,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+10,Tortillería Levante,Alicante,BILL-EAAF84451593,2026-05-03T18:14:35+00:00,contactless,58.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-51E066CA874B,2026-05-03T14:23:41+00:00,contactless,22.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+10,Tortillería Levante,Alicante,BILL-51E066CA874B,2026-05-03T14:23:41+00:00,contactless,22.2,WATER,Agua Mineral,drinks,1,1.2,1.2
+10,Tortillería Levante,Alicante,BILL-BA52FF68A406,2026-05-03T10:01:27+00:00,cash,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-BA52FF68A406,2026-05-03T10:01:27+00:00,cash,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-A77FE5F6BAC1,2026-05-03T14:19:45+00:00,card,33.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-A77FE5F6BAC1,2026-05-03T14:19:45+00:00,card,33.7,COFFEE,Café con Leche,drinks,3,1.8,5.4
+10,Tortillería Levante,Alicante,BILL-A77FE5F6BAC1,2026-05-03T14:19:45+00:00,card,33.7,BEER,Cerveza Caña,drinks,1,2.8,2.8
+10,Tortillería Levante,Alicante,BILL-CF13806F9902,2026-05-03T15:00:07+00:00,card,42.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+10,Tortillería Levante,Alicante,BILL-CF13806F9902,2026-05-03T15:00:07+00:00,card,42.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+10,Tortillería Levante,Alicante,BILL-CF13806F9902,2026-05-03T15:00:07+00:00,card,42.8,BREAD,Pan Tostado,sides,3,2.0,6.0
+10,Tortillería Levante,Alicante,BILL-CF13806F9902,2026-05-03T15:00:07+00:00,card,42.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-A22DC743EE8D,2026-05-03T15:22:06+00:00,card,13.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-A22DC743EE8D,2026-05-03T15:22:06+00:00,card,13.9,COFFEE,Café con Leche,drinks,1,1.8,1.8
+10,Tortillería Levante,Alicante,BILL-A22DC743EE8D,2026-05-03T15:22:06+00:00,card,13.9,COFFEE,Café con Leche,drinks,2,1.8,3.6
+10,Tortillería Levante,Alicante,BILL-DED8C0907CB9,2026-05-03T16:18:27+00:00,card,55.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-DED8C0907CB9,2026-05-03T16:18:27+00:00,card,55.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-DED8C0907CB9,2026-05-03T16:18:27+00:00,card,55.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+10,Tortillería Levante,Alicante,BILL-4D86778921D1,2026-05-03T20:25:15+00:00,cash,28.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-4D86778921D1,2026-05-03T20:25:15+00:00,cash,28.9,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+10,Tortillería Levante,Alicante,BILL-4D86778921D1,2026-05-03T20:25:15+00:00,cash,28.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+10,Tortillería Levante,Alicante,BILL-4D86778921D1,2026-05-03T20:25:15+00:00,cash,28.9,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+10,Tortillería Levante,Alicante,BILL-6FD09D0147A6,2026-05-03T14:58:28+00:00,contactless,42.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+10,Tortillería Levante,Alicante,BILL-6FD09D0147A6,2026-05-03T14:58:28+00:00,contactless,42.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+10,Tortillería Levante,Alicante,BILL-6FD09D0147A6,2026-05-03T14:58:28+00:00,contactless,42.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
+10,Tortillería Levante,Alicante,BILL-6FD09D0147A6,2026-05-03T14:58:28+00:00,contactless,42.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-F70C24008CFE,2026-05-03T11:59:51+00:00,card,17.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+10,Tortillería Levante,Alicante,BILL-F70C24008CFE,2026-05-03T11:59:51+00:00,card,17.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-A148519FF169,2026-05-03T22:23:41+00:00,contactless,87.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-A148519FF169,2026-05-03T22:23:41+00:00,contactless,87.5,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+10,Tortillería Levante,Alicante,BILL-A148519FF169,2026-05-03T22:23:41+00:00,contactless,87.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-A148519FF169,2026-05-03T22:23:41+00:00,contactless,87.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+10,Tortillería Levante,Alicante,BILL-B4D598033BEC,2026-05-03T20:06:56+00:00,cash,10.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-B4D598033BEC,2026-05-03T20:06:56+00:00,cash,10.7,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+10,Tortillería Levante,Alicante,BILL-9336184F64F9,2026-05-03T21:32:53+00:00,cash,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-223C965BDBDC,2026-05-03T17:48:27+00:00,cash,37.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-223C965BDBDC,2026-05-03T17:48:27+00:00,cash,37.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-223C965BDBDC,2026-05-03T17:48:27+00:00,cash,37.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+10,Tortillería Levante,Alicante,BILL-B77BF0E4F4B3,2026-05-03T22:44:40+00:00,contactless,48.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-B77BF0E4F4B3,2026-05-03T22:44:40+00:00,contactless,48.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+10,Tortillería Levante,Alicante,BILL-B77BF0E4F4B3,2026-05-03T22:44:40+00:00,contactless,48.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+10,Tortillería Levante,Alicante,BILL-47EDB32D6961,2026-05-03T21:55:40+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+10,Tortillería Levante,Alicante,BILL-1C0B2FC6EC68,2026-05-03T12:22:35+00:00,contactless,63.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-1C0B2FC6EC68,2026-05-03T12:22:35+00:00,contactless,63.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-1C0B2FC6EC68,2026-05-03T12:22:35+00:00,contactless,63.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-1C0B2FC6EC68,2026-05-03T12:22:35+00:00,contactless,63.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-1C0B2FC6EC68,2026-05-03T12:22:35+00:00,contactless,63.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+10,Tortillería Levante,Alicante,BILL-61C12502B95A,2026-05-03T09:56:26+00:00,cash,27.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+10,Tortillería Levante,Alicante,BILL-61C12502B95A,2026-05-03T09:56:26+00:00,cash,27.2,COFFEE,Café con Leche,drinks,2,1.8,3.6
+10,Tortillería Levante,Alicante,BILL-61C12502B95A,2026-05-03T09:56:26+00:00,cash,27.2,BEER,Cerveza Caña,drinks,2,2.8,5.6
+10,Tortillería Levante,Alicante,BILL-3FFE61DD7B24,2026-05-03T23:22:07+00:00,card,27.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+10,Tortillería Levante,Alicante,BILL-3FFE61DD7B24,2026-05-03T23:22:07+00:00,card,27.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-3FFE61DD7B24,2026-05-03T23:22:07+00:00,card,27.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-40388D9501EE,2026-05-03T12:35:03+00:00,cash,22.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-40388D9501EE,2026-05-03T12:35:03+00:00,cash,22.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+10,Tortillería Levante,Alicante,BILL-036DD062EC03,2026-05-03T15:54:54+00:00,cash,26.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-036DD062EC03,2026-05-03T15:54:54+00:00,cash,26.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+10,Tortillería Levante,Alicante,BILL-939B050DF83E,2026-05-03T14:48:59+00:00,card,58.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-939B050DF83E,2026-05-03T14:48:59+00:00,card,58.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+10,Tortillería Levante,Alicante,BILL-939B050DF83E,2026-05-03T14:48:59+00:00,card,58.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+10,Tortillería Levante,Alicante,BILL-939B050DF83E,2026-05-03T14:48:59+00:00,card,58.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-939B050DF83E,2026-05-03T14:48:59+00:00,card,58.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-11FD89866472,2026-05-03T20:13:27+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-E2C8706C6A6F,2026-05-03T09:25:39+00:00,card,43.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+10,Tortillería Levante,Alicante,BILL-E2C8706C6A6F,2026-05-03T09:25:39+00:00,card,43.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-B520E3720654,2026-05-03T13:57:55+00:00,cash,26.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-B520E3720654,2026-05-03T13:57:55+00:00,cash,26.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-B520E3720654,2026-05-03T13:57:55+00:00,cash,26.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+10,Tortillería Levante,Alicante,BILL-11054A7AEC7F,2026-05-03T16:18:16+00:00,card,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+10,Tortillería Levante,Alicante,BILL-7B05BB018EE6,2026-05-03T12:39:51+00:00,contactless,65.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-7B05BB018EE6,2026-05-03T12:39:51+00:00,contactless,65.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+10,Tortillería Levante,Alicante,BILL-7B05BB018EE6,2026-05-03T12:39:51+00:00,contactless,65.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+10,Tortillería Levante,Alicante,BILL-7B05BB018EE6,2026-05-03T12:39:51+00:00,contactless,65.4,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+10,Tortillería Levante,Alicante,BILL-7B05BB018EE6,2026-05-03T12:39:51+00:00,contactless,65.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-3E1964AF9A8C,2026-05-03T11:31:02+00:00,card,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+10,Tortillería Levante,Alicante,BILL-D44340B10CF0,2026-05-03T21:00:05+00:00,contactless,66.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-D44340B10CF0,2026-05-03T21:00:05+00:00,contactless,66.0,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+10,Tortillería Levante,Alicante,BILL-D44340B10CF0,2026-05-03T21:00:05+00:00,contactless,66.0,COFFEE,Café con Leche,drinks,2,1.8,3.6
+10,Tortillería Levante,Alicante,BILL-D44340B10CF0,2026-05-03T21:00:05+00:00,contactless,66.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-D44340B10CF0,2026-05-03T21:00:05+00:00,contactless,66.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+10,Tortillería Levante,Alicante,BILL-4EB039F2C2F9,2026-05-03T18:20:46+00:00,contactless,61.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-4EB039F2C2F9,2026-05-03T18:20:46+00:00,contactless,61.8,COFFEE,Café con Leche,drinks,3,1.8,5.4
+10,Tortillería Levante,Alicante,BILL-4EB039F2C2F9,2026-05-03T18:20:46+00:00,contactless,61.8,COFFEE,Café con Leche,drinks,3,1.8,5.4
+10,Tortillería Levante,Alicante,BILL-4EB039F2C2F9,2026-05-03T18:20:46+00:00,contactless,61.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-34CBA7F9EE45,2026-05-03T19:31:56+00:00,contactless,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-34CBA7F9EE45,2026-05-03T19:31:56+00:00,contactless,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-5AC2D04818B1,2026-05-03T17:46:08+00:00,card,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-64CA6084B153,2026-05-03T18:31:47+00:00,card,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-9D0B6E8A2958,2026-05-03T21:32:36+00:00,contactless,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-1B44A06D6765,2026-05-03T14:34:10+00:00,contactless,25.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+10,Tortillería Levante,Alicante,BILL-1B44A06D6765,2026-05-03T14:34:10+00:00,contactless,25.0,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+10,Tortillería Levante,Alicante,BILL-1B44A06D6765,2026-05-03T14:34:10+00:00,contactless,25.0,COFFEE,Café con Leche,drinks,1,1.8,1.8
+10,Tortillería Levante,Alicante,BILL-A38F2F2CEA7E,2026-05-03T20:05:24+00:00,cash,65.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+10,Tortillería Levante,Alicante,BILL-A38F2F2CEA7E,2026-05-03T20:05:24+00:00,cash,65.2,BEER,Cerveza Caña,drinks,3,2.8,8.4
+10,Tortillería Levante,Alicante,BILL-A38F2F2CEA7E,2026-05-03T20:05:24+00:00,cash,65.2,BEER,Cerveza Caña,drinks,3,2.8,8.4
+10,Tortillería Levante,Alicante,BILL-A38F2F2CEA7E,2026-05-03T20:05:24+00:00,cash,65.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-A38F2F2CEA7E,2026-05-03T20:05:24+00:00,cash,65.2,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+10,Tortillería Levante,Alicante,BILL-09FBCB91FB36,2026-05-03T13:03:56+00:00,card,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+10,Tortillería Levante,Alicante,BILL-7B3C7035C652,2026-05-03T14:46:56+00:00,cash,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+10,Tortillería Levante,Alicante,BILL-8751C1186261,2026-05-03T11:42:47+00:00,cash,21.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+10,Tortillería Levante,Alicante,BILL-8751C1186261,2026-05-03T11:42:47+00:00,cash,21.8,BREAD,Pan Tostado,sides,1,2.0,2.0
+10,Tortillería Levante,Alicante,BILL-8751C1186261,2026-05-03T11:42:47+00:00,cash,21.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+10,Tortillería Levante,Alicante,BILL-A840EBEEC3A7,2026-05-03T18:54:04+00:00,contactless,57.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-A840EBEEC3A7,2026-05-03T18:54:04+00:00,contactless,57.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+10,Tortillería Levante,Alicante,BILL-A840EBEEC3A7,2026-05-03T18:54:04+00:00,contactless,57.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-A840EBEEC3A7,2026-05-03T18:54:04+00:00,contactless,57.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+10,Tortillería Levante,Alicante,BILL-EC8E46B02795,2026-05-03T21:37:02+00:00,contactless,48.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-EC8E46B02795,2026-05-03T21:37:02+00:00,contactless,48.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-EC8E46B02795,2026-05-03T21:37:02+00:00,contactless,48.5,BREAD,Pan Tostado,sides,3,2.0,6.0
+10,Tortillería Levante,Alicante,BILL-EC8E46B02795,2026-05-03T21:37:02+00:00,contactless,48.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-39E8DE0CC7C4,2026-05-03T23:14:42+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+10,Tortillería Levante,Alicante,BILL-DD23BB405068,2026-05-03T15:35:24+00:00,cash,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-14352D007FD8,2026-05-03T22:22:00+00:00,cash,87.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-14352D007FD8,2026-05-03T22:22:00+00:00,cash,87.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-14352D007FD8,2026-05-03T22:22:00+00:00,cash,87.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+10,Tortillería Levante,Alicante,BILL-14352D007FD8,2026-05-03T22:22:00+00:00,cash,87.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-14352D007FD8,2026-05-03T22:22:00+00:00,cash,87.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-559ADBD3947C,2026-05-03T13:59:39+00:00,cash,19.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-559ADBD3947C,2026-05-03T13:59:39+00:00,cash,19.2,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+10,Tortillería Levante,Alicante,BILL-559ADBD3947C,2026-05-03T13:59:39+00:00,cash,19.2,COFFEE,Café con Leche,drinks,1,1.8,1.8
+10,Tortillería Levante,Alicante,BILL-559ADBD3947C,2026-05-03T13:59:39+00:00,cash,19.2,COFFEE,Café con Leche,drinks,2,1.8,3.6
+10,Tortillería Levante,Alicante,BILL-559ADBD3947C,2026-05-03T13:59:39+00:00,cash,19.2,BEER,Cerveza Caña,drinks,1,2.8,2.8
+10,Tortillería Levante,Alicante,BILL-4F551EFEB994,2026-05-03T13:34:36+00:00,card,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-44E680D074F4,2026-05-03T20:05:55+00:00,card,39.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+10,Tortillería Levante,Alicante,BILL-44E680D074F4,2026-05-03T20:05:55+00:00,card,39.4,COFFEE,Café con Leche,drinks,1,1.8,1.8
+10,Tortillería Levante,Alicante,BILL-44E680D074F4,2026-05-03T20:05:55+00:00,card,39.4,COFFEE,Café con Leche,drinks,2,1.8,3.6
+10,Tortillería Levante,Alicante,BILL-44E680D074F4,2026-05-03T20:05:55+00:00,card,39.4,BREAD,Pan Tostado,sides,1,2.0,2.0
+10,Tortillería Levante,Alicante,BILL-44E680D074F4,2026-05-03T20:05:55+00:00,card,39.4,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+10,Tortillería Levante,Alicante,BILL-EF78D04FACD1,2026-05-03T23:55:03+00:00,cash,75.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+10,Tortillería Levante,Alicante,BILL-EF78D04FACD1,2026-05-03T23:55:03+00:00,cash,75.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+10,Tortillería Levante,Alicante,BILL-EF78D04FACD1,2026-05-03T23:55:03+00:00,cash,75.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-EF78D04FACD1,2026-05-03T23:55:03+00:00,cash,75.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+10,Tortillería Levante,Alicante,BILL-58ECD7474551,2026-05-03T18:19:01+00:00,card,51.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+10,Tortillería Levante,Alicante,BILL-58ECD7474551,2026-05-03T18:19:01+00:00,card,51.5,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+10,Tortillería Levante,Alicante,BILL-58ECD7474551,2026-05-03T18:19:01+00:00,card,51.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-FD776D142913,2026-05-03T23:40:58+00:00,card,22.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+10,Tortillería Levante,Alicante,BILL-FD776D142913,2026-05-03T23:40:58+00:00,card,22.4,COFFEE,Café con Leche,drinks,3,1.8,5.4

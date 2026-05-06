@@ -55,12 +55,30 @@ services:
       CURRENCY_SYMBOL: ${CURRENCY_SYMBOL:-€}
       CHAIN_TZ: ${CHAIN_TZ:-Europe/Madrid}
       POS_EXPORTS_DIR: /app/data/pos_exports
+      ENV: ${ENV:-dev}
+      SECRET_KEY: ${SECRET_KEY:-change-me-in-prod-only-dev-default}
+      SESSION_TTL_S: ${SESSION_TTL_S:-86400}
     volumes:
       # Host ./data/pos_exports is mounted in so generate/etl read and write
       # files visible to the host (and gitignored — see .gitignore).
       - ./data:/app/data
     ports:
       - "${BACKEND_PORT:-8000}:8000"
+
+  frontend:
+    build: ./frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    environment:
+      BACKEND_URL: http://backend:8000
+    volumes:
+      # Mount source for hot reload, but keep node_modules from the image so
+      # we don't smash macOS/linux native binaries.
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "${FRONTEND_PORT:-5173}:5173"
 
 volumes:
   tortilla_pgdata:

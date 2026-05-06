@@ -1,0 +1,163 @@
+restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
+7,Tortilla La Huerta,Murcia,BILL-1B5C9C3D17EF,2026-05-02T19:20:35+00:00,cash,80.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+7,Tortilla La Huerta,Murcia,BILL-1B5C9C3D17EF,2026-05-02T19:20:35+00:00,cash,80.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-1B5C9C3D17EF,2026-05-02T19:20:35+00:00,cash,80.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-1B5C9C3D17EF,2026-05-02T19:20:35+00:00,cash,80.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-D864CD1A690D,2026-05-02T12:26:44+00:00,card,33.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-D864CD1A690D,2026-05-02T12:26:44+00:00,card,33.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+7,Tortilla La Huerta,Murcia,BILL-D864CD1A690D,2026-05-02T12:26:44+00:00,card,33.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-E3A062B8CE9D,2026-05-02T16:06:01+00:00,contactless,52.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+7,Tortilla La Huerta,Murcia,BILL-E3A062B8CE9D,2026-05-02T16:06:01+00:00,contactless,52.9,COFFEE,Café con Leche,drinks,1,1.8,1.8
+7,Tortilla La Huerta,Murcia,BILL-E3A062B8CE9D,2026-05-02T16:06:01+00:00,contactless,52.9,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+7,Tortilla La Huerta,Murcia,BILL-E3A062B8CE9D,2026-05-02T16:06:01+00:00,contactless,52.9,BEER,Cerveza Caña,drinks,2,2.8,5.6
+7,Tortilla La Huerta,Murcia,BILL-E3A062B8CE9D,2026-05-02T16:06:01+00:00,contactless,52.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-E6CD8926DB56,2026-05-02T22:23:23+00:00,card,34.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-E6CD8926DB56,2026-05-02T22:23:23+00:00,card,34.5,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+7,Tortilla La Huerta,Murcia,BILL-7FED4FDA6180,2026-05-02T09:37:26+00:00,card,30.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-7FED4FDA6180,2026-05-02T09:37:26+00:00,card,30.0,BEER,Cerveza Caña,drinks,1,2.8,2.8
+7,Tortilla La Huerta,Murcia,BILL-7FED4FDA6180,2026-05-02T09:37:26+00:00,card,30.0,COFFEE,Café con Leche,drinks,1,1.8,1.8
+7,Tortilla La Huerta,Murcia,BILL-7FED4FDA6180,2026-05-02T09:37:26+00:00,card,30.0,BEER,Cerveza Caña,drinks,3,2.8,8.4
+7,Tortilla La Huerta,Murcia,BILL-A81E6157C3A3,2026-05-02T13:11:07+00:00,contactless,70.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-A81E6157C3A3,2026-05-02T13:11:07+00:00,contactless,70.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+7,Tortilla La Huerta,Murcia,BILL-A81E6157C3A3,2026-05-02T13:11:07+00:00,contactless,70.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-A81E6157C3A3,2026-05-02T13:11:07+00:00,contactless,70.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+7,Tortilla La Huerta,Murcia,BILL-91EF6F3266DF,2026-05-02T10:40:59+00:00,card,31.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+7,Tortilla La Huerta,Murcia,BILL-91EF6F3266DF,2026-05-02T10:40:59+00:00,card,31.4,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+7,Tortilla La Huerta,Murcia,BILL-ADB28BA6A906,2026-05-02T21:35:31+00:00,contactless,62.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-ADB28BA6A906,2026-05-02T21:35:31+00:00,contactless,62.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+7,Tortilla La Huerta,Murcia,BILL-ADB28BA6A906,2026-05-02T21:35:31+00:00,contactless,62.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-ADB28BA6A906,2026-05-02T21:35:31+00:00,contactless,62.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+7,Tortilla La Huerta,Murcia,BILL-7B4C7FF2872D,2026-05-02T14:26:50+00:00,cash,19.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+7,Tortilla La Huerta,Murcia,BILL-7B4C7FF2872D,2026-05-02T14:26:50+00:00,cash,19.9,BEER,Cerveza Caña,drinks,1,2.8,2.8
+7,Tortilla La Huerta,Murcia,BILL-7B4C7FF2872D,2026-05-02T14:26:50+00:00,cash,19.9,COFFEE,Café con Leche,drinks,1,1.8,1.8
+7,Tortilla La Huerta,Murcia,BILL-7B4C7FF2872D,2026-05-02T14:26:50+00:00,cash,19.9,WATER,Agua Mineral,drinks,1,1.2,1.2
+7,Tortilla La Huerta,Murcia,BILL-7B4C7FF2872D,2026-05-02T14:26:50+00:00,cash,19.9,WATER,Agua Mineral,drinks,3,1.2,3.6
+7,Tortilla La Huerta,Murcia,BILL-D38B868DE1C2,2026-05-02T14:06:17+00:00,contactless,31.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+7,Tortilla La Huerta,Murcia,BILL-D38B868DE1C2,2026-05-02T14:06:17+00:00,contactless,31.1,WATER,Agua Mineral,drinks,3,1.2,3.6
+7,Tortilla La Huerta,Murcia,BILL-D38B868DE1C2,2026-05-02T14:06:17+00:00,contactless,31.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-77D3156ED37D,2026-05-02T21:15:04+00:00,card,26.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-77D3156ED37D,2026-05-02T21:15:04+00:00,card,26.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+7,Tortilla La Huerta,Murcia,BILL-6FB381C648B2,2026-05-02T20:24:28+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-B275617D3C20,2026-05-02T20:30:40+00:00,cash,67.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-B275617D3C20,2026-05-02T20:30:40+00:00,cash,67.1,BREAD,Pan Tostado,sides,2,2.0,4.0
+7,Tortilla La Huerta,Murcia,BILL-B275617D3C20,2026-05-02T20:30:40+00:00,cash,67.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-B275617D3C20,2026-05-02T20:30:40+00:00,cash,67.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+7,Tortilla La Huerta,Murcia,BILL-B275617D3C20,2026-05-02T20:30:40+00:00,cash,67.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-AE78D036F072,2026-05-02T13:06:40+00:00,card,51.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+7,Tortilla La Huerta,Murcia,BILL-AE78D036F072,2026-05-02T13:06:40+00:00,card,51.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-AE78D036F072,2026-05-02T13:06:40+00:00,card,51.1,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+7,Tortilla La Huerta,Murcia,BILL-AE78D036F072,2026-05-02T13:06:40+00:00,card,51.1,WATER,Agua Mineral,drinks,1,1.2,1.2
+7,Tortilla La Huerta,Murcia,BILL-AE78D036F072,2026-05-02T13:06:40+00:00,card,51.1,WATER,Agua Mineral,drinks,1,1.2,1.2
+7,Tortilla La Huerta,Murcia,BILL-0D417632F96F,2026-05-02T14:02:27+00:00,card,57.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-0D417632F96F,2026-05-02T14:02:27+00:00,card,57.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-0D417632F96F,2026-05-02T14:02:27+00:00,card,57.1,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+7,Tortilla La Huerta,Murcia,BILL-0D417632F96F,2026-05-02T14:02:27+00:00,card,57.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
+7,Tortilla La Huerta,Murcia,BILL-D246E30AB68F,2026-05-02T15:49:52+00:00,card,26.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-D246E30AB68F,2026-05-02T15:49:52+00:00,card,26.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+7,Tortilla La Huerta,Murcia,BILL-D246E30AB68F,2026-05-02T15:49:52+00:00,card,26.1,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+7,Tortilla La Huerta,Murcia,BILL-E347B1DA88B5,2026-05-02T23:58:36+00:00,card,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+7,Tortilla La Huerta,Murcia,BILL-4543CE489D2A,2026-05-02T12:06:51+00:00,contactless,12.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+7,Tortilla La Huerta,Murcia,BILL-4543CE489D2A,2026-05-02T12:06:51+00:00,contactless,12.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+7,Tortilla La Huerta,Murcia,BILL-0123A5AADB5F,2026-05-02T22:47:10+00:00,cash,62.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-0123A5AADB5F,2026-05-02T22:47:10+00:00,cash,62.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-0123A5AADB5F,2026-05-02T22:47:10+00:00,cash,62.0,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+7,Tortilla La Huerta,Murcia,BILL-0123A5AADB5F,2026-05-02T22:47:10+00:00,cash,62.0,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+7,Tortilla La Huerta,Murcia,BILL-0123A5AADB5F,2026-05-02T22:47:10+00:00,cash,62.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+7,Tortilla La Huerta,Murcia,BILL-5C0FEEA17752,2026-05-02T14:10:33+00:00,card,22.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-5C0FEEA17752,2026-05-02T14:10:33+00:00,card,22.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+7,Tortilla La Huerta,Murcia,BILL-F345B8716458,2026-05-02T20:22:51+00:00,card,54.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-F345B8716458,2026-05-02T20:22:51+00:00,card,54.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-F345B8716458,2026-05-02T20:22:51+00:00,card,54.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+7,Tortilla La Huerta,Murcia,BILL-F345B8716458,2026-05-02T20:22:51+00:00,card,54.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-815D01968EFB,2026-05-02T14:11:39+00:00,contactless,36.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+7,Tortilla La Huerta,Murcia,BILL-815D01968EFB,2026-05-02T14:11:39+00:00,contactless,36.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-815D01968EFB,2026-05-02T14:11:39+00:00,contactless,36.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-D04D9DD49B8F,2026-05-02T11:56:49+00:00,contactless,76.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-D04D9DD49B8F,2026-05-02T11:56:49+00:00,contactless,76.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-D04D9DD49B8F,2026-05-02T11:56:49+00:00,contactless,76.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-D04D9DD49B8F,2026-05-02T11:56:49+00:00,contactless,76.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
+7,Tortilla La Huerta,Murcia,BILL-A5645E089151,2026-05-02T21:03:51+00:00,contactless,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+7,Tortilla La Huerta,Murcia,BILL-3E3F92344AC0,2026-05-02T15:21:15+00:00,card,89.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+7,Tortilla La Huerta,Murcia,BILL-3E3F92344AC0,2026-05-02T15:21:15+00:00,card,89.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-3E3F92344AC0,2026-05-02T15:21:15+00:00,card,89.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-3E3F92344AC0,2026-05-02T15:21:15+00:00,card,89.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-F6B8C36BDCA1,2026-05-02T14:10:45+00:00,card,60.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+7,Tortilla La Huerta,Murcia,BILL-F6B8C36BDCA1,2026-05-02T14:10:45+00:00,card,60.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-F6B8C36BDCA1,2026-05-02T14:10:45+00:00,card,60.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-611503BCC5F9,2026-05-02T23:41:46+00:00,contactless,27.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-611503BCC5F9,2026-05-02T23:41:46+00:00,contactless,27.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+7,Tortilla La Huerta,Murcia,BILL-DA788949A5C7,2026-05-02T22:49:59+00:00,contactless,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-7AC4BFC237A3,2026-05-02T11:23:04+00:00,card,9.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-7AC4BFC237A3,2026-05-02T11:23:04+00:00,card,9.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+7,Tortilla La Huerta,Murcia,BILL-0A9940266478,2026-05-02T15:46:43+00:00,cash,59.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+7,Tortilla La Huerta,Murcia,BILL-0A9940266478,2026-05-02T15:46:43+00:00,cash,59.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-0A9940266478,2026-05-02T15:46:43+00:00,cash,59.4,WATER,Agua Mineral,drinks,2,1.2,2.4
+7,Tortilla La Huerta,Murcia,BILL-5D7AF34A29C0,2026-05-02T14:11:00+00:00,contactless,48.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-5D7AF34A29C0,2026-05-02T14:11:00+00:00,contactless,48.6,BREAD,Pan Tostado,sides,3,2.0,6.0
+7,Tortilla La Huerta,Murcia,BILL-5D7AF34A29C0,2026-05-02T14:11:00+00:00,contactless,48.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+7,Tortilla La Huerta,Murcia,BILL-5D7AF34A29C0,2026-05-02T14:11:00+00:00,contactless,48.6,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+7,Tortilla La Huerta,Murcia,BILL-5D7AF34A29C0,2026-05-02T14:11:00+00:00,contactless,48.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-73D60CF77524,2026-05-02T20:15:08+00:00,contactless,36.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-73D60CF77524,2026-05-02T20:15:08+00:00,contactless,36.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-73D60CF77524,2026-05-02T20:15:08+00:00,contactless,36.9,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+7,Tortilla La Huerta,Murcia,BILL-73D60CF77524,2026-05-02T20:15:08+00:00,contactless,36.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+7,Tortilla La Huerta,Murcia,BILL-A01F31DF1E35,2026-05-02T13:03:28+00:00,cash,21.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-A01F31DF1E35,2026-05-02T13:03:28+00:00,cash,21.6,COFFEE,Café con Leche,drinks,1,1.8,1.8
+7,Tortilla La Huerta,Murcia,BILL-A01F31DF1E35,2026-05-02T13:03:28+00:00,cash,21.6,BEER,Cerveza Caña,drinks,1,2.8,2.8
+7,Tortilla La Huerta,Murcia,BILL-024D49F7666F,2026-05-02T19:02:44+00:00,contactless,69.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-024D49F7666F,2026-05-02T19:02:44+00:00,contactless,69.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-024D49F7666F,2026-05-02T19:02:44+00:00,contactless,69.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+7,Tortilla La Huerta,Murcia,BILL-024D49F7666F,2026-05-02T19:02:44+00:00,contactless,69.0,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+7,Tortilla La Huerta,Murcia,BILL-024D49F7666F,2026-05-02T19:02:44+00:00,contactless,69.0,WATER,Agua Mineral,drinks,3,1.2,3.6
+7,Tortilla La Huerta,Murcia,BILL-56109B09437F,2026-05-02T17:27:09+00:00,cash,52.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-56109B09437F,2026-05-02T17:27:09+00:00,cash,52.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-56109B09437F,2026-05-02T17:27:09+00:00,cash,52.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+7,Tortilla La Huerta,Murcia,BILL-44631576F589,2026-05-02T20:23:56+00:00,card,20.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-44631576F589,2026-05-02T20:23:56+00:00,card,20.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-44631576F589,2026-05-02T20:23:56+00:00,card,20.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+7,Tortilla La Huerta,Murcia,BILL-7939F755A003,2026-05-02T12:31:05+00:00,contactless,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+7,Tortilla La Huerta,Murcia,BILL-29613D672A4E,2026-05-02T18:16:46+00:00,card,22.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-29613D672A4E,2026-05-02T18:16:46+00:00,card,22.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+7,Tortilla La Huerta,Murcia,BILL-3975E689CC9A,2026-05-02T09:33:13+00:00,contactless,44.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+7,Tortilla La Huerta,Murcia,BILL-3975E689CC9A,2026-05-02T09:33:13+00:00,contactless,44.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-728C19D815A9,2026-05-02T12:16:14+00:00,cash,34.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+7,Tortilla La Huerta,Murcia,BILL-728C19D815A9,2026-05-02T12:16:14+00:00,cash,34.4,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+7,Tortilla La Huerta,Murcia,BILL-728C19D815A9,2026-05-02T12:16:14+00:00,cash,34.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+7,Tortilla La Huerta,Murcia,BILL-0980176DF9E7,2026-05-02T14:45:05+00:00,contactless,38.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+7,Tortilla La Huerta,Murcia,BILL-0980176DF9E7,2026-05-02T14:45:05+00:00,contactless,38.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+7,Tortilla La Huerta,Murcia,BILL-0980176DF9E7,2026-05-02T14:45:05+00:00,contactless,38.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-9712DB61DA22,2026-05-02T16:15:23+00:00,card,36.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-9712DB61DA22,2026-05-02T16:15:23+00:00,card,36.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-9712DB61DA22,2026-05-02T16:15:23+00:00,card,36.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-9712DB61DA22,2026-05-02T16:15:23+00:00,card,36.4,WATER,Agua Mineral,drinks,2,1.2,2.4
+7,Tortilla La Huerta,Murcia,BILL-FB2D60F1A6E3,2026-05-02T14:24:47+00:00,cash,55.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+7,Tortilla La Huerta,Murcia,BILL-FB2D60F1A6E3,2026-05-02T14:24:47+00:00,cash,55.5,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+7,Tortilla La Huerta,Murcia,BILL-FB2D60F1A6E3,2026-05-02T14:24:47+00:00,cash,55.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-7CFD27317F31,2026-05-02T08:45:18+00:00,cash,16.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-7CFD27317F31,2026-05-02T08:45:18+00:00,cash,16.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+7,Tortilla La Huerta,Murcia,BILL-1C8F3190D3AB,2026-05-02T12:32:04+00:00,contactless,32.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+7,Tortilla La Huerta,Murcia,BILL-1C8F3190D3AB,2026-05-02T12:32:04+00:00,contactless,32.9,COFFEE,Café con Leche,drinks,1,1.8,1.8
+7,Tortilla La Huerta,Murcia,BILL-1C8F3190D3AB,2026-05-02T12:32:04+00:00,contactless,32.9,BEER,Cerveza Caña,drinks,2,2.8,5.6
+7,Tortilla La Huerta,Murcia,BILL-1C8F3190D3AB,2026-05-02T12:32:04+00:00,contactless,32.9,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+7,Tortilla La Huerta,Murcia,BILL-5BFB723FCB87,2026-05-02T10:17:15+00:00,card,52.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-5BFB723FCB87,2026-05-02T10:17:15+00:00,card,52.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-5BFB723FCB87,2026-05-02T10:17:15+00:00,card,52.1,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+7,Tortilla La Huerta,Murcia,BILL-5BFB723FCB87,2026-05-02T10:17:15+00:00,card,52.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-5BFB723FCB87,2026-05-02T10:17:15+00:00,card,52.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-E520461B638D,2026-05-02T16:56:41+00:00,cash,70.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-E520461B638D,2026-05-02T16:56:41+00:00,cash,70.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+7,Tortilla La Huerta,Murcia,BILL-E520461B638D,2026-05-02T16:56:41+00:00,cash,70.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-E520461B638D,2026-05-02T16:56:41+00:00,cash,70.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+7,Tortilla La Huerta,Murcia,BILL-E520461B638D,2026-05-02T16:56:41+00:00,cash,70.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-7C3D840765DE,2026-05-02T10:50:09+00:00,cash,42.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+7,Tortilla La Huerta,Murcia,BILL-7C3D840765DE,2026-05-02T10:50:09+00:00,cash,42.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+7,Tortilla La Huerta,Murcia,BILL-7C3D840765DE,2026-05-02T10:50:09+00:00,cash,42.5,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+7,Tortilla La Huerta,Murcia,BILL-7C3D840765DE,2026-05-02T10:50:09+00:00,cash,42.5,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+7,Tortilla La Huerta,Murcia,BILL-2AC7BBF56D13,2026-05-02T14:41:41+00:00,card,36.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+7,Tortilla La Huerta,Murcia,BILL-2AC7BBF56D13,2026-05-02T14:41:41+00:00,card,36.7,BEER,Cerveza Caña,drinks,3,2.8,8.4
+7,Tortilla La Huerta,Murcia,BILL-2AC7BBF56D13,2026-05-02T14:41:41+00:00,card,36.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+7,Tortilla La Huerta,Murcia,BILL-2AC7BBF56D13,2026-05-02T14:41:41+00:00,card,36.7,BEER,Cerveza Caña,drinks,1,2.8,2.8
+7,Tortilla La Huerta,Murcia,BILL-2AC7BBF56D13,2026-05-02T14:41:41+00:00,card,36.7,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+7,Tortilla La Huerta,Murcia,BILL-311996EA2F76,2026-05-02T12:51:37+00:00,cash,44.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+7,Tortilla La Huerta,Murcia,BILL-311996EA2F76,2026-05-02T12:51:37+00:00,cash,44.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+7,Tortilla La Huerta,Murcia,BILL-311996EA2F76,2026-05-02T12:51:37+00:00,cash,44.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0

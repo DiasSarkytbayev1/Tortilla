@@ -1,245 +1,232 @@
 restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
-9,Euskal Tortilla,Bilbao,BILL-027CCE726314,2026-05-04T13:44:42+00:00,contactless,32.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-027CCE726314,2026-05-04T13:44:42+00:00,contactless,32.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-9,Euskal Tortilla,Bilbao,BILL-027CCE726314,2026-05-04T13:44:42+00:00,contactless,32.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-9,Euskal Tortilla,Bilbao,BILL-3108D3EFFACB,2026-05-04T13:21:31+00:00,card,77.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-3108D3EFFACB,2026-05-04T13:21:31+00:00,card,77.5,BEER,Cerveza Caña,drinks,2,2.8,5.6
-9,Euskal Tortilla,Bilbao,BILL-3108D3EFFACB,2026-05-04T13:21:31+00:00,card,77.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-3108D3EFFACB,2026-05-04T13:21:31+00:00,card,77.5,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-9,Euskal Tortilla,Bilbao,BILL-3108D3EFFACB,2026-05-04T13:21:31+00:00,card,77.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-ED4D5FDC5EDE,2026-05-04T11:14:23+00:00,contactless,61.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-ED4D5FDC5EDE,2026-05-04T11:14:23+00:00,contactless,61.5,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-9,Euskal Tortilla,Bilbao,BILL-ED4D5FDC5EDE,2026-05-04T11:14:23+00:00,contactless,61.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
-9,Euskal Tortilla,Bilbao,BILL-ED4D5FDC5EDE,2026-05-04T11:14:23+00:00,contactless,61.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
-9,Euskal Tortilla,Bilbao,BILL-ED4D5FDC5EDE,2026-05-04T11:14:23+00:00,contactless,61.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-DF2EF589CCA5,2026-05-04T11:13:48+00:00,contactless,66.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-DF2EF589CCA5,2026-05-04T11:13:48+00:00,contactless,66.2,BREAD,Pan Tostado,sides,3,2.0,6.0
-9,Euskal Tortilla,Bilbao,BILL-DF2EF589CCA5,2026-05-04T11:13:48+00:00,contactless,66.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-DF2EF589CCA5,2026-05-04T11:13:48+00:00,contactless,66.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-DF2EF589CCA5,2026-05-04T11:13:48+00:00,contactless,66.2,WATER,Agua Mineral,drinks,1,1.2,1.2
-9,Euskal Tortilla,Bilbao,BILL-8DDCF87DD0AD,2026-05-04T13:29:59+00:00,contactless,34.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-8DDCF87DD0AD,2026-05-04T13:29:59+00:00,contactless,34.5,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
-9,Euskal Tortilla,Bilbao,BILL-8DDCF87DD0AD,2026-05-04T13:29:59+00:00,contactless,34.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-05A71D1579F5,2026-05-04T22:50:54+00:00,card,58.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-05A71D1579F5,2026-05-04T22:50:54+00:00,card,58.3,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-9,Euskal Tortilla,Bilbao,BILL-05A71D1579F5,2026-05-04T22:50:54+00:00,card,58.3,COFFEE,Café con Leche,drinks,2,1.8,3.6
-9,Euskal Tortilla,Bilbao,BILL-05A71D1579F5,2026-05-04T22:50:54+00:00,card,58.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-5E94F75BE65B,2026-05-04T13:39:34+00:00,card,43.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-5E94F75BE65B,2026-05-04T13:39:34+00:00,card,43.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-9,Euskal Tortilla,Bilbao,BILL-5E94F75BE65B,2026-05-04T13:39:34+00:00,card,43.5,COFFEE,Café con Leche,drinks,2,1.8,3.6
-9,Euskal Tortilla,Bilbao,BILL-5E94F75BE65B,2026-05-04T13:39:34+00:00,card,43.5,BREAD,Pan Tostado,sides,1,2.0,2.0
-9,Euskal Tortilla,Bilbao,BILL-5E94F75BE65B,2026-05-04T13:39:34+00:00,card,43.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
-9,Euskal Tortilla,Bilbao,BILL-7CFABE05AA2D,2026-05-04T21:20:34+00:00,card,56.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-9,Euskal Tortilla,Bilbao,BILL-7CFABE05AA2D,2026-05-04T21:20:34+00:00,card,56.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-9,Euskal Tortilla,Bilbao,BILL-7CFABE05AA2D,2026-05-04T21:20:34+00:00,card,56.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-DAF748740983,2026-05-04T22:59:50+00:00,cash,27.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-DAF748740983,2026-05-04T22:59:50+00:00,cash,27.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-98FF9400E82B,2026-05-04T12:08:01+00:00,contactless,49.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-98FF9400E82B,2026-05-04T12:08:01+00:00,contactless,49.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-98FF9400E82B,2026-05-04T12:08:01+00:00,contactless,49.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-9,Euskal Tortilla,Bilbao,BILL-B3774ACDAF2A,2026-05-04T20:46:48+00:00,cash,60.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-B3774ACDAF2A,2026-05-04T20:46:48+00:00,cash,60.3,WATER,Agua Mineral,drinks,3,1.2,3.6
-9,Euskal Tortilla,Bilbao,BILL-B3774ACDAF2A,2026-05-04T20:46:48+00:00,cash,60.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-B3774ACDAF2A,2026-05-04T20:46:48+00:00,cash,60.3,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-9,Euskal Tortilla,Bilbao,BILL-B3774ACDAF2A,2026-05-04T20:46:48+00:00,cash,60.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-A1429CA646FC,2026-05-04T10:52:04+00:00,cash,28.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-A1429CA646FC,2026-05-04T10:52:04+00:00,cash,28.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-9,Euskal Tortilla,Bilbao,BILL-0D470D5DADF5,2026-05-04T15:54:30+00:00,cash,30.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-0D470D5DADF5,2026-05-04T15:54:30+00:00,cash,30.0,BREAD,Pan Tostado,sides,2,2.0,4.0
-9,Euskal Tortilla,Bilbao,BILL-0D470D5DADF5,2026-05-04T15:54:30+00:00,cash,30.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-B551ACE3C9AE,2026-05-04T23:58:16+00:00,contactless,57.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-B551ACE3C9AE,2026-05-04T23:58:16+00:00,contactless,57.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-B368A6F1E1EF,2026-05-04T13:13:05+00:00,cash,38.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-B368A6F1E1EF,2026-05-04T13:13:05+00:00,cash,38.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-B368A6F1E1EF,2026-05-04T13:13:05+00:00,cash,38.3,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-9,Euskal Tortilla,Bilbao,BILL-B368A6F1E1EF,2026-05-04T13:13:05+00:00,cash,38.3,BEER,Cerveza Caña,drinks,3,2.8,8.4
-9,Euskal Tortilla,Bilbao,BILL-9EB98E4FEB26,2026-05-04T15:28:33+00:00,cash,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-2EEEA8F90CD1,2026-05-04T22:42:12+00:00,cash,22.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-2EEEA8F90CD1,2026-05-04T22:42:12+00:00,cash,22.9,BEER,Cerveza Caña,drinks,2,2.8,5.6
-9,Euskal Tortilla,Bilbao,BILL-2EEEA8F90CD1,2026-05-04T22:42:12+00:00,cash,22.9,WATER,Agua Mineral,drinks,1,1.2,1.2
-9,Euskal Tortilla,Bilbao,BILL-2EEEA8F90CD1,2026-05-04T22:42:12+00:00,cash,22.9,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-9,Euskal Tortilla,Bilbao,BILL-2EEEA8F90CD1,2026-05-04T22:42:12+00:00,cash,22.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-9,Euskal Tortilla,Bilbao,BILL-A079377867F4,2026-05-04T12:10:42+00:00,cash,17.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-A079377867F4,2026-05-04T12:10:42+00:00,cash,17.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-61CAECE53A86,2026-05-04T20:02:54+00:00,cash,74.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-61CAECE53A86,2026-05-04T20:02:54+00:00,cash,74.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-61CAECE53A86,2026-05-04T20:02:54+00:00,cash,74.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-61CAECE53A86,2026-05-04T20:02:54+00:00,cash,74.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-61CAECE53A86,2026-05-04T20:02:54+00:00,cash,74.0,BREAD,Pan Tostado,sides,3,2.0,6.0
-9,Euskal Tortilla,Bilbao,BILL-9648A994C898,2026-05-04T12:02:27+00:00,cash,35.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-9648A994C898,2026-05-04T12:02:27+00:00,cash,35.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-4CEDA2DAC2BD,2026-05-04T15:12:21+00:00,cash,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-CE91E05397D5,2026-05-04T19:44:00+00:00,card,40.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-CE91E05397D5,2026-05-04T19:44:00+00:00,card,40.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-F5D8BCCDD761,2026-05-04T23:22:32+00:00,cash,88.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-F5D8BCCDD761,2026-05-04T23:22:32+00:00,cash,88.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-F5D8BCCDD761,2026-05-04T23:22:32+00:00,cash,88.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-58A7A0ECDC50,2026-05-04T21:30:40+00:00,contactless,42.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-9,Euskal Tortilla,Bilbao,BILL-58A7A0ECDC50,2026-05-04T21:30:40+00:00,contactless,42.8,WATER,Agua Mineral,drinks,1,1.2,1.2
-9,Euskal Tortilla,Bilbao,BILL-58A7A0ECDC50,2026-05-04T21:30:40+00:00,contactless,42.8,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-9,Euskal Tortilla,Bilbao,BILL-58A7A0ECDC50,2026-05-04T21:30:40+00:00,contactless,42.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-524D6E8EAFEF,2026-05-04T14:57:09+00:00,card,48.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-9,Euskal Tortilla,Bilbao,BILL-524D6E8EAFEF,2026-05-04T14:57:09+00:00,card,48.6,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-524D6E8EAFEF,2026-05-04T14:57:09+00:00,card,48.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-524D6E8EAFEF,2026-05-04T14:57:09+00:00,card,48.6,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-63339576172D,2026-05-04T09:54:31+00:00,cash,36.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-63339576172D,2026-05-04T09:54:31+00:00,cash,36.6,BREAD,Pan Tostado,sides,3,2.0,6.0
-9,Euskal Tortilla,Bilbao,BILL-63339576172D,2026-05-04T09:54:31+00:00,cash,36.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
-9,Euskal Tortilla,Bilbao,BILL-036A99E9B651,2026-05-04T22:48:41+00:00,card,18.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-036A99E9B651,2026-05-04T22:48:41+00:00,card,18.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-036A99E9B651,2026-05-04T22:48:41+00:00,card,18.3,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-9,Euskal Tortilla,Bilbao,BILL-21E740D76ADB,2026-05-04T14:50:23+00:00,card,32.7,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-21E740D76ADB,2026-05-04T14:50:23+00:00,card,32.7,COFFEE,Café con Leche,drinks,2,1.8,3.6
-9,Euskal Tortilla,Bilbao,BILL-21E740D76ADB,2026-05-04T14:50:23+00:00,card,32.7,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
-9,Euskal Tortilla,Bilbao,BILL-21E740D76ADB,2026-05-04T14:50:23+00:00,card,32.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-3346EE95009F,2026-05-04T19:11:28+00:00,cash,66.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-9,Euskal Tortilla,Bilbao,BILL-3346EE95009F,2026-05-04T19:11:28+00:00,cash,66.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-3346EE95009F,2026-05-04T19:11:28+00:00,cash,66.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-3346EE95009F,2026-05-04T19:11:28+00:00,cash,66.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
-9,Euskal Tortilla,Bilbao,BILL-582760115835,2026-05-04T22:33:31+00:00,contactless,63.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-582760115835,2026-05-04T22:33:31+00:00,contactless,63.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-582760115835,2026-05-04T22:33:31+00:00,contactless,63.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-582760115835,2026-05-04T22:33:31+00:00,contactless,63.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-582760115835,2026-05-04T22:33:31+00:00,contactless,63.5,BREAD,Pan Tostado,sides,1,2.0,2.0
-9,Euskal Tortilla,Bilbao,BILL-59415AF19F3D,2026-05-04T14:20:01+00:00,card,14.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-59415AF19F3D,2026-05-04T14:20:01+00:00,card,14.9,COFFEE,Café con Leche,drinks,2,1.8,3.6
-9,Euskal Tortilla,Bilbao,BILL-59415AF19F3D,2026-05-04T14:20:01+00:00,card,14.9,BEER,Cerveza Caña,drinks,1,2.8,2.8
-9,Euskal Tortilla,Bilbao,BILL-C944C2C69769,2026-05-04T20:01:27+00:00,contactless,55.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-C944C2C69769,2026-05-04T20:01:27+00:00,contactless,55.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-C944C2C69769,2026-05-04T20:01:27+00:00,contactless,55.7,BEER,Cerveza Caña,drinks,1,2.8,2.8
-9,Euskal Tortilla,Bilbao,BILL-C944C2C69769,2026-05-04T20:01:27+00:00,contactless,55.7,WATER,Agua Mineral,drinks,2,1.2,2.4
-9,Euskal Tortilla,Bilbao,BILL-C944C2C69769,2026-05-04T20:01:27+00:00,contactless,55.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-90174B2AC400,2026-05-04T16:27:22+00:00,contactless,44.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-90174B2AC400,2026-05-04T16:27:22+00:00,contactless,44.2,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-9,Euskal Tortilla,Bilbao,BILL-90174B2AC400,2026-05-04T16:27:22+00:00,contactless,44.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-90174B2AC400,2026-05-04T16:27:22+00:00,contactless,44.2,WATER,Agua Mineral,drinks,1,1.2,1.2
-9,Euskal Tortilla,Bilbao,BILL-90174B2AC400,2026-05-04T16:27:22+00:00,contactless,44.2,BREAD,Pan Tostado,sides,3,2.0,6.0
-9,Euskal Tortilla,Bilbao,BILL-811EAC5F9EC6,2026-05-04T20:49:37+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-881DC017E9FE,2026-05-04T14:49:11+00:00,cash,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-E18589FAA2FE,2026-05-04T14:10:45+00:00,cash,42.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-E18589FAA2FE,2026-05-04T14:10:45+00:00,cash,42.6,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-9,Euskal Tortilla,Bilbao,BILL-E18589FAA2FE,2026-05-04T14:10:45+00:00,cash,42.6,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
-9,Euskal Tortilla,Bilbao,BILL-E6C5B2CC203D,2026-05-04T14:46:45+00:00,card,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-ADD030D1B070,2026-05-04T17:12:10+00:00,card,13.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-ADD030D1B070,2026-05-04T17:12:10+00:00,card,13.5,WATER,Agua Mineral,drinks,1,1.2,1.2
-9,Euskal Tortilla,Bilbao,BILL-ADD030D1B070,2026-05-04T17:12:10+00:00,card,13.5,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-355A42B92EB1,2026-05-04T11:05:09+00:00,card,28.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-355A42B92EB1,2026-05-04T11:05:09+00:00,card,28.4,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
-9,Euskal Tortilla,Bilbao,BILL-355A42B92EB1,2026-05-04T11:05:09+00:00,card,28.4,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
-9,Euskal Tortilla,Bilbao,BILL-34DB53AA7194,2026-05-04T20:36:03+00:00,card,15.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-34DB53AA7194,2026-05-04T20:36:03+00:00,card,15.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
-9,Euskal Tortilla,Bilbao,BILL-34DB53AA7194,2026-05-04T20:36:03+00:00,card,15.3,BREAD,Pan Tostado,sides,1,2.0,2.0
-9,Euskal Tortilla,Bilbao,BILL-2B7819B2D780,2026-05-04T13:46:10+00:00,cash,12.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-2B7819B2D780,2026-05-04T13:46:10+00:00,cash,12.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-9,Euskal Tortilla,Bilbao,BILL-80404FF4B763,2026-05-04T19:11:23+00:00,card,45.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-80404FF4B763,2026-05-04T19:11:23+00:00,card,45.5,BREAD,Pan Tostado,sides,1,2.0,2.0
-9,Euskal Tortilla,Bilbao,BILL-80404FF4B763,2026-05-04T19:11:23+00:00,card,45.5,COFFEE,Café con Leche,drinks,2,1.8,3.6
-9,Euskal Tortilla,Bilbao,BILL-80404FF4B763,2026-05-04T19:11:23+00:00,card,45.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
-9,Euskal Tortilla,Bilbao,BILL-5045ACD53BE1,2026-05-04T23:54:51+00:00,cash,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-CE7F6D29A731,2026-05-04T21:45:30+00:00,card,78.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-CE7F6D29A731,2026-05-04T21:45:30+00:00,card,78.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-CE7F6D29A731,2026-05-04T21:45:30+00:00,card,78.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-CE7F6D29A731,2026-05-04T21:45:30+00:00,card,78.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-323A5BC1455A,2026-05-04T15:25:00+00:00,card,28.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-9,Euskal Tortilla,Bilbao,BILL-323A5BC1455A,2026-05-04T15:25:00+00:00,card,28.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-26BCFDA9A156,2026-05-04T13:56:50+00:00,card,23.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-9,Euskal Tortilla,Bilbao,BILL-26BCFDA9A156,2026-05-04T13:56:50+00:00,card,23.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
-9,Euskal Tortilla,Bilbao,BILL-E5AEF7497E89,2026-05-04T22:36:02+00:00,contactless,79.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-E5AEF7497E89,2026-05-04T22:36:02+00:00,contactless,79.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-E5AEF7497E89,2026-05-04T22:36:02+00:00,contactless,79.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
-9,Euskal Tortilla,Bilbao,BILL-E5AEF7497E89,2026-05-04T22:36:02+00:00,contactless,79.8,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
-9,Euskal Tortilla,Bilbao,BILL-E5AEF7497E89,2026-05-04T22:36:02+00:00,contactless,79.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-CDEB6CD62679,2026-05-04T13:36:36+00:00,card,37.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-CDEB6CD62679,2026-05-04T13:36:36+00:00,card,37.7,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-CDEB6CD62679,2026-05-04T13:36:36+00:00,card,37.7,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
-9,Euskal Tortilla,Bilbao,BILL-1FC5DB10A518,2026-05-04T23:27:20+00:00,card,50.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-1FC5DB10A518,2026-05-04T23:27:20+00:00,card,50.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-1FC5DB10A518,2026-05-04T23:27:20+00:00,card,50.7,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-9,Euskal Tortilla,Bilbao,BILL-1FC5DB10A518,2026-05-04T23:27:20+00:00,card,50.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-E404006B0F3F,2026-05-04T21:46:41+00:00,card,57.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-E404006B0F3F,2026-05-04T21:46:41+00:00,card,57.6,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-E404006B0F3F,2026-05-04T21:46:41+00:00,card,57.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-E404006B0F3F,2026-05-04T21:46:41+00:00,card,57.6,BEER,Cerveza Caña,drinks,1,2.8,2.8
-9,Euskal Tortilla,Bilbao,BILL-E404006B0F3F,2026-05-04T21:46:41+00:00,card,57.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-307B055A53C1,2026-05-04T21:18:44+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-307B055A53C1,2026-05-04T21:18:44+00:00,cash,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-7ADFFCBCAF1F,2026-05-04T15:22:25+00:00,card,86.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-7ADFFCBCAF1F,2026-05-04T15:22:25+00:00,card,86.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-7ADFFCBCAF1F,2026-05-04T15:22:25+00:00,card,86.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-7ADFFCBCAF1F,2026-05-04T15:22:25+00:00,card,86.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-7ADFFCBCAF1F,2026-05-04T15:22:25+00:00,card,86.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-08249BE6415E,2026-05-04T09:35:01+00:00,card,65.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-08249BE6415E,2026-05-04T09:35:01+00:00,card,65.6,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-08249BE6415E,2026-05-04T09:35:01+00:00,card,65.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-08249BE6415E,2026-05-04T09:35:01+00:00,card,65.6,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
-9,Euskal Tortilla,Bilbao,BILL-08249BE6415E,2026-05-04T09:35:01+00:00,card,65.6,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-4FA201DBD50E,2026-05-04T09:06:18+00:00,cash,33.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-4FA201DBD50E,2026-05-04T09:06:18+00:00,cash,33.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
-9,Euskal Tortilla,Bilbao,BILL-4FA201DBD50E,2026-05-04T09:06:18+00:00,cash,33.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-8F50E64B657F,2026-05-04T22:41:43+00:00,cash,45.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-8F50E64B657F,2026-05-04T22:41:43+00:00,cash,45.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-9,Euskal Tortilla,Bilbao,BILL-8F50E64B657F,2026-05-04T22:41:43+00:00,cash,45.0,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-9,Euskal Tortilla,Bilbao,BILL-8F50E64B657F,2026-05-04T22:41:43+00:00,cash,45.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-90055421F779,2026-05-04T22:29:05+00:00,card,78.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-90055421F779,2026-05-04T22:29:05+00:00,card,78.6,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-9,Euskal Tortilla,Bilbao,BILL-90055421F779,2026-05-04T22:29:05+00:00,card,78.6,WATER,Agua Mineral,drinks,3,1.2,3.6
-9,Euskal Tortilla,Bilbao,BILL-90055421F779,2026-05-04T22:29:05+00:00,card,78.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-90055421F779,2026-05-04T22:29:05+00:00,card,78.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-0A4B845CE843,2026-05-04T13:35:38+00:00,contactless,25.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-0A4B845CE843,2026-05-04T13:35:38+00:00,contactless,25.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
-9,Euskal Tortilla,Bilbao,BILL-29155908E71A,2026-05-04T18:23:52+00:00,contactless,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-29155908E71A,2026-05-04T18:23:52+00:00,contactless,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-4416A799E245,2026-05-04T22:34:54+00:00,card,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-DB63875E2F4A,2026-05-04T11:25:31+00:00,cash,90.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-DB63875E2F4A,2026-05-04T11:25:31+00:00,cash,90.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-DB63875E2F4A,2026-05-04T11:25:31+00:00,cash,90.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-DB63875E2F4A,2026-05-04T11:25:31+00:00,cash,90.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-DB63875E2F4A,2026-05-04T11:25:31+00:00,cash,90.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-9A60ADDFE7F7,2026-05-04T16:57:28+00:00,cash,43.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-9A60ADDFE7F7,2026-05-04T16:57:28+00:00,cash,43.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-9A60ADDFE7F7,2026-05-04T16:57:28+00:00,cash,43.5,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-9,Euskal Tortilla,Bilbao,BILL-9A60ADDFE7F7,2026-05-04T16:57:28+00:00,cash,43.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
-9,Euskal Tortilla,Bilbao,BILL-9A60ADDFE7F7,2026-05-04T16:57:28+00:00,cash,43.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-9,Euskal Tortilla,Bilbao,BILL-643D79CE09EF,2026-05-04T15:51:19+00:00,card,48.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-9,Euskal Tortilla,Bilbao,BILL-643D79CE09EF,2026-05-04T15:51:19+00:00,card,48.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-643D79CE09EF,2026-05-04T15:51:19+00:00,card,48.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-0B53E246A987,2026-05-04T19:25:43+00:00,card,48.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-0B53E246A987,2026-05-04T19:25:43+00:00,card,48.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-31A4A45BCC32,2026-05-04T21:22:14+00:00,cash,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-E3AC53689B9B,2026-05-04T16:47:42+00:00,card,39.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-E3AC53689B9B,2026-05-04T16:47:42+00:00,card,39.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
-9,Euskal Tortilla,Bilbao,BILL-E3AC53689B9B,2026-05-04T16:47:42+00:00,card,39.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-12350296B7C1,2026-05-04T13:42:33+00:00,contactless,41.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-12350296B7C1,2026-05-04T13:42:33+00:00,contactless,41.3,BREAD,Pan Tostado,sides,2,2.0,4.0
-9,Euskal Tortilla,Bilbao,BILL-12350296B7C1,2026-05-04T13:42:33+00:00,contactless,41.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
-9,Euskal Tortilla,Bilbao,BILL-12350296B7C1,2026-05-04T13:42:33+00:00,contactless,41.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-EB1D11F55CC6,2026-05-04T12:07:22+00:00,cash,20.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-9,Euskal Tortilla,Bilbao,BILL-EB1D11F55CC6,2026-05-04T12:07:22+00:00,cash,20.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
-9,Euskal Tortilla,Bilbao,BILL-25CE57515824,2026-05-04T18:30:02+00:00,card,53.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-9,Euskal Tortilla,Bilbao,BILL-25CE57515824,2026-05-04T18:30:02+00:00,card,53.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-25CE57515824,2026-05-04T18:30:02+00:00,card,53.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-9,Euskal Tortilla,Bilbao,BILL-7425CB941C1F,2026-05-04T16:27:36+00:00,cash,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-7425CB941C1F,2026-05-04T16:27:36+00:00,cash,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-2D245E4189BE,2026-05-04T22:06:21+00:00,contactless,47.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-2D245E4189BE,2026-05-04T22:06:21+00:00,contactless,47.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-2D245E4189BE,2026-05-04T22:06:21+00:00,contactless,47.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-2D245E4189BE,2026-05-04T22:06:21+00:00,contactless,47.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
-9,Euskal Tortilla,Bilbao,BILL-2D245E4189BE,2026-05-04T22:06:21+00:00,contactless,47.4,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
-9,Euskal Tortilla,Bilbao,BILL-158AB27C767D,2026-05-04T12:09:19+00:00,contactless,12.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-9,Euskal Tortilla,Bilbao,BILL-158AB27C767D,2026-05-04T12:09:19+00:00,contactless,12.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
-9,Euskal Tortilla,Bilbao,BILL-B6C02B31A5CD,2026-05-04T13:56:23+00:00,card,78.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-B6C02B31A5CD,2026-05-04T13:56:23+00:00,card,78.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-9,Euskal Tortilla,Bilbao,BILL-B6C02B31A5CD,2026-05-04T13:56:23+00:00,card,78.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-B6C02B31A5CD,2026-05-04T13:56:23+00:00,card,78.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-B6C02B31A5CD,2026-05-04T13:56:23+00:00,card,78.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-B91705DAFCCD,2026-05-04T23:03:25+00:00,card,23.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-B91705DAFCCD,2026-05-04T23:03:25+00:00,card,23.6,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-9,Euskal Tortilla,Bilbao,BILL-3ACED2DAE426,2026-05-04T21:46:30+00:00,contactless,62.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-9,Euskal Tortilla,Bilbao,BILL-3ACED2DAE426,2026-05-04T21:46:30+00:00,contactless,62.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-3ACED2DAE426,2026-05-04T21:46:30+00:00,contactless,62.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-3ACED2DAE426,2026-05-04T21:46:30+00:00,contactless,62.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-9,Euskal Tortilla,Bilbao,BILL-17C76941C43D,2026-05-04T21:01:03+00:00,cash,56.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-9,Euskal Tortilla,Bilbao,BILL-17C76941C43D,2026-05-04T21:01:03+00:00,cash,56.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-9,Euskal Tortilla,Bilbao,BILL-17C76941C43D,2026-05-04T21:01:03+00:00,cash,56.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
-9,Euskal Tortilla,Bilbao,BILL-17C76941C43D,2026-05-04T21:01:03+00:00,cash,56.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-9,Euskal Tortilla,Bilbao,BILL-E034BCD665D6,2026-05-04T14:46:27+00:00,card,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-39583F0F6BE5,2026-05-04T14:26:50+00:00,cash,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-E8C237B13CE0,2026-05-04T17:18:10+00:00,contactless,40.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-E8C237B13CE0,2026-05-04T17:18:10+00:00,contactless,40.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+9,Euskal Tortilla,Bilbao,BILL-474325686988,2026-05-04T23:17:36+00:00,card,72.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-474325686988,2026-05-04T23:17:36+00:00,card,72.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-474325686988,2026-05-04T23:17:36+00:00,card,72.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-A283CFF34738,2026-05-04T16:58:26+00:00,contactless,49.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+9,Euskal Tortilla,Bilbao,BILL-A283CFF34738,2026-05-04T16:58:26+00:00,contactless,49.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+9,Euskal Tortilla,Bilbao,BILL-A283CFF34738,2026-05-04T16:58:26+00:00,contactless,49.5,BREAD,Pan Tostado,sides,1,2.0,2.0
+9,Euskal Tortilla,Bilbao,BILL-A283CFF34738,2026-05-04T16:58:26+00:00,contactless,49.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-A283CFF34738,2026-05-04T16:58:26+00:00,contactless,49.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+9,Euskal Tortilla,Bilbao,BILL-CB0F6D5CE942,2026-05-04T12:34:01+00:00,card,16.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-CB0F6D5CE942,2026-05-04T12:34:01+00:00,card,16.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+9,Euskal Tortilla,Bilbao,BILL-DC9002B0DA4A,2026-05-04T14:26:22+00:00,cash,63.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-DC9002B0DA4A,2026-05-04T14:26:22+00:00,cash,63.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-DC9002B0DA4A,2026-05-04T14:26:22+00:00,cash,63.1,WATER,Agua Mineral,drinks,3,1.2,3.6
+9,Euskal Tortilla,Bilbao,BILL-DC9002B0DA4A,2026-05-04T14:26:22+00:00,cash,63.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-E033A9F5A703,2026-05-04T11:44:18+00:00,cash,39.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-E033A9F5A703,2026-05-04T11:44:18+00:00,cash,39.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-E033A9F5A703,2026-05-04T11:44:18+00:00,cash,39.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+9,Euskal Tortilla,Bilbao,BILL-B79455E68F9A,2026-05-04T13:15:53+00:00,card,66.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-B79455E68F9A,2026-05-04T13:15:53+00:00,card,66.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+9,Euskal Tortilla,Bilbao,BILL-B79455E68F9A,2026-05-04T13:15:53+00:00,card,66.1,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+9,Euskal Tortilla,Bilbao,BILL-B79455E68F9A,2026-05-04T13:15:53+00:00,card,66.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-B79455E68F9A,2026-05-04T13:15:53+00:00,card,66.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+9,Euskal Tortilla,Bilbao,BILL-3056451C6A65,2026-05-04T10:33:52+00:00,cash,44.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-3056451C6A65,2026-05-04T10:33:52+00:00,cash,44.8,WATER,Agua Mineral,drinks,3,1.2,3.6
+9,Euskal Tortilla,Bilbao,BILL-3056451C6A65,2026-05-04T10:33:52+00:00,cash,44.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-3056451C6A65,2026-05-04T10:33:52+00:00,cash,44.8,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-3056451C6A65,2026-05-04T10:33:52+00:00,cash,44.8,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-ECDCC1A34A31,2026-05-04T10:17:32+00:00,contactless,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+9,Euskal Tortilla,Bilbao,BILL-8CA098688014,2026-05-04T11:04:17+00:00,card,39.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+9,Euskal Tortilla,Bilbao,BILL-8CA098688014,2026-05-04T11:04:17+00:00,card,39.6,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+9,Euskal Tortilla,Bilbao,BILL-8CA098688014,2026-05-04T11:04:17+00:00,card,39.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-8CA098688014,2026-05-04T11:04:17+00:00,card,39.6,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+9,Euskal Tortilla,Bilbao,BILL-530FDC33BA18,2026-05-04T21:47:29+00:00,cash,36.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-530FDC33BA18,2026-05-04T21:47:29+00:00,cash,36.4,BREAD,Pan Tostado,sides,1,2.0,2.0
+9,Euskal Tortilla,Bilbao,BILL-530FDC33BA18,2026-05-04T21:47:29+00:00,cash,36.4,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+9,Euskal Tortilla,Bilbao,BILL-530FDC33BA18,2026-05-04T21:47:29+00:00,cash,36.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-530FDC33BA18,2026-05-04T21:47:29+00:00,cash,36.4,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+9,Euskal Tortilla,Bilbao,BILL-90BF506F32ED,2026-05-04T20:09:49+00:00,cash,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-90BF506F32ED,2026-05-04T20:09:49+00:00,cash,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-6E5A16FFA609,2026-05-04T20:15:30+00:00,contactless,29.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-6E5A16FFA609,2026-05-04T20:15:30+00:00,contactless,29.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-7F974C65E854,2026-05-04T13:13:34+00:00,contactless,54.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-7F974C65E854,2026-05-04T13:13:34+00:00,contactless,54.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-7F974C65E854,2026-05-04T13:13:34+00:00,contactless,54.0,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+9,Euskal Tortilla,Bilbao,BILL-833F50FA7C1F,2026-05-04T13:19:59+00:00,cash,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-FBF3B2A2983B,2026-05-04T14:33:45+00:00,cash,49.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-FBF3B2A2983B,2026-05-04T14:33:45+00:00,cash,49.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-FBF3B2A2983B,2026-05-04T14:33:45+00:00,cash,49.9,BREAD,Pan Tostado,sides,1,2.0,2.0
+9,Euskal Tortilla,Bilbao,BILL-FBF3B2A2983B,2026-05-04T14:33:45+00:00,cash,49.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+9,Euskal Tortilla,Bilbao,BILL-80349ADF8748,2026-05-04T13:47:39+00:00,contactless,66.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-80349ADF8748,2026-05-04T13:47:39+00:00,contactless,66.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+9,Euskal Tortilla,Bilbao,BILL-80349ADF8748,2026-05-04T13:47:39+00:00,contactless,66.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-80349ADF8748,2026-05-04T13:47:39+00:00,contactless,66.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-80349ADF8748,2026-05-04T13:47:39+00:00,contactless,66.9,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+9,Euskal Tortilla,Bilbao,BILL-1CD69847D9B9,2026-05-04T11:27:56+00:00,card,25.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-1CD69847D9B9,2026-05-04T11:27:56+00:00,card,25.8,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+9,Euskal Tortilla,Bilbao,BILL-1CD69847D9B9,2026-05-04T11:27:56+00:00,card,25.8,WATER,Agua Mineral,drinks,2,1.2,2.4
+9,Euskal Tortilla,Bilbao,BILL-1CD69847D9B9,2026-05-04T11:27:56+00:00,card,25.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-AF7F87F9571F,2026-05-04T14:01:35+00:00,card,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+9,Euskal Tortilla,Bilbao,BILL-5C80EE2AC98F,2026-05-04T17:02:14+00:00,card,18.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-5C80EE2AC98F,2026-05-04T17:02:14+00:00,card,18.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+9,Euskal Tortilla,Bilbao,BILL-77F908FA0D35,2026-05-04T14:50:32+00:00,contactless,33.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-77F908FA0D35,2026-05-04T14:50:32+00:00,contactless,33.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+9,Euskal Tortilla,Bilbao,BILL-77F908FA0D35,2026-05-04T14:50:32+00:00,contactless,33.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-77F908FA0D35,2026-05-04T14:50:32+00:00,contactless,33.3,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+9,Euskal Tortilla,Bilbao,BILL-2E8E2FE00057,2026-05-04T11:47:15+00:00,card,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-4C07AEFAD401,2026-05-04T19:49:37+00:00,contactless,41.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-4C07AEFAD401,2026-05-04T19:49:37+00:00,contactless,41.5,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+9,Euskal Tortilla,Bilbao,BILL-4C07AEFAD401,2026-05-04T19:49:37+00:00,contactless,41.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-E421DB731877,2026-05-04T14:49:50+00:00,cash,33.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-E421DB731877,2026-05-04T14:49:50+00:00,cash,33.0,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+9,Euskal Tortilla,Bilbao,BILL-8626CB6BB42D,2026-05-04T17:58:31+00:00,contactless,56.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-8626CB6BB42D,2026-05-04T17:58:31+00:00,contactless,56.3,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+9,Euskal Tortilla,Bilbao,BILL-8626CB6BB42D,2026-05-04T17:58:31+00:00,contactless,56.3,WATER,Agua Mineral,drinks,1,1.2,1.2
+9,Euskal Tortilla,Bilbao,BILL-8626CB6BB42D,2026-05-04T17:58:31+00:00,contactless,56.3,BREAD,Pan Tostado,sides,3,2.0,6.0
+9,Euskal Tortilla,Bilbao,BILL-8626CB6BB42D,2026-05-04T17:58:31+00:00,contactless,56.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-A136E75F1C05,2026-05-04T10:12:48+00:00,contactless,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-6376B0DDC22E,2026-05-04T13:39:49+00:00,card,17.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-6376B0DDC22E,2026-05-04T13:39:49+00:00,card,17.1,COFFEE,Café con Leche,drinks,3,1.8,5.4
+9,Euskal Tortilla,Bilbao,BILL-6376B0DDC22E,2026-05-04T13:39:49+00:00,card,17.1,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+9,Euskal Tortilla,Bilbao,BILL-C5BA63F7CDDD,2026-05-04T13:00:54+00:00,cash,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+9,Euskal Tortilla,Bilbao,BILL-790C5EF0D493,2026-05-04T20:45:46+00:00,card,20.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-790C5EF0D493,2026-05-04T20:45:46+00:00,card,20.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-1E3F081AD3C6,2026-05-04T12:25:44+00:00,contactless,47.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-1E3F081AD3C6,2026-05-04T12:25:44+00:00,contactless,47.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+9,Euskal Tortilla,Bilbao,BILL-1E3F081AD3C6,2026-05-04T12:25:44+00:00,contactless,47.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-1E3F081AD3C6,2026-05-04T12:25:44+00:00,contactless,47.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-007BE08603D0,2026-05-04T16:59:20+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-0B445CD39E80,2026-05-04T13:21:42+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-D473F6AC8789,2026-05-04T12:42:25+00:00,contactless,78.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+9,Euskal Tortilla,Bilbao,BILL-D473F6AC8789,2026-05-04T12:42:25+00:00,contactless,78.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-D473F6AC8789,2026-05-04T12:42:25+00:00,contactless,78.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+9,Euskal Tortilla,Bilbao,BILL-D473F6AC8789,2026-05-04T12:42:25+00:00,contactless,78.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-D473F6AC8789,2026-05-04T12:42:25+00:00,contactless,78.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-51E7CB7AE83E,2026-05-04T18:14:47+00:00,contactless,41.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-51E7CB7AE83E,2026-05-04T18:14:47+00:00,contactless,41.7,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+9,Euskal Tortilla,Bilbao,BILL-51E7CB7AE83E,2026-05-04T18:14:47+00:00,contactless,41.7,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-51E7CB7AE83E,2026-05-04T18:14:47+00:00,contactless,41.7,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+9,Euskal Tortilla,Bilbao,BILL-6AA4B5A98EE2,2026-05-04T21:15:05+00:00,contactless,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-B5FFDC020A5F,2026-05-04T11:50:15+00:00,cash,43.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+9,Euskal Tortilla,Bilbao,BILL-B5FFDC020A5F,2026-05-04T11:50:15+00:00,cash,43.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-D8E5BAE5E4D4,2026-05-04T14:49:52+00:00,cash,27.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-D8E5BAE5E4D4,2026-05-04T14:49:52+00:00,cash,27.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-D8E5BAE5E4D4,2026-05-04T14:49:52+00:00,cash,27.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+9,Euskal Tortilla,Bilbao,BILL-9B9958C89E8C,2026-05-04T12:54:10+00:00,cash,29.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+9,Euskal Tortilla,Bilbao,BILL-9B9958C89E8C,2026-05-04T12:54:10+00:00,cash,29.0,COFFEE,Café con Leche,drinks,3,1.8,5.4
+9,Euskal Tortilla,Bilbao,BILL-9B9958C89E8C,2026-05-04T12:54:10+00:00,cash,29.0,BEER,Cerveza Caña,drinks,2,2.8,5.6
+9,Euskal Tortilla,Bilbao,BILL-72EB2A485C7D,2026-05-04T13:44:26+00:00,card,30.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-72EB2A485C7D,2026-05-04T13:44:26+00:00,card,30.6,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+9,Euskal Tortilla,Bilbao,BILL-3699B13C8F01,2026-05-04T12:04:38+00:00,contactless,18.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-3699B13C8F01,2026-05-04T12:04:38+00:00,contactless,18.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+9,Euskal Tortilla,Bilbao,BILL-673B9F3EEF82,2026-05-04T11:50:48+00:00,contactless,70.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-673B9F3EEF82,2026-05-04T11:50:48+00:00,contactless,70.1,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+9,Euskal Tortilla,Bilbao,BILL-673B9F3EEF82,2026-05-04T11:50:48+00:00,contactless,70.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+9,Euskal Tortilla,Bilbao,BILL-673B9F3EEF82,2026-05-04T11:50:48+00:00,contactless,70.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-673B9F3EEF82,2026-05-04T11:50:48+00:00,contactless,70.1,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+9,Euskal Tortilla,Bilbao,BILL-5E9FE7A2C535,2026-05-04T12:58:50+00:00,contactless,51.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-5E9FE7A2C535,2026-05-04T12:58:50+00:00,contactless,51.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-5E9FE7A2C535,2026-05-04T12:58:50+00:00,contactless,51.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-AAF7E6E8E515,2026-05-04T13:37:23+00:00,contactless,37.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-AAF7E6E8E515,2026-05-04T13:37:23+00:00,contactless,37.5,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+9,Euskal Tortilla,Bilbao,BILL-AAF7E6E8E515,2026-05-04T13:37:23+00:00,contactless,37.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-AAF7E6E8E515,2026-05-04T13:37:23+00:00,contactless,37.5,WATER,Agua Mineral,drinks,2,1.2,2.4
+9,Euskal Tortilla,Bilbao,BILL-84ADB4ECD9DB,2026-05-04T23:14:46+00:00,cash,86.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+9,Euskal Tortilla,Bilbao,BILL-84ADB4ECD9DB,2026-05-04T23:14:46+00:00,cash,86.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-84ADB4ECD9DB,2026-05-04T23:14:46+00:00,cash,86.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-84ADB4ECD9DB,2026-05-04T23:14:46+00:00,cash,86.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-103660D9336B,2026-05-04T17:20:36+00:00,cash,48.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-103660D9336B,2026-05-04T17:20:36+00:00,cash,48.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+9,Euskal Tortilla,Bilbao,BILL-103660D9336B,2026-05-04T17:20:36+00:00,cash,48.4,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+9,Euskal Tortilla,Bilbao,BILL-103660D9336B,2026-05-04T17:20:36+00:00,cash,48.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-103660D9336B,2026-05-04T17:20:36+00:00,cash,48.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-7EB8A1C81CA9,2026-05-04T13:12:56+00:00,card,28.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+9,Euskal Tortilla,Bilbao,BILL-7EB8A1C81CA9,2026-05-04T13:12:56+00:00,card,28.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+9,Euskal Tortilla,Bilbao,BILL-6D53871704E1,2026-05-04T22:12:23+00:00,contactless,60.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-6D53871704E1,2026-05-04T22:12:23+00:00,contactless,60.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-6D53871704E1,2026-05-04T22:12:23+00:00,contactless,60.9,WATER,Agua Mineral,drinks,2,1.2,2.4
+9,Euskal Tortilla,Bilbao,BILL-6D53871704E1,2026-05-04T22:12:23+00:00,contactless,60.9,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+9,Euskal Tortilla,Bilbao,BILL-6D53871704E1,2026-05-04T22:12:23+00:00,contactless,60.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-8899209C7922,2026-05-04T12:46:46+00:00,contactless,38.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-8899209C7922,2026-05-04T12:46:46+00:00,contactless,38.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-2FAF9C60DBC0,2026-05-04T13:22:23+00:00,contactless,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-06EF839AFB5C,2026-05-04T14:53:13+00:00,contactless,48.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-06EF839AFB5C,2026-05-04T14:53:13+00:00,contactless,48.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-06EF839AFB5C,2026-05-04T14:53:13+00:00,contactless,48.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-06EF839AFB5C,2026-05-04T14:53:13+00:00,contactless,48.6,BREAD,Pan Tostado,sides,3,2.0,6.0
+9,Euskal Tortilla,Bilbao,BILL-06EF839AFB5C,2026-05-04T14:53:13+00:00,contactless,48.6,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+9,Euskal Tortilla,Bilbao,BILL-51339E12F5FD,2026-05-04T11:22:25+00:00,contactless,44.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-51339E12F5FD,2026-05-04T11:22:25+00:00,contactless,44.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+9,Euskal Tortilla,Bilbao,BILL-51339E12F5FD,2026-05-04T11:22:25+00:00,contactless,44.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-16649A327480,2026-05-04T12:45:32+00:00,cash,78.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-16649A327480,2026-05-04T12:45:32+00:00,cash,78.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-16649A327480,2026-05-04T12:45:32+00:00,cash,78.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+9,Euskal Tortilla,Bilbao,BILL-16649A327480,2026-05-04T12:45:32+00:00,cash,78.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-625CF0EE88D6,2026-05-04T14:59:16+00:00,card,38.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-625CF0EE88D6,2026-05-04T14:59:16+00:00,card,38.7,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+9,Euskal Tortilla,Bilbao,BILL-625CF0EE88D6,2026-05-04T14:59:16+00:00,card,38.7,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+9,Euskal Tortilla,Bilbao,BILL-625CF0EE88D6,2026-05-04T14:59:16+00:00,card,38.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+9,Euskal Tortilla,Bilbao,BILL-CF934762F521,2026-05-04T20:52:44+00:00,contactless,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-CF934762F521,2026-05-04T20:52:44+00:00,contactless,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-DC4F2646287E,2026-05-04T22:59:07+00:00,contactless,26.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-DC4F2646287E,2026-05-04T22:59:07+00:00,contactless,26.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-DC4F2646287E,2026-05-04T22:59:07+00:00,contactless,26.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+9,Euskal Tortilla,Bilbao,BILL-DC4F2646287E,2026-05-04T22:59:07+00:00,contactless,26.8,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+9,Euskal Tortilla,Bilbao,BILL-DC4F2646287E,2026-05-04T22:59:07+00:00,contactless,26.8,WATER,Agua Mineral,drinks,3,1.2,3.6
+9,Euskal Tortilla,Bilbao,BILL-FD9D78541A06,2026-05-04T17:41:59+00:00,cash,13.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-FD9D78541A06,2026-05-04T17:41:59+00:00,cash,13.0,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+9,Euskal Tortilla,Bilbao,BILL-1F06489173FC,2026-05-04T13:35:13+00:00,contactless,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-1F06489173FC,2026-05-04T13:35:13+00:00,contactless,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-6979332E2DDB,2026-05-04T22:37:11+00:00,card,32.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-6979332E2DDB,2026-05-04T22:37:11+00:00,card,32.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+9,Euskal Tortilla,Bilbao,BILL-6979332E2DDB,2026-05-04T22:37:11+00:00,card,32.0,BEER,Cerveza Caña,drinks,3,2.8,8.4
+9,Euskal Tortilla,Bilbao,BILL-0F340E93B6B9,2026-05-04T19:18:15+00:00,cash,81.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-0F340E93B6B9,2026-05-04T19:18:15+00:00,cash,81.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+9,Euskal Tortilla,Bilbao,BILL-0F340E93B6B9,2026-05-04T19:18:15+00:00,cash,81.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+9,Euskal Tortilla,Bilbao,BILL-0F340E93B6B9,2026-05-04T19:18:15+00:00,cash,81.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+9,Euskal Tortilla,Bilbao,BILL-0F340E93B6B9,2026-05-04T19:18:15+00:00,cash,81.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-3E4566CBB220,2026-05-04T17:23:38+00:00,cash,51.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-3E4566CBB220,2026-05-04T17:23:38+00:00,cash,51.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-3E4566CBB220,2026-05-04T17:23:38+00:00,cash,51.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-3E4566CBB220,2026-05-04T17:23:38+00:00,cash,51.1,WATER,Agua Mineral,drinks,3,1.2,3.6
+9,Euskal Tortilla,Bilbao,BILL-3E4566CBB220,2026-05-04T17:23:38+00:00,cash,51.1,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+9,Euskal Tortilla,Bilbao,BILL-428A7486BD4D,2026-05-04T12:27:40+00:00,card,99.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+9,Euskal Tortilla,Bilbao,BILL-428A7486BD4D,2026-05-04T12:27:40+00:00,card,99.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-428A7486BD4D,2026-05-04T12:27:40+00:00,card,99.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-428A7486BD4D,2026-05-04T12:27:40+00:00,card,99.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-428A7486BD4D,2026-05-04T12:27:40+00:00,card,99.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-0226CA48341B,2026-05-04T12:32:09+00:00,contactless,66.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-0226CA48341B,2026-05-04T12:32:09+00:00,contactless,66.8,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+9,Euskal Tortilla,Bilbao,BILL-0226CA48341B,2026-05-04T12:32:09+00:00,contactless,66.8,COFFEE,Café con Leche,drinks,3,1.8,5.4
+9,Euskal Tortilla,Bilbao,BILL-0226CA48341B,2026-05-04T12:32:09+00:00,contactless,66.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-0226CA48341B,2026-05-04T12:32:09+00:00,contactless,66.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-1F4ECBB06137,2026-05-04T13:31:43+00:00,card,24.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-1F4ECBB06137,2026-05-04T13:31:43+00:00,card,24.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+9,Euskal Tortilla,Bilbao,BILL-4D654E8A63C6,2026-05-04T10:52:11+00:00,card,66.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-4D654E8A63C6,2026-05-04T10:52:11+00:00,card,66.7,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-4D654E8A63C6,2026-05-04T10:52:11+00:00,card,66.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-4D654E8A63C6,2026-05-04T10:52:11+00:00,card,66.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-4D654E8A63C6,2026-05-04T10:52:11+00:00,card,66.7,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-774D82E56BEF,2026-05-04T14:52:11+00:00,cash,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+9,Euskal Tortilla,Bilbao,BILL-3CD23EF79FAA,2026-05-04T19:09:10+00:00,card,43.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+9,Euskal Tortilla,Bilbao,BILL-3CD23EF79FAA,2026-05-04T19:09:10+00:00,card,43.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+9,Euskal Tortilla,Bilbao,BILL-3CD23EF79FAA,2026-05-04T19:09:10+00:00,card,43.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-76A2A7A0986D,2026-05-04T22:48:02+00:00,cash,40.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-76A2A7A0986D,2026-05-04T22:48:02+00:00,cash,40.5,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+9,Euskal Tortilla,Bilbao,BILL-76A2A7A0986D,2026-05-04T22:48:02+00:00,cash,40.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
+9,Euskal Tortilla,Bilbao,BILL-BBAE0D8B869C,2026-05-04T12:29:21+00:00,cash,36.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-BBAE0D8B869C,2026-05-04T12:29:21+00:00,cash,36.7,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+9,Euskal Tortilla,Bilbao,BILL-BBAE0D8B869C,2026-05-04T12:29:21+00:00,cash,36.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+9,Euskal Tortilla,Bilbao,BILL-0A156111D192,2026-05-04T21:24:51+00:00,contactless,35.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+9,Euskal Tortilla,Bilbao,BILL-0A156111D192,2026-05-04T21:24:51+00:00,contactless,35.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-6BD6331556C0,2026-05-04T21:15:01+00:00,cash,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+9,Euskal Tortilla,Bilbao,BILL-3B793E1A5715,2026-05-04T22:43:32+00:00,cash,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+9,Euskal Tortilla,Bilbao,BILL-B0F0BA1AB05C,2026-05-04T22:44:47+00:00,contactless,41.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-B0F0BA1AB05C,2026-05-04T22:44:47+00:00,contactless,41.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+9,Euskal Tortilla,Bilbao,BILL-B0F0BA1AB05C,2026-05-04T22:44:47+00:00,contactless,41.1,WATER,Agua Mineral,drinks,3,1.2,3.6
+9,Euskal Tortilla,Bilbao,BILL-B0F0BA1AB05C,2026-05-04T22:44:47+00:00,contactless,41.1,BEER,Cerveza Caña,drinks,3,2.8,8.4
+9,Euskal Tortilla,Bilbao,BILL-19D87F290B24,2026-05-04T12:59:00+00:00,contactless,48.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+9,Euskal Tortilla,Bilbao,BILL-19D87F290B24,2026-05-04T12:59:00+00:00,contactless,48.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+9,Euskal Tortilla,Bilbao,BILL-19D87F290B24,2026-05-04T12:59:00+00:00,contactless,48.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-19D87F290B24,2026-05-04T12:59:00+00:00,contactless,48.0,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+9,Euskal Tortilla,Bilbao,BILL-5A4CEA8EC9DF,2026-05-04T12:08:12+00:00,cash,98.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+9,Euskal Tortilla,Bilbao,BILL-5A4CEA8EC9DF,2026-05-04T12:08:12+00:00,cash,98.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+9,Euskal Tortilla,Bilbao,BILL-5A4CEA8EC9DF,2026-05-04T12:08:12+00:00,cash,98.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+9,Euskal Tortilla,Bilbao,BILL-5A4CEA8EC9DF,2026-05-04T12:08:12+00:00,cash,98.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-5A4CEA8EC9DF,2026-05-04T12:08:12+00:00,cash,98.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-695910D5F10E,2026-05-04T11:55:57+00:00,card,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+9,Euskal Tortilla,Bilbao,BILL-0965394A0B4C,2026-05-04T10:56:57+00:00,contactless,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0

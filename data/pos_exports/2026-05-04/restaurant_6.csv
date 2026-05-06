@@ -1,99 +1,142 @@
 restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
-6,Tortillería del Sur,Málaga,BILL-18D1401A60BE,2026-05-04T16:45:36+00:00,contactless,35.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-18D1401A60BE,2026-05-04T16:45:36+00:00,contactless,35.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-18D1401A60BE,2026-05-04T16:45:36+00:00,contactless,35.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
-6,Tortillería del Sur,Málaga,BILL-18D1401A60BE,2026-05-04T16:45:36+00:00,contactless,35.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-31D2D5595CF9,2026-05-04T14:45:30+00:00,cash,80.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-6,Tortillería del Sur,Málaga,BILL-31D2D5595CF9,2026-05-04T14:45:30+00:00,cash,80.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
-6,Tortillería del Sur,Málaga,BILL-31D2D5595CF9,2026-05-04T14:45:30+00:00,cash,80.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-6,Tortillería del Sur,Málaga,BILL-31D2D5595CF9,2026-05-04T14:45:30+00:00,cash,80.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-6,Tortillería del Sur,Málaga,BILL-31D2D5595CF9,2026-05-04T14:45:30+00:00,cash,80.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-D358CFB76AB5,2026-05-04T23:46:53+00:00,contactless,36.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-6,Tortillería del Sur,Málaga,BILL-D358CFB76AB5,2026-05-04T23:46:53+00:00,contactless,36.4,WATER,Agua Mineral,drinks,2,1.2,2.4
-6,Tortillería del Sur,Málaga,BILL-D358CFB76AB5,2026-05-04T23:46:53+00:00,contactless,36.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-B395A9796EA2,2026-05-04T11:43:03+00:00,card,31.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-6,Tortillería del Sur,Málaga,BILL-B395A9796EA2,2026-05-04T11:43:03+00:00,card,31.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-6,Tortillería del Sur,Málaga,BILL-B395A9796EA2,2026-05-04T11:43:03+00:00,card,31.1,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
-6,Tortillería del Sur,Málaga,BILL-B395A9796EA2,2026-05-04T11:43:03+00:00,card,31.1,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-6,Tortillería del Sur,Málaga,BILL-B395A9796EA2,2026-05-04T11:43:03+00:00,card,31.1,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
-6,Tortillería del Sur,Málaga,BILL-030E6031E11F,2026-05-04T21:42:58+00:00,contactless,18.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-030E6031E11F,2026-05-04T21:42:58+00:00,contactless,18.2,WATER,Agua Mineral,drinks,1,1.2,1.2
-6,Tortillería del Sur,Málaga,BILL-F75E1C3CA663,2026-05-04T17:26:53+00:00,cash,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-6,Tortillería del Sur,Málaga,BILL-C65087FD33F7,2026-05-04T13:07:37+00:00,cash,50.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-C65087FD33F7,2026-05-04T13:07:37+00:00,cash,50.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-C65087FD33F7,2026-05-04T13:07:37+00:00,cash,50.0,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-6,Tortillería del Sur,Málaga,BILL-C65087FD33F7,2026-05-04T13:07:37+00:00,cash,50.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-C65087FD33F7,2026-05-04T13:07:37+00:00,cash,50.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-955B67092AE4,2026-05-04T18:33:30+00:00,contactless,38.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-6,Tortillería del Sur,Málaga,BILL-955B67092AE4,2026-05-04T18:33:30+00:00,contactless,38.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-76595E4818B7,2026-05-04T17:26:17+00:00,cash,25.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-76595E4818B7,2026-05-04T17:26:17+00:00,cash,25.4,ALIOLI,Alioli Casero,sides,2,1.5,3.0
-6,Tortillería del Sur,Málaga,BILL-76595E4818B7,2026-05-04T17:26:17+00:00,cash,25.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
-6,Tortillería del Sur,Málaga,BILL-5B02810A0D83,2026-05-04T08:19:48+00:00,contactless,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-6,Tortillería del Sur,Málaga,BILL-8990A0373FFC,2026-05-04T10:31:48+00:00,contactless,29.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-8990A0373FFC,2026-05-04T10:31:48+00:00,contactless,29.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-8990A0373FFC,2026-05-04T10:31:48+00:00,contactless,29.6,ALIOLI,Alioli Casero,sides,2,1.5,3.0
-6,Tortillería del Sur,Málaga,BILL-8990A0373FFC,2026-05-04T10:31:48+00:00,contactless,29.6,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-6,Tortillería del Sur,Málaga,BILL-8990A0373FFC,2026-05-04T10:31:48+00:00,contactless,29.6,ALIOLI,Alioli Casero,sides,2,1.5,3.0
-6,Tortillería del Sur,Málaga,BILL-96F0F86ED60B,2026-05-04T12:34:08+00:00,card,67.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-6,Tortillería del Sur,Málaga,BILL-96F0F86ED60B,2026-05-04T12:34:08+00:00,card,67.7,COFFEE,Café con Leche,drinks,1,1.8,1.8
-6,Tortillería del Sur,Málaga,BILL-96F0F86ED60B,2026-05-04T12:34:08+00:00,card,67.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-6,Tortillería del Sur,Málaga,BILL-96F0F86ED60B,2026-05-04T12:34:08+00:00,card,67.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-6,Tortillería del Sur,Málaga,BILL-96F0F86ED60B,2026-05-04T12:34:08+00:00,card,67.7,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-6,Tortillería del Sur,Málaga,BILL-FCC821043335,2026-05-04T21:30:35+00:00,contactless,38.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-6,Tortillería del Sur,Málaga,BILL-FCC821043335,2026-05-04T21:30:35+00:00,contactless,38.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
-6,Tortillería del Sur,Málaga,BILL-FCC821043335,2026-05-04T21:30:35+00:00,contactless,38.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-6,Tortillería del Sur,Málaga,BILL-FCC821043335,2026-05-04T21:30:35+00:00,contactless,38.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-D92494E9D887,2026-05-04T19:23:14+00:00,cash,29.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-6,Tortillería del Sur,Málaga,BILL-D92494E9D887,2026-05-04T19:23:14+00:00,cash,29.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-6,Tortillería del Sur,Málaga,BILL-D92494E9D887,2026-05-04T19:23:14+00:00,cash,29.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-6,Tortillería del Sur,Málaga,BILL-78E48CD139EB,2026-05-04T12:51:52+00:00,card,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-6,Tortillería del Sur,Málaga,BILL-D6714FD14765,2026-05-04T21:22:36+00:00,cash,44.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-6,Tortillería del Sur,Málaga,BILL-D6714FD14765,2026-05-04T21:22:36+00:00,cash,44.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-6,Tortillería del Sur,Málaga,BILL-D6714FD14765,2026-05-04T21:22:36+00:00,cash,44.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-D6714FD14765,2026-05-04T21:22:36+00:00,cash,44.0,BREAD,Pan Tostado,sides,2,2.0,4.0
-6,Tortillería del Sur,Málaga,BILL-577FEAA76D55,2026-05-04T16:05:47+00:00,card,33.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-6,Tortillería del Sur,Málaga,BILL-577FEAA76D55,2026-05-04T16:05:47+00:00,card,33.5,COFFEE,Café con Leche,drinks,1,1.8,1.8
-6,Tortillería del Sur,Málaga,BILL-577FEAA76D55,2026-05-04T16:05:47+00:00,card,33.5,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-6,Tortillería del Sur,Málaga,BILL-577FEAA76D55,2026-05-04T16:05:47+00:00,card,33.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-6FCD5765CB9A,2026-05-04T20:15:56+00:00,card,42.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-6,Tortillería del Sur,Málaga,BILL-6FCD5765CB9A,2026-05-04T20:15:56+00:00,card,42.9,BREAD,Pan Tostado,sides,3,2.0,6.0
-6,Tortillería del Sur,Málaga,BILL-6FCD5765CB9A,2026-05-04T20:15:56+00:00,card,42.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-6,Tortillería del Sur,Málaga,BILL-228859C3E897,2026-05-04T13:40:43+00:00,contactless,30.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-6,Tortillería del Sur,Málaga,BILL-228859C3E897,2026-05-04T13:40:43+00:00,contactless,30.9,BREAD,Pan Tostado,sides,1,2.0,2.0
-6,Tortillería del Sur,Málaga,BILL-228859C3E897,2026-05-04T13:40:43+00:00,contactless,30.9,BREAD,Pan Tostado,sides,3,2.0,6.0
-6,Tortillería del Sur,Málaga,BILL-228859C3E897,2026-05-04T13:40:43+00:00,contactless,30.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-228859C3E897,2026-05-04T13:40:43+00:00,contactless,30.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-6,Tortillería del Sur,Málaga,BILL-C55CC5D3AF6A,2026-05-04T09:10:09+00:00,contactless,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-80F4088B1EB9,2026-05-04T18:38:04+00:00,contactless,40.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-80F4088B1EB9,2026-05-04T18:38:04+00:00,contactless,40.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-80F4088B1EB9,2026-05-04T18:38:04+00:00,contactless,40.0,BREAD,Pan Tostado,sides,3,2.0,6.0
-6,Tortillería del Sur,Málaga,BILL-3764CAD94A7D,2026-05-04T21:38:59+00:00,cash,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-6,Tortillería del Sur,Málaga,BILL-B8B99A697937,2026-05-04T13:58:29+00:00,card,36.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-6,Tortillería del Sur,Málaga,BILL-B8B99A697937,2026-05-04T13:58:29+00:00,card,36.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-B8B99A697937,2026-05-04T13:58:29+00:00,card,36.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-6,Tortillería del Sur,Málaga,BILL-7B7E19B4D072,2026-05-04T10:27:33+00:00,contactless,31.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-6,Tortillería del Sur,Málaga,BILL-7B7E19B4D072,2026-05-04T10:27:33+00:00,contactless,31.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
-6,Tortillería del Sur,Málaga,BILL-746921B9AC6B,2026-05-04T13:05:33+00:00,card,75.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-746921B9AC6B,2026-05-04T13:05:33+00:00,card,75.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-6,Tortillería del Sur,Málaga,BILL-746921B9AC6B,2026-05-04T13:05:33+00:00,card,75.4,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-6,Tortillería del Sur,Málaga,BILL-746921B9AC6B,2026-05-04T13:05:33+00:00,card,75.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-746921B9AC6B,2026-05-04T13:05:33+00:00,card,75.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
-6,Tortillería del Sur,Málaga,BILL-542F4F4B6767,2026-05-04T13:49:22+00:00,contactless,61.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-542F4F4B6767,2026-05-04T13:49:22+00:00,contactless,61.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-542F4F4B6767,2026-05-04T13:49:22+00:00,contactless,61.7,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-6,Tortillería del Sur,Málaga,BILL-542F4F4B6767,2026-05-04T13:49:22+00:00,contactless,61.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-6,Tortillería del Sur,Málaga,BILL-542F4F4B6767,2026-05-04T13:49:22+00:00,contactless,61.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-A188387E02B0,2026-05-04T10:33:28+00:00,card,65.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-6,Tortillería del Sur,Málaga,BILL-A188387E02B0,2026-05-04T10:33:28+00:00,card,65.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-A188387E02B0,2026-05-04T10:33:28+00:00,card,65.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-6,Tortillería del Sur,Málaga,BILL-A188387E02B0,2026-05-04T10:33:28+00:00,card,65.5,BREAD,Pan Tostado,sides,1,2.0,2.0
-6,Tortillería del Sur,Málaga,BILL-A188387E02B0,2026-05-04T10:33:28+00:00,card,65.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-841AC29B2F9E,2026-05-04T23:13:24+00:00,contactless,39.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-6,Tortillería del Sur,Málaga,BILL-841AC29B2F9E,2026-05-04T23:13:24+00:00,contactless,39.8,BEER,Cerveza Caña,drinks,3,2.8,8.4
-6,Tortillería del Sur,Málaga,BILL-841AC29B2F9E,2026-05-04T23:13:24+00:00,contactless,39.8,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-6,Tortillería del Sur,Málaga,BILL-841AC29B2F9E,2026-05-04T23:13:24+00:00,contactless,39.8,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-6,Tortillería del Sur,Málaga,BILL-841AC29B2F9E,2026-05-04T23:13:24+00:00,contactless,39.8,WATER,Agua Mineral,drinks,1,1.2,1.2
-6,Tortillería del Sur,Málaga,BILL-57D627B0C3B0,2026-05-04T11:23:42+00:00,contactless,46.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-6,Tortillería del Sur,Málaga,BILL-57D627B0C3B0,2026-05-04T11:23:42+00:00,contactless,46.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-6,Tortillería del Sur,Málaga,BILL-DD28EE30DF21,2026-05-04T12:21:54+00:00,cash,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+6,Tortillería del Sur,Málaga,BILL-7D0D15EFC13D,2026-05-04T10:18:46+00:00,cash,22.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-7D0D15EFC13D,2026-05-04T10:18:46+00:00,cash,22.4,COFFEE,Café con Leche,drinks,1,1.8,1.8
+6,Tortillería del Sur,Málaga,BILL-7D0D15EFC13D,2026-05-04T10:18:46+00:00,cash,22.4,WATER,Agua Mineral,drinks,3,1.2,3.6
+6,Tortillería del Sur,Málaga,BILL-8538220D9A8A,2026-05-04T23:04:57+00:00,cash,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+6,Tortillería del Sur,Málaga,BILL-71699F85185B,2026-05-04T21:38:09+00:00,contactless,62.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-71699F85185B,2026-05-04T21:38:09+00:00,contactless,62.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+6,Tortillería del Sur,Málaga,BILL-71699F85185B,2026-05-04T21:38:09+00:00,contactless,62.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-71699F85185B,2026-05-04T21:38:09+00:00,contactless,62.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-71699F85185B,2026-05-04T21:38:09+00:00,contactless,62.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-ABED500A3B71,2026-05-04T14:23:36+00:00,contactless,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-40AB7D9745AA,2026-05-04T22:45:32+00:00,cash,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+6,Tortillería del Sur,Málaga,BILL-806C97177857,2026-05-04T17:40:25+00:00,card,42.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+6,Tortillería del Sur,Málaga,BILL-806C97177857,2026-05-04T17:40:25+00:00,card,42.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-806C97177857,2026-05-04T17:40:25+00:00,card,42.0,BREAD,Pan Tostado,sides,2,2.0,4.0
+6,Tortillería del Sur,Málaga,BILL-EB69EB16A229,2026-05-04T12:38:22+00:00,card,53.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-EB69EB16A229,2026-05-04T12:38:22+00:00,card,53.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-EB69EB16A229,2026-05-04T12:38:22+00:00,card,53.5,BEER,Cerveza Caña,drinks,1,2.8,2.8
+6,Tortillería del Sur,Málaga,BILL-EB69EB16A229,2026-05-04T12:38:22+00:00,card,53.5,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+6,Tortillería del Sur,Málaga,BILL-EB69EB16A229,2026-05-04T12:38:22+00:00,card,53.5,BREAD,Pan Tostado,sides,3,2.0,6.0
+6,Tortillería del Sur,Málaga,BILL-FDED46B625D2,2026-05-04T23:19:15+00:00,cash,27.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-FDED46B625D2,2026-05-04T23:19:15+00:00,cash,27.7,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+6,Tortillería del Sur,Málaga,BILL-817C142BDB25,2026-05-04T20:29:19+00:00,cash,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+6,Tortillería del Sur,Málaga,BILL-C9AF0063F228,2026-05-04T22:07:33+00:00,contactless,27.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-C9AF0063F228,2026-05-04T22:07:33+00:00,contactless,27.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-C9AF0063F228,2026-05-04T22:07:33+00:00,contactless,27.7,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+6,Tortillería del Sur,Málaga,BILL-213492E20F10,2026-05-04T14:20:44+00:00,card,18.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-213492E20F10,2026-05-04T14:20:44+00:00,card,18.7,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+6,Tortillería del Sur,Málaga,BILL-213492E20F10,2026-05-04T14:20:44+00:00,card,18.7,WATER,Agua Mineral,drinks,3,1.2,3.6
+6,Tortillería del Sur,Málaga,BILL-FB18394C833B,2026-05-04T20:05:02+00:00,card,27.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-FB18394C833B,2026-05-04T20:05:02+00:00,card,27.5,BREAD,Pan Tostado,sides,1,2.0,2.0
+6,Tortillería del Sur,Málaga,BILL-F5248646BBC1,2026-05-04T22:32:43+00:00,contactless,63.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+6,Tortillería del Sur,Málaga,BILL-F5248646BBC1,2026-05-04T22:32:43+00:00,contactless,63.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+6,Tortillería del Sur,Málaga,BILL-F5248646BBC1,2026-05-04T22:32:43+00:00,contactless,63.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-F5248646BBC1,2026-05-04T22:32:43+00:00,contactless,63.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-35A06CECCA34,2026-05-04T16:57:01+00:00,contactless,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+6,Tortillería del Sur,Málaga,BILL-D6298D55040A,2026-05-04T16:43:18+00:00,cash,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-D6298D55040A,2026-05-04T16:43:18+00:00,cash,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-AD99FBC4A47D,2026-05-04T13:52:13+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-DD26CD36A5D2,2026-05-04T23:45:01+00:00,contactless,76.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-DD26CD36A5D2,2026-05-04T23:45:01+00:00,contactless,76.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-DD26CD36A5D2,2026-05-04T23:45:01+00:00,contactless,76.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-DD26CD36A5D2,2026-05-04T23:45:01+00:00,contactless,76.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-26325CD17F14,2026-05-04T11:23:17+00:00,card,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-6B5A905E3B51,2026-05-04T17:29:20+00:00,cash,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+6,Tortillería del Sur,Málaga,BILL-E156831CC182,2026-05-04T21:04:24+00:00,card,26.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-E156831CC182,2026-05-04T21:04:24+00:00,card,26.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+6,Tortillería del Sur,Málaga,BILL-E156831CC182,2026-05-04T21:04:24+00:00,card,26.0,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+6,Tortillería del Sur,Málaga,BILL-E156831CC182,2026-05-04T21:04:24+00:00,card,26.0,COFFEE,Café con Leche,drinks,2,1.8,3.6
+6,Tortillería del Sur,Málaga,BILL-E156831CC182,2026-05-04T21:04:24+00:00,card,26.0,BEER,Cerveza Caña,drinks,1,2.8,2.8
+6,Tortillería del Sur,Málaga,BILL-0D0BDD3A53B6,2026-05-04T12:34:01+00:00,card,39.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-0D0BDD3A53B6,2026-05-04T12:34:01+00:00,card,39.6,WATER,Agua Mineral,drinks,1,1.2,1.2
+6,Tortillería del Sur,Málaga,BILL-0D0BDD3A53B6,2026-05-04T12:34:01+00:00,card,39.6,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+6,Tortillería del Sur,Málaga,BILL-0D0BDD3A53B6,2026-05-04T12:34:01+00:00,card,39.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-F79D682B717E,2026-05-04T14:22:59+00:00,contactless,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-AFA27049C808,2026-05-04T21:05:50+00:00,contactless,58.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-AFA27049C808,2026-05-04T21:05:50+00:00,contactless,58.2,COFFEE,Café con Leche,drinks,1,1.8,1.8
+6,Tortillería del Sur,Málaga,BILL-AFA27049C808,2026-05-04T21:05:50+00:00,contactless,58.2,COFFEE,Café con Leche,drinks,3,1.8,5.4
+6,Tortillería del Sur,Málaga,BILL-AFA27049C808,2026-05-04T21:05:50+00:00,contactless,58.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-418110BD8955,2026-05-04T12:28:06+00:00,cash,89.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-418110BD8955,2026-05-04T12:28:06+00:00,cash,89.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+6,Tortillería del Sur,Málaga,BILL-418110BD8955,2026-05-04T12:28:06+00:00,cash,89.1,WATER,Agua Mineral,drinks,1,1.2,1.2
+6,Tortillería del Sur,Málaga,BILL-418110BD8955,2026-05-04T12:28:06+00:00,cash,89.1,COFFEE,Café con Leche,drinks,3,1.8,5.4
+6,Tortillería del Sur,Málaga,BILL-418110BD8955,2026-05-04T12:28:06+00:00,cash,89.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-A38EA6203CAF,2026-05-04T08:50:05+00:00,card,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-23074B33DBA4,2026-05-04T12:52:57+00:00,card,62.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+6,Tortillería del Sur,Málaga,BILL-23074B33DBA4,2026-05-04T12:52:57+00:00,card,62.1,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+6,Tortillería del Sur,Málaga,BILL-23074B33DBA4,2026-05-04T12:52:57+00:00,card,62.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+6,Tortillería del Sur,Málaga,BILL-23074B33DBA4,2026-05-04T12:52:57+00:00,card,62.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+6,Tortillería del Sur,Málaga,BILL-23074B33DBA4,2026-05-04T12:52:57+00:00,card,62.1,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+6,Tortillería del Sur,Málaga,BILL-A106C1A22B80,2026-05-04T21:06:59+00:00,contactless,62.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-A106C1A22B80,2026-05-04T21:06:59+00:00,contactless,62.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-A106C1A22B80,2026-05-04T21:06:59+00:00,contactless,62.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+6,Tortillería del Sur,Málaga,BILL-A106C1A22B80,2026-05-04T21:06:59+00:00,contactless,62.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-F0ED091B8A0E,2026-05-04T13:53:19+00:00,cash,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+6,Tortillería del Sur,Málaga,BILL-83DCD3C41844,2026-05-04T22:47:27+00:00,cash,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+6,Tortillería del Sur,Málaga,BILL-7D0EF348441F,2026-05-04T13:24:24+00:00,cash,19.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-7D0EF348441F,2026-05-04T13:24:24+00:00,cash,19.4,WATER,Agua Mineral,drinks,2,1.2,2.4
+6,Tortillería del Sur,Málaga,BILL-D042FB2D6765,2026-05-04T19:25:07+00:00,card,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-F1DF3504287A,2026-05-04T20:56:50+00:00,card,30.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-F1DF3504287A,2026-05-04T20:56:50+00:00,card,30.2,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+6,Tortillería del Sur,Málaga,BILL-F1DF3504287A,2026-05-04T20:56:50+00:00,card,30.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+6,Tortillería del Sur,Málaga,BILL-856A88395D48,2026-05-04T12:14:45+00:00,cash,47.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+6,Tortillería del Sur,Málaga,BILL-856A88395D48,2026-05-04T12:14:45+00:00,cash,47.2,BREAD,Pan Tostado,sides,1,2.0,2.0
+6,Tortillería del Sur,Málaga,BILL-856A88395D48,2026-05-04T12:14:45+00:00,cash,47.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-856A88395D48,2026-05-04T12:14:45+00:00,cash,47.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-856A88395D48,2026-05-04T12:14:45+00:00,cash,47.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+6,Tortillería del Sur,Málaga,BILL-57D3B3F56E88,2026-05-04T08:27:28+00:00,card,53.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-57D3B3F56E88,2026-05-04T08:27:28+00:00,card,53.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+6,Tortillería del Sur,Málaga,BILL-57D3B3F56E88,2026-05-04T08:27:28+00:00,card,53.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-57D3B3F56E88,2026-05-04T08:27:28+00:00,card,53.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+6,Tortillería del Sur,Málaga,BILL-57D3B3F56E88,2026-05-04T08:27:28+00:00,card,53.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-91B1AA0B61C1,2026-05-04T21:40:00+00:00,card,29.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+6,Tortillería del Sur,Málaga,BILL-91B1AA0B61C1,2026-05-04T21:40:00+00:00,card,29.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+6,Tortillería del Sur,Málaga,BILL-91B1AA0B61C1,2026-05-04T21:40:00+00:00,card,29.5,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+6,Tortillería del Sur,Málaga,BILL-91B1AA0B61C1,2026-05-04T21:40:00+00:00,card,29.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-ABD9566505C5,2026-05-04T21:02:13+00:00,card,18.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-ABD9566505C5,2026-05-04T21:02:13+00:00,card,18.2,WATER,Agua Mineral,drinks,1,1.2,1.2
+6,Tortillería del Sur,Málaga,BILL-7315897815FB,2026-05-04T23:20:45+00:00,cash,52.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-7315897815FB,2026-05-04T23:20:45+00:00,cash,52.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-7315897815FB,2026-05-04T23:20:45+00:00,cash,52.9,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+6,Tortillería del Sur,Málaga,BILL-7315897815FB,2026-05-04T23:20:45+00:00,cash,52.9,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+6,Tortillería del Sur,Málaga,BILL-7315897815FB,2026-05-04T23:20:45+00:00,cash,52.9,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+6,Tortillería del Sur,Málaga,BILL-58C0D5A8DA70,2026-05-04T16:33:56+00:00,contactless,56.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-58C0D5A8DA70,2026-05-04T16:33:56+00:00,contactless,56.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-58C0D5A8DA70,2026-05-04T16:33:56+00:00,contactless,56.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
+6,Tortillería del Sur,Málaga,BILL-58C0D5A8DA70,2026-05-04T16:33:56+00:00,contactless,56.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-58C0D5A8DA70,2026-05-04T16:33:56+00:00,contactless,56.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-A5B7159040B9,2026-05-04T20:19:01+00:00,cash,34.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-A5B7159040B9,2026-05-04T20:19:01+00:00,cash,34.1,BREAD,Pan Tostado,sides,3,2.0,6.0
+6,Tortillería del Sur,Málaga,BILL-A5B7159040B9,2026-05-04T20:19:01+00:00,cash,34.1,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+6,Tortillería del Sur,Málaga,BILL-A5B7159040B9,2026-05-04T20:19:01+00:00,cash,34.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+6,Tortillería del Sur,Málaga,BILL-C7E300FFF511,2026-05-04T21:17:19+00:00,contactless,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-C7E300FFF511,2026-05-04T21:17:19+00:00,contactless,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-D649B6221F3D,2026-05-04T20:50:46+00:00,card,41.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+6,Tortillería del Sur,Málaga,BILL-D649B6221F3D,2026-05-04T20:50:46+00:00,card,41.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-D649B6221F3D,2026-05-04T20:50:46+00:00,card,41.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+6,Tortillería del Sur,Málaga,BILL-D649B6221F3D,2026-05-04T20:50:46+00:00,card,41.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+6,Tortillería del Sur,Málaga,BILL-2AEFA2A76681,2026-05-04T15:20:56+00:00,cash,29.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-2AEFA2A76681,2026-05-04T15:20:56+00:00,cash,29.5,BREAD,Pan Tostado,sides,2,2.0,4.0
+6,Tortillería del Sur,Málaga,BILL-2AEFA2A76681,2026-05-04T15:20:56+00:00,cash,29.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-0FCF7D0831DA,2026-05-04T16:30:20+00:00,cash,52.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-0FCF7D0831DA,2026-05-04T16:30:20+00:00,cash,52.5,BREAD,Pan Tostado,sides,2,2.0,4.0
+6,Tortillería del Sur,Málaga,BILL-0FCF7D0831DA,2026-05-04T16:30:20+00:00,cash,52.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+6,Tortillería del Sur,Málaga,BILL-2FEED6F73C3F,2026-05-04T14:19:01+00:00,card,15.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+6,Tortillería del Sur,Málaga,BILL-2FEED6F73C3F,2026-05-04T14:19:01+00:00,card,15.5,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+6,Tortillería del Sur,Málaga,BILL-FB50597F3E2D,2026-05-04T21:48:20+00:00,contactless,30.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-FB50597F3E2D,2026-05-04T21:48:20+00:00,contactless,30.0,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+6,Tortillería del Sur,Málaga,BILL-FB50597F3E2D,2026-05-04T21:48:20+00:00,contactless,30.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-7BD93E0F6E16,2026-05-04T13:52:26+00:00,cash,64.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-7BD93E0F6E16,2026-05-04T13:52:26+00:00,cash,64.5,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+6,Tortillería del Sur,Málaga,BILL-7BD93E0F6E16,2026-05-04T13:52:26+00:00,cash,64.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+6,Tortillería del Sur,Málaga,BILL-7BD93E0F6E16,2026-05-04T13:52:26+00:00,cash,64.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+6,Tortillería del Sur,Málaga,BILL-C0498526222D,2026-05-04T11:33:00+00:00,cash,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+6,Tortillería del Sur,Málaga,BILL-60B6F9356F00,2026-05-04T13:14:57+00:00,contactless,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-CEE25BBC4646,2026-05-04T12:39:03+00:00,card,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+6,Tortillería del Sur,Málaga,BILL-CEE25BBC4646,2026-05-04T12:39:03+00:00,card,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+6,Tortillería del Sur,Málaga,BILL-6E06B3EBC633,2026-05-04T14:30:05+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+6,Tortillería del Sur,Málaga,BILL-95A69929C011,2026-05-04T18:13:29+00:00,contactless,40.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+6,Tortillería del Sur,Málaga,BILL-95A69929C011,2026-05-04T18:13:29+00:00,contactless,40.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+6,Tortillería del Sur,Málaga,BILL-C43C2337E20F,2026-05-04T10:40:56+00:00,card,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+6,Tortillería del Sur,Málaga,BILL-C43C2337E20F,2026-05-04T10:40:56+00:00,card,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5

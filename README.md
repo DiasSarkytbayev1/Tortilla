@@ -42,18 +42,39 @@ Tortilla/
 ## Quick start
 
 ```bash
-cp .env.example .env             # edit DB_PASSWORD if you like
-docker compose up --build        # postgres init.sql runs automatically
-curl http://localhost:8000/health
+cp .env.example .env             # edit DB_PASSWORD / SECRET_KEY if you like
+docker compose up --build        # db init.sql runs automatically; backend + frontend start
+make seed-90d                    # generate + ETL 90 days of mock POS data (a few minutes)
+open http://localhost:5173       # log in as dev / devpass
 ```
 
 `/health` returns `{"status":"ok","db":"ok"}` once Postgres is up and the
-backend connects.
+backend connects. The frontend runs at `http://localhost:5173`.
 
-If you already have Postgres on host port 5432 or something on host port 8000,
-edit `DB_PORT` / `BACKEND_PORT` in `.env` before bringing up the stack.
+If you already have a service on ports 5432, 8000, or 5173, edit `DB_PORT` /
+`BACKEND_PORT` / `FRONTEND_PORT` in `.env` before bringing up the stack.
+
+### Default credentials
+- Username: `dev`
+- Password: `devpass`
+
+Change these via psql for now (admin UI is on the roadmap, see TODOS.md). To
+add another user, generate a bcrypt hash with `uv run --directory backend
+python -c "from app.auth.passwords import hash_password; print(hash_password('NEWPASS'))"`
+and `INSERT` it into the `users` table.
 
 ---
+
+## What's running where
+
+| Service | URL | Purpose |
+|---|---|---|
+| `frontend` | http://localhost:5173 | Vite dev server, React + shadcn/ui dashboard |
+| `backend`  | http://localhost:8000 | FastAPI + ETL + analytics CLI |
+| `db`       | localhost:5432         | Postgres 16, 4 dashboard indexes seeded |
+
+Frontend talks to backend through Vite's `/api` proxy — same-origin in dev,
+same-origin in prod. No CORS configured anywhere.
 
 ## Daily workflow (via Make targets)
 

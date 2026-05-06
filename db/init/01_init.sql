@@ -104,6 +104,10 @@ CREATE INDEX IF NOT EXISTS ix_sync_runs_status
     ON sync_runs (status)
     WHERE status <> 'success';
 
+-- Speeds up the category filter on /api/best-sellers and the Overview top-item KPI.
+CREATE INDEX IF NOT EXISTS ix_menu_items_category
+    ON menu_items (category);
+
 -- ---------------------------------------------------------------------------
 -- 4. SEED: RESTAURANTS (static, fixed IDs — never changes between runs)
 --

@@ -1,0 +1,243 @@
+restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
+2,El Rincón Tortillero,Barcelona,BILL-8E811E9D4F60,2026-05-01T13:36:33+00:00,cash,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-8E811E9D4F60,2026-05-01T13:36:33+00:00,cash,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-74B0CCF46193,2026-05-01T13:35:46+00:00,card,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-35107787E581,2026-05-01T12:19:05+00:00,cash,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-35107787E581,2026-05-01T12:19:05+00:00,cash,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-D37C89DFAF81,2026-05-01T13:57:53+00:00,card,48.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-D37C89DFAF81,2026-05-01T13:57:53+00:00,card,48.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-F4C0DC33BABA,2026-05-01T21:30:31+00:00,contactless,68.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-F4C0DC33BABA,2026-05-01T21:30:31+00:00,contactless,68.8,BEER,Cerveza Caña,drinks,3,2.8,8.4
+2,El Rincón Tortillero,Barcelona,BILL-F4C0DC33BABA,2026-05-01T21:30:31+00:00,contactless,68.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-F4C0DC33BABA,2026-05-01T21:30:31+00:00,contactless,68.8,COFFEE,Café con Leche,drinks,3,1.8,5.4
+2,El Rincón Tortillero,Barcelona,BILL-F4C0DC33BABA,2026-05-01T21:30:31+00:00,contactless,68.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-B5215032F3C8,2026-05-01T19:52:57+00:00,cash,69.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-B5215032F3C8,2026-05-01T19:52:57+00:00,cash,69.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-B5215032F3C8,2026-05-01T19:52:57+00:00,cash,69.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-B5215032F3C8,2026-05-01T19:52:57+00:00,cash,69.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-8647A2B18647,2026-05-01T14:32:53+00:00,contactless,52.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-8647A2B18647,2026-05-01T14:32:53+00:00,contactless,52.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+2,El Rincón Tortillero,Barcelona,BILL-8647A2B18647,2026-05-01T14:32:53+00:00,contactless,52.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-75BEDF0EFD64,2026-05-01T14:24:42+00:00,cash,64.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-75BEDF0EFD64,2026-05-01T14:24:42+00:00,cash,64.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+2,El Rincón Tortillero,Barcelona,BILL-75BEDF0EFD64,2026-05-01T14:24:42+00:00,cash,64.0,BREAD,Pan Tostado,sides,1,2.0,2.0
+2,El Rincón Tortillero,Barcelona,BILL-75BEDF0EFD64,2026-05-01T14:24:42+00:00,cash,64.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-0B3DFCC7B836,2026-05-01T15:23:46+00:00,contactless,79.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-0B3DFCC7B836,2026-05-01T15:23:46+00:00,contactless,79.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-0B3DFCC7B836,2026-05-01T15:23:46+00:00,contactless,79.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-0B3DFCC7B836,2026-05-01T15:23:46+00:00,contactless,79.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+2,El Rincón Tortillero,Barcelona,BILL-0B3DFCC7B836,2026-05-01T15:23:46+00:00,contactless,79.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-A2E66D8A31DA,2026-05-01T13:27:15+00:00,cash,12.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-A2E66D8A31DA,2026-05-01T13:27:15+00:00,cash,12.1,WATER,Agua Mineral,drinks,3,1.2,3.6
+2,El Rincón Tortillero,Barcelona,BILL-911FC6BF9B64,2026-05-01T21:30:12+00:00,contactless,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-6162FB34D2A0,2026-05-01T10:37:07+00:00,card,115.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-6162FB34D2A0,2026-05-01T10:37:07+00:00,card,115.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-6162FB34D2A0,2026-05-01T10:37:07+00:00,card,115.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-6162FB34D2A0,2026-05-01T10:37:07+00:00,card,115.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-6162FB34D2A0,2026-05-01T10:37:07+00:00,card,115.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-BCA44D59CDC0,2026-05-01T23:09:47+00:00,card,91.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-BCA44D59CDC0,2026-05-01T23:09:47+00:00,card,91.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-BCA44D59CDC0,2026-05-01T23:09:47+00:00,card,91.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-BCA44D59CDC0,2026-05-01T23:09:47+00:00,card,91.9,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+2,El Rincón Tortillero,Barcelona,BILL-BCA44D59CDC0,2026-05-01T23:09:47+00:00,card,91.9,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+2,El Rincón Tortillero,Barcelona,BILL-C178A0687C83,2026-05-01T15:38:32+00:00,card,18.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-C178A0687C83,2026-05-01T15:38:32+00:00,card,18.1,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+2,El Rincón Tortillero,Barcelona,BILL-2F0EDD748D04,2026-05-01T16:54:40+00:00,card,46.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-2F0EDD748D04,2026-05-01T16:54:40+00:00,card,46.5,COFFEE,Café con Leche,drinks,3,1.8,5.4
+2,El Rincón Tortillero,Barcelona,BILL-2F0EDD748D04,2026-05-01T16:54:40+00:00,card,46.5,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+2,El Rincón Tortillero,Barcelona,BILL-2F0EDD748D04,2026-05-01T16:54:40+00:00,card,46.5,BEER,Cerveza Caña,drinks,2,2.8,5.6
+2,El Rincón Tortillero,Barcelona,BILL-2F0EDD748D04,2026-05-01T16:54:40+00:00,card,46.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-B9A0C01F1F26,2026-05-01T22:39:57+00:00,cash,86.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-B9A0C01F1F26,2026-05-01T22:39:57+00:00,cash,86.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-B9A0C01F1F26,2026-05-01T22:39:57+00:00,cash,86.1,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+2,El Rincón Tortillero,Barcelona,BILL-B9A0C01F1F26,2026-05-01T22:39:57+00:00,cash,86.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-B9A0C01F1F26,2026-05-01T22:39:57+00:00,cash,86.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-3914B136108C,2026-05-01T20:49:26+00:00,card,60.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+2,El Rincón Tortillero,Barcelona,BILL-3914B136108C,2026-05-01T20:49:26+00:00,card,60.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-3914B136108C,2026-05-01T20:49:26+00:00,card,60.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+2,El Rincón Tortillero,Barcelona,BILL-1679ECE5A96E,2026-05-01T13:29:16+00:00,cash,17.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-1679ECE5A96E,2026-05-01T13:29:16+00:00,cash,17.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+2,El Rincón Tortillero,Barcelona,BILL-869631C944C7,2026-05-01T18:16:34+00:00,cash,80.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-869631C944C7,2026-05-01T18:16:34+00:00,cash,80.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-869631C944C7,2026-05-01T18:16:34+00:00,cash,80.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-0385C50D7465,2026-05-01T14:03:59+00:00,contactless,58.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-0385C50D7465,2026-05-01T14:03:59+00:00,contactless,58.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+2,El Rincón Tortillero,Barcelona,BILL-0385C50D7465,2026-05-01T14:03:59+00:00,contactless,58.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-F731C80FD941,2026-05-01T22:50:08+00:00,cash,19.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-F731C80FD941,2026-05-01T22:50:08+00:00,cash,19.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-D91278154400,2026-05-01T22:34:42+00:00,contactless,34.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-D91278154400,2026-05-01T22:34:42+00:00,contactless,34.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-D91278154400,2026-05-01T22:34:42+00:00,contactless,34.5,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+2,El Rincón Tortillero,Barcelona,BILL-1306843FD64D,2026-05-01T22:45:24+00:00,cash,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-18098BAC5374,2026-05-01T17:44:57+00:00,contactless,108.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-18098BAC5374,2026-05-01T17:44:57+00:00,contactless,108.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-18098BAC5374,2026-05-01T17:44:57+00:00,contactless,108.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-18098BAC5374,2026-05-01T17:44:57+00:00,contactless,108.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-18098BAC5374,2026-05-01T17:44:57+00:00,contactless,108.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-0A13CE3FE5BB,2026-05-01T12:10:04+00:00,contactless,37.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-0A13CE3FE5BB,2026-05-01T12:10:04+00:00,contactless,37.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-0A13CE3FE5BB,2026-05-01T12:10:04+00:00,contactless,37.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+2,El Rincón Tortillero,Barcelona,BILL-40567E47958A,2026-05-01T14:46:48+00:00,card,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-0D7E7A7FFA84,2026-05-01T19:19:35+00:00,cash,62.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-0D7E7A7FFA84,2026-05-01T19:19:35+00:00,cash,62.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-0D7E7A7FFA84,2026-05-01T19:19:35+00:00,cash,62.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-0D7E7A7FFA84,2026-05-01T19:19:35+00:00,cash,62.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-0D7E7A7FFA84,2026-05-01T19:19:35+00:00,cash,62.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+2,El Rincón Tortillero,Barcelona,BILL-F444F99C2A97,2026-05-01T18:22:06+00:00,card,29.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+2,El Rincón Tortillero,Barcelona,BILL-F444F99C2A97,2026-05-01T18:22:06+00:00,card,29.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+2,El Rincón Tortillero,Barcelona,BILL-1EC2099D0230,2026-05-01T23:37:55+00:00,card,43.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-1EC2099D0230,2026-05-01T23:37:55+00:00,card,43.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-1EC2099D0230,2026-05-01T23:37:55+00:00,card,43.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-1EC2099D0230,2026-05-01T23:37:55+00:00,card,43.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+2,El Rincón Tortillero,Barcelona,BILL-6EF2230BF286,2026-05-01T23:18:36+00:00,card,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-990988B5B972,2026-05-01T13:54:35+00:00,contactless,23.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-990988B5B972,2026-05-01T13:54:35+00:00,contactless,23.6,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+2,El Rincón Tortillero,Barcelona,BILL-07F1FF96D823,2026-05-01T18:16:10+00:00,cash,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-E7954DEEF8F6,2026-05-01T20:22:27+00:00,contactless,39.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-E7954DEEF8F6,2026-05-01T20:22:27+00:00,contactless,39.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-E7954DEEF8F6,2026-05-01T20:22:27+00:00,contactless,39.0,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+2,El Rincón Tortillero,Barcelona,BILL-E7954DEEF8F6,2026-05-01T20:22:27+00:00,contactless,39.0,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+2,El Rincón Tortillero,Barcelona,BILL-E7954DEEF8F6,2026-05-01T20:22:27+00:00,contactless,39.0,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+2,El Rincón Tortillero,Barcelona,BILL-D3EE15A476C3,2026-05-01T14:25:25+00:00,cash,33.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-D3EE15A476C3,2026-05-01T14:25:25+00:00,cash,33.0,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+2,El Rincón Tortillero,Barcelona,BILL-A2A488F17208,2026-05-01T22:31:02+00:00,card,49.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+2,El Rincón Tortillero,Barcelona,BILL-A2A488F17208,2026-05-01T22:31:02+00:00,card,49.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-A2A488F17208,2026-05-01T22:31:02+00:00,card,49.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-709DD03100F2,2026-05-01T14:31:33+00:00,card,58.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-709DD03100F2,2026-05-01T14:31:33+00:00,card,58.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-709DD03100F2,2026-05-01T14:31:33+00:00,card,58.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-84DA16780CDC,2026-05-01T12:51:52+00:00,contactless,29.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-84DA16780CDC,2026-05-01T12:51:52+00:00,contactless,29.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-1BE9F48A298B,2026-05-01T21:59:14+00:00,contactless,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-1BE9F48A298B,2026-05-01T21:59:14+00:00,contactless,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-1BE9F48A298B,2026-05-01T21:59:14+00:00,contactless,51.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-54C7A8CB9B04,2026-05-01T21:49:42+00:00,card,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-F65050E752D5,2026-05-01T09:26:27+00:00,contactless,31.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-F65050E752D5,2026-05-01T09:26:27+00:00,contactless,31.8,WATER,Agua Mineral,drinks,3,1.2,3.6
+2,El Rincón Tortillero,Barcelona,BILL-F65050E752D5,2026-05-01T09:26:27+00:00,contactless,31.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-F65050E752D5,2026-05-01T09:26:27+00:00,contactless,31.8,BEER,Cerveza Caña,drinks,2,2.8,5.6
+2,El Rincón Tortillero,Barcelona,BILL-F65050E752D5,2026-05-01T09:26:27+00:00,contactless,31.8,BEER,Cerveza Caña,drinks,2,2.8,5.6
+2,El Rincón Tortillero,Barcelona,BILL-C7F6B8951F51,2026-05-01T19:55:46+00:00,card,28.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-C7F6B8951F51,2026-05-01T19:55:46+00:00,card,28.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+2,El Rincón Tortillero,Barcelona,BILL-C7F6B8951F51,2026-05-01T19:55:46+00:00,card,28.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-86B158DA1D63,2026-05-01T12:35:35+00:00,card,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-86B158DA1D63,2026-05-01T12:35:35+00:00,card,42.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-088096E05EF1,2026-05-01T23:57:24+00:00,card,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-088096E05EF1,2026-05-01T23:57:24+00:00,card,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-C2A7599F95D5,2026-05-01T20:58:30+00:00,contactless,57.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-C2A7599F95D5,2026-05-01T20:58:30+00:00,contactless,57.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-FDD88E821ABF,2026-05-01T16:00:57+00:00,cash,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-16A3C7A4593E,2026-05-01T18:38:54+00:00,contactless,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+2,El Rincón Tortillero,Barcelona,BILL-5117B63ED9C7,2026-05-01T20:45:04+00:00,card,56.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-5117B63ED9C7,2026-05-01T20:45:04+00:00,card,56.9,COFFEE,Café con Leche,drinks,1,1.8,1.8
+2,El Rincón Tortillero,Barcelona,BILL-5117B63ED9C7,2026-05-01T20:45:04+00:00,card,56.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-5117B63ED9C7,2026-05-01T20:45:04+00:00,card,56.9,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+2,El Rincón Tortillero,Barcelona,BILL-4E35D8305164,2026-05-01T15:48:57+00:00,contactless,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-D78904E5EA00,2026-05-01T11:33:12+00:00,cash,44.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-D78904E5EA00,2026-05-01T11:33:12+00:00,cash,44.1,WATER,Agua Mineral,drinks,1,1.2,1.2
+2,El Rincón Tortillero,Barcelona,BILL-D78904E5EA00,2026-05-01T11:33:12+00:00,cash,44.1,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+2,El Rincón Tortillero,Barcelona,BILL-D78904E5EA00,2026-05-01T11:33:12+00:00,cash,44.1,BEER,Cerveza Caña,drinks,3,2.8,8.4
+2,El Rincón Tortillero,Barcelona,BILL-D78904E5EA00,2026-05-01T11:33:12+00:00,cash,44.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-53B332350446,2026-05-01T13:10:52+00:00,contactless,55.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-53B332350446,2026-05-01T13:10:52+00:00,contactless,55.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-53B332350446,2026-05-01T13:10:52+00:00,contactless,55.5,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+2,El Rincón Tortillero,Barcelona,BILL-5261F0730142,2026-05-01T20:16:01+00:00,contactless,20.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+2,El Rincón Tortillero,Barcelona,BILL-5261F0730142,2026-05-01T20:16:01+00:00,contactless,20.3,WATER,Agua Mineral,drinks,1,1.2,1.2
+2,El Rincón Tortillero,Barcelona,BILL-5261F0730142,2026-05-01T20:16:01+00:00,contactless,20.3,BEER,Cerveza Caña,drinks,2,2.8,5.6
+2,El Rincón Tortillero,Barcelona,BILL-5261F0730142,2026-05-01T20:16:01+00:00,contactless,20.3,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+2,El Rincón Tortillero,Barcelona,BILL-AE141BB17459,2026-05-01T11:58:59+00:00,card,48.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-AE141BB17459,2026-05-01T11:58:59+00:00,card,48.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+2,El Rincón Tortillero,Barcelona,BILL-AE141BB17459,2026-05-01T11:58:59+00:00,card,48.6,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+2,El Rincón Tortillero,Barcelona,BILL-D5E3458CB730,2026-05-01T21:27:24+00:00,card,13.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-D5E3458CB730,2026-05-01T21:27:24+00:00,card,13.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+2,El Rincón Tortillero,Barcelona,BILL-77B5167EDE39,2026-05-01T23:42:43+00:00,card,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-3F356FBA93B2,2026-05-01T20:24:02+00:00,card,13.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-3F356FBA93B2,2026-05-01T20:24:02+00:00,card,13.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+2,El Rincón Tortillero,Barcelona,BILL-7ED96D609572,2026-05-01T13:45:45+00:00,card,40.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-7ED96D609572,2026-05-01T13:45:45+00:00,card,40.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-7ED96D609572,2026-05-01T13:45:45+00:00,card,40.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+2,El Rincón Tortillero,Barcelona,BILL-7ED96D609572,2026-05-01T13:45:45+00:00,card,40.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-4E93776D3CF3,2026-05-01T23:33:35+00:00,card,38.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-4E93776D3CF3,2026-05-01T23:33:35+00:00,card,38.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-22570C09A0DF,2026-05-01T13:01:30+00:00,card,42.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-22570C09A0DF,2026-05-01T13:01:30+00:00,card,42.5,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+2,El Rincón Tortillero,Barcelona,BILL-22570C09A0DF,2026-05-01T13:01:30+00:00,card,42.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-22570C09A0DF,2026-05-01T13:01:30+00:00,card,42.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-C2F81910CBCF,2026-05-01T12:59:29+00:00,card,22.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-C2F81910CBCF,2026-05-01T12:59:29+00:00,card,22.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+2,El Rincón Tortillero,Barcelona,BILL-2B640432C824,2026-05-01T22:23:10+00:00,contactless,35.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-2B640432C824,2026-05-01T22:23:10+00:00,contactless,35.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-16740DAB96B4,2026-05-01T17:51:27+00:00,cash,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-F035D1B082DC,2026-05-01T22:37:20+00:00,card,30.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-F035D1B082DC,2026-05-01T22:37:20+00:00,card,30.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+2,El Rincón Tortillero,Barcelona,BILL-F035D1B082DC,2026-05-01T22:37:20+00:00,card,30.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-F035D1B082DC,2026-05-01T22:37:20+00:00,card,30.2,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+2,El Rincón Tortillero,Barcelona,BILL-C59FA1C40BDB,2026-05-01T22:25:23+00:00,contactless,26.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-C59FA1C40BDB,2026-05-01T22:25:23+00:00,contactless,26.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+2,El Rincón Tortillero,Barcelona,BILL-ACF1AF4FC33A,2026-05-01T13:51:27+00:00,card,65.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-ACF1AF4FC33A,2026-05-01T13:51:27+00:00,card,65.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-ACF1AF4FC33A,2026-05-01T13:51:27+00:00,card,65.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+2,El Rincón Tortillero,Barcelona,BILL-ACF1AF4FC33A,2026-05-01T13:51:27+00:00,card,65.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-ACF1AF4FC33A,2026-05-01T13:51:27+00:00,card,65.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
+2,El Rincón Tortillero,Barcelona,BILL-51F4177FE118,2026-05-01T22:54:10+00:00,card,11.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-51F4177FE118,2026-05-01T22:54:10+00:00,card,11.7,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+2,El Rincón Tortillero,Barcelona,BILL-897C767BAEE7,2026-05-01T10:49:54+00:00,cash,52.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-897C767BAEE7,2026-05-01T10:49:54+00:00,cash,52.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+2,El Rincón Tortillero,Barcelona,BILL-897C767BAEE7,2026-05-01T10:49:54+00:00,cash,52.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-897C767BAEE7,2026-05-01T10:49:54+00:00,cash,52.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-B2A5BCFC9A9E,2026-05-01T15:08:17+00:00,contactless,24.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+2,El Rincón Tortillero,Barcelona,BILL-B2A5BCFC9A9E,2026-05-01T15:08:17+00:00,contactless,24.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-B2A5BCFC9A9E,2026-05-01T15:08:17+00:00,contactless,24.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+2,El Rincón Tortillero,Barcelona,BILL-14521A9DDE05,2026-05-01T12:15:06+00:00,contactless,59.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-14521A9DDE05,2026-05-01T12:15:06+00:00,contactless,59.0,WATER,Agua Mineral,drinks,3,1.2,3.6
+2,El Rincón Tortillero,Barcelona,BILL-14521A9DDE05,2026-05-01T12:15:06+00:00,contactless,59.0,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+2,El Rincón Tortillero,Barcelona,BILL-14521A9DDE05,2026-05-01T12:15:06+00:00,contactless,59.0,WATER,Agua Mineral,drinks,1,1.2,1.2
+2,El Rincón Tortillero,Barcelona,BILL-14521A9DDE05,2026-05-01T12:15:06+00:00,contactless,59.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-293867838F63,2026-05-01T08:51:55+00:00,card,21.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+2,El Rincón Tortillero,Barcelona,BILL-293867838F63,2026-05-01T08:51:55+00:00,card,21.3,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+2,El Rincón Tortillero,Barcelona,BILL-293867838F63,2026-05-01T08:51:55+00:00,card,21.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+2,El Rincón Tortillero,Barcelona,BILL-293867838F63,2026-05-01T08:51:55+00:00,card,21.3,BREAD,Pan Tostado,sides,3,2.0,6.0
+2,El Rincón Tortillero,Barcelona,BILL-51E3577A025D,2026-05-01T21:52:05+00:00,contactless,56.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-51E3577A025D,2026-05-01T21:52:05+00:00,contactless,56.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+2,El Rincón Tortillero,Barcelona,BILL-51E3577A025D,2026-05-01T21:52:05+00:00,contactless,56.8,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+2,El Rincón Tortillero,Barcelona,BILL-51E3577A025D,2026-05-01T21:52:05+00:00,contactless,56.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-51E3577A025D,2026-05-01T21:52:05+00:00,contactless,56.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-63B54340797B,2026-05-01T21:06:43+00:00,cash,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-36C588DEF67E,2026-05-01T12:59:13+00:00,cash,29.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-36C588DEF67E,2026-05-01T12:59:13+00:00,cash,29.0,BEER,Cerveza Caña,drinks,2,2.8,5.6
+2,El Rincón Tortillero,Barcelona,BILL-36C588DEF67E,2026-05-01T12:59:13+00:00,cash,29.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-36C588DEF67E,2026-05-01T12:59:13+00:00,cash,29.0,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+2,El Rincón Tortillero,Barcelona,BILL-995BAE7EFFAC,2026-05-01T20:52:00+00:00,card,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+2,El Rincón Tortillero,Barcelona,BILL-42A74EAA579C,2026-05-01T13:59:58+00:00,cash,22.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-42A74EAA579C,2026-05-01T13:59:58+00:00,cash,22.5,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+2,El Rincón Tortillero,Barcelona,BILL-E9A01B6595A9,2026-05-01T14:51:20+00:00,contactless,35.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-E9A01B6595A9,2026-05-01T14:51:20+00:00,contactless,35.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-E9A01B6595A9,2026-05-01T14:51:20+00:00,contactless,35.2,WATER,Agua Mineral,drinks,1,1.2,1.2
+2,El Rincón Tortillero,Barcelona,BILL-696966BEED94,2026-05-01T23:59:49+00:00,card,18.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-696966BEED94,2026-05-01T23:59:49+00:00,card,18.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+2,El Rincón Tortillero,Barcelona,BILL-8861EE0F1271,2026-05-01T13:18:23+00:00,cash,56.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+2,El Rincón Tortillero,Barcelona,BILL-8861EE0F1271,2026-05-01T13:18:23+00:00,cash,56.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-8861EE0F1271,2026-05-01T13:18:23+00:00,cash,56.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+2,El Rincón Tortillero,Barcelona,BILL-261580EBDEBF,2026-05-01T12:12:55+00:00,card,44.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-261580EBDEBF,2026-05-01T12:12:55+00:00,card,44.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-261580EBDEBF,2026-05-01T12:12:55+00:00,card,44.0,BEER,Cerveza Caña,drinks,2,2.8,5.6
+2,El Rincón Tortillero,Barcelona,BILL-261580EBDEBF,2026-05-01T12:12:55+00:00,card,44.0,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+2,El Rincón Tortillero,Barcelona,BILL-7410BE72DC09,2026-05-01T17:03:19+00:00,cash,41.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-7410BE72DC09,2026-05-01T17:03:19+00:00,cash,41.6,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+2,El Rincón Tortillero,Barcelona,BILL-7410BE72DC09,2026-05-01T17:03:19+00:00,cash,41.6,COFFEE,Café con Leche,drinks,3,1.8,5.4
+2,El Rincón Tortillero,Barcelona,BILL-7410BE72DC09,2026-05-01T17:03:19+00:00,cash,41.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-6926DF10E9AC,2026-05-01T13:24:45+00:00,contactless,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+2,El Rincón Tortillero,Barcelona,BILL-6926DF10E9AC,2026-05-01T13:24:45+00:00,contactless,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-B4369D117D17,2026-05-01T20:30:37+00:00,card,22.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-B4369D117D17,2026-05-01T20:30:37+00:00,card,22.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-B4369D117D17,2026-05-01T20:30:37+00:00,card,22.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
+2,El Rincón Tortillero,Barcelona,BILL-876503D4F146,2026-05-01T13:09:44+00:00,cash,18.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+2,El Rincón Tortillero,Barcelona,BILL-876503D4F146,2026-05-01T13:09:44+00:00,cash,18.2,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+2,El Rincón Tortillero,Barcelona,BILL-876503D4F146,2026-05-01T13:09:44+00:00,cash,18.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+2,El Rincón Tortillero,Barcelona,BILL-2B7EC8428AA8,2026-05-01T22:47:10+00:00,card,27.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-2B7EC8428AA8,2026-05-01T22:47:10+00:00,card,27.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+2,El Rincón Tortillero,Barcelona,BILL-BF349F176FC8,2026-05-01T12:14:11+00:00,contactless,63.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-BF349F176FC8,2026-05-01T12:14:11+00:00,contactless,63.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+2,El Rincón Tortillero,Barcelona,BILL-BF349F176FC8,2026-05-01T12:14:11+00:00,contactless,63.0,COFFEE,Café con Leche,drinks,3,1.8,5.4
+2,El Rincón Tortillero,Barcelona,BILL-BF349F176FC8,2026-05-01T12:14:11+00:00,contactless,63.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+2,El Rincón Tortillero,Barcelona,BILL-937FD2098041,2026-05-01T15:47:19+00:00,cash,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5

@@ -1,520 +1,469 @@
 restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
-1,La Tortilla de Oro,Madrid,BILL-4D69CCCA1D1F,2026-05-04T13:43:30+00:00,card,60.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-4D69CCCA1D1F,2026-05-04T13:43:30+00:00,card,60.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-1,La Tortilla de Oro,Madrid,BILL-4D69CCCA1D1F,2026-05-04T13:43:30+00:00,card,60.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-4D69CCCA1D1F,2026-05-04T13:43:30+00:00,card,60.0,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-4D69CCCA1D1F,2026-05-04T13:43:30+00:00,card,60.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-94011CD95EB5,2026-05-04T18:21:12+00:00,card,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-94011CD95EB5,2026-05-04T18:21:12+00:00,card,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-1C3A4F0B6795,2026-05-04T16:24:30+00:00,contactless,52.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-1C3A4F0B6795,2026-05-04T16:24:30+00:00,contactless,52.2,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-1,La Tortilla de Oro,Madrid,BILL-1C3A4F0B6795,2026-05-04T16:24:30+00:00,contactless,52.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-1C3A4F0B6795,2026-05-04T16:24:30+00:00,contactless,52.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-7410D5797904,2026-05-04T17:09:18+00:00,card,29.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-7410D5797904,2026-05-04T17:09:18+00:00,card,29.1,WATER,Agua Mineral,drinks,3,1.2,3.6
-1,La Tortilla de Oro,Madrid,BILL-FAD8667C52DA,2026-05-04T09:35:46+00:00,contactless,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-B6ACF68D54CE,2026-05-04T14:38:50+00:00,cash,48.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-B6ACF68D54CE,2026-05-04T14:38:50+00:00,cash,48.6,ALIOLI,Alioli Casero,sides,1,1.5,1.5
-1,La Tortilla de Oro,Madrid,BILL-B6ACF68D54CE,2026-05-04T14:38:50+00:00,cash,48.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-B6ACF68D54CE,2026-05-04T14:38:50+00:00,cash,48.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-269D524D53AC,2026-05-04T20:32:11+00:00,contactless,68.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-269D524D53AC,2026-05-04T20:32:11+00:00,contactless,68.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-269D524D53AC,2026-05-04T20:32:11+00:00,contactless,68.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-0DC513B720D5,2026-05-04T20:39:20+00:00,card,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-14ABE50B7A46,2026-05-04T11:50:58+00:00,contactless,77.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-14ABE50B7A46,2026-05-04T11:50:58+00:00,contactless,77.6,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-1,La Tortilla de Oro,Madrid,BILL-14ABE50B7A46,2026-05-04T11:50:58+00:00,contactless,77.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-14ABE50B7A46,2026-05-04T11:50:58+00:00,contactless,77.6,ALIOLI,Alioli Casero,sides,2,1.5,3.0
-1,La Tortilla de Oro,Madrid,BILL-14ABE50B7A46,2026-05-04T11:50:58+00:00,contactless,77.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-7DF6C790B5B0,2026-05-04T13:39:19+00:00,cash,65.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-7DF6C790B5B0,2026-05-04T13:39:19+00:00,cash,65.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-7DF6C790B5B0,2026-05-04T13:39:19+00:00,cash,65.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-174DFC883EA5,2026-05-04T12:41:53+00:00,contactless,58.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-174DFC883EA5,2026-05-04T12:41:53+00:00,contactless,58.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-174DFC883EA5,2026-05-04T12:41:53+00:00,contactless,58.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-174DFC883EA5,2026-05-04T12:41:53+00:00,contactless,58.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
-1,La Tortilla de Oro,Madrid,BILL-CB4472F853D5,2026-05-04T14:06:44+00:00,card,25.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-CB4472F853D5,2026-05-04T14:06:44+00:00,card,25.6,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-1,La Tortilla de Oro,Madrid,BILL-CB4472F853D5,2026-05-04T14:06:44+00:00,card,25.6,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-CB4472F853D5,2026-05-04T14:06:44+00:00,card,25.6,WATER,Agua Mineral,drinks,1,1.2,1.2
-1,La Tortilla de Oro,Madrid,BILL-DFF2EC6A72B0,2026-05-04T15:29:10+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-34E9F8F09324,2026-05-04T11:15:44+00:00,cash,23.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-34E9F8F09324,2026-05-04T11:15:44+00:00,cash,23.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-34E9F8F09324,2026-05-04T11:15:44+00:00,cash,23.0,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-34E9F8F09324,2026-05-04T11:15:44+00:00,cash,23.0,WATER,Agua Mineral,drinks,3,1.2,3.6
-1,La Tortilla de Oro,Madrid,BILL-C3051DAD9DBD,2026-05-04T10:48:00+00:00,contactless,35.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-C3051DAD9DBD,2026-05-04T10:48:00+00:00,contactless,35.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-AB147519180C,2026-05-04T14:16:03+00:00,cash,40.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-AB147519180C,2026-05-04T14:16:03+00:00,cash,40.6,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
-1,La Tortilla de Oro,Madrid,BILL-AB147519180C,2026-05-04T14:16:03+00:00,cash,40.6,BREAD,Pan Tostado,sides,3,2.0,6.0
-1,La Tortilla de Oro,Madrid,BILL-AB147519180C,2026-05-04T14:16:03+00:00,cash,40.6,WATER,Agua Mineral,drinks,3,1.2,3.6
-1,La Tortilla de Oro,Madrid,BILL-AB147519180C,2026-05-04T14:16:03+00:00,cash,40.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-C071698AAB8C,2026-05-04T19:09:35+00:00,contactless,22.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-C071698AAB8C,2026-05-04T19:09:35+00:00,contactless,22.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-C071698AAB8C,2026-05-04T19:09:35+00:00,contactless,22.5,BEER,Cerveza Caña,drinks,2,2.8,5.6
-1,La Tortilla de Oro,Madrid,BILL-A8BC66CAA2F2,2026-05-04T13:34:12+00:00,contactless,29.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-A8BC66CAA2F2,2026-05-04T13:34:12+00:00,contactless,29.5,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-A8BC66CAA2F2,2026-05-04T13:34:12+00:00,contactless,29.5,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-51B6762415BF,2026-05-04T17:18:59+00:00,contactless,24.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-51B6762415BF,2026-05-04T17:18:59+00:00,contactless,24.6,BREAD,Pan Tostado,sides,3,2.0,6.0
-1,La Tortilla de Oro,Madrid,BILL-51B6762415BF,2026-05-04T17:18:59+00:00,contactless,24.6,BREAD,Pan Tostado,sides,3,2.0,6.0
-1,La Tortilla de Oro,Madrid,BILL-51B6762415BF,2026-05-04T17:18:59+00:00,contactless,24.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-7F339F35C175,2026-05-04T16:09:14+00:00,cash,52.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-7F339F35C175,2026-05-04T16:09:14+00:00,cash,52.3,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-7F339F35C175,2026-05-04T16:09:14+00:00,cash,52.3,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-1,La Tortilla de Oro,Madrid,BILL-7F339F35C175,2026-05-04T16:09:14+00:00,cash,52.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-786A801AD174,2026-05-04T10:04:45+00:00,card,81.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-786A801AD174,2026-05-04T10:04:45+00:00,card,81.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-786A801AD174,2026-05-04T10:04:45+00:00,card,81.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-1,La Tortilla de Oro,Madrid,BILL-786A801AD174,2026-05-04T10:04:45+00:00,card,81.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-786A801AD174,2026-05-04T10:04:45+00:00,card,81.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-1,La Tortilla de Oro,Madrid,BILL-4C691B57D86C,2026-05-04T09:11:29+00:00,contactless,38.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-4C691B57D86C,2026-05-04T09:11:29+00:00,contactless,38.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-4C691B57D86C,2026-05-04T09:11:29+00:00,contactless,38.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-12147B3D4DB1,2026-05-04T14:51:53+00:00,card,35.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-12147B3D4DB1,2026-05-04T14:51:53+00:00,card,35.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-1,La Tortilla de Oro,Madrid,BILL-24B6BCA92E28,2026-05-04T22:31:05+00:00,card,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-B80354AEC23C,2026-05-04T20:50:47+00:00,contactless,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-34DDEEBA7CBA,2026-05-04T17:28:04+00:00,contactless,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-7229B19F75CA,2026-05-04T16:39:41+00:00,card,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-7229B19F75CA,2026-05-04T16:39:41+00:00,card,51.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-7229B19F75CA,2026-05-04T16:39:41+00:00,card,51.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-1791ADD783D0,2026-05-04T13:12:38+00:00,contactless,60.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-1791ADD783D0,2026-05-04T13:12:38+00:00,contactless,60.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-1791ADD783D0,2026-05-04T13:12:38+00:00,contactless,60.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-1791ADD783D0,2026-05-04T13:12:38+00:00,contactless,60.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-1791ADD783D0,2026-05-04T13:12:38+00:00,contactless,60.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-2A033635B8D8,2026-05-04T21:42:04+00:00,cash,100.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-2A033635B8D8,2026-05-04T21:42:04+00:00,cash,100.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-2A033635B8D8,2026-05-04T21:42:04+00:00,cash,100.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-2A033635B8D8,2026-05-04T21:42:04+00:00,cash,100.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-F71F3767E8A7,2026-05-04T12:22:03+00:00,cash,36.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-F71F3767E8A7,2026-05-04T12:22:03+00:00,cash,36.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-C6472FA80D81,2026-05-04T11:22:00+00:00,contactless,41.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-C6472FA80D81,2026-05-04T11:22:00+00:00,contactless,41.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
-1,La Tortilla de Oro,Madrid,BILL-C6472FA80D81,2026-05-04T11:22:00+00:00,contactless,41.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-C6472FA80D81,2026-05-04T11:22:00+00:00,contactless,41.3,ALIOLI,Alioli Casero,sides,3,1.5,4.5
-1,La Tortilla de Oro,Madrid,BILL-C6472FA80D81,2026-05-04T11:22:00+00:00,contactless,41.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-6E2FF78BCC16,2026-05-04T16:43:25+00:00,cash,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-1E224CC6B215,2026-05-04T17:17:32+00:00,contactless,64.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-1E224CC6B215,2026-05-04T17:17:32+00:00,contactless,64.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-1E224CC6B215,2026-05-04T17:17:32+00:00,contactless,64.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-1E224CC6B215,2026-05-04T17:17:32+00:00,contactless,64.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-EFEE30B18806,2026-05-04T15:23:55+00:00,card,29.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-EFEE30B18806,2026-05-04T15:23:55+00:00,card,29.5,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-EFEE30B18806,2026-05-04T15:23:55+00:00,card,29.5,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-456E50834F18,2026-05-04T10:53:42+00:00,contactless,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-7BE4D683311B,2026-05-04T20:46:17+00:00,cash,79.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-7BE4D683311B,2026-05-04T20:46:17+00:00,cash,79.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-7BE4D683311B,2026-05-04T20:46:17+00:00,cash,79.2,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-1,La Tortilla de Oro,Madrid,BILL-7BE4D683311B,2026-05-04T20:46:17+00:00,cash,79.2,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
-1,La Tortilla de Oro,Madrid,BILL-7BE4D683311B,2026-05-04T20:46:17+00:00,cash,79.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-6671EF1CE0C7,2026-05-04T20:13:30+00:00,contactless,73.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-6671EF1CE0C7,2026-05-04T20:13:30+00:00,contactless,73.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-6671EF1CE0C7,2026-05-04T20:13:30+00:00,contactless,73.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-6671EF1CE0C7,2026-05-04T20:13:30+00:00,contactless,73.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-6671EF1CE0C7,2026-05-04T20:13:30+00:00,contactless,73.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-55AEF00E58BC,2026-05-04T18:13:53+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-AF5EFB25A43F,2026-05-04T14:12:40+00:00,card,39.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-AF5EFB25A43F,2026-05-04T14:12:40+00:00,card,39.4,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-AF5EFB25A43F,2026-05-04T14:12:40+00:00,card,39.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-AF5EFB25A43F,2026-05-04T14:12:40+00:00,card,39.4,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-AF5EFB25A43F,2026-05-04T14:12:40+00:00,card,39.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-32AA7EF3ED48,2026-05-04T23:54:53+00:00,card,12.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-32AA7EF3ED48,2026-05-04T23:54:53+00:00,card,12.1,WATER,Agua Mineral,drinks,3,1.2,3.6
-1,La Tortilla de Oro,Madrid,BILL-98B5165D6DA5,2026-05-04T17:40:12+00:00,cash,42.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-98B5165D6DA5,2026-05-04T17:40:12+00:00,cash,42.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-98B5165D6DA5,2026-05-04T17:40:12+00:00,cash,42.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-98B5165D6DA5,2026-05-04T17:40:12+00:00,cash,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-5C7D3111580D,2026-05-04T11:57:20+00:00,contactless,43.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-5C7D3111580D,2026-05-04T11:57:20+00:00,contactless,43.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-5C7D3111580D,2026-05-04T11:57:20+00:00,contactless,43.6,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-1,La Tortilla de Oro,Madrid,BILL-5C7D3111580D,2026-05-04T11:57:20+00:00,contactless,43.6,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-5C7D3111580D,2026-05-04T11:57:20+00:00,contactless,43.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-6FA295DEE933,2026-05-04T13:09:32+00:00,card,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-11443FA77B33,2026-05-04T11:11:58+00:00,cash,31.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-11443FA77B33,2026-05-04T11:11:58+00:00,cash,31.1,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-1,La Tortilla de Oro,Madrid,BILL-11443FA77B33,2026-05-04T11:11:58+00:00,cash,31.1,WATER,Agua Mineral,drinks,1,1.2,1.2
-1,La Tortilla de Oro,Madrid,BILL-11443FA77B33,2026-05-04T11:11:58+00:00,cash,31.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-E973AA8AC7F0,2026-05-04T16:53:29+00:00,cash,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-CC21FE54DEC8,2026-05-04T11:05:00+00:00,card,48.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-CC21FE54DEC8,2026-05-04T11:05:00+00:00,card,48.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-CC21FE54DEC8,2026-05-04T11:05:00+00:00,card,48.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
-1,La Tortilla de Oro,Madrid,BILL-C9EB2670C4CB,2026-05-04T13:18:55+00:00,contactless,52.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-C9EB2670C4CB,2026-05-04T13:18:55+00:00,contactless,52.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-C9EB2670C4CB,2026-05-04T13:18:55+00:00,contactless,52.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-C9EB2670C4CB,2026-05-04T13:18:55+00:00,contactless,52.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-0D28E57E9A32,2026-05-04T18:39:38+00:00,card,38.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-0D28E57E9A32,2026-05-04T18:39:38+00:00,card,38.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-0D28E57E9A32,2026-05-04T18:39:38+00:00,card,38.5,WATER,Agua Mineral,drinks,3,1.2,3.6
-1,La Tortilla de Oro,Madrid,BILL-0D28E57E9A32,2026-05-04T18:39:38+00:00,card,38.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-FD376AAF4CE6,2026-05-04T15:39:52+00:00,cash,75.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-FD376AAF4CE6,2026-05-04T15:39:52+00:00,cash,75.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-FD376AAF4CE6,2026-05-04T15:39:52+00:00,cash,75.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-4BD74DFAC3D8,2026-05-04T22:17:01+00:00,contactless,34.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-4BD74DFAC3D8,2026-05-04T22:17:01+00:00,contactless,34.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-4BD74DFAC3D8,2026-05-04T22:17:01+00:00,contactless,34.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-04521283E3DB,2026-05-04T22:14:25+00:00,card,48.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-04521283E3DB,2026-05-04T22:14:25+00:00,card,48.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-87ABF2789711,2026-05-04T21:22:47+00:00,cash,58.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-87ABF2789711,2026-05-04T21:22:47+00:00,cash,58.4,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-1,La Tortilla de Oro,Madrid,BILL-87ABF2789711,2026-05-04T21:22:47+00:00,cash,58.4,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-87ABF2789711,2026-05-04T21:22:47+00:00,cash,58.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-87ABF2789711,2026-05-04T21:22:47+00:00,cash,58.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-34EDEA34AE1B,2026-05-04T21:21:50+00:00,contactless,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-694A2EF58928,2026-05-04T11:16:59+00:00,contactless,35.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-694A2EF58928,2026-05-04T11:16:59+00:00,contactless,35.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-61824F0F0828,2026-05-04T17:35:23+00:00,card,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-E98A26EC604A,2026-05-04T14:11:32+00:00,card,68.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-E98A26EC604A,2026-05-04T14:11:32+00:00,card,68.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-E98A26EC604A,2026-05-04T14:11:32+00:00,card,68.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-E98A26EC604A,2026-05-04T14:11:32+00:00,card,68.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-F1A2843A9F4E,2026-05-04T13:50:49+00:00,cash,59.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-F1A2843A9F4E,2026-05-04T13:50:49+00:00,cash,59.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-F1A2843A9F4E,2026-05-04T13:50:49+00:00,cash,59.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-1,La Tortilla de Oro,Madrid,BILL-F1A2843A9F4E,2026-05-04T13:50:49+00:00,cash,59.0,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
-1,La Tortilla de Oro,Madrid,BILL-F1A2843A9F4E,2026-05-04T13:50:49+00:00,cash,59.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-1,La Tortilla de Oro,Madrid,BILL-76C7612F1822,2026-05-04T10:10:15+00:00,contactless,38.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-76C7612F1822,2026-05-04T10:10:15+00:00,contactless,38.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-76C7612F1822,2026-05-04T10:10:15+00:00,contactless,38.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-76C7612F1822,2026-05-04T10:10:15+00:00,contactless,38.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-9729BE6CC034,2026-05-04T16:13:17+00:00,cash,52.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-9729BE6CC034,2026-05-04T16:13:17+00:00,cash,52.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-9729BE6CC034,2026-05-04T16:13:17+00:00,cash,52.2,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-9729BE6CC034,2026-05-04T16:13:17+00:00,cash,52.2,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-297F69252220,2026-05-04T18:56:56+00:00,card,70.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-297F69252220,2026-05-04T18:56:56+00:00,card,70.5,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-297F69252220,2026-05-04T18:56:56+00:00,card,70.5,WATER,Agua Mineral,drinks,1,1.2,1.2
-1,La Tortilla de Oro,Madrid,BILL-297F69252220,2026-05-04T18:56:56+00:00,card,70.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-297F69252220,2026-05-04T18:56:56+00:00,card,70.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-7C7785968713,2026-05-04T22:17:13+00:00,cash,99.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-7C7785968713,2026-05-04T22:17:13+00:00,cash,99.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-7C7785968713,2026-05-04T22:17:13+00:00,cash,99.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-7C7785968713,2026-05-04T22:17:13+00:00,cash,99.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-7C7785968713,2026-05-04T22:17:13+00:00,cash,99.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-536BEFDFAE07,2026-05-04T21:08:47+00:00,cash,70.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-536BEFDFAE07,2026-05-04T21:08:47+00:00,cash,70.8,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-536BEFDFAE07,2026-05-04T21:08:47+00:00,cash,70.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-536BEFDFAE07,2026-05-04T21:08:47+00:00,cash,70.8,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-05DD2B98B12F,2026-05-04T22:32:30+00:00,contactless,25.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-05DD2B98B12F,2026-05-04T22:32:30+00:00,contactless,25.2,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-05DD2B98B12F,2026-05-04T22:32:30+00:00,contactless,25.2,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-8CEECC27660C,2026-05-04T19:29:24+00:00,cash,36.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-8CEECC27660C,2026-05-04T19:29:24+00:00,cash,36.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-8CEECC27660C,2026-05-04T19:29:24+00:00,cash,36.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
-1,La Tortilla de Oro,Madrid,BILL-8CEECC27660C,2026-05-04T19:29:24+00:00,cash,36.1,BREAD,Pan Tostado,sides,1,2.0,2.0
-1,La Tortilla de Oro,Madrid,BILL-831176635C0E,2026-05-04T13:17:01+00:00,cash,52.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-831176635C0E,2026-05-04T13:17:01+00:00,cash,52.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-831176635C0E,2026-05-04T13:17:01+00:00,cash,52.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-14A5BFCD2BBB,2026-05-04T15:48:24+00:00,cash,42.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-14A5BFCD2BBB,2026-05-04T15:48:24+00:00,cash,42.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-14A5BFCD2BBB,2026-05-04T15:48:24+00:00,cash,42.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-4FD561F63387,2026-05-04T20:28:07+00:00,cash,78.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-4FD561F63387,2026-05-04T20:28:07+00:00,cash,78.1,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
-1,La Tortilla de Oro,Madrid,BILL-4FD561F63387,2026-05-04T20:28:07+00:00,cash,78.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
-1,La Tortilla de Oro,Madrid,BILL-4FD561F63387,2026-05-04T20:28:07+00:00,cash,78.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-4FD561F63387,2026-05-04T20:28:07+00:00,cash,78.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-41B19BEB3E26,2026-05-04T16:02:55+00:00,cash,27.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-41B19BEB3E26,2026-05-04T16:02:55+00:00,cash,27.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-09EE99AD5512,2026-05-04T16:28:31+00:00,contactless,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-BA60B0B1EF41,2026-05-04T14:29:41+00:00,contactless,13.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-BA60B0B1EF41,2026-05-04T14:29:41+00:00,contactless,13.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-1,La Tortilla de Oro,Madrid,BILL-BA60B0B1EF41,2026-05-04T14:29:41+00:00,contactless,13.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-1,La Tortilla de Oro,Madrid,BILL-29C8AFDCC24D,2026-05-04T16:24:05+00:00,contactless,23.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-29C8AFDCC24D,2026-05-04T16:24:05+00:00,contactless,23.6,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-1,La Tortilla de Oro,Madrid,BILL-5BDC02E8F3A1,2026-05-04T19:05:26+00:00,card,36.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-5BDC02E8F3A1,2026-05-04T19:05:26+00:00,card,36.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-5BDC02E8F3A1,2026-05-04T19:05:26+00:00,card,36.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-5BDC02E8F3A1,2026-05-04T19:05:26+00:00,card,36.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-602E3E9172C8,2026-05-04T20:43:05+00:00,contactless,18.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-602E3E9172C8,2026-05-04T20:43:05+00:00,contactless,18.0,BREAD,Pan Tostado,sides,1,2.0,2.0
-1,La Tortilla de Oro,Madrid,BILL-602E3E9172C8,2026-05-04T20:43:05+00:00,contactless,18.0,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-1,La Tortilla de Oro,Madrid,BILL-CBE83E7C5851,2026-05-04T14:17:15+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-0A7DE785BFA6,2026-05-04T23:06:42+00:00,card,55.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-0A7DE785BFA6,2026-05-04T23:06:42+00:00,card,55.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-0A7DE785BFA6,2026-05-04T23:06:42+00:00,card,55.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-0A7DE785BFA6,2026-05-04T23:06:42+00:00,card,55.5,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
-1,La Tortilla de Oro,Madrid,BILL-DAFC7ADF6050,2026-05-04T22:58:11+00:00,cash,30.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-DAFC7ADF6050,2026-05-04T22:58:11+00:00,cash,30.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-915BDC57DEC7,2026-05-04T13:54:51+00:00,card,26.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-915BDC57DEC7,2026-05-04T13:54:51+00:00,card,26.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-1,La Tortilla de Oro,Madrid,BILL-58D5A0132AA3,2026-05-04T22:35:23+00:00,card,54.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-58D5A0132AA3,2026-05-04T22:35:23+00:00,card,54.5,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
-1,La Tortilla de Oro,Madrid,BILL-58D5A0132AA3,2026-05-04T22:35:23+00:00,card,54.5,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-58D5A0132AA3,2026-05-04T22:35:23+00:00,card,54.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-1BC4C6BBAA14,2026-05-04T21:38:04+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-94725FA156B1,2026-05-04T21:39:01+00:00,cash,50.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-94725FA156B1,2026-05-04T21:39:01+00:00,cash,50.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-94725FA156B1,2026-05-04T21:39:01+00:00,cash,50.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-94725FA156B1,2026-05-04T21:39:01+00:00,cash,50.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-17E27DBAC2BA,2026-05-04T21:49:13+00:00,cash,36.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-17E27DBAC2BA,2026-05-04T21:49:13+00:00,cash,36.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-17E27DBAC2BA,2026-05-04T21:49:13+00:00,cash,36.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-BA50758928CB,2026-05-04T20:10:07+00:00,cash,32.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-BA50758928CB,2026-05-04T20:10:07+00:00,cash,32.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
-1,La Tortilla de Oro,Madrid,BILL-7FEB653E2AC0,2026-05-04T14:03:03+00:00,contactless,30.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-7FEB653E2AC0,2026-05-04T14:03:03+00:00,contactless,30.5,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-1,La Tortilla de Oro,Madrid,BILL-89D67892D4C3,2026-05-04T20:27:19+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-33BACB416DAE,2026-05-04T14:28:29+00:00,card,11.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-33BACB416DAE,2026-05-04T14:28:29+00:00,card,11.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-42898BA1FC45,2026-05-04T16:02:05+00:00,contactless,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-FB547F08DE3C,2026-05-04T13:44:40+00:00,contactless,51.7,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-FB547F08DE3C,2026-05-04T13:44:40+00:00,contactless,51.7,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-1,La Tortilla de Oro,Madrid,BILL-FB547F08DE3C,2026-05-04T13:44:40+00:00,contactless,51.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-FB547F08DE3C,2026-05-04T13:44:40+00:00,contactless,51.7,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-FB547F08DE3C,2026-05-04T13:44:40+00:00,contactless,51.7,BEER,Cerveza Caña,drinks,1,2.8,2.8
-1,La Tortilla de Oro,Madrid,BILL-DC11D16C546F,2026-05-04T10:41:48+00:00,card,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-845B885EFDE3,2026-05-04T21:56:02+00:00,card,65.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-845B885EFDE3,2026-05-04T21:56:02+00:00,card,65.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-845B885EFDE3,2026-05-04T21:56:02+00:00,card,65.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-8524D7EE359F,2026-05-04T14:25:52+00:00,contactless,88.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-8524D7EE359F,2026-05-04T14:25:52+00:00,contactless,88.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-8524D7EE359F,2026-05-04T14:25:52+00:00,contactless,88.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-8524D7EE359F,2026-05-04T14:25:52+00:00,contactless,88.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-8524D7EE359F,2026-05-04T14:25:52+00:00,contactless,88.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
-1,La Tortilla de Oro,Madrid,BILL-6A3955B1D599,2026-05-04T12:13:47+00:00,cash,19.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-6A3955B1D599,2026-05-04T12:13:47+00:00,cash,19.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-1E36979E7524,2026-05-04T11:38:22+00:00,contactless,30.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-1E36979E7524,2026-05-04T11:38:22+00:00,contactless,30.9,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-1E36979E7524,2026-05-04T11:38:22+00:00,contactless,30.9,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-531AF5BB30F3,2026-05-04T17:36:44+00:00,contactless,34.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-531AF5BB30F3,2026-05-04T17:36:44+00:00,contactless,34.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-0A7BF38F9776,2026-05-04T10:27:11+00:00,contactless,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-0A7BF38F9776,2026-05-04T10:27:11+00:00,contactless,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-FEFAAB8FE513,2026-05-04T20:29:21+00:00,contactless,48.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-FEFAAB8FE513,2026-05-04T20:29:21+00:00,contactless,48.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-FEFAAB8FE513,2026-05-04T20:29:21+00:00,contactless,48.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-91D8D82C5BA3,2026-05-04T15:54:30+00:00,contactless,95.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-91D8D82C5BA3,2026-05-04T15:54:30+00:00,contactless,95.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-91D8D82C5BA3,2026-05-04T15:54:30+00:00,contactless,95.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-91D8D82C5BA3,2026-05-04T15:54:30+00:00,contactless,95.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-91D8D82C5BA3,2026-05-04T15:54:30+00:00,contactless,95.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-FB05AE9B9950,2026-05-04T17:25:19+00:00,cash,42.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-FB05AE9B9950,2026-05-04T17:25:19+00:00,cash,42.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-FB05AE9B9950,2026-05-04T17:25:19+00:00,cash,42.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-FB05AE9B9950,2026-05-04T17:25:19+00:00,cash,42.5,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-1,La Tortilla de Oro,Madrid,BILL-436396739094,2026-05-04T19:08:00+00:00,contactless,31.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-436396739094,2026-05-04T19:08:00+00:00,contactless,31.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-436396739094,2026-05-04T19:08:00+00:00,contactless,31.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-1BCE19F05E97,2026-05-04T22:25:37+00:00,card,40.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-1BCE19F05E97,2026-05-04T22:25:37+00:00,card,40.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-6753917169DF,2026-05-04T22:04:12+00:00,card,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-36D7F5DB128D,2026-05-04T18:44:18+00:00,cash,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-FF538CF7927A,2026-05-04T12:54:12+00:00,card,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-5B3BEBB63048,2026-05-04T21:37:31+00:00,card,41.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-5B3BEBB63048,2026-05-04T21:37:31+00:00,card,41.2,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-5B3BEBB63048,2026-05-04T21:37:31+00:00,card,41.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-5B3BEBB63048,2026-05-04T21:37:31+00:00,card,41.2,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-BA7A4AA8D317,2026-05-04T13:16:43+00:00,card,27.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-BA7A4AA8D317,2026-05-04T13:16:43+00:00,card,27.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-BA7A4AA8D317,2026-05-04T13:16:43+00:00,card,27.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-2DEDC7A5DC66,2026-05-04T09:38:00+00:00,card,69.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-2DEDC7A5DC66,2026-05-04T09:38:00+00:00,card,69.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-2DEDC7A5DC66,2026-05-04T09:38:00+00:00,card,69.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-2DEDC7A5DC66,2026-05-04T09:38:00+00:00,card,69.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-2DEDC7A5DC66,2026-05-04T09:38:00+00:00,card,69.4,ALIOLI,Alioli Casero,sides,3,1.5,4.5
-1,La Tortilla de Oro,Madrid,BILL-3DD1C2189D69,2026-05-04T15:36:09+00:00,contactless,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-0B70A32B0508,2026-05-04T21:06:52+00:00,card,64.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-0B70A32B0508,2026-05-04T21:06:52+00:00,card,64.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-0B70A32B0508,2026-05-04T21:06:52+00:00,card,64.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-0B70A32B0508,2026-05-04T21:06:52+00:00,card,64.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-89081096C484,2026-05-04T22:46:54+00:00,contactless,53.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-89081096C484,2026-05-04T22:46:54+00:00,contactless,53.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-89081096C484,2026-05-04T22:46:54+00:00,contactless,53.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-89081096C484,2026-05-04T22:46:54+00:00,contactless,53.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-BC9B10A7FAFD,2026-05-04T20:34:03+00:00,card,30.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-BC9B10A7FAFD,2026-05-04T20:34:03+00:00,card,30.3,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-1,La Tortilla de Oro,Madrid,BILL-BC9B10A7FAFD,2026-05-04T20:34:03+00:00,card,30.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-BC9B10A7FAFD,2026-05-04T20:34:03+00:00,card,30.3,ALIOLI,Alioli Casero,sides,2,1.5,3.0
-1,La Tortilla de Oro,Madrid,BILL-50ED97D8499C,2026-05-04T22:37:38+00:00,card,44.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-50ED97D8499C,2026-05-04T22:37:38+00:00,card,44.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-50ED97D8499C,2026-05-04T22:37:38+00:00,card,44.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-9BAF90E23FA5,2026-05-04T17:19:07+00:00,card,47.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-9BAF90E23FA5,2026-05-04T17:19:07+00:00,card,47.5,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-1,La Tortilla de Oro,Madrid,BILL-9BAF90E23FA5,2026-05-04T17:19:07+00:00,card,47.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-872A1D5A026B,2026-05-04T10:21:35+00:00,cash,30.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-872A1D5A026B,2026-05-04T10:21:35+00:00,cash,30.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-9F879157AC1F,2026-05-04T19:34:38+00:00,card,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-1BB764320A18,2026-05-04T13:52:34+00:00,contactless,32.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-1BB764320A18,2026-05-04T13:52:34+00:00,contactless,32.9,BREAD,Pan Tostado,sides,1,2.0,2.0
-1,La Tortilla de Oro,Madrid,BILL-1BB764320A18,2026-05-04T13:52:34+00:00,contactless,32.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-7AEBF6FA80BB,2026-05-04T12:31:31+00:00,cash,19.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-7AEBF6FA80BB,2026-05-04T12:31:31+00:00,cash,19.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-7AEBF6FA80BB,2026-05-04T12:31:31+00:00,cash,19.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-3E4ADAB8F5EF,2026-05-04T18:18:22+00:00,contactless,29.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-3E4ADAB8F5EF,2026-05-04T18:18:22+00:00,contactless,29.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-A7FF05F0DFC4,2026-05-04T22:14:13+00:00,card,19.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-A7FF05F0DFC4,2026-05-04T22:14:13+00:00,card,19.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
-1,La Tortilla de Oro,Madrid,BILL-027356BF5074,2026-05-04T21:03:06+00:00,contactless,51.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-027356BF5074,2026-05-04T21:03:06+00:00,contactless,51.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-0542ED1877C9,2026-05-04T17:28:56+00:00,card,46.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-0542ED1877C9,2026-05-04T17:28:56+00:00,card,46.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-0542ED1877C9,2026-05-04T17:28:56+00:00,card,46.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-E1BCF0B139CD,2026-05-04T23:04:08+00:00,contactless,33.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-E1BCF0B139CD,2026-05-04T23:04:08+00:00,contactless,33.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-E1BCF0B139CD,2026-05-04T23:04:08+00:00,contactless,33.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-B1BD4C6E2001,2026-05-04T18:01:46+00:00,cash,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-96FB5F061F1D,2026-05-04T14:57:23+00:00,contactless,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-FF5D7FC287F0,2026-05-04T14:23:44+00:00,cash,32.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-FF5D7FC287F0,2026-05-04T14:23:44+00:00,cash,32.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-1,La Tortilla de Oro,Madrid,BILL-FF5D7FC287F0,2026-05-04T14:23:44+00:00,cash,32.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-FF5D7FC287F0,2026-05-04T14:23:44+00:00,cash,32.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-E26C47E77A89,2026-05-04T11:08:22+00:00,contactless,31.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-E26C47E77A89,2026-05-04T11:08:22+00:00,contactless,31.5,BREAD,Pan Tostado,sides,3,2.0,6.0
-1,La Tortilla de Oro,Madrid,BILL-78A39E9BB7CB,2026-05-04T10:42:13+00:00,contactless,38.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-78A39E9BB7CB,2026-05-04T10:42:13+00:00,contactless,38.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-78A39E9BB7CB,2026-05-04T10:42:13+00:00,contactless,38.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-747C512A5256,2026-05-04T15:13:34+00:00,card,61.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-747C512A5256,2026-05-04T15:13:34+00:00,card,61.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-747C512A5256,2026-05-04T15:13:34+00:00,card,61.0,BREAD,Pan Tostado,sides,3,2.0,6.0
-1,La Tortilla de Oro,Madrid,BILL-747C512A5256,2026-05-04T15:13:34+00:00,card,61.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-71CA57675296,2026-05-04T21:02:37+00:00,card,70.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-71CA57675296,2026-05-04T21:02:37+00:00,card,70.0,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-1,La Tortilla de Oro,Madrid,BILL-71CA57675296,2026-05-04T21:02:37+00:00,card,70.0,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
-1,La Tortilla de Oro,Madrid,BILL-71CA57675296,2026-05-04T21:02:37+00:00,card,70.0,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-71CA57675296,2026-05-04T21:02:37+00:00,card,70.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-1DDDD814D154,2026-05-04T22:29:22+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-B5638D8978DF,2026-05-04T19:19:54+00:00,cash,69.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-B5638D8978DF,2026-05-04T19:19:54+00:00,cash,69.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-B5638D8978DF,2026-05-04T19:19:54+00:00,cash,69.1,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-B5638D8978DF,2026-05-04T19:19:54+00:00,cash,69.1,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-B5638D8978DF,2026-05-04T19:19:54+00:00,cash,69.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-D0001CDC9583,2026-05-04T10:13:19+00:00,cash,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-5135A737F1F4,2026-05-04T10:19:07+00:00,cash,36.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-5135A737F1F4,2026-05-04T10:19:07+00:00,cash,36.8,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
-1,La Tortilla de Oro,Madrid,BILL-5135A737F1F4,2026-05-04T10:19:07+00:00,cash,36.8,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-1,La Tortilla de Oro,Madrid,BILL-5135A737F1F4,2026-05-04T10:19:07+00:00,cash,36.8,WATER,Agua Mineral,drinks,1,1.2,1.2
-1,La Tortilla de Oro,Madrid,BILL-5135A737F1F4,2026-05-04T10:19:07+00:00,cash,36.8,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-1,La Tortilla de Oro,Madrid,BILL-BAC500BAE305,2026-05-04T10:25:56+00:00,card,82.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-BAC500BAE305,2026-05-04T10:25:56+00:00,card,82.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-BAC500BAE305,2026-05-04T10:25:56+00:00,card,82.0,BEER,Cerveza Caña,drinks,2,2.8,5.6
-1,La Tortilla de Oro,Madrid,BILL-BAC500BAE305,2026-05-04T10:25:56+00:00,card,82.0,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-BAC500BAE305,2026-05-04T10:25:56+00:00,card,82.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-6ED7D9E23095,2026-05-04T22:07:02+00:00,card,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-3D367497AA12,2026-05-04T13:53:30+00:00,contactless,19.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-3D367497AA12,2026-05-04T13:53:30+00:00,contactless,19.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-2B1FFD580CF6,2026-05-04T21:19:52+00:00,cash,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-FA5588A5320D,2026-05-04T18:23:18+00:00,contactless,53.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-FA5588A5320D,2026-05-04T18:23:18+00:00,contactless,53.0,ALIOLI,Alioli Casero,sides,3,1.5,4.5
-1,La Tortilla de Oro,Madrid,BILL-FA5588A5320D,2026-05-04T18:23:18+00:00,contactless,53.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-DA79D84DB150,2026-05-04T20:42:21+00:00,contactless,19.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-DA79D84DB150,2026-05-04T20:42:21+00:00,contactless,19.2,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-DA79D84DB150,2026-05-04T20:42:21+00:00,contactless,19.2,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-184B9E0DE599,2026-05-04T23:08:14+00:00,card,44.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-184B9E0DE599,2026-05-04T23:08:14+00:00,card,44.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-184B9E0DE599,2026-05-04T23:08:14+00:00,card,44.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-0B0FAB456095,2026-05-04T21:15:39+00:00,contactless,57.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-0B0FAB456095,2026-05-04T21:15:39+00:00,contactless,57.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-6ADFF3B21F78,2026-05-04T09:11:20+00:00,card,83.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-6ADFF3B21F78,2026-05-04T09:11:20+00:00,card,83.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-6ADFF3B21F78,2026-05-04T09:11:20+00:00,card,83.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-6ADFF3B21F78,2026-05-04T09:11:20+00:00,card,83.8,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-6ADFF3B21F78,2026-05-04T09:11:20+00:00,card,83.8,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-C15315ABB07A,2026-05-04T17:44:01+00:00,cash,35.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-C15315ABB07A,2026-05-04T17:44:01+00:00,cash,35.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-1,La Tortilla de Oro,Madrid,BILL-1B7EDEC88FF2,2026-05-04T18:02:25+00:00,cash,40.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-1B7EDEC88FF2,2026-05-04T18:02:25+00:00,cash,40.1,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-1B7EDEC88FF2,2026-05-04T18:02:25+00:00,cash,40.1,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
-1,La Tortilla de Oro,Madrid,BILL-1B7EDEC88FF2,2026-05-04T18:02:25+00:00,cash,40.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-1B7EDEC88FF2,2026-05-04T18:02:25+00:00,cash,40.1,BREAD,Pan Tostado,sides,3,2.0,6.0
-1,La Tortilla de Oro,Madrid,BILL-F84EFD32A79B,2026-05-04T22:13:39+00:00,cash,48.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-F84EFD32A79B,2026-05-04T22:13:39+00:00,cash,48.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-F84EFD32A79B,2026-05-04T22:13:39+00:00,cash,48.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
-1,La Tortilla de Oro,Madrid,BILL-D5B634090B2A,2026-05-04T14:32:54+00:00,contactless,35.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-D5B634090B2A,2026-05-04T14:32:54+00:00,contactless,35.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-1,La Tortilla de Oro,Madrid,BILL-D5B634090B2A,2026-05-04T14:32:54+00:00,contactless,35.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-D5B634090B2A,2026-05-04T14:32:54+00:00,contactless,35.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-1,La Tortilla de Oro,Madrid,BILL-A2A59A06E20E,2026-05-04T19:02:58+00:00,contactless,45.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-A2A59A06E20E,2026-05-04T19:02:58+00:00,contactless,45.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
-1,La Tortilla de Oro,Madrid,BILL-1695CE37A8E0,2026-05-04T20:57:30+00:00,cash,64.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-1695CE37A8E0,2026-05-04T20:57:30+00:00,cash,64.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-1695CE37A8E0,2026-05-04T20:57:30+00:00,cash,64.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-1,La Tortilla de Oro,Madrid,BILL-4D49A34D1316,2026-05-04T13:08:27+00:00,cash,30.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-4D49A34D1316,2026-05-04T13:08:27+00:00,cash,30.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-33405C46C2A3,2026-05-04T13:57:59+00:00,card,27.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-33405C46C2A3,2026-05-04T13:57:59+00:00,card,27.7,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-0B4A2345EA20,2026-05-04T13:39:40+00:00,contactless,46.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-0B4A2345EA20,2026-05-04T13:39:40+00:00,contactless,46.5,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-0B4A2345EA20,2026-05-04T13:39:40+00:00,contactless,46.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-0B4A2345EA20,2026-05-04T13:39:40+00:00,contactless,46.5,COFFEE,Café con Leche,drinks,2,1.8,3.6
-1,La Tortilla de Oro,Madrid,BILL-A9DDFC9BCD5D,2026-05-04T14:48:58+00:00,cash,62.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-A9DDFC9BCD5D,2026-05-04T14:48:58+00:00,cash,62.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-A9DDFC9BCD5D,2026-05-04T14:48:58+00:00,cash,62.4,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
-1,La Tortilla de Oro,Madrid,BILL-A9DDFC9BCD5D,2026-05-04T14:48:58+00:00,cash,62.4,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-E8BE6F54D7A1,2026-05-04T20:34:09+00:00,cash,40.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-E8BE6F54D7A1,2026-05-04T20:34:09+00:00,cash,40.2,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-1,La Tortilla de Oro,Madrid,BILL-E8BE6F54D7A1,2026-05-04T20:34:09+00:00,cash,40.2,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-E8BE6F54D7A1,2026-05-04T20:34:09+00:00,cash,40.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-B37EDA844DD7,2026-05-04T20:14:32+00:00,cash,34.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-B37EDA844DD7,2026-05-04T20:14:32+00:00,cash,34.7,WATER,Agua Mineral,drinks,3,1.2,3.6
-1,La Tortilla de Oro,Madrid,BILL-B37EDA844DD7,2026-05-04T20:14:32+00:00,cash,34.7,WATER,Agua Mineral,drinks,3,1.2,3.6
-1,La Tortilla de Oro,Madrid,BILL-B37EDA844DD7,2026-05-04T20:14:32+00:00,cash,34.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-874EB8D0FBD0,2026-05-04T22:34:38+00:00,cash,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-3EC4C9CDEFC7,2026-05-04T12:01:09+00:00,card,53.7,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-1,La Tortilla de Oro,Madrid,BILL-3EC4C9CDEFC7,2026-05-04T12:01:09+00:00,card,53.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-3EC4C9CDEFC7,2026-05-04T12:01:09+00:00,card,53.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-3EC4C9CDEFC7,2026-05-04T12:01:09+00:00,card,53.7,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-A81AC07D07FB,2026-05-04T14:34:31+00:00,contactless,35.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-A81AC07D07FB,2026-05-04T14:34:31+00:00,contactless,35.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
-1,La Tortilla de Oro,Madrid,BILL-A81AC07D07FB,2026-05-04T14:34:31+00:00,contactless,35.4,ALIOLI,Alioli Casero,sides,1,1.5,1.5
-1,La Tortilla de Oro,Madrid,BILL-7C52F95C45A9,2026-05-04T17:11:04+00:00,card,18.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-7C52F95C45A9,2026-05-04T17:11:04+00:00,card,18.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-7C52F95C45A9,2026-05-04T17:11:04+00:00,card,18.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-E8C44A34323E,2026-05-04T18:33:34+00:00,card,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-2331100F1681,2026-05-04T16:08:55+00:00,contactless,30.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-2331100F1681,2026-05-04T16:08:55+00:00,contactless,30.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-2331100F1681,2026-05-04T16:08:55+00:00,contactless,30.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-1,La Tortilla de Oro,Madrid,BILL-8FA03BBBB085,2026-05-04T14:53:53+00:00,cash,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-81EA0363E900,2026-05-04T13:14:07+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-1081AA91ACFD,2026-05-04T11:26:17+00:00,contactless,52.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-1081AA91ACFD,2026-05-04T11:26:17+00:00,contactless,52.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-1081AA91ACFD,2026-05-04T11:26:17+00:00,contactless,52.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
-1,La Tortilla de Oro,Madrid,BILL-1081AA91ACFD,2026-05-04T11:26:17+00:00,contactless,52.8,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-1,La Tortilla de Oro,Madrid,BILL-D36C6326441B,2026-05-04T22:21:44+00:00,card,36.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-D36C6326441B,2026-05-04T22:21:44+00:00,card,36.5,BREAD,Pan Tostado,sides,3,2.0,6.0
-1,La Tortilla de Oro,Madrid,BILL-D36C6326441B,2026-05-04T22:21:44+00:00,card,36.5,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-1,La Tortilla de Oro,Madrid,BILL-85D76E85AB16,2026-05-04T14:23:53+00:00,cash,27.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-85D76E85AB16,2026-05-04T14:23:53+00:00,cash,27.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-F2182D470F6E,2026-05-04T22:34:55+00:00,cash,48.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-F2182D470F6E,2026-05-04T22:34:55+00:00,cash,48.9,BEER,Cerveza Caña,drinks,1,2.8,2.8
-1,La Tortilla de Oro,Madrid,BILL-F2182D470F6E,2026-05-04T22:34:55+00:00,cash,48.9,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
-1,La Tortilla de Oro,Madrid,BILL-F2182D470F6E,2026-05-04T22:34:55+00:00,cash,48.9,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-1,La Tortilla de Oro,Madrid,BILL-F2182D470F6E,2026-05-04T22:34:55+00:00,cash,48.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-DF7A1E31E57C,2026-05-04T12:49:11+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-E622E369586B,2026-05-04T23:02:29+00:00,card,39.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-E622E369586B,2026-05-04T23:02:29+00:00,card,39.1,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-E622E369586B,2026-05-04T23:02:29+00:00,card,39.1,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-758DD94C3D54,2026-05-04T13:00:36+00:00,cash,14.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-758DD94C3D54,2026-05-04T13:00:36+00:00,cash,14.3,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-1,La Tortilla de Oro,Madrid,BILL-758DD94C3D54,2026-05-04T13:00:36+00:00,cash,14.3,WATER,Agua Mineral,drinks,3,1.2,3.6
-1,La Tortilla de Oro,Madrid,BILL-BB68C519D7A2,2026-05-04T21:39:21+00:00,cash,68.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-BB68C519D7A2,2026-05-04T21:39:21+00:00,cash,68.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-BB68C519D7A2,2026-05-04T21:39:21+00:00,cash,68.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-BB68C519D7A2,2026-05-04T21:39:21+00:00,cash,68.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-CC1741A56646,2026-05-04T23:01:28+00:00,card,68.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-CC1741A56646,2026-05-04T23:01:28+00:00,card,68.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-CC1741A56646,2026-05-04T23:01:28+00:00,card,68.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-CC1741A56646,2026-05-04T23:01:28+00:00,card,68.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-AE6656419581,2026-05-04T14:25:05+00:00,card,15.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-1,La Tortilla de Oro,Madrid,BILL-AE6656419581,2026-05-04T14:25:05+00:00,card,15.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-D42DADC53830,2026-05-04T15:19:21+00:00,cash,34.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-1,La Tortilla de Oro,Madrid,BILL-D42DADC53830,2026-05-04T15:19:21+00:00,cash,34.7,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
-1,La Tortilla de Oro,Madrid,BILL-B8E8AFAA7708,2026-05-04T18:08:23+00:00,card,21.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-B8E8AFAA7708,2026-05-04T18:08:23+00:00,card,21.0,BREAD,Pan Tostado,sides,2,2.0,4.0
-1,La Tortilla de Oro,Madrid,BILL-7D7ABBE4842E,2026-05-04T21:52:27+00:00,contactless,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-53AA361FCBA2,2026-05-04T12:58:26+00:00,contactless,19.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-53AA361FCBA2,2026-05-04T12:58:26+00:00,contactless,19.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-53AA361FCBA2,2026-05-04T12:58:26+00:00,contactless,19.4,WATER,Agua Mineral,drinks,2,1.2,2.4
-1,La Tortilla de Oro,Madrid,BILL-411EC719800B,2026-05-04T12:53:49+00:00,card,66.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-411EC719800B,2026-05-04T12:53:49+00:00,card,66.4,BREAD,Pan Tostado,sides,1,2.0,2.0
-1,La Tortilla de Oro,Madrid,BILL-411EC719800B,2026-05-04T12:53:49+00:00,card,66.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-1,La Tortilla de Oro,Madrid,BILL-411EC719800B,2026-05-04T12:53:49+00:00,card,66.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-411EC719800B,2026-05-04T12:53:49+00:00,card,66.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
-1,La Tortilla de Oro,Madrid,BILL-C43DDDE6BE87,2026-05-04T10:40:20+00:00,cash,31.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-1,La Tortilla de Oro,Madrid,BILL-C43DDDE6BE87,2026-05-04T10:40:20+00:00,cash,31.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
-1,La Tortilla de Oro,Madrid,BILL-C43DDDE6BE87,2026-05-04T10:40:20+00:00,cash,31.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-CEC364C77D89,2026-05-04T20:54:41+00:00,card,65.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-1,La Tortilla de Oro,Madrid,BILL-CEC364C77D89,2026-05-04T20:54:41+00:00,card,65.7,COFFEE,Café con Leche,drinks,1,1.8,1.8
-1,La Tortilla de Oro,Madrid,BILL-CEC364C77D89,2026-05-04T20:54:41+00:00,card,65.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-CEC364C77D89,2026-05-04T20:54:41+00:00,card,65.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-1,La Tortilla de Oro,Madrid,BILL-CEC364C77D89,2026-05-04T20:54:41+00:00,card,65.7,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+1,La Tortilla de Oro,Madrid,BILL-43172BCFA335,2026-05-04T11:21:37+00:00,contactless,14.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-43172BCFA335,2026-05-04T11:21:37+00:00,contactless,14.5,BREAD,Pan Tostado,sides,2,2.0,4.0
+1,La Tortilla de Oro,Madrid,BILL-28DB7719E52D,2026-05-04T13:08:48+00:00,cash,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-0F49B782D28A,2026-05-04T14:44:40+00:00,cash,37.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-0F49B782D28A,2026-05-04T14:44:40+00:00,cash,37.8,WATER,Agua Mineral,drinks,1,1.2,1.2
+1,La Tortilla de Oro,Madrid,BILL-0F49B782D28A,2026-05-04T14:44:40+00:00,cash,37.8,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+1,La Tortilla de Oro,Madrid,BILL-9C0A88F73893,2026-05-04T14:15:19+00:00,card,41.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-9C0A88F73893,2026-05-04T14:15:19+00:00,card,41.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-9C0A88F73893,2026-05-04T14:15:19+00:00,card,41.8,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+1,La Tortilla de Oro,Madrid,BILL-9C0A88F73893,2026-05-04T14:15:19+00:00,card,41.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-00CAF6713F91,2026-05-04T23:00:05+00:00,card,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-00CAF6713F91,2026-05-04T23:00:05+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-84BA58517C93,2026-05-04T14:46:24+00:00,cash,68.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-84BA58517C93,2026-05-04T14:46:24+00:00,cash,68.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-84BA58517C93,2026-05-04T14:46:24+00:00,cash,68.6,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+1,La Tortilla de Oro,Madrid,BILL-84BA58517C93,2026-05-04T14:46:24+00:00,cash,68.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-84BA58517C93,2026-05-04T14:46:24+00:00,cash,68.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+1,La Tortilla de Oro,Madrid,BILL-A9C3B40B0E02,2026-05-04T13:32:35+00:00,cash,63.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-A9C3B40B0E02,2026-05-04T13:32:35+00:00,cash,63.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-A9C3B40B0E02,2026-05-04T13:32:35+00:00,cash,63.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-A9C3B40B0E02,2026-05-04T13:32:35+00:00,cash,63.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-5402FF607351,2026-05-04T13:30:28+00:00,cash,55.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-5402FF607351,2026-05-04T13:30:28+00:00,cash,55.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-5402FF607351,2026-05-04T13:30:28+00:00,cash,55.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-5402FF607351,2026-05-04T13:30:28+00:00,cash,55.4,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+1,La Tortilla de Oro,Madrid,BILL-9082A9E821B9,2026-05-04T14:06:28+00:00,card,55.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-9082A9E821B9,2026-05-04T14:06:28+00:00,card,55.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-9082A9E821B9,2026-05-04T14:06:28+00:00,card,55.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-9082A9E821B9,2026-05-04T14:06:28+00:00,card,55.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-E1F3B65CFC13,2026-05-04T15:57:36+00:00,cash,77.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-E1F3B65CFC13,2026-05-04T15:57:36+00:00,cash,77.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-E1F3B65CFC13,2026-05-04T15:57:36+00:00,cash,77.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-E1F3B65CFC13,2026-05-04T15:57:36+00:00,cash,77.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-1B74B11D5B9D,2026-05-04T22:43:31+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-1B74B11D5B9D,2026-05-04T22:43:31+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-69B385EF400F,2026-05-04T21:01:30+00:00,cash,46.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-69B385EF400F,2026-05-04T21:01:30+00:00,cash,46.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-69B385EF400F,2026-05-04T21:01:30+00:00,cash,46.6,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+1,La Tortilla de Oro,Madrid,BILL-69B385EF400F,2026-05-04T21:01:30+00:00,cash,46.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+1,La Tortilla de Oro,Madrid,BILL-671A6B7DDF9D,2026-05-04T09:01:54+00:00,card,22.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-671A6B7DDF9D,2026-05-04T09:01:54+00:00,card,22.5,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+1,La Tortilla de Oro,Madrid,BILL-B55DB34C9A9A,2026-05-04T20:38:38+00:00,cash,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-400276799588,2026-05-04T15:38:49+00:00,contactless,38.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-400276799588,2026-05-04T15:38:49+00:00,contactless,38.5,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+1,La Tortilla de Oro,Madrid,BILL-400276799588,2026-05-04T15:38:49+00:00,contactless,38.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-37F39CB64DA2,2026-05-04T19:10:21+00:00,cash,37.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-37F39CB64DA2,2026-05-04T19:10:21+00:00,cash,37.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-37F39CB64DA2,2026-05-04T19:10:21+00:00,cash,37.5,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+1,La Tortilla de Oro,Madrid,BILL-37F39CB64DA2,2026-05-04T19:10:21+00:00,cash,37.5,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+1,La Tortilla de Oro,Madrid,BILL-24A7D5062199,2026-05-04T10:12:48+00:00,contactless,74.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-24A7D5062199,2026-05-04T10:12:48+00:00,contactless,74.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-24A7D5062199,2026-05-04T10:12:48+00:00,contactless,74.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-24A7D5062199,2026-05-04T10:12:48+00:00,contactless,74.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-24A7D5062199,2026-05-04T10:12:48+00:00,contactless,74.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+1,La Tortilla de Oro,Madrid,BILL-936CDFB306B5,2026-05-04T12:34:59+00:00,cash,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-B83BC23B5C07,2026-05-04T21:45:13+00:00,card,26.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-B83BC23B5C07,2026-05-04T21:45:13+00:00,card,26.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+1,La Tortilla de Oro,Madrid,BILL-42BBD345D071,2026-05-04T14:17:05+00:00,cash,22.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-42BBD345D071,2026-05-04T14:17:05+00:00,cash,22.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+1,La Tortilla de Oro,Madrid,BILL-FD2BEE74ABAA,2026-05-04T14:23:33+00:00,card,20.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-FD2BEE74ABAA,2026-05-04T14:23:33+00:00,card,20.1,WATER,Agua Mineral,drinks,1,1.2,1.2
+1,La Tortilla de Oro,Madrid,BILL-FD2BEE74ABAA,2026-05-04T14:23:33+00:00,card,20.1,BEER,Cerveza Caña,drinks,3,2.8,8.4
+1,La Tortilla de Oro,Madrid,BILL-3745580D337B,2026-05-04T20:18:20+00:00,contactless,60.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-3745580D337B,2026-05-04T20:18:20+00:00,contactless,60.0,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+1,La Tortilla de Oro,Madrid,BILL-3745580D337B,2026-05-04T20:18:20+00:00,contactless,60.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-3745580D337B,2026-05-04T20:18:20+00:00,contactless,60.0,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+1,La Tortilla de Oro,Madrid,BILL-3745580D337B,2026-05-04T20:18:20+00:00,contactless,60.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-D09E15363C19,2026-05-04T23:51:15+00:00,cash,47.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-D09E15363C19,2026-05-04T23:51:15+00:00,cash,47.0,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+1,La Tortilla de Oro,Madrid,BILL-D09E15363C19,2026-05-04T23:51:15+00:00,cash,47.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-54D6D4E434E4,2026-05-04T14:56:55+00:00,cash,36.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-54D6D4E434E4,2026-05-04T14:56:55+00:00,cash,36.0,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+1,La Tortilla de Oro,Madrid,BILL-4A112E2A5139,2026-05-04T11:17:29+00:00,card,68.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-4A112E2A5139,2026-05-04T11:17:29+00:00,card,68.0,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+1,La Tortilla de Oro,Madrid,BILL-4A112E2A5139,2026-05-04T11:17:29+00:00,card,68.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-4A112E2A5139,2026-05-04T11:17:29+00:00,card,68.0,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+1,La Tortilla de Oro,Madrid,BILL-4A112E2A5139,2026-05-04T11:17:29+00:00,card,68.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+1,La Tortilla de Oro,Madrid,BILL-3693A3F1BC95,2026-05-04T20:23:36+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-30C808128629,2026-05-04T13:51:09+00:00,contactless,100.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-30C808128629,2026-05-04T13:51:09+00:00,contactless,100.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-30C808128629,2026-05-04T13:51:09+00:00,contactless,100.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-30C808128629,2026-05-04T13:51:09+00:00,contactless,100.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-30C808128629,2026-05-04T13:51:09+00:00,contactless,100.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-5EBE42428C72,2026-05-04T15:33:11+00:00,contactless,52.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-5EBE42428C72,2026-05-04T15:33:11+00:00,contactless,52.8,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+1,La Tortilla de Oro,Madrid,BILL-5EBE42428C72,2026-05-04T15:33:11+00:00,contactless,52.8,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+1,La Tortilla de Oro,Madrid,BILL-5EBE42428C72,2026-05-04T15:33:11+00:00,contactless,52.8,COFFEE,Café con Leche,drinks,2,1.8,3.6
+1,La Tortilla de Oro,Madrid,BILL-5EBE42428C72,2026-05-04T15:33:11+00:00,contactless,52.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-3FBF85E10A3F,2026-05-04T12:32:35+00:00,cash,82.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-3FBF85E10A3F,2026-05-04T12:32:35+00:00,cash,82.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-3FBF85E10A3F,2026-05-04T12:32:35+00:00,cash,82.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-3FBF85E10A3F,2026-05-04T12:32:35+00:00,cash,82.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-5BA561F1B54A,2026-05-04T23:46:17+00:00,card,59.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-5BA561F1B54A,2026-05-04T23:46:17+00:00,card,59.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-5BA561F1B54A,2026-05-04T23:46:17+00:00,card,59.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-5BA561F1B54A,2026-05-04T23:46:17+00:00,card,59.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-4DBC9852F941,2026-05-04T20:21:31+00:00,card,45.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-4DBC9852F941,2026-05-04T20:21:31+00:00,card,45.5,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+1,La Tortilla de Oro,Madrid,BILL-4DBC9852F941,2026-05-04T20:21:31+00:00,card,45.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-4DBC9852F941,2026-05-04T20:21:31+00:00,card,45.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-939B44F77C35,2026-05-04T12:07:12+00:00,card,56.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-939B44F77C35,2026-05-04T12:07:12+00:00,card,56.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-939B44F77C35,2026-05-04T12:07:12+00:00,card,56.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+1,La Tortilla de Oro,Madrid,BILL-939B44F77C35,2026-05-04T12:07:12+00:00,card,56.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-9A56299BDACD,2026-05-04T15:32:39+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-B3AFA16AA62C,2026-05-04T13:45:10+00:00,card,36.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-B3AFA16AA62C,2026-05-04T13:45:10+00:00,card,36.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-B3AFA16AA62C,2026-05-04T13:45:10+00:00,card,36.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+1,La Tortilla de Oro,Madrid,BILL-B3AFA16AA62C,2026-05-04T13:45:10+00:00,card,36.9,BREAD,Pan Tostado,sides,3,2.0,6.0
+1,La Tortilla de Oro,Madrid,BILL-64AAFED8FC88,2026-05-04T11:25:17+00:00,contactless,36.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-64AAFED8FC88,2026-05-04T11:25:17+00:00,contactless,36.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-773BB02E5DF7,2026-05-04T20:36:32+00:00,card,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-36DD94C448E3,2026-05-04T13:16:11+00:00,card,54.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-36DD94C448E3,2026-05-04T13:16:11+00:00,card,54.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-36DD94C448E3,2026-05-04T13:16:11+00:00,card,54.9,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+1,La Tortilla de Oro,Madrid,BILL-36DD94C448E3,2026-05-04T13:16:11+00:00,card,54.9,BREAD,Pan Tostado,sides,3,2.0,6.0
+1,La Tortilla de Oro,Madrid,BILL-36DD94C448E3,2026-05-04T13:16:11+00:00,card,54.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-C1028D8AAAB7,2026-05-04T19:46:25+00:00,contactless,40.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-C1028D8AAAB7,2026-05-04T19:46:25+00:00,contactless,40.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-69FC46A50AB6,2026-05-04T17:07:08+00:00,cash,29.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-69FC46A50AB6,2026-05-04T17:07:08+00:00,cash,29.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-69FC46A50AB6,2026-05-04T17:07:08+00:00,cash,29.8,BEER,Cerveza Caña,drinks,2,2.8,5.6
+1,La Tortilla de Oro,Madrid,BILL-69FC46A50AB6,2026-05-04T17:07:08+00:00,cash,29.8,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+1,La Tortilla de Oro,Madrid,BILL-61BE9C9B24EA,2026-05-04T19:15:07+00:00,cash,81.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-61BE9C9B24EA,2026-05-04T19:15:07+00:00,cash,81.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-61BE9C9B24EA,2026-05-04T19:15:07+00:00,cash,81.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+1,La Tortilla de Oro,Madrid,BILL-61BE9C9B24EA,2026-05-04T19:15:07+00:00,cash,81.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-61BE9C9B24EA,2026-05-04T19:15:07+00:00,cash,81.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-2B6ABD524D61,2026-05-04T16:05:52+00:00,cash,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-2B6ABD524D61,2026-05-04T16:05:52+00:00,cash,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-4C3F7A19393D,2026-05-04T15:06:46+00:00,contactless,32.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-4C3F7A19393D,2026-05-04T15:06:46+00:00,contactless,32.5,WATER,Agua Mineral,drinks,3,1.2,3.6
+1,La Tortilla de Oro,Madrid,BILL-4C3F7A19393D,2026-05-04T15:06:46+00:00,contactless,32.5,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-4C3F7A19393D,2026-05-04T15:06:46+00:00,contactless,32.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+1,La Tortilla de Oro,Madrid,BILL-4C3F7A19393D,2026-05-04T15:06:46+00:00,contactless,32.5,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-458689E8EFA6,2026-05-04T21:21:39+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-A08FB7972903,2026-05-04T15:36:08+00:00,card,76.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-A08FB7972903,2026-05-04T15:36:08+00:00,card,76.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-A08FB7972903,2026-05-04T15:36:08+00:00,card,76.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-A08FB7972903,2026-05-04T15:36:08+00:00,card,76.0,BREAD,Pan Tostado,sides,1,2.0,2.0
+1,La Tortilla de Oro,Madrid,BILL-88CEDCBB73D4,2026-05-04T15:13:19+00:00,contactless,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-D1A02555B4E7,2026-05-04T14:51:50+00:00,contactless,53.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-D1A02555B4E7,2026-05-04T14:51:50+00:00,contactless,53.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+1,La Tortilla de Oro,Madrid,BILL-D1A02555B4E7,2026-05-04T14:51:50+00:00,contactless,53.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-D1A02555B4E7,2026-05-04T14:51:50+00:00,contactless,53.9,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+1,La Tortilla de Oro,Madrid,BILL-D1A02555B4E7,2026-05-04T14:51:50+00:00,contactless,53.9,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+1,La Tortilla de Oro,Madrid,BILL-2D20527BDC10,2026-05-04T20:41:29+00:00,cash,66.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-2D20527BDC10,2026-05-04T20:41:29+00:00,cash,66.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-2D20527BDC10,2026-05-04T20:41:29+00:00,cash,66.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
+1,La Tortilla de Oro,Madrid,BILL-2D20527BDC10,2026-05-04T20:41:29+00:00,cash,66.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-303DD529543D,2026-05-04T21:25:36+00:00,card,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-076537B35F9C,2026-05-04T15:38:56+00:00,card,81.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-076537B35F9C,2026-05-04T15:38:56+00:00,card,81.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-076537B35F9C,2026-05-04T15:38:56+00:00,card,81.9,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+1,La Tortilla de Oro,Madrid,BILL-076537B35F9C,2026-05-04T15:38:56+00:00,card,81.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-8CB96F48EE81,2026-05-04T20:19:38+00:00,card,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-FAFBFFF27C37,2026-05-04T08:39:22+00:00,card,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-9B62570BD8C1,2026-05-04T21:01:44+00:00,contactless,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-8656972E0507,2026-05-04T13:17:44+00:00,contactless,39.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-8656972E0507,2026-05-04T13:17:44+00:00,contactless,39.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+1,La Tortilla de Oro,Madrid,BILL-8656972E0507,2026-05-04T13:17:44+00:00,contactless,39.6,BREAD,Pan Tostado,sides,1,2.0,2.0
+1,La Tortilla de Oro,Madrid,BILL-8656972E0507,2026-05-04T13:17:44+00:00,contactless,39.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-8656972E0507,2026-05-04T13:17:44+00:00,contactless,39.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-D21096ACEFC5,2026-05-04T17:32:49+00:00,card,46.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-D21096ACEFC5,2026-05-04T17:32:49+00:00,card,46.8,BREAD,Pan Tostado,sides,2,2.0,4.0
+1,La Tortilla de Oro,Madrid,BILL-D21096ACEFC5,2026-05-04T17:32:49+00:00,card,46.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-D21096ACEFC5,2026-05-04T17:32:49+00:00,card,46.8,BREAD,Pan Tostado,sides,1,2.0,2.0
+1,La Tortilla de Oro,Madrid,BILL-D21096ACEFC5,2026-05-04T17:32:49+00:00,card,46.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-BF3A93A55A5F,2026-05-04T20:42:52+00:00,contactless,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-55F7596AC0DC,2026-05-04T20:01:57+00:00,cash,53.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-55F7596AC0DC,2026-05-04T20:01:57+00:00,cash,53.9,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+1,La Tortilla de Oro,Madrid,BILL-55F7596AC0DC,2026-05-04T20:01:57+00:00,cash,53.9,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+1,La Tortilla de Oro,Madrid,BILL-55F7596AC0DC,2026-05-04T20:01:57+00:00,cash,53.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-55F7596AC0DC,2026-05-04T20:01:57+00:00,cash,53.9,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-09860B2F9CF1,2026-05-04T22:30:01+00:00,card,50.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-09860B2F9CF1,2026-05-04T22:30:01+00:00,card,50.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-09860B2F9CF1,2026-05-04T22:30:01+00:00,card,50.3,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-09860B2F9CF1,2026-05-04T22:30:01+00:00,card,50.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-09860B2F9CF1,2026-05-04T22:30:01+00:00,card,50.3,WATER,Agua Mineral,drinks,1,1.2,1.2
+1,La Tortilla de Oro,Madrid,BILL-72883B32CE98,2026-05-04T11:35:11+00:00,card,84.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-72883B32CE98,2026-05-04T11:35:11+00:00,card,84.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-72883B32CE98,2026-05-04T11:35:11+00:00,card,84.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-72883B32CE98,2026-05-04T11:35:11+00:00,card,84.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-72883B32CE98,2026-05-04T11:35:11+00:00,card,84.0,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+1,La Tortilla de Oro,Madrid,BILL-45432D0E173C,2026-05-04T23:01:25+00:00,card,31.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-45432D0E173C,2026-05-04T23:01:25+00:00,card,31.0,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+1,La Tortilla de Oro,Madrid,BILL-45432D0E173C,2026-05-04T23:01:25+00:00,card,31.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-ECD418C7BC01,2026-05-04T14:58:49+00:00,contactless,42.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-ECD418C7BC01,2026-05-04T14:58:49+00:00,contactless,42.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
+1,La Tortilla de Oro,Madrid,BILL-ECD418C7BC01,2026-05-04T14:58:49+00:00,contactless,42.1,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+1,La Tortilla de Oro,Madrid,BILL-3900329B7C1B,2026-05-04T20:11:29+00:00,card,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-98432BDA6C4C,2026-05-04T14:26:33+00:00,contactless,18.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-98432BDA6C4C,2026-05-04T14:26:33+00:00,contactless,18.2,WATER,Agua Mineral,drinks,1,1.2,1.2
+1,La Tortilla de Oro,Madrid,BILL-4FB2408B783A,2026-05-04T13:59:23+00:00,cash,55.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-4FB2408B783A,2026-05-04T13:59:23+00:00,cash,55.8,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+1,La Tortilla de Oro,Madrid,BILL-4FB2408B783A,2026-05-04T13:59:23+00:00,cash,55.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-4FB2408B783A,2026-05-04T13:59:23+00:00,cash,55.8,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+1,La Tortilla de Oro,Madrid,BILL-4FB2408B783A,2026-05-04T13:59:23+00:00,cash,55.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-F5D0CB31C685,2026-05-04T11:10:17+00:00,contactless,82.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-F5D0CB31C685,2026-05-04T11:10:17+00:00,contactless,82.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-F5D0CB31C685,2026-05-04T11:10:17+00:00,contactless,82.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-6DA911B5ED6E,2026-05-04T12:44:16+00:00,card,51.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-6DA911B5ED6E,2026-05-04T12:44:16+00:00,card,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-D02B63DCE0FD,2026-05-04T19:18:55+00:00,card,77.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-D02B63DCE0FD,2026-05-04T19:18:55+00:00,card,77.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-D02B63DCE0FD,2026-05-04T19:18:55+00:00,card,77.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-D02B63DCE0FD,2026-05-04T19:18:55+00:00,card,77.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+1,La Tortilla de Oro,Madrid,BILL-8733D892CE91,2026-05-04T21:18:36+00:00,card,59.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-8733D892CE91,2026-05-04T21:18:36+00:00,card,59.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-8733D892CE91,2026-05-04T21:18:36+00:00,card,59.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-7658D4A1ED4D,2026-05-04T12:11:17+00:00,card,82.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-7658D4A1ED4D,2026-05-04T12:11:17+00:00,card,82.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-7658D4A1ED4D,2026-05-04T12:11:17+00:00,card,82.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-7658D4A1ED4D,2026-05-04T12:11:17+00:00,card,82.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-3478C2E36501,2026-05-04T13:15:26+00:00,contactless,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-3478C2E36501,2026-05-04T13:15:26+00:00,contactless,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-3478C2E36501,2026-05-04T13:15:26+00:00,contactless,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-F9DFBAF1260C,2026-05-04T11:32:05+00:00,contactless,47.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-F9DFBAF1260C,2026-05-04T11:32:05+00:00,contactless,47.8,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+1,La Tortilla de Oro,Madrid,BILL-F9DFBAF1260C,2026-05-04T11:32:05+00:00,contactless,47.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-F9DFBAF1260C,2026-05-04T11:32:05+00:00,contactless,47.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-F9DFBAF1260C,2026-05-04T11:32:05+00:00,contactless,47.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-0A0CD8B31CC8,2026-05-04T09:41:23+00:00,cash,33.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-0A0CD8B31CC8,2026-05-04T09:41:23+00:00,cash,33.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+1,La Tortilla de Oro,Madrid,BILL-C35D87AE632D,2026-05-04T09:13:11+00:00,cash,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-B35CFBE5D248,2026-05-04T22:52:22+00:00,cash,54.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-B35CFBE5D248,2026-05-04T22:52:22+00:00,cash,54.1,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+1,La Tortilla de Oro,Madrid,BILL-B35CFBE5D248,2026-05-04T22:52:22+00:00,cash,54.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-B35CFBE5D248,2026-05-04T22:52:22+00:00,cash,54.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-512EBAA3601E,2026-05-04T21:42:15+00:00,contactless,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-222D1E5CA5FF,2026-05-04T23:29:33+00:00,card,70.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-222D1E5CA5FF,2026-05-04T23:29:33+00:00,card,70.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-222D1E5CA5FF,2026-05-04T23:29:33+00:00,card,70.0,BREAD,Pan Tostado,sides,1,2.0,2.0
+1,La Tortilla de Oro,Madrid,BILL-222D1E5CA5FF,2026-05-04T23:29:33+00:00,card,70.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-222D1E5CA5FF,2026-05-04T23:29:33+00:00,card,70.0,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+1,La Tortilla de Oro,Madrid,BILL-B1A44A1FA829,2026-05-04T09:41:24+00:00,card,60.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-B1A44A1FA829,2026-05-04T09:41:24+00:00,card,60.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-B1A44A1FA829,2026-05-04T09:41:24+00:00,card,60.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-B1A44A1FA829,2026-05-04T09:41:24+00:00,card,60.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-B1A44A1FA829,2026-05-04T09:41:24+00:00,card,60.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-493749CF57C9,2026-05-04T13:15:16+00:00,card,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-2815B6DE2404,2026-05-04T20:27:07+00:00,card,52.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-2815B6DE2404,2026-05-04T20:27:07+00:00,card,52.4,COFFEE,Café con Leche,drinks,2,1.8,3.6
+1,La Tortilla de Oro,Madrid,BILL-2815B6DE2404,2026-05-04T20:27:07+00:00,card,52.4,WATER,Agua Mineral,drinks,2,1.2,2.4
+1,La Tortilla de Oro,Madrid,BILL-2815B6DE2404,2026-05-04T20:27:07+00:00,card,52.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-2815B6DE2404,2026-05-04T20:27:07+00:00,card,52.4,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+1,La Tortilla de Oro,Madrid,BILL-7B033BF6C125,2026-05-04T13:00:52+00:00,card,28.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-7B033BF6C125,2026-05-04T13:00:52+00:00,card,28.4,WATER,Agua Mineral,drinks,2,1.2,2.4
+1,La Tortilla de Oro,Madrid,BILL-7B033BF6C125,2026-05-04T13:00:52+00:00,card,28.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-147AA269D3F4,2026-05-04T11:25:29+00:00,contactless,56.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-147AA269D3F4,2026-05-04T11:25:29+00:00,contactless,56.2,WATER,Agua Mineral,drinks,3,1.2,3.6
+1,La Tortilla de Oro,Madrid,BILL-147AA269D3F4,2026-05-04T11:25:29+00:00,contactless,56.2,WATER,Agua Mineral,drinks,3,1.2,3.6
+1,La Tortilla de Oro,Madrid,BILL-147AA269D3F4,2026-05-04T11:25:29+00:00,contactless,56.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-147AA269D3F4,2026-05-04T11:25:29+00:00,contactless,56.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-50371DC3BDBD,2026-05-04T23:38:40+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-2157E590D0C9,2026-05-04T11:33:01+00:00,card,29.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-2157E590D0C9,2026-05-04T11:33:01+00:00,card,29.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-2157E590D0C9,2026-05-04T11:33:01+00:00,card,29.8,COFFEE,Café con Leche,drinks,3,1.8,5.4
+1,La Tortilla de Oro,Madrid,BILL-2157E590D0C9,2026-05-04T11:33:01+00:00,card,29.8,COFFEE,Café con Leche,drinks,3,1.8,5.4
+1,La Tortilla de Oro,Madrid,BILL-9021136B1170,2026-05-04T23:50:59+00:00,contactless,48.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-9021136B1170,2026-05-04T23:50:59+00:00,contactless,48.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-711ADF6267F9,2026-05-04T14:44:49+00:00,contactless,66.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-711ADF6267F9,2026-05-04T14:44:49+00:00,contactless,66.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-711ADF6267F9,2026-05-04T14:44:49+00:00,contactless,66.5,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+1,La Tortilla de Oro,Madrid,BILL-711ADF6267F9,2026-05-04T14:44:49+00:00,contactless,66.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-711ADF6267F9,2026-05-04T14:44:49+00:00,contactless,66.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-83F0DAEEE033,2026-05-04T15:00:56+00:00,contactless,29.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-83F0DAEEE033,2026-05-04T15:00:56+00:00,contactless,29.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+1,La Tortilla de Oro,Madrid,BILL-531184173B9D,2026-05-04T13:10:53+00:00,contactless,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-0BF628316EE4,2026-05-04T18:59:00+00:00,cash,31.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-0BF628316EE4,2026-05-04T18:59:00+00:00,cash,31.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-0BF628316EE4,2026-05-04T18:59:00+00:00,cash,31.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+1,La Tortilla de Oro,Madrid,BILL-30B4E15B9DC1,2026-05-04T18:41:30+00:00,card,33.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-30B4E15B9DC1,2026-05-04T18:41:30+00:00,card,33.0,BREAD,Pan Tostado,sides,3,2.0,6.0
+1,La Tortilla de Oro,Madrid,BILL-D94F6EC5918E,2026-05-04T13:53:43+00:00,card,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-CEBADCCAA5BB,2026-05-04T12:58:52+00:00,card,33.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-CEBADCCAA5BB,2026-05-04T12:58:52+00:00,card,33.2,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+1,La Tortilla de Oro,Madrid,BILL-CEBADCCAA5BB,2026-05-04T12:58:52+00:00,card,33.2,WATER,Agua Mineral,drinks,3,1.2,3.6
+1,La Tortilla de Oro,Madrid,BILL-CEBADCCAA5BB,2026-05-04T12:58:52+00:00,card,33.2,COFFEE,Café con Leche,drinks,2,1.8,3.6
+1,La Tortilla de Oro,Madrid,BILL-CEBADCCAA5BB,2026-05-04T12:58:52+00:00,card,33.2,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+1,La Tortilla de Oro,Madrid,BILL-4C88D0777429,2026-05-04T22:11:31+00:00,card,93.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-4C88D0777429,2026-05-04T22:11:31+00:00,card,93.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-4C88D0777429,2026-05-04T22:11:31+00:00,card,93.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-4C88D0777429,2026-05-04T22:11:31+00:00,card,93.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-2DDC4FD4ADE0,2026-05-04T22:37:16+00:00,cash,44.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-2DDC4FD4ADE0,2026-05-04T22:37:16+00:00,cash,44.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-2DDC4FD4ADE0,2026-05-04T22:37:16+00:00,cash,44.4,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-2DDC4FD4ADE0,2026-05-04T22:37:16+00:00,cash,44.4,COFFEE,Café con Leche,drinks,1,1.8,1.8
+1,La Tortilla de Oro,Madrid,BILL-A62BAE5A6257,2026-05-04T21:42:47+00:00,cash,26.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-A62BAE5A6257,2026-05-04T21:42:47+00:00,cash,26.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-7F1315AC13FF,2026-05-04T11:31:30+00:00,cash,39.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-7F1315AC13FF,2026-05-04T11:31:30+00:00,cash,39.9,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+1,La Tortilla de Oro,Madrid,BILL-7F1315AC13FF,2026-05-04T11:31:30+00:00,cash,39.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+1,La Tortilla de Oro,Madrid,BILL-FBFB82E36E58,2026-05-04T10:29:55+00:00,card,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-1E4CFEF806F2,2026-05-04T12:52:19+00:00,contactless,24.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-1E4CFEF806F2,2026-05-04T12:52:19+00:00,contactless,24.5,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+1,La Tortilla de Oro,Madrid,BILL-1E8B0AB94267,2026-05-04T13:17:46+00:00,cash,65.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-1E8B0AB94267,2026-05-04T13:17:46+00:00,cash,65.4,WATER,Agua Mineral,drinks,3,1.2,3.6
+1,La Tortilla de Oro,Madrid,BILL-1E8B0AB94267,2026-05-04T13:17:46+00:00,cash,65.4,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-1E8B0AB94267,2026-05-04T13:17:46+00:00,cash,65.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-1E8B0AB94267,2026-05-04T13:17:46+00:00,cash,65.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-2D35B8AB4659,2026-05-04T11:06:16+00:00,cash,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-9B6D2CCA4ADA,2026-05-04T12:58:46+00:00,cash,43.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-9B6D2CCA4ADA,2026-05-04T12:58:46+00:00,cash,43.0,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+1,La Tortilla de Oro,Madrid,BILL-9B6D2CCA4ADA,2026-05-04T12:58:46+00:00,cash,43.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-9B6D2CCA4ADA,2026-05-04T12:58:46+00:00,cash,43.0,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+1,La Tortilla de Oro,Madrid,BILL-650D0B772E83,2026-05-04T18:58:08+00:00,card,55.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-650D0B772E83,2026-05-04T18:58:08+00:00,card,55.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-650D0B772E83,2026-05-04T18:58:08+00:00,card,55.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-AA70F0DF76D2,2026-05-04T22:10:13+00:00,card,57.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-AA70F0DF76D2,2026-05-04T22:10:13+00:00,card,57.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-AA70F0DF76D2,2026-05-04T22:10:13+00:00,card,57.2,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+1,La Tortilla de Oro,Madrid,BILL-AA70F0DF76D2,2026-05-04T22:10:13+00:00,card,57.2,WATER,Agua Mineral,drinks,1,1.2,1.2
+1,La Tortilla de Oro,Madrid,BILL-AA70F0DF76D2,2026-05-04T22:10:13+00:00,card,57.2,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+1,La Tortilla de Oro,Madrid,BILL-84712236D033,2026-05-04T20:36:01+00:00,cash,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-84712236D033,2026-05-04T20:36:01+00:00,cash,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-E79E226AB250,2026-05-04T16:20:29+00:00,cash,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-B5C8A009749F,2026-05-04T23:53:31+00:00,cash,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-B5C8A009749F,2026-05-04T23:53:31+00:00,cash,42.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-B5C8A009749F,2026-05-04T23:53:31+00:00,cash,42.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-14A0D0DBC42F,2026-05-04T13:45:26+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-F982E39E529A,2026-05-04T14:01:54+00:00,contactless,63.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-F982E39E529A,2026-05-04T14:01:54+00:00,contactless,63.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-F982E39E529A,2026-05-04T14:01:54+00:00,contactless,63.0,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+1,La Tortilla de Oro,Madrid,BILL-97CFAD971AE5,2026-05-04T14:59:37+00:00,contactless,44.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-97CFAD971AE5,2026-05-04T14:59:37+00:00,contactless,44.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-97CFAD971AE5,2026-05-04T14:59:37+00:00,contactless,44.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-592C957EC4D8,2026-05-04T11:05:27+00:00,contactless,30.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-592C957EC4D8,2026-05-04T11:05:27+00:00,contactless,30.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+1,La Tortilla de Oro,Madrid,BILL-A27C638C635E,2026-05-04T22:03:27+00:00,card,29.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-A27C638C635E,2026-05-04T22:03:27+00:00,card,29.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+1,La Tortilla de Oro,Madrid,BILL-0F6B1C5E68EC,2026-05-04T15:34:06+00:00,contactless,65.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-0F6B1C5E68EC,2026-05-04T15:34:06+00:00,contactless,65.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-0F6B1C5E68EC,2026-05-04T15:34:06+00:00,contactless,65.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-0F6B1C5E68EC,2026-05-04T15:34:06+00:00,contactless,65.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-0F6B1C5E68EC,2026-05-04T15:34:06+00:00,contactless,65.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+1,La Tortilla de Oro,Madrid,BILL-1595CC36A242,2026-05-04T14:47:49+00:00,contactless,59.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-1595CC36A242,2026-05-04T14:47:49+00:00,contactless,59.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-1595CC36A242,2026-05-04T14:47:49+00:00,contactless,59.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-1595CC36A242,2026-05-04T14:47:49+00:00,contactless,59.4,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+1,La Tortilla de Oro,Madrid,BILL-B58A00E1B319,2026-05-04T15:00:03+00:00,contactless,49.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-B58A00E1B319,2026-05-04T15:00:03+00:00,contactless,49.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-B58A00E1B319,2026-05-04T15:00:03+00:00,contactless,49.2,BEER,Cerveza Caña,drinks,2,2.8,5.6
+1,La Tortilla de Oro,Madrid,BILL-B58A00E1B319,2026-05-04T15:00:03+00:00,contactless,49.2,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+1,La Tortilla de Oro,Madrid,BILL-A06C3D6208EC,2026-05-04T22:22:25+00:00,card,37.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-A06C3D6208EC,2026-05-04T22:22:25+00:00,card,37.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-A06C3D6208EC,2026-05-04T22:22:25+00:00,card,37.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-A06C3D6208EC,2026-05-04T22:22:25+00:00,card,37.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+1,La Tortilla de Oro,Madrid,BILL-303140FE6703,2026-05-04T11:37:14+00:00,contactless,43.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-303140FE6703,2026-05-04T11:37:14+00:00,contactless,43.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-303140FE6703,2026-05-04T11:37:14+00:00,contactless,43.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-970647A6F744,2026-05-04T12:50:47+00:00,cash,70.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-970647A6F744,2026-05-04T12:50:47+00:00,cash,70.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-970647A6F744,2026-05-04T12:50:47+00:00,cash,70.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-970647A6F744,2026-05-04T12:50:47+00:00,cash,70.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+1,La Tortilla de Oro,Madrid,BILL-F4A20A277750,2026-05-04T16:24:11+00:00,card,50.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-F4A20A277750,2026-05-04T16:24:11+00:00,card,50.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-F4A20A277750,2026-05-04T16:24:11+00:00,card,50.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-F4A20A277750,2026-05-04T16:24:11+00:00,card,50.6,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+1,La Tortilla de Oro,Madrid,BILL-F4A20A277750,2026-05-04T16:24:11+00:00,card,50.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+1,La Tortilla de Oro,Madrid,BILL-81BAE2FEB43B,2026-05-04T23:45:05+00:00,cash,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-FA9855E4BB6E,2026-05-04T13:45:18+00:00,cash,34.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-FA9855E4BB6E,2026-05-04T13:45:18+00:00,cash,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-FD188C4C513A,2026-05-04T18:28:20+00:00,contactless,56.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-FD188C4C513A,2026-05-04T18:28:20+00:00,contactless,56.3,BREAD,Pan Tostado,sides,1,2.0,2.0
+1,La Tortilla de Oro,Madrid,BILL-FD188C4C513A,2026-05-04T18:28:20+00:00,contactless,56.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-FD188C4C513A,2026-05-04T18:28:20+00:00,contactless,56.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+1,La Tortilla de Oro,Madrid,BILL-0A540C52F8A3,2026-05-04T14:06:55+00:00,contactless,46.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-0A540C52F8A3,2026-05-04T14:06:55+00:00,contactless,46.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+1,La Tortilla de Oro,Madrid,BILL-0A540C52F8A3,2026-05-04T14:06:55+00:00,contactless,46.6,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+1,La Tortilla de Oro,Madrid,BILL-0A540C52F8A3,2026-05-04T14:06:55+00:00,contactless,46.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-4DD4198BABE8,2026-05-04T20:57:57+00:00,contactless,59.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-4DD4198BABE8,2026-05-04T20:57:57+00:00,contactless,59.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-4DD4198BABE8,2026-05-04T20:57:57+00:00,contactless,59.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-F31183725EA6,2026-05-04T14:35:28+00:00,contactless,11.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-F31183725EA6,2026-05-04T14:35:28+00:00,contactless,11.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+1,La Tortilla de Oro,Madrid,BILL-4B034AE694CC,2026-05-04T11:07:36+00:00,card,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-7E0E3F33D89B,2026-05-04T19:44:43+00:00,cash,71.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-7E0E3F33D89B,2026-05-04T19:44:43+00:00,cash,71.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-7E0E3F33D89B,2026-05-04T19:44:43+00:00,cash,71.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-7E0E3F33D89B,2026-05-04T19:44:43+00:00,cash,71.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-7E0E3F33D89B,2026-05-04T19:44:43+00:00,cash,71.5,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+1,La Tortilla de Oro,Madrid,BILL-7E8AE1D0389E,2026-05-04T12:18:10+00:00,card,16.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-7E8AE1D0389E,2026-05-04T12:18:10+00:00,card,16.5,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+1,La Tortilla de Oro,Madrid,BILL-D653C75DADBD,2026-05-04T20:36:20+00:00,contactless,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-A2C48B531D17,2026-05-04T20:39:53+00:00,contactless,28.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-A2C48B531D17,2026-05-04T20:39:53+00:00,contactless,28.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-8788CB9880A4,2026-05-04T23:26:14+00:00,card,26.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-8788CB9880A4,2026-05-04T23:26:14+00:00,card,26.4,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-8788CB9880A4,2026-05-04T23:26:14+00:00,card,26.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+1,La Tortilla de Oro,Madrid,BILL-8788CB9880A4,2026-05-04T23:26:14+00:00,card,26.4,WATER,Agua Mineral,drinks,1,1.2,1.2
+1,La Tortilla de Oro,Madrid,BILL-4C67555339EA,2026-05-04T13:15:21+00:00,card,29.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-4C67555339EA,2026-05-04T13:15:21+00:00,card,29.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-9BD22297D6FA,2026-05-04T15:56:18+00:00,contactless,29.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-9BD22297D6FA,2026-05-04T15:56:18+00:00,contactless,29.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+1,La Tortilla de Oro,Madrid,BILL-9BD22297D6FA,2026-05-04T15:56:18+00:00,contactless,29.8,COFFEE,Café con Leche,drinks,2,1.8,3.6
+1,La Tortilla de Oro,Madrid,BILL-9BD22297D6FA,2026-05-04T15:56:18+00:00,contactless,29.8,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+1,La Tortilla de Oro,Madrid,BILL-CCA2E875690A,2026-05-04T20:42:13+00:00,card,68.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-CCA2E875690A,2026-05-04T20:42:13+00:00,card,68.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-CCA2E875690A,2026-05-04T20:42:13+00:00,card,68.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-647885C2F9DC,2026-05-04T20:44:09+00:00,contactless,88.7,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+1,La Tortilla de Oro,Madrid,BILL-647885C2F9DC,2026-05-04T20:44:09+00:00,contactless,88.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-647885C2F9DC,2026-05-04T20:44:09+00:00,contactless,88.7,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+1,La Tortilla de Oro,Madrid,BILL-647885C2F9DC,2026-05-04T20:44:09+00:00,contactless,88.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-647885C2F9DC,2026-05-04T20:44:09+00:00,contactless,88.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-F8331342E665,2026-05-04T14:40:59+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-189BC90972AE,2026-05-04T21:25:37+00:00,card,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-F7196DCC08C1,2026-05-04T11:39:35+00:00,contactless,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-02F2F0D26B9F,2026-05-04T12:06:37+00:00,contactless,26.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-02F2F0D26B9F,2026-05-04T12:06:37+00:00,contactless,26.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-E18EA3E71E88,2026-05-04T15:59:33+00:00,cash,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-5ABC6827C92D,2026-05-04T21:02:15+00:00,contactless,24.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-5ABC6827C92D,2026-05-04T21:02:15+00:00,contactless,24.6,BREAD,Pan Tostado,sides,2,2.0,4.0
+1,La Tortilla de Oro,Madrid,BILL-5ABC6827C92D,2026-05-04T21:02:15+00:00,contactless,24.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+1,La Tortilla de Oro,Madrid,BILL-AAA63B92B38B,2026-05-04T10:56:07+00:00,contactless,48.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-AAA63B92B38B,2026-05-04T10:56:07+00:00,contactless,48.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-AAA63B92B38B,2026-05-04T10:56:07+00:00,contactless,48.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-AAA63B92B38B,2026-05-04T10:56:07+00:00,contactless,48.0,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+1,La Tortilla de Oro,Madrid,BILL-ED7DC8EEA84A,2026-05-04T14:04:11+00:00,card,53.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-ED7DC8EEA84A,2026-05-04T14:04:11+00:00,card,53.0,BREAD,Pan Tostado,sides,1,2.0,2.0
+1,La Tortilla de Oro,Madrid,BILL-ED7DC8EEA84A,2026-05-04T14:04:11+00:00,card,53.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-D77FB809C4C1,2026-05-04T11:02:10+00:00,contactless,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-DA0671DB84FC,2026-05-04T09:27:41+00:00,cash,46.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-DA0671DB84FC,2026-05-04T09:27:41+00:00,cash,46.1,WATER,Agua Mineral,drinks,3,1.2,3.6
+1,La Tortilla de Oro,Madrid,BILL-DA0671DB84FC,2026-05-04T09:27:41+00:00,cash,46.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-DA0671DB84FC,2026-05-04T09:27:41+00:00,cash,46.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-3A874B4636E9,2026-05-04T12:41:36+00:00,cash,25.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+1,La Tortilla de Oro,Madrid,BILL-3A874B4636E9,2026-05-04T12:41:36+00:00,cash,25.4,COFFEE,Café con Leche,drinks,1,1.8,1.8
+1,La Tortilla de Oro,Madrid,BILL-3A874B4636E9,2026-05-04T12:41:36+00:00,cash,25.4,BEER,Cerveza Caña,drinks,2,2.8,5.6
+1,La Tortilla de Oro,Madrid,BILL-3A874B4636E9,2026-05-04T12:41:36+00:00,cash,25.4,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+1,La Tortilla de Oro,Madrid,BILL-48199A531183,2026-05-04T21:10:41+00:00,cash,52.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-48199A531183,2026-05-04T21:10:41+00:00,cash,52.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-48199A531183,2026-05-04T21:10:41+00:00,cash,52.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+1,La Tortilla de Oro,Madrid,BILL-48199A531183,2026-05-04T21:10:41+00:00,cash,52.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-9F97C18B50B4,2026-05-04T19:30:59+00:00,contactless,74.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-9F97C18B50B4,2026-05-04T19:30:59+00:00,contactless,74.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-9F97C18B50B4,2026-05-04T19:30:59+00:00,contactless,74.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-9F97C18B50B4,2026-05-04T19:30:59+00:00,contactless,74.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-2096133447C5,2026-05-04T18:51:57+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-D8CB3E7D0550,2026-05-04T21:59:25+00:00,contactless,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-1CA2993CC38C,2026-05-04T14:09:14+00:00,contactless,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-1CA2993CC38C,2026-05-04T14:09:14+00:00,contactless,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-1F22F7158C2D,2026-05-04T14:59:38+00:00,contactless,89.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-1F22F7158C2D,2026-05-04T14:59:38+00:00,contactless,89.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-1F22F7158C2D,2026-05-04T14:59:38+00:00,contactless,89.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-1F22F7158C2D,2026-05-04T14:59:38+00:00,contactless,89.7,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+1,La Tortilla de Oro,Madrid,BILL-1F22F7158C2D,2026-05-04T14:59:38+00:00,contactless,89.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+1,La Tortilla de Oro,Madrid,BILL-D2731E60EB60,2026-05-04T13:35:32+00:00,card,69.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-D2731E60EB60,2026-05-04T13:35:32+00:00,card,69.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-D2731E60EB60,2026-05-04T13:35:32+00:00,card,69.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-D2731E60EB60,2026-05-04T13:35:32+00:00,card,69.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-D2731E60EB60,2026-05-04T13:35:32+00:00,card,69.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
+1,La Tortilla de Oro,Madrid,BILL-B15C7CC57AFF,2026-05-04T14:13:56+00:00,card,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-DB025A8F46BA,2026-05-04T16:52:23+00:00,card,20.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+1,La Tortilla de Oro,Madrid,BILL-DB025A8F46BA,2026-05-04T16:52:23+00:00,card,20.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+1,La Tortilla de Oro,Madrid,BILL-DB025A8F46BA,2026-05-04T16:52:23+00:00,card,20.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-5881F93AFB1B,2026-05-04T15:14:24+00:00,cash,20.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-5881F93AFB1B,2026-05-04T15:14:24+00:00,cash,20.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+1,La Tortilla de Oro,Madrid,BILL-768B64447BE5,2026-05-04T23:42:01+00:00,card,57.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-768B64447BE5,2026-05-04T23:42:01+00:00,card,57.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+1,La Tortilla de Oro,Madrid,BILL-768B64447BE5,2026-05-04T23:42:01+00:00,card,57.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-768B64447BE5,2026-05-04T23:42:01+00:00,card,57.6,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+1,La Tortilla de Oro,Madrid,BILL-066118AB96A6,2026-05-04T21:22:18+00:00,contactless,63.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+1,La Tortilla de Oro,Madrid,BILL-066118AB96A6,2026-05-04T21:22:18+00:00,contactless,63.8,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+1,La Tortilla de Oro,Madrid,BILL-066118AB96A6,2026-05-04T21:22:18+00:00,contactless,63.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+1,La Tortilla de Oro,Madrid,BILL-066118AB96A6,2026-05-04T21:22:18+00:00,contactless,63.8,WATER,Agua Mineral,drinks,2,1.2,2.4
+1,La Tortilla de Oro,Madrid,BILL-066118AB96A6,2026-05-04T21:22:18+00:00,contactless,63.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+1,La Tortilla de Oro,Madrid,BILL-0DBDB5525856,2026-05-04T20:37:13+00:00,card,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5

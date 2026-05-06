@@ -10,10 +10,14 @@ dependencies = [
     "pandas>=2.0",
     "faker>=25.0",
     "python-dotenv>=1.0",
+    "bcrypt>=4.2",
+    "passlib[bcrypt]>=1.7",
+    "itsdangerous>=2.2",
 ]
 
 [dependency-groups]
 dev = [
+    "httpx>=0.27",
     "pytest>=8.0",
     "ruff>=0.7",
 ]
@@ -24,6 +28,10 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["app"]
+
+[[tool.uv.index]]
+url = "https://pkgs.safetycli.com/repository/public/pypi/simple/"
+default = true
 
 [tool.ruff]
 target-version = "py314"

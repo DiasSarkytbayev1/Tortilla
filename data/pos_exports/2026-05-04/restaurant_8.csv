@@ -1,164 +1,120 @@
 restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
-8,Tortilla Balear,Palma,BILL-4CFE7937EB56,2026-05-04T12:42:59+00:00,cash,47.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-4CFE7937EB56,2026-05-04T12:42:59+00:00,cash,47.8,WATER,Agua Mineral,drinks,3,1.2,3.6
-8,Tortilla Balear,Palma,BILL-4CFE7937EB56,2026-05-04T12:42:59+00:00,cash,47.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-4CFE7937EB56,2026-05-04T12:42:59+00:00,cash,47.8,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
-8,Tortilla Balear,Palma,BILL-4CFE7937EB56,2026-05-04T12:42:59+00:00,cash,47.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
-8,Tortilla Balear,Palma,BILL-3C1D42A07296,2026-05-04T13:06:43+00:00,cash,42.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-3C1D42A07296,2026-05-04T13:06:43+00:00,cash,42.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-4D2D6595156E,2026-05-04T14:53:21+00:00,cash,27.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-4D2D6595156E,2026-05-04T14:53:21+00:00,cash,27.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
-8,Tortilla Balear,Palma,BILL-65079875CF93,2026-05-04T21:40:49+00:00,cash,58.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-65079875CF93,2026-05-04T21:40:49+00:00,cash,58.9,BEER,Cerveza Caña,drinks,1,2.8,2.8
-8,Tortilla Balear,Palma,BILL-65079875CF93,2026-05-04T21:40:49+00:00,cash,58.9,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
-8,Tortilla Balear,Palma,BILL-65079875CF93,2026-05-04T21:40:49+00:00,cash,58.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-6EA2C0332EC5,2026-05-04T23:41:37+00:00,card,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-08E6AFFB2294,2026-05-04T18:20:09+00:00,cash,30.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-8,Tortilla Balear,Palma,BILL-08E6AFFB2294,2026-05-04T18:20:09+00:00,cash,30.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-F5A2F120D229,2026-05-04T14:43:34+00:00,cash,26.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-F5A2F120D229,2026-05-04T14:43:34+00:00,cash,26.2,BREAD,Pan Tostado,sides,1,2.0,2.0
-8,Tortilla Balear,Palma,BILL-F5A2F120D229,2026-05-04T14:43:34+00:00,cash,26.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
-8,Tortilla Balear,Palma,BILL-1E66802368E5,2026-05-04T18:00:41+00:00,contactless,68.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-8,Tortilla Balear,Palma,BILL-1E66802368E5,2026-05-04T18:00:41+00:00,contactless,68.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
-8,Tortilla Balear,Palma,BILL-1E66802368E5,2026-05-04T18:00:41+00:00,contactless,68.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-1E66802368E5,2026-05-04T18:00:41+00:00,contactless,68.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-D26FF26F3D43,2026-05-04T22:55:20+00:00,cash,12.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-D26FF26F3D43,2026-05-04T22:55:20+00:00,cash,12.9,WATER,Agua Mineral,drinks,1,1.2,1.2
-8,Tortilla Balear,Palma,BILL-D26FF26F3D43,2026-05-04T22:55:20+00:00,cash,12.9,WATER,Agua Mineral,drinks,1,1.2,1.2
-8,Tortilla Balear,Palma,BILL-83F348E452B9,2026-05-04T22:25:21+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-76555BA6459C,2026-05-04T23:14:34+00:00,card,62.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-76555BA6459C,2026-05-04T23:14:34+00:00,card,62.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-76555BA6459C,2026-05-04T23:14:34+00:00,card,62.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-76555BA6459C,2026-05-04T23:14:34+00:00,card,62.4,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-8,Tortilla Balear,Palma,BILL-76555BA6459C,2026-05-04T23:14:34+00:00,card,62.4,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
-8,Tortilla Balear,Palma,BILL-926EAF37BEF5,2026-05-04T19:39:46+00:00,contactless,42.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-8,Tortilla Balear,Palma,BILL-926EAF37BEF5,2026-05-04T19:39:46+00:00,contactless,42.8,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-8,Tortilla Balear,Palma,BILL-926EAF37BEF5,2026-05-04T19:39:46+00:00,contactless,42.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
-8,Tortilla Balear,Palma,BILL-926EAF37BEF5,2026-05-04T19:39:46+00:00,contactless,42.8,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
-8,Tortilla Balear,Palma,BILL-223A6AFC3E80,2026-05-04T12:53:40+00:00,contactless,37.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-223A6AFC3E80,2026-05-04T12:53:40+00:00,contactless,37.7,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
-8,Tortilla Balear,Palma,BILL-223A6AFC3E80,2026-05-04T12:53:40+00:00,contactless,37.7,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
-8,Tortilla Balear,Palma,BILL-F7A5EFF207F9,2026-05-04T23:23:15+00:00,cash,63.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-F7A5EFF207F9,2026-05-04T23:23:15+00:00,cash,63.4,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-8,Tortilla Balear,Palma,BILL-F7A5EFF207F9,2026-05-04T23:23:15+00:00,cash,63.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-F7A5EFF207F9,2026-05-04T23:23:15+00:00,cash,63.4,BREAD,Pan Tostado,sides,2,2.0,4.0
-8,Tortilla Balear,Palma,BILL-F7A5EFF207F9,2026-05-04T23:23:15+00:00,cash,63.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-A4604DF707BF,2026-05-04T13:48:01+00:00,card,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-227DEE194F68,2026-05-04T23:41:09+00:00,cash,47.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-8,Tortilla Balear,Palma,BILL-227DEE194F68,2026-05-04T23:41:09+00:00,cash,47.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
-8,Tortilla Balear,Palma,BILL-227DEE194F68,2026-05-04T23:41:09+00:00,cash,47.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-227DEE194F68,2026-05-04T23:41:09+00:00,cash,47.6,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
-8,Tortilla Balear,Palma,BILL-D3123BE3A839,2026-05-04T20:20:01+00:00,cash,18.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-D3123BE3A839,2026-05-04T20:20:01+00:00,cash,18.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
-8,Tortilla Balear,Palma,BILL-88521E99631E,2026-05-04T23:00:05+00:00,card,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-52C9575BD3D3,2026-05-04T23:07:51+00:00,cash,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-E2E8C75C3F25,2026-05-04T12:57:57+00:00,cash,61.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-8,Tortilla Balear,Palma,BILL-E2E8C75C3F25,2026-05-04T12:57:57+00:00,cash,61.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-E2E8C75C3F25,2026-05-04T12:57:57+00:00,cash,61.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-5016DF89E5D6,2026-05-04T17:58:58+00:00,card,29.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-5016DF89E5D6,2026-05-04T17:58:58+00:00,card,29.5,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-8,Tortilla Balear,Palma,BILL-5016DF89E5D6,2026-05-04T17:58:58+00:00,card,29.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-5016DF89E5D6,2026-05-04T17:58:58+00:00,card,29.5,COFFEE,Café con Leche,drinks,1,1.8,1.8
-8,Tortilla Balear,Palma,BILL-B9AF3962876D,2026-05-04T21:54:44+00:00,cash,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-22AAE091E182,2026-05-04T15:18:59+00:00,card,95.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-22AAE091E182,2026-05-04T15:18:59+00:00,card,95.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-22AAE091E182,2026-05-04T15:18:59+00:00,card,95.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-22AAE091E182,2026-05-04T15:18:59+00:00,card,95.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-22AAE091E182,2026-05-04T15:18:59+00:00,card,95.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-8,Tortilla Balear,Palma,BILL-AA06F4EEF393,2026-05-04T12:40:53+00:00,contactless,68.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-AA06F4EEF393,2026-05-04T12:40:53+00:00,contactless,68.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-AA06F4EEF393,2026-05-04T12:40:53+00:00,contactless,68.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-AA06F4EEF393,2026-05-04T12:40:53+00:00,contactless,68.5,ALIOLI,Alioli Casero,sides,2,1.5,3.0
-8,Tortilla Balear,Palma,BILL-5E1741F3A987,2026-05-04T11:34:10+00:00,card,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-75A89D668ACF,2026-05-04T12:33:19+00:00,contactless,86.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-75A89D668ACF,2026-05-04T12:33:19+00:00,contactless,86.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
-8,Tortilla Balear,Palma,BILL-75A89D668ACF,2026-05-04T12:33:19+00:00,contactless,86.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-75A89D668ACF,2026-05-04T12:33:19+00:00,contactless,86.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-15FC94399B91,2026-05-04T20:29:35+00:00,cash,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-8D0E2719B071,2026-05-04T19:55:10+00:00,card,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-704202447429,2026-05-04T17:11:52+00:00,card,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-704202447429,2026-05-04T17:11:52+00:00,card,51.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-CBC58BA79E69,2026-05-04T13:28:18+00:00,cash,88.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-CBC58BA79E69,2026-05-04T13:28:18+00:00,cash,88.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-CBC58BA79E69,2026-05-04T13:28:18+00:00,cash,88.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-8,Tortilla Balear,Palma,BILL-CBC58BA79E69,2026-05-04T13:28:18+00:00,cash,88.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-CBC58BA79E69,2026-05-04T13:28:18+00:00,cash,88.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-74E0457098FA,2026-05-04T16:53:50+00:00,cash,48.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-74E0457098FA,2026-05-04T16:53:50+00:00,cash,48.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-74E0457098FA,2026-05-04T16:53:50+00:00,cash,48.1,BEER,Cerveza Caña,drinks,2,2.8,5.6
-8,Tortilla Balear,Palma,BILL-DE329AAFCFBA,2026-05-04T23:16:25+00:00,contactless,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-F039C7D82D99,2026-05-04T10:39:27+00:00,contactless,61.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-F039C7D82D99,2026-05-04T10:39:27+00:00,contactless,61.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-F039C7D82D99,2026-05-04T10:39:27+00:00,contactless,61.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-F039C7D82D99,2026-05-04T10:39:27+00:00,contactless,61.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-F039C7D82D99,2026-05-04T10:39:27+00:00,contactless,61.9,WATER,Agua Mineral,drinks,2,1.2,2.4
-8,Tortilla Balear,Palma,BILL-6710A7946579,2026-05-04T15:26:45+00:00,card,35.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-6710A7946579,2026-05-04T15:26:45+00:00,card,35.1,WATER,Agua Mineral,drinks,1,1.2,1.2
-8,Tortilla Balear,Palma,BILL-6710A7946579,2026-05-04T15:26:45+00:00,card,35.1,WATER,Agua Mineral,drinks,2,1.2,2.4
-8,Tortilla Balear,Palma,BILL-C149670910F8,2026-05-04T15:44:55+00:00,card,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-DF252A3D5BD0,2026-05-04T12:29:13+00:00,card,67.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-8,Tortilla Balear,Palma,BILL-DF252A3D5BD0,2026-05-04T12:29:13+00:00,card,67.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-DF252A3D5BD0,2026-05-04T12:29:13+00:00,card,67.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
-8,Tortilla Balear,Palma,BILL-DF252A3D5BD0,2026-05-04T12:29:13+00:00,card,67.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-BCDCFBA75EA5,2026-05-04T12:32:55+00:00,contactless,80.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-8,Tortilla Balear,Palma,BILL-BCDCFBA75EA5,2026-05-04T12:32:55+00:00,contactless,80.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-BCDCFBA75EA5,2026-05-04T12:32:55+00:00,contactless,80.4,WATER,Agua Mineral,drinks,2,1.2,2.4
-8,Tortilla Balear,Palma,BILL-BCDCFBA75EA5,2026-05-04T12:32:55+00:00,contactless,80.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-0DBB0D20185C,2026-05-04T23:10:27+00:00,cash,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-D587BCCFF655,2026-05-04T23:29:03+00:00,contactless,40.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-D587BCCFF655,2026-05-04T23:29:03+00:00,contactless,40.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-8,Tortilla Balear,Palma,BILL-4C9FFC5DED52,2026-05-04T13:27:54+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-63CE2ADE1BF4,2026-05-04T21:12:00+00:00,cash,29.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-63CE2ADE1BF4,2026-05-04T21:12:00+00:00,cash,29.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-63CE2ADE1BF4,2026-05-04T21:12:00+00:00,cash,29.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-0EC99078E2A2,2026-05-04T14:37:19+00:00,cash,33.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
-8,Tortilla Balear,Palma,BILL-0EC99078E2A2,2026-05-04T14:37:19+00:00,cash,33.4,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
-8,Tortilla Balear,Palma,BILL-EB0205FD396C,2026-05-04T21:00:04+00:00,contactless,48.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-EB0205FD396C,2026-05-04T21:00:04+00:00,contactless,48.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-BA2977D2915E,2026-05-04T12:42:03+00:00,cash,46.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-BA2977D2915E,2026-05-04T12:42:03+00:00,cash,46.3,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
-8,Tortilla Balear,Palma,BILL-BA2977D2915E,2026-05-04T12:42:03+00:00,cash,46.3,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
-8,Tortilla Balear,Palma,BILL-BA2977D2915E,2026-05-04T12:42:03+00:00,cash,46.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-8,Tortilla Balear,Palma,BILL-BA2977D2915E,2026-05-04T12:42:03+00:00,cash,46.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-D556E014991F,2026-05-04T10:25:12+00:00,cash,68.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-D556E014991F,2026-05-04T10:25:12+00:00,cash,68.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-D556E014991F,2026-05-04T10:25:12+00:00,cash,68.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-D556E014991F,2026-05-04T10:25:12+00:00,cash,68.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-8,Tortilla Balear,Palma,BILL-D556E014991F,2026-05-04T10:25:12+00:00,cash,68.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-AF135AB1F668,2026-05-04T15:37:36+00:00,card,69.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-AF135AB1F668,2026-05-04T15:37:36+00:00,card,69.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-AF135AB1F668,2026-05-04T15:37:36+00:00,card,69.1,WATER,Agua Mineral,drinks,3,1.2,3.6
-8,Tortilla Balear,Palma,BILL-AF135AB1F668,2026-05-04T15:37:36+00:00,card,69.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-F30FA89756D5,2026-05-04T08:41:30+00:00,contactless,62.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-F30FA89756D5,2026-05-04T08:41:30+00:00,contactless,62.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
-8,Tortilla Balear,Palma,BILL-F30FA89756D5,2026-05-04T08:41:30+00:00,contactless,62.8,BREAD,Pan Tostado,sides,3,2.0,6.0
-8,Tortilla Balear,Palma,BILL-F30FA89756D5,2026-05-04T08:41:30+00:00,contactless,62.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-F30FA89756D5,2026-05-04T08:41:30+00:00,contactless,62.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-0D0614DEC5EB,2026-05-04T18:39:53+00:00,card,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-28AECA07BFAD,2026-05-04T18:21:47+00:00,cash,117.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-28AECA07BFAD,2026-05-04T18:21:47+00:00,cash,117.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-28AECA07BFAD,2026-05-04T18:21:47+00:00,cash,117.5,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
-8,Tortilla Balear,Palma,BILL-28AECA07BFAD,2026-05-04T18:21:47+00:00,cash,117.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
-8,Tortilla Balear,Palma,BILL-28AECA07BFAD,2026-05-04T18:21:47+00:00,cash,117.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
-8,Tortilla Balear,Palma,BILL-CB1C30E07E71,2026-05-04T10:16:18+00:00,card,26.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-CB1C30E07E71,2026-05-04T10:16:18+00:00,card,26.4,COFFEE,Café con Leche,drinks,1,1.8,1.8
-8,Tortilla Balear,Palma,BILL-CB1C30E07E71,2026-05-04T10:16:18+00:00,card,26.4,COFFEE,Café con Leche,drinks,2,1.8,3.6
-8,Tortilla Balear,Palma,BILL-28173B326EBF,2026-05-04T20:16:07+00:00,contactless,106.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
-8,Tortilla Balear,Palma,BILL-28173B326EBF,2026-05-04T20:16:07+00:00,contactless,106.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-28173B326EBF,2026-05-04T20:16:07+00:00,contactless,106.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-28173B326EBF,2026-05-04T20:16:07+00:00,contactless,106.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-28173B326EBF,2026-05-04T20:16:07+00:00,contactless,106.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-F0709EFCF4E4,2026-05-04T18:51:39+00:00,cash,55.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-F0709EFCF4E4,2026-05-04T18:51:39+00:00,cash,55.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-F0709EFCF4E4,2026-05-04T18:51:39+00:00,cash,55.0,BREAD,Pan Tostado,sides,1,2.0,2.0
-8,Tortilla Balear,Palma,BILL-F0709EFCF4E4,2026-05-04T18:51:39+00:00,cash,55.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-97ED24BBDAB1,2026-05-04T10:28:30+00:00,card,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-EF3114CEFD10,2026-05-04T14:18:38+00:00,cash,55.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-EF3114CEFD10,2026-05-04T14:18:38+00:00,cash,55.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
-8,Tortilla Balear,Palma,BILL-EF3114CEFD10,2026-05-04T14:18:38+00:00,cash,55.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
-8,Tortilla Balear,Palma,BILL-EF3114CEFD10,2026-05-04T14:18:38+00:00,cash,55.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
-8,Tortilla Balear,Palma,BILL-0EC21272C2DC,2026-05-04T21:30:03+00:00,contactless,36.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
-8,Tortilla Balear,Palma,BILL-0EC21272C2DC,2026-05-04T21:30:03+00:00,contactless,36.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
-8,Tortilla Balear,Palma,BILL-0EC21272C2DC,2026-05-04T21:30:03+00:00,contactless,36.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
-8,Tortilla Balear,Palma,BILL-E45CAAF8ECB5,2026-05-04T15:08:42+00:00,contactless,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
-8,Tortilla Balear,Palma,BILL-E45CAAF8ECB5,2026-05-04T15:08:42+00:00,contactless,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-39E939C012ED,2026-05-04T15:14:28+00:00,contactless,41.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+8,Tortilla Balear,Palma,BILL-39E939C012ED,2026-05-04T15:14:28+00:00,contactless,41.4,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+8,Tortilla Balear,Palma,BILL-39E939C012ED,2026-05-04T15:14:28+00:00,contactless,41.4,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+8,Tortilla Balear,Palma,BILL-39E939C012ED,2026-05-04T15:14:28+00:00,contactless,41.4,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+8,Tortilla Balear,Palma,BILL-893EE416E899,2026-05-04T22:49:30+00:00,cash,39.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-893EE416E899,2026-05-04T22:49:30+00:00,cash,39.1,BREAD,Pan Tostado,sides,3,2.0,6.0
+8,Tortilla Balear,Palma,BILL-893EE416E899,2026-05-04T22:49:30+00:00,cash,39.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-893EE416E899,2026-05-04T22:49:30+00:00,cash,39.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+8,Tortilla Balear,Palma,BILL-893EE416E899,2026-05-04T22:49:30+00:00,cash,39.1,BREAD,Pan Tostado,sides,2,2.0,4.0
+8,Tortilla Balear,Palma,BILL-D95571969B7F,2026-05-04T22:29:54+00:00,contactless,43.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-D95571969B7F,2026-05-04T22:29:54+00:00,contactless,43.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+8,Tortilla Balear,Palma,BILL-190CD8612F8B,2026-05-04T12:21:40+00:00,card,42.7,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+8,Tortilla Balear,Palma,BILL-190CD8612F8B,2026-05-04T12:21:40+00:00,card,42.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+8,Tortilla Balear,Palma,BILL-190CD8612F8B,2026-05-04T12:21:40+00:00,card,42.7,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+8,Tortilla Balear,Palma,BILL-52434A4DC33B,2026-05-04T20:48:58+00:00,card,71.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-52434A4DC33B,2026-05-04T20:48:58+00:00,card,71.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-52434A4DC33B,2026-05-04T20:48:58+00:00,card,71.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-52434A4DC33B,2026-05-04T20:48:58+00:00,card,71.5,BREAD,Pan Tostado,sides,3,2.0,6.0
+8,Tortilla Balear,Palma,BILL-52434A4DC33B,2026-05-04T20:48:58+00:00,card,71.5,BREAD,Pan Tostado,sides,3,2.0,6.0
+8,Tortilla Balear,Palma,BILL-8745F94E438F,2026-05-04T12:30:14+00:00,card,53.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-8745F94E438F,2026-05-04T12:30:14+00:00,card,53.2,COFFEE,Café con Leche,drinks,3,1.8,5.4
+8,Tortilla Balear,Palma,BILL-8745F94E438F,2026-05-04T12:30:14+00:00,card,53.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-8745F94E438F,2026-05-04T12:30:14+00:00,card,53.2,COFFEE,Café con Leche,drinks,3,1.8,5.4
+8,Tortilla Balear,Palma,BILL-8745F94E438F,2026-05-04T12:30:14+00:00,card,53.2,BEER,Cerveza Caña,drinks,3,2.8,8.4
+8,Tortilla Balear,Palma,BILL-6C1F96377315,2026-05-04T12:02:51+00:00,contactless,68.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-6C1F96377315,2026-05-04T12:02:51+00:00,contactless,68.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-6C1F96377315,2026-05-04T12:02:51+00:00,contactless,68.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-6C1F96377315,2026-05-04T12:02:51+00:00,contactless,68.4,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+8,Tortilla Balear,Palma,BILL-6C1F96377315,2026-05-04T12:02:51+00:00,contactless,68.4,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+8,Tortilla Balear,Palma,BILL-3BEF70C510E2,2026-05-04T12:03:25+00:00,card,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-C3C08D0F953B,2026-05-04T16:47:40+00:00,contactless,51.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+8,Tortilla Balear,Palma,BILL-C3C08D0F953B,2026-05-04T16:47:40+00:00,contactless,51.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-C3C08D0F953B,2026-05-04T16:47:40+00:00,contactless,51.9,BEER,Cerveza Caña,drinks,1,2.8,2.8
+8,Tortilla Balear,Palma,BILL-C3C08D0F953B,2026-05-04T16:47:40+00:00,contactless,51.9,BEER,Cerveza Caña,drinks,2,2.8,5.6
+8,Tortilla Balear,Palma,BILL-69345292EBA3,2026-05-04T19:29:37+00:00,contactless,30.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+8,Tortilla Balear,Palma,BILL-69345292EBA3,2026-05-04T19:29:37+00:00,contactless,30.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-69345292EBA3,2026-05-04T19:29:37+00:00,contactless,30.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+8,Tortilla Balear,Palma,BILL-1722389E44AA,2026-05-04T14:05:56+00:00,contactless,18.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-1722389E44AA,2026-05-04T14:05:56+00:00,contactless,18.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+8,Tortilla Balear,Palma,BILL-1266D18B6D46,2026-05-04T14:30:13+00:00,cash,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+8,Tortilla Balear,Palma,BILL-7B01830A6693,2026-05-04T12:40:09+00:00,contactless,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-3D0DE1664767,2026-05-04T12:05:35+00:00,contactless,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+8,Tortilla Balear,Palma,BILL-2466A2691D08,2026-05-04T11:59:51+00:00,cash,62.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+8,Tortilla Balear,Palma,BILL-2466A2691D08,2026-05-04T11:59:51+00:00,cash,62.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-2466A2691D08,2026-05-04T11:59:51+00:00,cash,62.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-2466A2691D08,2026-05-04T11:59:51+00:00,cash,62.6,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+8,Tortilla Balear,Palma,BILL-2466A2691D08,2026-05-04T11:59:51+00:00,cash,62.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
+8,Tortilla Balear,Palma,BILL-C3822EC93BAC,2026-05-04T20:32:33+00:00,cash,76.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-C3822EC93BAC,2026-05-04T20:32:33+00:00,cash,76.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-C3822EC93BAC,2026-05-04T20:32:33+00:00,cash,76.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+8,Tortilla Balear,Palma,BILL-C3822EC93BAC,2026-05-04T20:32:33+00:00,cash,76.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+8,Tortilla Balear,Palma,BILL-C3822EC93BAC,2026-05-04T20:32:33+00:00,cash,76.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+8,Tortilla Balear,Palma,BILL-90F433322A22,2026-05-04T14:14:02+00:00,card,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-314A7C324528,2026-05-04T12:34:55+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+8,Tortilla Balear,Palma,BILL-33798C0870AA,2026-05-04T21:05:50+00:00,cash,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-A989A6B5024F,2026-05-04T18:23:14+00:00,cash,61.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+8,Tortilla Balear,Palma,BILL-A989A6B5024F,2026-05-04T18:23:14+00:00,cash,61.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-A989A6B5024F,2026-05-04T18:23:14+00:00,cash,61.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+8,Tortilla Balear,Palma,BILL-33EAB2D49E1D,2026-05-04T16:26:58+00:00,card,21.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-33EAB2D49E1D,2026-05-04T16:26:58+00:00,card,21.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-33EAB2D49E1D,2026-05-04T16:26:58+00:00,card,21.5,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+8,Tortilla Balear,Palma,BILL-75B2DF070608,2026-05-04T17:14:57+00:00,contactless,31.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-75B2DF070608,2026-05-04T17:14:57+00:00,contactless,31.5,WATER,Agua Mineral,drinks,3,1.2,3.6
+8,Tortilla Balear,Palma,BILL-75B2DF070608,2026-05-04T17:14:57+00:00,contactless,31.5,WATER,Agua Mineral,drinks,2,1.2,2.4
+8,Tortilla Balear,Palma,BILL-30C997A55433,2026-05-04T17:53:15+00:00,card,50.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-30C997A55433,2026-05-04T17:53:15+00:00,card,50.0,COFFEE,Café con Leche,drinks,2,1.8,3.6
+8,Tortilla Balear,Palma,BILL-30C997A55433,2026-05-04T17:53:15+00:00,card,50.0,BEER,Cerveza Caña,drinks,3,2.8,8.4
+8,Tortilla Balear,Palma,BILL-30C997A55433,2026-05-04T17:53:15+00:00,card,50.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+8,Tortilla Balear,Palma,BILL-0596E3D2711A,2026-05-04T21:54:07+00:00,card,19.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-0596E3D2711A,2026-05-04T21:54:07+00:00,card,19.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+8,Tortilla Balear,Palma,BILL-FCC50C779127,2026-05-04T23:52:23+00:00,card,40.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-FCC50C779127,2026-05-04T23:52:23+00:00,card,40.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-FCC50C779127,2026-05-04T23:52:23+00:00,card,40.8,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+8,Tortilla Balear,Palma,BILL-FCC50C779127,2026-05-04T23:52:23+00:00,card,40.8,WATER,Agua Mineral,drinks,3,1.2,3.6
+8,Tortilla Balear,Palma,BILL-411CFFFF76EC,2026-05-04T13:21:57+00:00,contactless,79.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+8,Tortilla Balear,Palma,BILL-411CFFFF76EC,2026-05-04T13:21:57+00:00,contactless,79.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-411CFFFF76EC,2026-05-04T13:21:57+00:00,contactless,79.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+8,Tortilla Balear,Palma,BILL-411CFFFF76EC,2026-05-04T13:21:57+00:00,contactless,79.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-411CFFFF76EC,2026-05-04T13:21:57+00:00,contactless,79.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+8,Tortilla Balear,Palma,BILL-FDFD7991DE82,2026-05-04T12:30:20+00:00,contactless,30.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+8,Tortilla Balear,Palma,BILL-FDFD7991DE82,2026-05-04T12:30:20+00:00,contactless,30.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+8,Tortilla Balear,Palma,BILL-E7C4F6C6E206,2026-05-04T11:07:36+00:00,card,42.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-E7C4F6C6E206,2026-05-04T11:07:36+00:00,card,42.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-6BEDBA632370,2026-05-04T18:23:46+00:00,card,29.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-6BEDBA632370,2026-05-04T18:23:46+00:00,card,29.1,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+8,Tortilla Balear,Palma,BILL-6BEDBA632370,2026-05-04T18:23:46+00:00,card,29.1,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+8,Tortilla Balear,Palma,BILL-6BEDBA632370,2026-05-04T18:23:46+00:00,card,29.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-C0BBEAC12BFE,2026-05-04T20:38:14+00:00,cash,67.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-C0BBEAC12BFE,2026-05-04T20:38:14+00:00,cash,67.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-C0BBEAC12BFE,2026-05-04T20:38:14+00:00,cash,67.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+8,Tortilla Balear,Palma,BILL-C0BBEAC12BFE,2026-05-04T20:38:14+00:00,cash,67.9,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+8,Tortilla Balear,Palma,BILL-C0BBEAC12BFE,2026-05-04T20:38:14+00:00,cash,67.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+8,Tortilla Balear,Palma,BILL-B3781A16581B,2026-05-04T23:33:27+00:00,cash,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-B3781A16581B,2026-05-04T23:33:27+00:00,cash,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-034517BA4F20,2026-05-04T12:33:39+00:00,cash,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-09F14EC5697F,2026-05-04T20:22:56+00:00,card,47.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-09F14EC5697F,2026-05-04T20:22:56+00:00,card,47.0,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+8,Tortilla Balear,Palma,BILL-09F14EC5697F,2026-05-04T20:22:56+00:00,card,47.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-09F14EC5697F,2026-05-04T20:22:56+00:00,card,47.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-09F14EC5697F,2026-05-04T20:22:56+00:00,card,47.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-FB1FAFE2736F,2026-05-04T11:03:26+00:00,cash,50.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+8,Tortilla Balear,Palma,BILL-FB1FAFE2736F,2026-05-04T11:03:26+00:00,cash,50.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-FB1FAFE2736F,2026-05-04T11:03:26+00:00,cash,50.5,BREAD,Pan Tostado,sides,3,2.0,6.0
+8,Tortilla Balear,Palma,BILL-FB1FAFE2736F,2026-05-04T11:03:26+00:00,cash,50.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-5190561C6E2D,2026-05-04T21:55:18+00:00,cash,14.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+8,Tortilla Balear,Palma,BILL-5190561C6E2D,2026-05-04T21:55:18+00:00,cash,14.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+8,Tortilla Balear,Palma,BILL-72E0948782DA,2026-05-04T20:09:18+00:00,cash,39.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-72E0948782DA,2026-05-04T20:09:18+00:00,cash,39.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+8,Tortilla Balear,Palma,BILL-72E0948782DA,2026-05-04T20:09:18+00:00,cash,39.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-112DC2404152,2026-05-04T21:19:54+00:00,card,50.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+8,Tortilla Balear,Palma,BILL-112DC2404152,2026-05-04T21:19:54+00:00,card,50.1,WATER,Agua Mineral,drinks,3,1.2,3.6
+8,Tortilla Balear,Palma,BILL-112DC2404152,2026-05-04T21:19:54+00:00,card,50.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+8,Tortilla Balear,Palma,BILL-3984C6947AE5,2026-05-04T11:48:17+00:00,card,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+8,Tortilla Balear,Palma,BILL-6E8355598855,2026-05-04T11:04:04+00:00,contactless,9.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+8,Tortilla Balear,Palma,BILL-6E8355598855,2026-05-04T11:04:04+00:00,contactless,9.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+8,Tortilla Balear,Palma,BILL-9761198BFFA6,2026-05-04T22:56:29+00:00,cash,49.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+8,Tortilla Balear,Palma,BILL-9761198BFFA6,2026-05-04T22:56:29+00:00,cash,49.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+8,Tortilla Balear,Palma,BILL-9761198BFFA6,2026-05-04T22:56:29+00:00,cash,49.5,BREAD,Pan Tostado,sides,2,2.0,4.0
+8,Tortilla Balear,Palma,BILL-9761198BFFA6,2026-05-04T22:56:29+00:00,cash,49.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0

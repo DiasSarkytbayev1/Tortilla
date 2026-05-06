@@ -16,6 +16,8 @@ MODULES = [
     "app.api",
     "app.analytics",
     "app.analytics.queries",
+    "app.analytics.sql",
+    "app.validation",
     "app.etl",
     "app.etl.load",
     "app.etl.generate",

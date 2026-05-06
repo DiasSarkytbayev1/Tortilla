@@ -1,0 +1,550 @@
+restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
+4,Casa Tortilla Sevilla,Sevilla,BILL-F4D397A21E78,2026-05-05T14:45:38+00:00,contactless,63.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F4D397A21E78,2026-05-05T14:45:38+00:00,contactless,63.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F4D397A21E78,2026-05-05T14:45:38+00:00,contactless,63.7,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-F4D397A21E78,2026-05-05T14:45:38+00:00,contactless,63.7,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-F4D397A21E78,2026-05-05T14:45:38+00:00,contactless,63.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F37AF0815003,2026-05-05T21:38:05+00:00,contactless,18.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F37AF0815003,2026-05-05T21:38:05+00:00,contactless,18.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-F37AF0815003,2026-05-05T21:38:05+00:00,contactless,18.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A0D78E87A80D,2026-05-05T20:29:18+00:00,contactless,60.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-A0D78E87A80D,2026-05-05T20:29:18+00:00,contactless,60.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A0D78E87A80D,2026-05-05T20:29:18+00:00,contactless,60.3,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-A0D78E87A80D,2026-05-05T20:29:18+00:00,contactless,60.3,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-AAFE4AF9A1BD,2026-05-05T14:28:08+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-AAFE4AF9A1BD,2026-05-05T14:28:08+00:00,contactless,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-913B78782D8A,2026-05-05T08:07:32+00:00,contactless,35.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-913B78782D8A,2026-05-05T08:07:32+00:00,contactless,35.1,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-10CF134D99C0,2026-05-05T19:17:51+00:00,contactless,77.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-10CF134D99C0,2026-05-05T19:17:51+00:00,contactless,77.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-10CF134D99C0,2026-05-05T19:17:51+00:00,contactless,77.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-10CF134D99C0,2026-05-05T19:17:51+00:00,contactless,77.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-10CF134D99C0,2026-05-05T19:17:51+00:00,contactless,77.1,BREAD,Pan Tostado,sides,2,2.0,4.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-DE14BFF6E70A,2026-05-05T09:12:13+00:00,contactless,72.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-DE14BFF6E70A,2026-05-05T09:12:13+00:00,contactless,72.9,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-DE14BFF6E70A,2026-05-05T09:12:13+00:00,contactless,72.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-DE14BFF6E70A,2026-05-05T09:12:13+00:00,contactless,72.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-DE14BFF6E70A,2026-05-05T09:12:13+00:00,contactless,72.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3BD1D1C66AF3,2026-05-05T19:00:07+00:00,card,25.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3BD1D1C66AF3,2026-05-05T19:00:07+00:00,card,25.7,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-3BD1D1C66AF3,2026-05-05T19:00:07+00:00,card,25.7,COFFEE,Café con Leche,drinks,2,1.8,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-3BD1D1C66AF3,2026-05-05T19:00:07+00:00,card,25.7,WATER,Agua Mineral,drinks,2,1.2,2.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-3BD1D1C66AF3,2026-05-05T19:00:07+00:00,card,25.7,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-B2DDC3992D2E,2026-05-05T22:25:24+00:00,card,55.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B2DDC3992D2E,2026-05-05T22:25:24+00:00,card,55.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B2DDC3992D2E,2026-05-05T22:25:24+00:00,card,55.7,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-B2DDC3992D2E,2026-05-05T22:25:24+00:00,card,55.7,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-B2DDC3992D2E,2026-05-05T22:25:24+00:00,card,55.7,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B922C089C6B4,2026-05-05T10:22:33+00:00,cash,42.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B922C089C6B4,2026-05-05T10:22:33+00:00,cash,42.0,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B922C089C6B4,2026-05-05T10:22:33+00:00,cash,42.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-B922C089C6B4,2026-05-05T10:22:33+00:00,cash,42.0,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-80BD1E038281,2026-05-05T12:40:08+00:00,card,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E28511164C0C,2026-05-05T10:35:51+00:00,cash,32.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E28511164C0C,2026-05-05T10:35:51+00:00,cash,32.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B78F1522896A,2026-05-05T13:47:57+00:00,contactless,43.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B78F1522896A,2026-05-05T13:47:57+00:00,contactless,43.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B78F1522896A,2026-05-05T13:47:57+00:00,contactless,43.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-DD65A0073A36,2026-05-05T10:28:33+00:00,contactless,43.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-DD65A0073A36,2026-05-05T10:28:33+00:00,contactless,43.7,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-DD65A0073A36,2026-05-05T10:28:33+00:00,contactless,43.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-DD65A0073A36,2026-05-05T10:28:33+00:00,contactless,43.7,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-DD65A0073A36,2026-05-05T10:28:33+00:00,contactless,43.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-78D9EA358D60,2026-05-05T10:37:29+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B35584FBAA67,2026-05-05T12:19:23+00:00,contactless,51.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B35584FBAA67,2026-05-05T12:19:23+00:00,contactless,51.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B35584FBAA67,2026-05-05T12:19:23+00:00,contactless,51.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-20B9C6D808CA,2026-05-05T14:26:33+00:00,cash,49.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-20B9C6D808CA,2026-05-05T14:26:33+00:00,cash,49.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-20B9C6D808CA,2026-05-05T14:26:33+00:00,cash,49.0,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-20B9C6D808CA,2026-05-05T14:26:33+00:00,cash,49.0,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-47AE7809DA84,2026-05-05T16:55:26+00:00,card,30.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-47AE7809DA84,2026-05-05T16:55:26+00:00,card,30.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-47AE7809DA84,2026-05-05T16:55:26+00:00,card,30.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-EA3DEEB7D9CF,2026-05-05T12:59:21+00:00,contactless,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-260CB1887FB8,2026-05-05T16:45:14+00:00,cash,65.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-260CB1887FB8,2026-05-05T16:45:14+00:00,cash,65.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-260CB1887FB8,2026-05-05T16:45:14+00:00,cash,65.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-260CB1887FB8,2026-05-05T16:45:14+00:00,cash,65.5,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-260CB1887FB8,2026-05-05T16:45:14+00:00,cash,65.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-12CC5FB2829E,2026-05-05T18:57:29+00:00,card,104.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-12CC5FB2829E,2026-05-05T18:57:29+00:00,card,104.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-12CC5FB2829E,2026-05-05T18:57:29+00:00,card,104.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-12CC5FB2829E,2026-05-05T18:57:29+00:00,card,104.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-12CC5FB2829E,2026-05-05T18:57:29+00:00,card,104.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-2529EAB4A6D9,2026-05-05T13:19:31+00:00,contactless,29.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2529EAB4A6D9,2026-05-05T13:19:31+00:00,contactless,29.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-73A3583C1984,2026-05-05T13:05:26+00:00,contactless,31.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-73A3583C1984,2026-05-05T13:05:26+00:00,contactless,31.5,BEER,Cerveza Caña,drinks,3,2.8,8.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-73A3583C1984,2026-05-05T13:05:26+00:00,contactless,31.5,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-73A3583C1984,2026-05-05T13:05:26+00:00,contactless,31.5,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-482727DB7BFD,2026-05-05T13:55:39+00:00,card,52.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-482727DB7BFD,2026-05-05T13:55:39+00:00,card,52.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-482727DB7BFD,2026-05-05T13:55:39+00:00,card,52.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E4FFC12CFF8C,2026-05-05T13:28:07+00:00,contactless,76.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E4FFC12CFF8C,2026-05-05T13:28:07+00:00,contactless,76.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E4FFC12CFF8C,2026-05-05T13:28:07+00:00,contactless,76.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-8CDE739B2735,2026-05-05T13:19:19+00:00,card,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-90225B59D840,2026-05-05T14:39:52+00:00,card,13.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-90225B59D840,2026-05-05T14:39:52+00:00,card,13.7,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-24DBF3CE6BCB,2026-05-05T15:16:13+00:00,card,39.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-24DBF3CE6BCB,2026-05-05T15:16:13+00:00,card,39.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-24DBF3CE6BCB,2026-05-05T15:16:13+00:00,card,39.3,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-24DBF3CE6BCB,2026-05-05T15:16:13+00:00,card,39.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-24DBF3CE6BCB,2026-05-05T15:16:13+00:00,card,39.3,WATER,Agua Mineral,drinks,3,1.2,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA11AD4E06C9,2026-05-05T22:47:27+00:00,card,57.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA11AD4E06C9,2026-05-05T22:47:27+00:00,card,57.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA11AD4E06C9,2026-05-05T22:47:27+00:00,card,57.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA11AD4E06C9,2026-05-05T22:47:27+00:00,card,57.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA11AD4E06C9,2026-05-05T22:47:27+00:00,card,57.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-FF58299554A6,2026-05-05T11:23:43+00:00,contactless,85.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-FF58299554A6,2026-05-05T11:23:43+00:00,contactless,85.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-FF58299554A6,2026-05-05T11:23:43+00:00,contactless,85.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-FF58299554A6,2026-05-05T11:23:43+00:00,contactless,85.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-BB11E3D0D2C3,2026-05-05T13:04:24+00:00,contactless,36.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BB11E3D0D2C3,2026-05-05T13:04:24+00:00,contactless,36.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-9B9118C89D0D,2026-05-05T11:19:14+00:00,contactless,23.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-9B9118C89D0D,2026-05-05T11:19:14+00:00,contactless,23.3,BEER,Cerveza Caña,drinks,2,2.8,5.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-9B9118C89D0D,2026-05-05T11:19:14+00:00,contactless,23.3,WATER,Agua Mineral,drinks,3,1.2,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-9B9118C89D0D,2026-05-05T11:19:14+00:00,contactless,23.3,BEER,Cerveza Caña,drinks,2,2.8,5.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E749066D9CC,2026-05-05T14:32:49+00:00,cash,21.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E749066D9CC,2026-05-05T14:32:49+00:00,cash,21.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-794778D16B2E,2026-05-05T12:30:03+00:00,card,45.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-794778D16B2E,2026-05-05T12:30:03+00:00,card,45.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-794778D16B2E,2026-05-05T12:30:03+00:00,card,45.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-794778D16B2E,2026-05-05T12:30:03+00:00,card,45.9,COFFEE,Café con Leche,drinks,2,1.8,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-ED6154E94DCB,2026-05-05T11:30:21+00:00,contactless,38.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-ED6154E94DCB,2026-05-05T11:30:21+00:00,contactless,38.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-ED6154E94DCB,2026-05-05T11:30:21+00:00,contactless,38.4,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E1F523FB0315,2026-05-05T20:48:42+00:00,cash,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-A307FA6E4E66,2026-05-05T14:51:46+00:00,card,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-3E743859E9B1,2026-05-05T14:13:34+00:00,contactless,39.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3E743859E9B1,2026-05-05T14:13:34+00:00,contactless,39.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3E743859E9B1,2026-05-05T14:13:34+00:00,contactless,39.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-F57C40CDE57F,2026-05-05T12:20:19+00:00,cash,76.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-F57C40CDE57F,2026-05-05T12:20:19+00:00,cash,76.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F57C40CDE57F,2026-05-05T12:20:19+00:00,cash,76.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F57C40CDE57F,2026-05-05T12:20:19+00:00,cash,76.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-199D77E29230,2026-05-05T13:24:46+00:00,cash,49.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-199D77E29230,2026-05-05T13:24:46+00:00,cash,49.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-199D77E29230,2026-05-05T13:24:46+00:00,cash,49.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-7805B5772F72,2026-05-05T15:45:25+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7805B5772F72,2026-05-05T15:45:25+00:00,card,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-40D5B49E9C06,2026-05-05T13:21:51+00:00,card,38.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-40D5B49E9C06,2026-05-05T13:21:51+00:00,card,38.3,WATER,Agua Mineral,drinks,1,1.2,1.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-40D5B49E9C06,2026-05-05T13:21:51+00:00,card,38.3,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-40D5B49E9C06,2026-05-05T13:21:51+00:00,card,38.3,BEER,Cerveza Caña,drinks,2,2.8,5.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-40D5B49E9C06,2026-05-05T13:21:51+00:00,card,38.3,BREAD,Pan Tostado,sides,2,2.0,4.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-5323F1574AAF,2026-05-05T20:15:52+00:00,contactless,46.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-5323F1574AAF,2026-05-05T20:15:52+00:00,contactless,46.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-5323F1574AAF,2026-05-05T20:15:52+00:00,contactless,46.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-9B2B35D541C2,2026-05-05T10:56:01+00:00,contactless,78.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-9B2B35D541C2,2026-05-05T10:56:01+00:00,contactless,78.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-9B2B35D541C2,2026-05-05T10:56:01+00:00,contactless,78.9,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-9B2B35D541C2,2026-05-05T10:56:01+00:00,contactless,78.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-9B2B35D541C2,2026-05-05T10:56:01+00:00,contactless,78.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-DF9A026ACEF2,2026-05-05T21:31:49+00:00,cash,45.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-DF9A026ACEF2,2026-05-05T21:31:49+00:00,cash,45.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E0A7FF99C6B3,2026-05-05T14:02:49+00:00,cash,42.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E0A7FF99C6B3,2026-05-05T14:02:49+00:00,cash,42.8,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-E0A7FF99C6B3,2026-05-05T14:02:49+00:00,cash,42.8,BREAD,Pan Tostado,sides,3,2.0,6.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E0A7FF99C6B3,2026-05-05T14:02:49+00:00,cash,42.8,COFFEE,Café con Leche,drinks,2,1.8,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-E0A7FF99C6B3,2026-05-05T14:02:49+00:00,cash,42.8,BEER,Cerveza Caña,drinks,2,2.8,5.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-6E5EADB2912E,2026-05-05T20:49:04+00:00,cash,64.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-6E5EADB2912E,2026-05-05T20:49:04+00:00,cash,64.5,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-6E5EADB2912E,2026-05-05T20:49:04+00:00,cash,64.5,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-6E5EADB2912E,2026-05-05T20:49:04+00:00,cash,64.5,BREAD,Pan Tostado,sides,1,2.0,2.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-6E5EADB2912E,2026-05-05T20:49:04+00:00,cash,64.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-5C7E91365A60,2026-05-05T19:29:35+00:00,cash,37.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-5C7E91365A60,2026-05-05T19:29:35+00:00,cash,37.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7F4EF8D94598,2026-05-05T11:22:27+00:00,cash,80.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7F4EF8D94598,2026-05-05T11:22:27+00:00,cash,80.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7F4EF8D94598,2026-05-05T11:22:27+00:00,cash,80.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-7F4EF8D94598,2026-05-05T11:22:27+00:00,cash,80.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E1445C26A136,2026-05-05T20:20:28+00:00,contactless,27.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E1445C26A136,2026-05-05T20:20:28+00:00,contactless,27.6,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-7E95A4F64C58,2026-05-05T15:37:04+00:00,contactless,44.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7E95A4F64C58,2026-05-05T15:37:04+00:00,contactless,44.5,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-7E95A4F64C58,2026-05-05T15:37:04+00:00,contactless,44.5,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-7E95A4F64C58,2026-05-05T15:37:04+00:00,contactless,44.5,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-C56AC1CBB0B0,2026-05-05T19:51:28+00:00,contactless,54.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C56AC1CBB0B0,2026-05-05T19:51:28+00:00,contactless,54.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C56AC1CBB0B0,2026-05-05T19:51:28+00:00,contactless,54.9,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-C56AC1CBB0B0,2026-05-05T19:51:28+00:00,contactless,54.9,WATER,Agua Mineral,drinks,1,1.2,1.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-C56AC1CBB0B0,2026-05-05T19:51:28+00:00,contactless,54.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-0789C5743495,2026-05-05T13:55:13+00:00,card,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C285BC6CD6BB,2026-05-05T11:43:18+00:00,contactless,26.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-C285BC6CD6BB,2026-05-05T11:43:18+00:00,contactless,26.4,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-C285BC6CD6BB,2026-05-05T11:43:18+00:00,contactless,26.4,BEER,Cerveza Caña,drinks,2,2.8,5.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-1593DA9294FB,2026-05-05T21:28:57+00:00,card,37.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-1593DA9294FB,2026-05-05T21:28:57+00:00,card,37.1,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-1593DA9294FB,2026-05-05T21:28:57+00:00,card,37.1,BREAD,Pan Tostado,sides,1,2.0,2.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-1593DA9294FB,2026-05-05T21:28:57+00:00,card,37.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-21E5F53FE338,2026-05-05T13:30:24+00:00,cash,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-21E5F53FE338,2026-05-05T13:30:24+00:00,cash,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-F3442365628A,2026-05-05T21:13:14+00:00,cash,60.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-F3442365628A,2026-05-05T21:13:14+00:00,cash,60.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F3442365628A,2026-05-05T21:13:14+00:00,cash,60.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-F3442365628A,2026-05-05T21:13:14+00:00,cash,60.5,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E7C94A05498E,2026-05-05T20:12:01+00:00,cash,10.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E7C94A05498E,2026-05-05T20:12:01+00:00,cash,10.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-B3BCB363B13F,2026-05-05T19:46:45+00:00,card,44.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B3BCB363B13F,2026-05-05T19:46:45+00:00,card,44.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-B3BCB363B13F,2026-05-05T19:46:45+00:00,card,44.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B3BCB363B13F,2026-05-05T19:46:45+00:00,card,44.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-0F908A916B7A,2026-05-05T18:41:36+00:00,contactless,24.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-0F908A916B7A,2026-05-05T18:41:36+00:00,contactless,24.5,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-0F908A916B7A,2026-05-05T18:41:36+00:00,contactless,24.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-500ACBD997A4,2026-05-05T21:27:00+00:00,cash,93.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-500ACBD997A4,2026-05-05T21:27:00+00:00,cash,93.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-500ACBD997A4,2026-05-05T21:27:00+00:00,cash,93.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-500ACBD997A4,2026-05-05T21:27:00+00:00,cash,93.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-500ACBD997A4,2026-05-05T21:27:00+00:00,cash,93.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-D9FC9A57E1F9,2026-05-05T18:07:13+00:00,card,64.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-D9FC9A57E1F9,2026-05-05T18:07:13+00:00,card,64.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-D9FC9A57E1F9,2026-05-05T18:07:13+00:00,card,64.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-D9FC9A57E1F9,2026-05-05T18:07:13+00:00,card,64.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-2FD7B841A45B,2026-05-05T21:55:27+00:00,cash,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2FD7B841A45B,2026-05-05T21:55:27+00:00,cash,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-03197970CF24,2026-05-05T12:04:48+00:00,contactless,65.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-03197970CF24,2026-05-05T12:04:48+00:00,contactless,65.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-03197970CF24,2026-05-05T12:04:48+00:00,contactless,65.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-03197970CF24,2026-05-05T12:04:48+00:00,contactless,65.5,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-85A98C64B300,2026-05-05T14:21:46+00:00,cash,30.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-85A98C64B300,2026-05-05T14:21:46+00:00,cash,30.0,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-0B2F973B5C16,2026-05-05T13:58:03+00:00,cash,46.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-0B2F973B5C16,2026-05-05T13:58:03+00:00,cash,46.5,BREAD,Pan Tostado,sides,2,2.0,4.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-0B2F973B5C16,2026-05-05T13:58:03+00:00,cash,46.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-0B2F973B5C16,2026-05-05T13:58:03+00:00,cash,46.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E868442982E3,2026-05-05T13:13:09+00:00,card,51.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E868442982E3,2026-05-05T13:13:09+00:00,card,51.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E868442982E3,2026-05-05T13:13:09+00:00,card,51.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E868442982E3,2026-05-05T13:13:09+00:00,card,51.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E868442982E3,2026-05-05T13:13:09+00:00,card,51.5,BREAD,Pan Tostado,sides,2,2.0,4.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-1457426A7373,2026-05-05T22:13:15+00:00,cash,100.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-1457426A7373,2026-05-05T22:13:15+00:00,cash,100.5,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-1457426A7373,2026-05-05T22:13:15+00:00,cash,100.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-1457426A7373,2026-05-05T22:13:15+00:00,cash,100.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-1457426A7373,2026-05-05T22:13:15+00:00,cash,100.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-840A05837FD7,2026-05-05T20:33:35+00:00,contactless,42.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-840A05837FD7,2026-05-05T20:33:35+00:00,contactless,42.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-77F92CBB7AE9,2026-05-05T12:12:15+00:00,card,29.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-77F92CBB7AE9,2026-05-05T12:12:15+00:00,card,29.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-ACB32B88FB51,2026-05-05T21:56:55+00:00,card,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C0EA28693831,2026-05-05T13:21:24+00:00,contactless,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C0EA28693831,2026-05-05T13:21:24+00:00,contactless,17.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-38DDC0D9105C,2026-05-05T13:21:42+00:00,card,29.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-38DDC0D9105C,2026-05-05T13:21:42+00:00,card,29.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3A00D8950F2A,2026-05-05T09:26:12+00:00,cash,43.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-3A00D8950F2A,2026-05-05T09:26:12+00:00,cash,43.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-3A00D8950F2A,2026-05-05T09:26:12+00:00,cash,43.0,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-3A00D8950F2A,2026-05-05T09:26:12+00:00,cash,43.0,COFFEE,Café con Leche,drinks,2,1.8,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-8405CFD37B27,2026-05-05T15:08:41+00:00,card,27.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-8405CFD37B27,2026-05-05T15:08:41+00:00,card,27.8,WATER,Agua Mineral,drinks,1,1.2,1.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-8405CFD37B27,2026-05-05T15:08:41+00:00,card,27.8,BEER,Cerveza Caña,drinks,2,2.8,5.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-F1E986B01F47,2026-05-05T20:19:33+00:00,contactless,36.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F1E986B01F47,2026-05-05T20:19:33+00:00,contactless,36.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-F1E986B01F47,2026-05-05T20:19:33+00:00,contactless,36.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-177791DC3EB8,2026-05-05T15:28:01+00:00,contactless,45.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-177791DC3EB8,2026-05-05T15:28:01+00:00,contactless,45.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-177791DC3EB8,2026-05-05T15:28:01+00:00,contactless,45.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-0747125BE9A2,2026-05-05T12:56:40+00:00,cash,37.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-0747125BE9A2,2026-05-05T12:56:40+00:00,cash,37.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-0747125BE9A2,2026-05-05T12:56:40+00:00,cash,37.4,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-0747125BE9A2,2026-05-05T12:56:40+00:00,cash,37.4,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-12698CC4BB66,2026-05-05T13:09:37+00:00,contactless,30.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-12698CC4BB66,2026-05-05T13:09:37+00:00,contactless,30.6,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-DC3ACA870FCC,2026-05-05T22:36:03+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F0B0BDDC2F19,2026-05-05T11:13:25+00:00,cash,65.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F0B0BDDC2F19,2026-05-05T11:13:25+00:00,cash,65.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-F0B0BDDC2F19,2026-05-05T11:13:25+00:00,cash,65.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-348B8631814D,2026-05-05T14:44:31+00:00,cash,79.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-348B8631814D,2026-05-05T14:44:31+00:00,cash,79.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-348B8631814D,2026-05-05T14:44:31+00:00,cash,79.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-348B8631814D,2026-05-05T14:44:31+00:00,cash,79.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3C9CF64DC142,2026-05-05T23:41:38+00:00,card,30.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3C9CF64DC142,2026-05-05T23:41:38+00:00,card,30.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-3C9CF64DC142,2026-05-05T23:41:38+00:00,card,30.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-76DC9B1411D3,2026-05-05T22:05:52+00:00,cash,37.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-76DC9B1411D3,2026-05-05T22:05:52+00:00,cash,37.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-76DC9B1411D3,2026-05-05T22:05:52+00:00,cash,37.9,BREAD,Pan Tostado,sides,3,2.0,6.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-76DC9B1411D3,2026-05-05T22:05:52+00:00,cash,37.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-7CD3E5583F85,2026-05-05T14:32:10+00:00,contactless,34.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7CD3E5583F85,2026-05-05T14:32:10+00:00,contactless,34.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-98FDC5D538AC,2026-05-05T20:40:56+00:00,card,58.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-98FDC5D538AC,2026-05-05T20:40:56+00:00,card,58.9,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-98FDC5D538AC,2026-05-05T20:40:56+00:00,card,58.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-A53A130A3D02,2026-05-05T13:39:20+00:00,contactless,84.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A53A130A3D02,2026-05-05T13:39:20+00:00,contactless,84.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-A53A130A3D02,2026-05-05T13:39:20+00:00,contactless,84.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A53A130A3D02,2026-05-05T13:39:20+00:00,contactless,84.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-D8EE4AB8FA5E,2026-05-05T20:08:11+00:00,contactless,42.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-D8EE4AB8FA5E,2026-05-05T20:08:11+00:00,contactless,42.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-D8EE4AB8FA5E,2026-05-05T20:08:11+00:00,contactless,42.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-3C9888372CC3,2026-05-05T10:41:02+00:00,card,24.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3C9888372CC3,2026-05-05T10:41:02+00:00,card,24.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-81E60A4EBDDB,2026-05-05T15:55:30+00:00,card,37.4,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-81E60A4EBDDB,2026-05-05T15:55:30+00:00,card,37.4,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-81E60A4EBDDB,2026-05-05T15:55:30+00:00,card,37.4,BREAD,Pan Tostado,sides,2,2.0,4.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-8B8A74087155,2026-05-05T14:46:58+00:00,contactless,25.4,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-8B8A74087155,2026-05-05T14:46:58+00:00,contactless,25.4,BEER,Cerveza Caña,drinks,3,2.8,8.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-C9B10F17735A,2026-05-05T18:05:52+00:00,cash,30.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C9B10F17735A,2026-05-05T18:05:52+00:00,cash,30.3,COFFEE,Café con Leche,drinks,2,1.8,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-C9B10F17735A,2026-05-05T18:05:52+00:00,cash,30.3,WATER,Agua Mineral,drinks,1,1.2,1.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-C7FCEC3E8DD6,2026-05-05T17:16:09+00:00,contactless,21.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-C7FCEC3E8DD6,2026-05-05T17:16:09+00:00,contactless,21.0,BREAD,Pan Tostado,sides,2,2.0,4.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-EF8175D63C03,2026-05-05T13:23:56+00:00,card,10.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-EF8175D63C03,2026-05-05T13:23:56+00:00,card,10.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-93AB436CC1D2,2026-05-05T22:28:48+00:00,card,110.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-93AB436CC1D2,2026-05-05T22:28:48+00:00,card,110.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-93AB436CC1D2,2026-05-05T22:28:48+00:00,card,110.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-93AB436CC1D2,2026-05-05T22:28:48+00:00,card,110.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-93AB436CC1D2,2026-05-05T22:28:48+00:00,card,110.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E6AA71B21C45,2026-05-05T17:22:40+00:00,contactless,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E6AA71B21C45,2026-05-05T17:22:40+00:00,contactless,17.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E444F1CC69AC,2026-05-05T18:50:13+00:00,card,47.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E444F1CC69AC,2026-05-05T18:50:13+00:00,card,47.5,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E444F1CC69AC,2026-05-05T18:50:13+00:00,card,47.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-740EB058DC97,2026-05-05T13:14:27+00:00,contactless,34.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-740EB058DC97,2026-05-05T13:14:27+00:00,contactless,34.0,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-1932B35CD64D,2026-05-05T21:46:20+00:00,cash,30.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-1932B35CD64D,2026-05-05T21:46:20+00:00,cash,30.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-1932B35CD64D,2026-05-05T21:46:20+00:00,cash,30.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-1932B35CD64D,2026-05-05T21:46:20+00:00,cash,30.6,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A91F7AED1828,2026-05-05T23:42:27+00:00,card,32.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A91F7AED1828,2026-05-05T23:42:27+00:00,card,32.7,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-A91F7AED1828,2026-05-05T23:42:27+00:00,card,32.7,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-A91F7AED1828,2026-05-05T23:42:27+00:00,card,32.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-7E0A79260D30,2026-05-05T23:44:33+00:00,card,51.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7E0A79260D30,2026-05-05T23:44:33+00:00,card,51.5,BREAD,Pan Tostado,sides,1,2.0,2.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-7E0A79260D30,2026-05-05T23:44:33+00:00,card,51.5,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-7E0A79260D30,2026-05-05T23:44:33+00:00,card,51.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7E0A79260D30,2026-05-05T23:44:33+00:00,card,51.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-4A067F077151,2026-05-05T11:28:29+00:00,cash,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A5688C3F2DAD,2026-05-05T08:52:54+00:00,cash,84.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-A5688C3F2DAD,2026-05-05T08:52:54+00:00,cash,84.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A5688C3F2DAD,2026-05-05T08:52:54+00:00,cash,84.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-58DEC9EEF0DA,2026-05-05T13:43:45+00:00,cash,64.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-58DEC9EEF0DA,2026-05-05T13:43:45+00:00,cash,64.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-58DEC9EEF0DA,2026-05-05T13:43:45+00:00,cash,64.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-58DEC9EEF0DA,2026-05-05T13:43:45+00:00,cash,64.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-736019A4063F,2026-05-05T20:21:15+00:00,card,32.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-736019A4063F,2026-05-05T20:21:15+00:00,card,32.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-736019A4063F,2026-05-05T20:21:15+00:00,card,32.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-736019A4063F,2026-05-05T20:21:15+00:00,card,32.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-736019A4063F,2026-05-05T20:21:15+00:00,card,32.9,BEER,Cerveza Caña,drinks,2,2.8,5.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-1D3B6D79294D,2026-05-05T12:44:34+00:00,card,61.1,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-1D3B6D79294D,2026-05-05T12:44:34+00:00,card,61.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-1D3B6D79294D,2026-05-05T12:44:34+00:00,card,61.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-1D3B6D79294D,2026-05-05T12:44:34+00:00,card,61.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-1D3B6D79294D,2026-05-05T12:44:34+00:00,card,61.1,BREAD,Pan Tostado,sides,1,2.0,2.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-D74F9590B6D6,2026-05-05T12:44:41+00:00,cash,71.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-D74F9590B6D6,2026-05-05T12:44:41+00:00,cash,71.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-D74F9590B6D6,2026-05-05T12:44:41+00:00,cash,71.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-D74F9590B6D6,2026-05-05T12:44:41+00:00,cash,71.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-D74F9590B6D6,2026-05-05T12:44:41+00:00,cash,71.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2912A85B1F1A,2026-05-05T18:34:50+00:00,card,82.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-2912A85B1F1A,2026-05-05T18:34:50+00:00,card,82.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2912A85B1F1A,2026-05-05T18:34:50+00:00,card,82.0,BREAD,Pan Tostado,sides,2,2.0,4.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-2912A85B1F1A,2026-05-05T18:34:50+00:00,card,82.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2912A85B1F1A,2026-05-05T18:34:50+00:00,card,82.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-D76EEE4DDE5F,2026-05-05T18:36:38+00:00,cash,39.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-D76EEE4DDE5F,2026-05-05T18:36:38+00:00,cash,39.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-D76EEE4DDE5F,2026-05-05T18:36:38+00:00,cash,39.8,COFFEE,Café con Leche,drinks,2,1.8,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-D76EEE4DDE5F,2026-05-05T18:36:38+00:00,cash,39.8,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-CD2E33C68694,2026-05-05T08:17:58+00:00,card,74.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-CD2E33C68694,2026-05-05T08:17:58+00:00,card,74.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-CD2E33C68694,2026-05-05T08:17:58+00:00,card,74.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-CD2E33C68694,2026-05-05T08:17:58+00:00,card,74.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-4B01A6DEA007,2026-05-05T18:05:41+00:00,card,75.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-4B01A6DEA007,2026-05-05T18:05:41+00:00,card,75.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-4B01A6DEA007,2026-05-05T18:05:41+00:00,card,75.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-4B01A6DEA007,2026-05-05T18:05:41+00:00,card,75.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-4B01A6DEA007,2026-05-05T18:05:41+00:00,card,75.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-C2479A5C18DF,2026-05-05T20:07:19+00:00,cash,70.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C2479A5C18DF,2026-05-05T20:07:19+00:00,cash,70.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C2479A5C18DF,2026-05-05T20:07:19+00:00,cash,70.9,ALIOLI,Alioli Casero,sides,3,1.5,4.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C2479A5C18DF,2026-05-05T20:07:19+00:00,cash,70.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-C2479A5C18DF,2026-05-05T20:07:19+00:00,cash,70.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-1194C11317B7,2026-05-05T22:50:15+00:00,cash,39.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-1194C11317B7,2026-05-05T22:50:15+00:00,cash,39.4,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-1194C11317B7,2026-05-05T22:50:15+00:00,cash,39.4,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-FB4D267AF8BA,2026-05-05T13:40:47+00:00,contactless,9.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-6174D6C4BDF7,2026-05-05T11:13:57+00:00,contactless,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-554B58C5F54E,2026-05-05T22:51:00+00:00,cash,56.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-554B58C5F54E,2026-05-05T22:51:00+00:00,cash,56.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-554B58C5F54E,2026-05-05T22:51:00+00:00,cash,56.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-554B58C5F54E,2026-05-05T22:51:00+00:00,cash,56.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-2F9B582FF9FC,2026-05-05T14:26:13+00:00,cash,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B396ACE67496,2026-05-05T20:07:01+00:00,contactless,23.2,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B396ACE67496,2026-05-05T20:07:01+00:00,contactless,23.2,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-B396ACE67496,2026-05-05T20:07:01+00:00,contactless,23.2,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-E5AB22F2E237,2026-05-05T23:22:04+00:00,card,30.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E5AB22F2E237,2026-05-05T23:22:04+00:00,card,30.3,WATER,Agua Mineral,drinks,1,1.2,1.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-E5AB22F2E237,2026-05-05T23:22:04+00:00,card,30.3,WATER,Agua Mineral,drinks,3,1.2,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-2107792E411F,2026-05-05T22:15:23+00:00,card,46.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-2107792E411F,2026-05-05T22:15:23+00:00,card,46.5,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-2107792E411F,2026-05-05T22:15:23+00:00,card,46.5,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-2107792E411F,2026-05-05T22:15:23+00:00,card,46.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2107792E411F,2026-05-05T22:15:23+00:00,card,46.5,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-A67A88068AEA,2026-05-05T22:12:51+00:00,contactless,39.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A67A88068AEA,2026-05-05T22:12:51+00:00,contactless,39.6,BEER,Cerveza Caña,drinks,2,2.8,5.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-A67A88068AEA,2026-05-05T22:12:51+00:00,contactless,39.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-025E95DC2E2C,2026-05-05T21:53:55+00:00,contactless,63.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-025E95DC2E2C,2026-05-05T21:53:55+00:00,contactless,63.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B4643AE6610C,2026-05-05T16:08:07+00:00,card,80.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B4643AE6610C,2026-05-05T16:08:07+00:00,card,80.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B4643AE6610C,2026-05-05T16:08:07+00:00,card,80.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B4643AE6610C,2026-05-05T16:08:07+00:00,card,80.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B4643AE6610C,2026-05-05T16:08:07+00:00,card,80.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-654BAB6B948B,2026-05-05T14:21:22+00:00,cash,46.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-654BAB6B948B,2026-05-05T14:21:22+00:00,cash,46.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-654BAB6B948B,2026-05-05T14:21:22+00:00,cash,46.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BC4720A7B248,2026-05-05T13:04:16+00:00,cash,10.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-96588F98990E,2026-05-05T18:11:29+00:00,contactless,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-062B1E6DC4CC,2026-05-05T13:42:24+00:00,cash,60.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-062B1E6DC4CC,2026-05-05T13:42:24+00:00,cash,60.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-062B1E6DC4CC,2026-05-05T13:42:24+00:00,cash,60.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-FB97143C72C8,2026-05-05T17:06:39+00:00,card,62.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-FB97143C72C8,2026-05-05T17:06:39+00:00,card,62.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-FB97143C72C8,2026-05-05T17:06:39+00:00,card,62.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-FB97143C72C8,2026-05-05T17:06:39+00:00,card,62.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-FB97143C72C8,2026-05-05T17:06:39+00:00,card,62.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-595A5C4381DA,2026-05-05T19:54:59+00:00,contactless,45.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-595A5C4381DA,2026-05-05T19:54:59+00:00,contactless,45.9,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-595A5C4381DA,2026-05-05T19:54:59+00:00,contactless,45.9,SOFT_DRINK,Refresco,drinks,2,2.2,4.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-595A5C4381DA,2026-05-05T19:54:59+00:00,contactless,45.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F95D4247CD28,2026-05-05T19:13:13+00:00,cash,61.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F95D4247CD28,2026-05-05T19:13:13+00:00,cash,61.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F95D4247CD28,2026-05-05T19:13:13+00:00,cash,61.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F95D4247CD28,2026-05-05T19:13:13+00:00,cash,61.0,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BCF690800FE6,2026-05-05T13:29:06+00:00,card,20.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BCF690800FE6,2026-05-05T13:29:06+00:00,card,20.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-BCF690800FE6,2026-05-05T13:29:06+00:00,card,20.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-9EC276EA40FA,2026-05-05T12:46:02+00:00,contactless,44.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-9EC276EA40FA,2026-05-05T12:46:02+00:00,contactless,44.5,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-9EC276EA40FA,2026-05-05T12:46:02+00:00,contactless,44.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-9EC276EA40FA,2026-05-05T12:46:02+00:00,contactless,44.5,BREAD,Pan Tostado,sides,3,2.0,6.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-AC6EE5C49155,2026-05-05T12:05:51+00:00,contactless,77.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-AC6EE5C49155,2026-05-05T12:05:51+00:00,contactless,77.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-AC6EE5C49155,2026-05-05T12:05:51+00:00,contactless,77.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-AC6EE5C49155,2026-05-05T12:05:51+00:00,contactless,77.1,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3A0D0C5777F6,2026-05-05T13:55:02+00:00,cash,57.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-3A0D0C5777F6,2026-05-05T13:55:02+00:00,cash,57.4,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-3A0D0C5777F6,2026-05-05T13:55:02+00:00,cash,57.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA0A1C9BB36E,2026-05-05T17:31:30+00:00,card,45.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA0A1C9BB36E,2026-05-05T17:31:30+00:00,card,45.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA0A1C9BB36E,2026-05-05T17:31:30+00:00,card,45.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA0A1C9BB36E,2026-05-05T17:31:30+00:00,card,45.9,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BA0A1C9BB36E,2026-05-05T17:31:30+00:00,card,45.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A9781D71688D,2026-05-05T18:38:26+00:00,card,26.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-A9781D71688D,2026-05-05T18:38:26+00:00,card,26.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-49C462A9D47E,2026-05-05T18:04:45+00:00,cash,60.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-49C462A9D47E,2026-05-05T18:04:45+00:00,cash,60.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-49C462A9D47E,2026-05-05T18:04:45+00:00,cash,60.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-49C462A9D47E,2026-05-05T18:04:45+00:00,cash,60.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-CBC98D8350D4,2026-05-05T15:21:28+00:00,cash,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-329477D64C1C,2026-05-05T22:42:01+00:00,card,58.7,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-329477D64C1C,2026-05-05T22:42:01+00:00,card,58.7,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-329477D64C1C,2026-05-05T22:42:01+00:00,card,58.7,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-329477D64C1C,2026-05-05T22:42:01+00:00,card,58.7,BREAD,Pan Tostado,sides,1,2.0,2.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-329477D64C1C,2026-05-05T22:42:01+00:00,card,58.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-7891DDD22191,2026-05-05T12:09:45+00:00,cash,22.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-7891DDD22191,2026-05-05T12:09:45+00:00,cash,22.5,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-F4B13CC64114,2026-05-05T09:41:04+00:00,cash,17.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E21A414F389C,2026-05-05T16:58:23+00:00,cash,48.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E21A414F389C,2026-05-05T16:58:23+00:00,cash,48.6,WATER,Agua Mineral,drinks,3,1.2,3.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-E21A414F389C,2026-05-05T16:58:23+00:00,cash,48.6,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E21A414F389C,2026-05-05T16:58:23+00:00,cash,48.6,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2447E3BAE0E5,2026-05-05T10:07:37+00:00,contactless,48.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2447E3BAE0E5,2026-05-05T10:07:37+00:00,contactless,48.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2447E3BAE0E5,2026-05-05T10:07:37+00:00,contactless,48.0,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-2447E3BAE0E5,2026-05-05T10:07:37+00:00,contactless,48.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-ACC4A06DC749,2026-05-05T20:26:11+00:00,contactless,19.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-ACC4A06DC749,2026-05-05T20:26:11+00:00,contactless,19.8,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-80FE0685F94D,2026-05-05T12:42:44+00:00,contactless,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E7BC7756687,2026-05-05T14:32:51+00:00,contactless,33.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E7BC7756687,2026-05-05T14:32:51+00:00,contactless,33.1,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E7BC7756687,2026-05-05T14:32:51+00:00,contactless,33.1,WATER,Agua Mineral,drinks,1,1.2,1.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-7BA49E6ACC25,2026-05-05T13:08:14+00:00,cash,75.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7BA49E6ACC25,2026-05-05T13:08:14+00:00,cash,75.5,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-7BA49E6ACC25,2026-05-05T13:08:14+00:00,cash,75.5,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-7BA49E6ACC25,2026-05-05T13:08:14+00:00,cash,75.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-7BA49E6ACC25,2026-05-05T13:08:14+00:00,cash,75.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-AF1362EF201B,2026-05-05T18:19:29+00:00,card,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-0867389CFD59,2026-05-05T12:54:19+00:00,cash,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-0867389CFD59,2026-05-05T12:54:19+00:00,cash,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-90BB105E6FC6,2026-05-05T12:47:29+00:00,card,12.3,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-90BB105E6FC6,2026-05-05T12:47:29+00:00,card,12.3,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E5324C489BE,2026-05-05T12:36:15+00:00,contactless,93.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E5324C489BE,2026-05-05T12:36:15+00:00,contactless,93.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E5324C489BE,2026-05-05T12:36:15+00:00,contactless,93.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E5324C489BE,2026-05-05T12:36:15+00:00,contactless,93.2,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-5E5324C489BE,2026-05-05T12:36:15+00:00,contactless,93.2,WATER,Agua Mineral,drinks,1,1.2,1.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-6CAF8643E53D,2026-05-05T13:13:12+00:00,cash,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-6CAF8643E53D,2026-05-05T13:13:12+00:00,cash,51.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-6CAF8643E53D,2026-05-05T13:13:12+00:00,cash,51.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-4AA880196604,2026-05-05T15:32:02+00:00,contactless,37.3,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-4AA880196604,2026-05-05T15:32:02+00:00,contactless,37.3,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-4AA880196604,2026-05-05T15:32:02+00:00,contactless,37.3,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-AFA144F63A23,2026-05-05T20:21:37+00:00,contactless,86.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-AFA144F63A23,2026-05-05T20:21:37+00:00,contactless,86.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-AFA144F63A23,2026-05-05T20:21:37+00:00,contactless,86.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-AFA144F63A23,2026-05-05T20:21:37+00:00,contactless,86.9,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-AFA144F63A23,2026-05-05T20:21:37+00:00,contactless,86.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C8399B3F54E3,2026-05-05T14:27:09+00:00,card,26.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-C8399B3F54E3,2026-05-05T14:27:09+00:00,card,26.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+4,Casa Tortilla Sevilla,Sevilla,BILL-560A98D91AAE,2026-05-05T21:07:46+00:00,cash,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-DC43813C2084,2026-05-05T21:04:12+00:00,cash,88.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-DC43813C2084,2026-05-05T21:04:12+00:00,cash,88.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-DC43813C2084,2026-05-05T21:04:12+00:00,cash,88.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-DC43813C2084,2026-05-05T21:04:12+00:00,cash,88.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-0897508766E9,2026-05-05T12:45:28+00:00,contactless,21.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-A99442051F4A,2026-05-05T22:02:36+00:00,contactless,32.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-A99442051F4A,2026-05-05T22:02:36+00:00,contactless,32.7,COFFEE,Café con Leche,drinks,1,1.8,1.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-A99442051F4A,2026-05-05T22:02:36+00:00,contactless,32.7,COFFEE,Café con Leche,drinks,3,1.8,5.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-A99442051F4A,2026-05-05T22:02:36+00:00,contactless,32.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-2713C47C4B53,2026-05-05T14:58:15+00:00,card,48.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-2713C47C4B53,2026-05-05T14:58:15+00:00,card,48.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-79BA87CAADF7,2026-05-05T12:43:46+00:00,card,53.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-79BA87CAADF7,2026-05-05T12:43:46+00:00,card,53.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-79BA87CAADF7,2026-05-05T12:43:46+00:00,card,53.9,JUICE_OJ,Zumo de Naranja Natural,drinks,1,2.5,2.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-79BA87CAADF7,2026-05-05T12:43:46+00:00,card,53.9,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-79BA87CAADF7,2026-05-05T12:43:46+00:00,card,53.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-F452CC8B62F0,2026-05-05T13:30:47+00:00,card,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-F452CC8B62F0,2026-05-05T13:30:47+00:00,card,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-903C0E8FF280,2026-05-05T23:46:04+00:00,card,70.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-903C0E8FF280,2026-05-05T23:46:04+00:00,card,70.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-903C0E8FF280,2026-05-05T23:46:04+00:00,card,70.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-903C0E8FF280,2026-05-05T23:46:04+00:00,card,70.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-903C0E8FF280,2026-05-05T23:46:04+00:00,card,70.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-76F1B2EB5B0A,2026-05-05T21:27:29+00:00,card,79.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-76F1B2EB5B0A,2026-05-05T21:27:29+00:00,card,79.9,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+4,Casa Tortilla Sevilla,Sevilla,BILL-76F1B2EB5B0A,2026-05-05T21:27:29+00:00,card,79.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-76F1B2EB5B0A,2026-05-05T21:27:29+00:00,card,79.9,ALIOLI,Alioli Casero,sides,1,1.5,1.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-76F1B2EB5B0A,2026-05-05T21:27:29+00:00,card,79.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B8254AB48875,2026-05-05T09:10:43+00:00,cash,40.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B8254AB48875,2026-05-05T09:10:43+00:00,cash,40.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B8254AB48875,2026-05-05T09:10:43+00:00,cash,40.8,BREAD,Pan Tostado,sides,2,2.0,4.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B8254AB48875,2026-05-05T09:10:43+00:00,cash,40.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+4,Casa Tortilla Sevilla,Sevilla,BILL-550605938BD5,2026-05-05T20:25:25+00:00,contactless,72.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-550605938BD5,2026-05-05T20:25:25+00:00,contactless,72.5,SALAD_GREEN,Ensalada Verde,sides,1,4.5,4.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-550605938BD5,2026-05-05T20:25:25+00:00,contactless,72.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-550605938BD5,2026-05-05T20:25:25+00:00,contactless,72.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-E02B51BEF7B3,2026-05-05T14:27:10+00:00,contactless,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-E8BD49B911BB,2026-05-05T20:27:55+00:00,cash,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B5EDAE3CE0A0,2026-05-05T13:48:30+00:00,contactless,53.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-B5EDAE3CE0A0,2026-05-05T13:48:30+00:00,contactless,53.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-B5EDAE3CE0A0,2026-05-05T13:48:30+00:00,contactless,53.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-B5EDAE3CE0A0,2026-05-05T13:48:30+00:00,contactless,53.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-22EE62DD6AD4,2026-05-05T22:23:08+00:00,cash,25.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A6C67CBBCF81,2026-05-05T10:43:22+00:00,cash,60.7,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-A6C67CBBCF81,2026-05-05T10:43:22+00:00,cash,60.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-A6C67CBBCF81,2026-05-05T10:43:22+00:00,cash,60.7,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-A6C67CBBCF81,2026-05-05T10:43:22+00:00,cash,60.7,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+4,Casa Tortilla Sevilla,Sevilla,BILL-A6C67CBBCF81,2026-05-05T10:43:22+00:00,cash,60.7,BREAD,Pan Tostado,sides,1,2.0,2.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-BF9BAA80FFBE,2026-05-05T13:30:00+00:00,cash,38.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-BF9BAA80FFBE,2026-05-05T13:30:00+00:00,cash,38.0,BREAD,Pan Tostado,sides,2,2.0,4.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-BF9BAA80FFBE,2026-05-05T13:30:00+00:00,cash,38.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+4,Casa Tortilla Sevilla,Sevilla,BILL-7D21D205AA5F,2026-05-05T13:08:10+00:00,contactless,30.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+4,Casa Tortilla Sevilla,Sevilla,BILL-7D21D205AA5F,2026-05-05T13:08:10+00:00,contactless,30.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0

@@ -3,7 +3,8 @@
 
 .PHONY: help up down logs ps build rebuild reset health \
         generate etl best-sellers peak-hours comparison \
-        shell-backend psql test check lint format secrets
+        shell-backend psql test check lint format secrets \
+        seed-90d seed-1y types e2e
 
 help:                  ## Show this help.
 	@awk 'BEGIN {FS = ":.*?## "} /^[a-zA-Z_-]+:.*?## / {printf "  \033[36m%-18s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
@@ -53,6 +54,33 @@ peak-hours:            ## Run peak-hours.
 
 comparison:            ## Run restaurant comparison.
 	docker compose run --rm backend python -m app.cli analytics comparison $(FROM) $(TO)
+
+# ── Bulk seeding ─────────────────────────────────────────────────────────────
+# Generates and ETLs N days of mock POS data ending today. Used for visual
+# smoke and EXPLAIN-based perf verification (plan §10).
+seed-90d:              ## Generate + ETL 90 days of data ending today.
+	@DAYS=90; for i in $$(seq 0 $$((DAYS-1))); do \
+	    DATE=$$(python3 -c "from datetime import datetime, timedelta, timezone; print((datetime.now(timezone.utc) - timedelta(days=$$i)).strftime('%Y-%m-%d'))"); \
+	    echo "── seeding $$DATE ──"; \
+	    docker compose run --rm backend python -m app.cli generate $$DATE; \
+	    docker compose run --rm backend python -m app.cli etl $$DATE; \
+	done
+
+seed-1y:               ## Generate + ETL 365 days of data (heavy, ~5-10 min).
+	@DAYS=365; for i in $$(seq 0 $$((DAYS-1))); do \
+	    DATE=$$(python3 -c "from datetime import datetime, timedelta, timezone; print((datetime.now(timezone.utc) - timedelta(days=$$i)).strftime('%Y-%m-%d'))"); \
+	    docker compose run --rm backend python -m app.cli generate $$DATE >/dev/null; \
+	    docker compose run --rm backend python -m app.cli etl $$DATE >/dev/null; \
+	    [ $$((i % 30)) = 0 ] && echo "  $$i / $$DAYS days seeded"; \
+	done; \
+	echo "[DONE] $$DAYS days seeded"
+
+# ── Frontend codegen + E2E ──────────────────────────────────────────────────
+types:                 ## Regenerate frontend TS types from FastAPI's OpenAPI.
+	cd frontend && pnpm run gen:types
+
+e2e:                   ## Run Playwright E2E tests against the running stack.
+	cd frontend && pnpm run e2e
 
 # ── Dev shells ──────────────────────────────────────────────────────────────
 shell-backend:         ## Open a bash shell in the backend container.

@@ -1,0 +1,151 @@
+restaurant_id,restaurant_name,restaurant_city,bill_no,sold_at,payment_method,bill_total,item_code,item_name,item_category,quantity,unit_price,line_total
+5,La Tortilla Maña,Zaragoza,BILL-CE8B75E2D9B9,2026-05-05T14:24:48+00:00,contactless,18.4,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-CE8B75E2D9B9,2026-05-05T14:24:48+00:00,contactless,18.4,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+5,La Tortilla Maña,Zaragoza,BILL-CE8B75E2D9B9,2026-05-05T14:24:48+00:00,contactless,18.4,WATER,Agua Mineral,drinks,2,1.2,2.4
+5,La Tortilla Maña,Zaragoza,BILL-521E8DC84EAB,2026-05-05T12:27:53+00:00,card,60.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-521E8DC84EAB,2026-05-05T12:27:53+00:00,card,60.6,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+5,La Tortilla Maña,Zaragoza,BILL-521E8DC84EAB,2026-05-05T12:27:53+00:00,card,60.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-521E8DC84EAB,2026-05-05T12:27:53+00:00,card,60.6,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-28483EC7B2AE,2026-05-05T11:29:15+00:00,card,78.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-28483EC7B2AE,2026-05-05T11:29:15+00:00,card,78.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-28483EC7B2AE,2026-05-05T11:29:15+00:00,card,78.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-28483EC7B2AE,2026-05-05T11:29:15+00:00,card,78.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-28483EC7B2AE,2026-05-05T11:29:15+00:00,card,78.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+5,La Tortilla Maña,Zaragoza,BILL-A3F3D1A454B1,2026-05-05T21:31:16+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+5,La Tortilla Maña,Zaragoza,BILL-AB2083F18983,2026-05-05T22:58:22+00:00,cash,82.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-AB2083F18983,2026-05-05T22:58:22+00:00,cash,82.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-AB2083F18983,2026-05-05T22:58:22+00:00,cash,82.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-AB2083F18983,2026-05-05T22:58:22+00:00,cash,82.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-AB2083F18983,2026-05-05T22:58:22+00:00,cash,82.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-F7A9CE51D2A0,2026-05-05T20:50:52+00:00,card,42.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+5,La Tortilla Maña,Zaragoza,BILL-F7A9CE51D2A0,2026-05-05T20:50:52+00:00,card,42.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-F7A9CE51D2A0,2026-05-05T20:50:52+00:00,card,42.8,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+5,La Tortilla Maña,Zaragoza,BILL-F7A9CE51D2A0,2026-05-05T20:50:52+00:00,card,42.8,WATER,Agua Mineral,drinks,1,1.2,1.2
+5,La Tortilla Maña,Zaragoza,BILL-512A183C260C,2026-05-05T12:19:38+00:00,contactless,29.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+5,La Tortilla Maña,Zaragoza,BILL-512A183C260C,2026-05-05T12:19:38+00:00,contactless,29.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-0C0FD3AD4A86,2026-05-05T22:43:03+00:00,cash,78.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-0C0FD3AD4A86,2026-05-05T22:43:03+00:00,cash,78.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-0C0FD3AD4A86,2026-05-05T22:43:03+00:00,cash,78.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+5,La Tortilla Maña,Zaragoza,BILL-0C0FD3AD4A86,2026-05-05T22:43:03+00:00,cash,78.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+5,La Tortilla Maña,Zaragoza,BILL-0C0FD3AD4A86,2026-05-05T22:43:03+00:00,cash,78.0,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+5,La Tortilla Maña,Zaragoza,BILL-F86F21A6B2ED,2026-05-05T15:40:14+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+5,La Tortilla Maña,Zaragoza,BILL-F86F21A6B2ED,2026-05-05T15:40:14+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+5,La Tortilla Maña,Zaragoza,BILL-7248A35455D3,2026-05-05T20:42:38+00:00,card,56.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-7248A35455D3,2026-05-05T20:42:38+00:00,card,56.1,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+5,La Tortilla Maña,Zaragoza,BILL-7248A35455D3,2026-05-05T20:42:38+00:00,card,56.1,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+5,La Tortilla Maña,Zaragoza,BILL-7248A35455D3,2026-05-05T20:42:38+00:00,card,56.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+5,La Tortilla Maña,Zaragoza,BILL-42BB9789CFCC,2026-05-05T21:17:40+00:00,card,8.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-C97DE1998990,2026-05-05T21:23:40+00:00,card,59.2,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-C97DE1998990,2026-05-05T21:23:40+00:00,card,59.2,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+5,La Tortilla Maña,Zaragoza,BILL-C97DE1998990,2026-05-05T21:23:40+00:00,card,59.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-E135262A9E01,2026-05-05T20:30:27+00:00,cash,57.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-E135262A9E01,2026-05-05T20:30:27+00:00,cash,57.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-E135262A9E01,2026-05-05T20:30:27+00:00,cash,57.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-987D8549746B,2026-05-05T17:26:45+00:00,card,93.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-987D8549746B,2026-05-05T17:26:45+00:00,card,93.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+5,La Tortilla Maña,Zaragoza,BILL-987D8549746B,2026-05-05T17:26:45+00:00,card,93.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-987D8549746B,2026-05-05T17:26:45+00:00,card,93.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-987D8549746B,2026-05-05T17:26:45+00:00,card,93.8,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-DE1FDFEFBAF8,2026-05-05T18:08:16+00:00,card,72.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+5,La Tortilla Maña,Zaragoza,BILL-DE1FDFEFBAF8,2026-05-05T18:08:16+00:00,card,72.9,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+5,La Tortilla Maña,Zaragoza,BILL-DE1FDFEFBAF8,2026-05-05T18:08:16+00:00,card,72.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-DE1FDFEFBAF8,2026-05-05T18:08:16+00:00,card,72.9,WATER,Agua Mineral,drinks,2,1.2,2.4
+5,La Tortilla Maña,Zaragoza,BILL-DE1FDFEFBAF8,2026-05-05T18:08:16+00:00,card,72.9,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-D2735B2AA1F8,2026-05-05T11:59:06+00:00,contactless,91.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-D2735B2AA1F8,2026-05-05T11:59:06+00:00,contactless,91.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-D2735B2AA1F8,2026-05-05T11:59:06+00:00,contactless,91.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-D2735B2AA1F8,2026-05-05T11:59:06+00:00,contactless,91.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-BB2325D75AB6,2026-05-05T23:21:36+00:00,card,19.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+5,La Tortilla Maña,Zaragoza,BILL-BB2325D75AB6,2026-05-05T23:21:36+00:00,card,19.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+5,La Tortilla Maña,Zaragoza,BILL-21A24AABB226,2026-05-05T10:34:37+00:00,cash,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-792C3F87977E,2026-05-05T21:24:41+00:00,cash,40.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-792C3F87977E,2026-05-05T21:24:41+00:00,cash,40.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-792C3F87977E,2026-05-05T21:24:41+00:00,cash,40.6,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-792C3F87977E,2026-05-05T21:24:41+00:00,cash,40.6,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+5,La Tortilla Maña,Zaragoza,BILL-792C3F87977E,2026-05-05T21:24:41+00:00,cash,40.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+5,La Tortilla Maña,Zaragoza,BILL-79C484A7E479,2026-05-05T12:02:59+00:00,cash,16.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+5,La Tortilla Maña,Zaragoza,BILL-79C484A7E479,2026-05-05T12:02:59+00:00,cash,16.5,JUICE_OJ,Zumo de Naranja Natural,drinks,3,2.5,7.5
+5,La Tortilla Maña,Zaragoza,BILL-FED0F6E8F735,2026-05-05T18:13:47+00:00,card,42.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+5,La Tortilla Maña,Zaragoza,BILL-FED0F6E8F735,2026-05-05T18:13:47+00:00,card,42.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+5,La Tortilla Maña,Zaragoza,BILL-FED0F6E8F735,2026-05-05T18:13:47+00:00,card,42.1,COFFEE,Café con Leche,drinks,2,1.8,3.6
+5,La Tortilla Maña,Zaragoza,BILL-FED0F6E8F735,2026-05-05T18:13:47+00:00,card,42.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-FED0F6E8F735,2026-05-05T18:13:47+00:00,card,42.1,COFFEE,Café con Leche,drinks,3,1.8,5.4
+5,La Tortilla Maña,Zaragoza,BILL-694D72EED87E,2026-05-05T14:09:52+00:00,cash,8.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-0C056665DCA2,2026-05-05T12:32:44+00:00,cash,47.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,1,9.0,9.0
+5,La Tortilla Maña,Zaragoza,BILL-0C056665DCA2,2026-05-05T12:32:44+00:00,cash,47.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+5,La Tortilla Maña,Zaragoza,BILL-0C056665DCA2,2026-05-05T12:32:44+00:00,cash,47.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-0C056665DCA2,2026-05-05T12:32:44+00:00,cash,47.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-2452107E4451,2026-05-05T15:31:17+00:00,contactless,25.5,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-2452107E4451,2026-05-05T15:31:17+00:00,contactless,25.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-90AD973A2E36,2026-05-05T22:40:13+00:00,contactless,51.8,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+5,La Tortilla Maña,Zaragoza,BILL-90AD973A2E36,2026-05-05T22:40:13+00:00,contactless,51.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+5,La Tortilla Maña,Zaragoza,BILL-90AD973A2E36,2026-05-05T22:40:13+00:00,contactless,51.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-90AD973A2E36,2026-05-05T22:40:13+00:00,contactless,51.8,JUICE_OJ,Zumo de Naranja Natural,drinks,2,2.5,5.0
+5,La Tortilla Maña,Zaragoza,BILL-981F25B4A81A,2026-05-05T08:05:37+00:00,cash,42.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-981F25B4A81A,2026-05-05T08:05:37+00:00,cash,42.9,COFFEE,Café con Leche,drinks,3,1.8,5.4
+5,La Tortilla Maña,Zaragoza,BILL-981F25B4A81A,2026-05-05T08:05:37+00:00,cash,42.9,BREAD,Pan Tostado,sides,3,2.0,6.0
+5,La Tortilla Maña,Zaragoza,BILL-EB9234B8647B,2026-05-05T20:39:39+00:00,cash,57.9,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-EB9234B8647B,2026-05-05T20:39:39+00:00,cash,57.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-EB9234B8647B,2026-05-05T20:39:39+00:00,cash,57.9,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+5,La Tortilla Maña,Zaragoza,BILL-EB9234B8647B,2026-05-05T20:39:39+00:00,cash,57.9,BEER,Cerveza Caña,drinks,1,2.8,2.8
+5,La Tortilla Maña,Zaragoza,BILL-EB9234B8647B,2026-05-05T20:39:39+00:00,cash,57.9,BREAD,Pan Tostado,sides,3,2.0,6.0
+5,La Tortilla Maña,Zaragoza,BILL-A4FF48A91B9A,2026-05-05T14:53:27+00:00,card,20.2,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-A4FF48A91B9A,2026-05-05T14:53:27+00:00,card,20.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+5,La Tortilla Maña,Zaragoza,BILL-CB81282230A7,2026-05-05T19:17:33+00:00,cash,34.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,2,10.5,21.0
+5,La Tortilla Maña,Zaragoza,BILL-CB81282230A7,2026-05-05T19:17:33+00:00,cash,34.8,COFFEE,Café con Leche,drinks,3,1.8,5.4
+5,La Tortilla Maña,Zaragoza,BILL-CB81282230A7,2026-05-05T19:17:33+00:00,cash,34.8,BEER,Cerveza Caña,drinks,3,2.8,8.4
+5,La Tortilla Maña,Zaragoza,BILL-3BC7F22A3B00,2026-05-05T21:31:12+00:00,contactless,20.2,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-3BC7F22A3B00,2026-05-05T21:31:12+00:00,contactless,20.2,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+5,La Tortilla Maña,Zaragoza,BILL-375CD8696B14,2026-05-05T15:06:19+00:00,card,37.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-375CD8696B14,2026-05-05T15:06:19+00:00,card,37.0,ALIOLI,Alioli Casero,sides,2,1.5,3.0
+5,La Tortilla Maña,Zaragoza,BILL-375CD8696B14,2026-05-05T15:06:19+00:00,card,37.0,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-38249D549FFE,2026-05-05T22:51:47+00:00,contactless,31.7,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-38249D549FFE,2026-05-05T22:51:47+00:00,contactless,31.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+5,La Tortilla Maña,Zaragoza,BILL-38249D549FFE,2026-05-05T22:51:47+00:00,contactless,31.7,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+5,La Tortilla Maña,Zaragoza,BILL-5BC0F2C8FC47,2026-05-05T19:57:58+00:00,contactless,27.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+5,La Tortilla Maña,Zaragoza,BILL-047CEF9DA9D4,2026-05-05T22:48:59+00:00,card,41.7,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-047CEF9DA9D4,2026-05-05T22:48:59+00:00,card,41.7,WATER,Agua Mineral,drinks,1,1.2,1.2
+5,La Tortilla Maña,Zaragoza,BILL-047CEF9DA9D4,2026-05-05T22:48:59+00:00,card,41.7,BREAD,Pan Tostado,sides,3,2.0,6.0
+5,La Tortilla Maña,Zaragoza,BILL-047CEF9DA9D4,2026-05-05T22:48:59+00:00,card,41.7,SALAD_GREEN,Ensalada Verde,sides,2,4.5,9.0
+5,La Tortilla Maña,Zaragoza,BILL-823C4EC113B4,2026-05-05T13:26:14+00:00,card,41.1,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-823C4EC113B4,2026-05-05T13:26:14+00:00,card,41.1,WINE_GLASS,Vino de la Casa,drinks,3,3.2,9.6
+5,La Tortilla Maña,Zaragoza,BILL-AC2EF920F43D,2026-05-05T13:21:19+00:00,card,44.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+5,La Tortilla Maña,Zaragoza,BILL-AC2EF920F43D,2026-05-05T13:21:19+00:00,card,44.0,TORTILLA_ONION,Tortilla con Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-7D770BC143E6,2026-05-05T19:33:00+00:00,contactless,38.3,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-7D770BC143E6,2026-05-05T19:33:00+00:00,contactless,38.3,BEER,Cerveza Caña,drinks,2,2.8,5.6
+5,La Tortilla Maña,Zaragoza,BILL-7D770BC143E6,2026-05-05T19:33:00+00:00,contactless,38.3,COFFEE,Café con Leche,drinks,2,1.8,3.6
+5,La Tortilla Maña,Zaragoza,BILL-7D770BC143E6,2026-05-05T19:33:00+00:00,contactless,38.3,WATER,Agua Mineral,drinks,3,1.2,3.6
+5,La Tortilla Maña,Zaragoza,BILL-7FA03C4E0777,2026-05-05T11:58:19+00:00,cash,47.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,3,9.0,27.0
+5,La Tortilla Maña,Zaragoza,BILL-7FA03C4E0777,2026-05-05T11:58:19+00:00,cash,47.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-7FA03C4E0777,2026-05-05T11:58:19+00:00,cash,47.6,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-7FA03C4E0777,2026-05-05T11:58:19+00:00,cash,47.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
+5,La Tortilla Maña,Zaragoza,BILL-54C719205F4E,2026-05-05T12:02:51+00:00,contactless,18.0,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+5,La Tortilla Maña,Zaragoza,BILL-9E6DE4FDC2D4,2026-05-05T18:34:42+00:00,card,31.0,TORTILLA_JAMON,Tortilla con Jamón,tortilla,1,10.5,10.5
+5,La Tortilla Maña,Zaragoza,BILL-9E6DE4FDC2D4,2026-05-05T18:34:42+00:00,card,31.0,WINE_GLASS,Vino de la Casa,drinks,1,3.2,3.2
+5,La Tortilla Maña,Zaragoza,BILL-9E6DE4FDC2D4,2026-05-05T18:34:42+00:00,card,31.0,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-9E6DE4FDC2D4,2026-05-05T18:34:42+00:00,card,31.0,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+5,La Tortilla Maña,Zaragoza,BILL-9E6DE4FDC2D4,2026-05-05T18:34:42+00:00,card,31.0,SOFT_DRINK,Refresco,drinks,1,2.2,2.2
+5,La Tortilla Maña,Zaragoza,BILL-4CCC40DF6B06,2026-05-05T20:53:19+00:00,contactless,52.5,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+5,La Tortilla Maña,Zaragoza,BILL-4CCC40DF6B06,2026-05-05T20:53:19+00:00,contactless,52.5,COFFEE,Café con Leche,drinks,3,1.8,5.4
+5,La Tortilla Maña,Zaragoza,BILL-4CCC40DF6B06,2026-05-05T20:53:19+00:00,contactless,52.5,WATER,Agua Mineral,drinks,3,1.2,3.6
+5,La Tortilla Maña,Zaragoza,BILL-4CCC40DF6B06,2026-05-05T20:53:19+00:00,contactless,52.5,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-E2981D98B729,2026-05-05T14:15:13+00:00,card,37.9,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-E2981D98B729,2026-05-05T14:15:13+00:00,card,37.9,WINE_GLASS,Vino de la Casa,drinks,2,3.2,6.4
+5,La Tortilla Maña,Zaragoza,BILL-B581326DA065,2026-05-05T14:45:34+00:00,contactless,76.8,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-B581326DA065,2026-05-05T14:45:34+00:00,contactless,76.8,BEER,Cerveza Caña,drinks,1,2.8,2.8
+5,La Tortilla Maña,Zaragoza,BILL-B581326DA065,2026-05-05T14:45:34+00:00,contactless,76.8,TORTILLA_ONION,Tortilla con Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-B581326DA065,2026-05-05T14:45:34+00:00,contactless,76.8,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-1A9B7546BAC9,2026-05-05T19:17:34+00:00,contactless,31.5,TORTILLA_JAMON,Tortilla con Jamón,tortilla,3,10.5,31.5
+5,La Tortilla Maña,Zaragoza,BILL-5CBAA76229E5,2026-05-05T11:50:37+00:00,contactless,83.1,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-5CBAA76229E5,2026-05-05T11:50:37+00:00,contactless,83.1,TORTILLA_ONION,Tortilla con Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-5CBAA76229E5,2026-05-05T11:50:37+00:00,contactless,83.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,2,8.5,17.0
+5,La Tortilla Maña,Zaragoza,BILL-5CBAA76229E5,2026-05-05T11:50:37+00:00,contactless,83.1,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-5CBAA76229E5,2026-05-05T11:50:37+00:00,contactless,83.1,SOFT_DRINK,Refresco,drinks,3,2.2,6.6
+5,La Tortilla Maña,Zaragoza,BILL-48580BD69015,2026-05-05T10:34:02+00:00,cash,59.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-48580BD69015,2026-05-05T10:34:02+00:00,cash,59.9,TORTILLA_CLASSIC,Tortilla Española Clásica,tortilla,3,8.5,25.5
+5,La Tortilla Maña,Zaragoza,BILL-48580BD69015,2026-05-05T10:34:02+00:00,cash,59.9,BREAD,Pan Tostado,sides,2,2.0,4.0
+5,La Tortilla Maña,Zaragoza,BILL-48580BD69015,2026-05-05T10:34:02+00:00,cash,59.9,SALAD_GREEN,Ensalada Verde,sides,3,4.5,13.5
+5,La Tortilla Maña,Zaragoza,BILL-48580BD69015,2026-05-05T10:34:02+00:00,cash,59.9,BEER,Cerveza Caña,drinks,3,2.8,8.4
+5,La Tortilla Maña,Zaragoza,BILL-71673599A16B,2026-05-05T22:17:33+00:00,cash,8.5,TORTILLA_NO_ONION,Tortilla sin Cebolla,tortilla,1,8.5,8.5
+5,La Tortilla Maña,Zaragoza,BILL-4229FCAA93B6,2026-05-05T18:38:51+00:00,card,21.6,TORTILLA_VEGAN,Tortilla Vegana,tortilla,2,9.0,18.0
+5,La Tortilla Maña,Zaragoza,BILL-4229FCAA93B6,2026-05-05T18:38:51+00:00,card,21.6,COFFEE,Café con Leche,drinks,2,1.8,3.6
