@@ -25,9 +25,11 @@ jobs:
           - image: tortilla-backend
             context: backend
             dockerfile: backend/Dockerfile
+            containerapp: tortilla-backend
           - image: tortilla-frontend
             context: frontend
             dockerfile: frontend/Dockerfile
+            containerapp: tortilla-frontend
 
     steps:
       - uses: actions/checkout@v4
@@ -64,3 +66,14 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=gha,scope=${{ matrix.image }}
           cache-to: type=gha,scope=${{ matrix.image }},mode=max
+
+      - name: Deploy to Container Apps
+        if: github.ref == 'refs/heads/main'
+        run: |
+          SHORT_SHA="${GITHUB_SHA:0:7}"
+          IMAGE="${{ vars.ACR_NAME }}.azurecr.io/${{ matrix.image }}:sha-${SHORT_SHA}"
+          echo "Deploying $IMAGE to ${{ matrix.containerapp }}"
+          az containerapp update \
+            --name "${{ matrix.containerapp }}" \
+            --resource-group "${{ vars.AZURE_RESOURCE_GROUP }}" \
+            --image "$IMAGE"
