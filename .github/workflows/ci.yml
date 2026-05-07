@@ -1,0 +1,101 @@
+name: CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  backend:
+    name: Backend lint & test
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+
+    services:
+      postgres:
+        image: postgres:18.3
+        env:
+          POSTGRES_DB: tortilla_db
+          POSTGRES_USER: tortilla_user
+          POSTGRES_PASSWORD: tortilla_pass
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd="pg_isready -U tortilla_user -d tortilla_db"
+          --health-interval=5s
+          --health-timeout=5s
+          --health-retries=10
+
+    env:
+      DB_HOST: localhost
+      DB_PORT: 5432
+      DB_NAME: tortilla_db
+      DB_USER: tortilla_user
+      DB_PASSWORD: tortilla_pass
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+          cache-dependency-glob: backend/uv.lock
+
+      - name: Set up Python
+        run: uv python install 3.14
+
+      - name: Sync dependencies
+        run: uv sync --frozen
+
+      - name: Lint (ruff)
+        run: uv run ruff check .
+
+      - name: Apply database schema
+        env:
+          PGPASSWORD: tortilla_pass
+        run: |
+          for f in ../db/init/*.sql; do
+            echo "Applying $f"
+            psql -h localhost -U tortilla_user -d tortilla_db -v ON_ERROR_STOP=1 -f "$f"
+          done
+
+      - name: Run tests
+        run: uv run pytest -v
+
+  frontend:
+    name: Frontend lint & test
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10.33.0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: frontend/pnpm-lock.yaml
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Lint
+        run: pnpm run lint
+
+      - name: Test
+        run: pnpm run test

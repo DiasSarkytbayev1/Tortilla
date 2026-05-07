@@ -31,7 +31,7 @@ first time the `db` container creates its volume.
 |------------|---------------------------|------------------------------------------------|
 | `frontend` | http://localhost:5173     | Vite dev server, React + shadcn/ui dashboard  |
 | `backend`  | http://localhost:8000     | FastAPI app + ETL/analytics CLI               |
-| `db`       | localhost:5432            | Postgres 16 + auto-applied schema             |
+| `db`       | localhost:5432            | Postgres 18.3 + auto-applied schema           |
 
 `/health` returns `{"status":"ok","db":"ok"}` once Postgres is up and the
 backend has connected. The frontend talks to the backend via Vite's `/api`
