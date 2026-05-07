@@ -2,7 +2,7 @@ name: Build & push to ACR
 
 on:
   push:
-    branches: [DiasS]
+    branches: [main]
   workflow_dispatch:
 
 concurrency:
