@@ -19,6 +19,7 @@ export default defineConfig({
     host: "0.0.0.0",
     port: 5173,
     strictPort: true,
+    allowedHosts: [".azurecontainerapps.io"],
     proxy: {
       "/api": { target: BACKEND_URL, changeOrigin: true },
       "/openapi.json": { target: BACKEND_URL, changeOrigin: true },
